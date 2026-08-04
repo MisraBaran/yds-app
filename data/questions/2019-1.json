@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2019-1-q01",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Like the rest of the animal kingdom, mammals need food for energy and the ---- of bodily processes such as growth and reproduction.",
+    "options": [
+      "suspension",
+      "deterioration",
+      "maintenance",
+      "elaboration",
+      "persistence"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q02",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "With rapid advancements in technology, there are new ----, already seen in countries such as Myanmar and Sri Lanka where social media apps have been instrumental in spreading fake news and violence.",
+    "options": [
+      "measures",
+      "adjustments",
+      "incentives",
+      "threats",
+      "obligations ENGLISH"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q03",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although empirical studies into the brain’s left and right hemispheric participation in language acquisition are ---- and differ from each other, some observational studies indicate that adults might benefit from right-brain-oriented activities in the foreign language classroom.",
+    "options": [
+      "unavailable",
+      "indispensible",
+      "indestructible",
+      "inconclusive",
+      "unprecedented"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q04",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The foundations of international law as it is understood today lie ---- in the development of Western culture and political organisation.",
+    "options": [
+      "eligibly",
+      "instantly",
+      "adequately",
+      "firmly",
+      "convertibly"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q05",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "There is a link between sunlight and the chemical serotonin, which ---- our mood and is important in reducing anxiety disorders.",
+    "options": [
+      "initiates",
+      "detects",
+      "reveals",
+      "hinders",
+      "boosts"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q06",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Parkinson’s disease is a movement disorder that ---- the death of neurons producing dopamine, a neurochemical that dispatches messages to parts of the brain that control motor skills and coordination.",
+    "options": [
+      "takes over",
+      "stems from",
+      "makes up",
+      "pins down",
+      "gets through"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q07",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "In its early stage of development, ecotourism ---- as a completely new concept; however, today, it ---- a significant portion of the tourism industry in general.",
+    "options": [
+      "was going to be regarded / is becoming",
+      "had been regarded / will become",
+      "was being regarded / is going to become",
+      "was regarded / has become",
+      "has been regarded / becomes"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q08",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "As two-thirds of homes in the US owned radio receivers by the end of the 1920s, people no longer ---- to a concert, play, or sporting event to be entertained; instead, they ---- many forms of entertainment from the comfort of their homes.",
+    "options": [
+      "should have gone / must have enjoyed",
+      "may go / were able to enjoy",
+      "used to go / may have enjoyed",
+      "had to go / could enjoy",
+      "would go / ought to have enjoyed"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q09",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Humanity’s extraordinary success ---- due to our ingenuity in devising cultural means ---- our physical limitations.",
+    "options": [
+      "has been / to overcome",
+      "was / having overcome",
+      "had been / overcoming",
+      "is / overcome",
+      "will be / to have overcome"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q10",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The geographical spread of English is unique ---- the languages of the world, and it is an official language in about 50 countries, where it is used in addition to the indigenous first languages ---- a variety of public and personal functions.",
+    "options": [
+      "from / at",
+      "to / on",
+      "through / with",
+      "among / for",
+      "about / in"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q11",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Weather is defined as the state of the atmosphere ---- a given location and ---- a relatively short period of time.",
+    "options": [
+      "along / on",
+      "towards / in",
+      "at / over",
+      "from / against",
+      "for / about"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q12",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Renaissance art evolved from a common set of principles, ---- it took many directions and changed considerably in the following centuries.",
+    "options": [
+      "instead",
+      "provided that",
+      "but",
+      "for",
+      "so"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q13",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- palaeontologists still like to argue about what role the asteroid played in the dinosaur extinction, there really is not much of a mystery left.",
+    "options": [
+      "Once",
+      "In case",
+      "Given that",
+      "Although",
+      "As"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q14",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "To psychology professionals, the name Anne Anastasi is synonymous with psychometrics, ---- it was she who pioneered understanding how psychological traits are influenced, developed, and measured.",
+    "options": [
+      "so",
+      "even if",
+      "while",
+      "yet",
+      "as"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q15",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Music is a very small word to encompass something that takes ---- many forms ---- there are cultural and subcultural identities.",
+    "options": [
+      "either / or",
+      "both / and",
+      "as / as",
+      "such / that",
+      "not only / but also"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q16",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although genetically modified seed is more expensive than conventional equivalents, the extra cost can be seen as an insurance policy against crop losses ---- weeds or pests.",
+    "options": [
+      "contrary to",
+      "due to",
+      "in terms of",
+      "despite",
+      "along with"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q17",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2019-1-g17-21",
+    "passage": "Today the deadly poliomyelitis virus is only endemic to four countries – Afghanistan, India, Nigeria, and Pakistan. This is (17)---- the groundbreaking research undertaken by doctor and biologist Jonas Salk. In 1947, at the University of Pittsburgh, Salk combined his work on the influenza vaccine with his search for a vaccine to protect (18)----poliomyelitis. The virus was deadly in 5 to 10 percent of cases where patients became paralysed, and (19)---- were unable to breathe. Medical opinion at the time held that only a live virus (20)---- total immunity, but Salk disproved this. In 1952 he used formaldehyde, a gas with a strong smell, to inactivate the poliomyelitis virus and developed a vaccine still capable of triggering an immune response in a host. Initially tested on monkeys, then human patients, Salk’s success (21)---- him to test it on himself, his family, his staff, and other volunteers.",
+    "stem": null,
+    "options": [
+      "rather than",
+      "such as",
+      "thanks to",
+      "except for",
+      "along with"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q18",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2019-1-g17-21",
+    "passage": "Today the deadly poliomyelitis virus is only endemic to four countries – Afghanistan, India, Nigeria, and Pakistan. This is (17)---- the groundbreaking research undertaken by doctor and biologist Jonas Salk. In 1947, at the University of Pittsburgh, Salk combined his work on the influenza vaccine with his search for a vaccine to protect (18)----poliomyelitis. The virus was deadly in 5 to 10 percent of cases where patients became paralysed, and (19)---- were unable to breathe. Medical opinion at the time held that only a live virus (20)---- total immunity, but Salk disproved this. In 1952 he used formaldehyde, a gas with a strong smell, to inactivate the poliomyelitis virus and developed a vaccine still capable of triggering an immune response in a host. Initially tested on monkeys, then human patients, Salk’s success (21)---- him to test it on himself, his family, his staff, and other volunteers.",
+    "stem": null,
+    "options": [
+      "on",
+      "with",
+      "for",
+      "over",
+      "against"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q19",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2019-1-g17-21",
+    "passage": "Today the deadly poliomyelitis virus is only endemic to four countries – Afghanistan, India, Nigeria, and Pakistan. This is (17)---- the groundbreaking research undertaken by doctor and biologist Jonas Salk. In 1947, at the University of Pittsburgh, Salk combined his work on the influenza vaccine with his search for a vaccine to protect (18)----poliomyelitis. The virus was deadly in 5 to 10 percent of cases where patients became paralysed, and (19)---- were unable to breathe. Medical opinion at the time held that only a live virus (20)---- total immunity, but Salk disproved this. In 1952 he used formaldehyde, a gas with a strong smell, to inactivate the poliomyelitis virus and developed a vaccine still capable of triggering an immune response in a host. Initially tested on monkeys, then human patients, Salk’s success (21)---- him to test it on himself, his family, his staff, and other volunteers.",
+    "stem": null,
+    "options": [
+      "even so",
+      "thus",
+      "conversely",
+      "instead",
+      "otherwise"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q20",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2019-1-g17-21",
+    "passage": "Today the deadly poliomyelitis virus is only endemic to four countries – Afghanistan, India, Nigeria, and Pakistan. This is (17)---- the groundbreaking research undertaken by doctor and biologist Jonas Salk. In 1947, at the University of Pittsburgh, Salk combined his work on the influenza vaccine with his search for a vaccine to protect (18)----poliomyelitis. The virus was deadly in 5 to 10 percent of cases where patients became paralysed, and (19)---- were unable to breathe. Medical opinion at the time held that only a live virus (20)---- total immunity, but Salk disproved this. In 1952 he used formaldehyde, a gas with a strong smell, to inactivate the poliomyelitis virus and developed a vaccine still capable of triggering an immune response in a host. Initially tested on monkeys, then human patients, Salk’s success (21)---- him to test it on himself, his family, his staff, and other volunteers.",
+    "stem": null,
+    "options": [
+      "had to prompt",
+      "would have prompted",
+      "must have prompted",
+      "should have prompted",
+      "could prompt"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q21",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2019-1-g17-21",
+    "passage": "Today the deadly poliomyelitis virus is only endemic to four countries – Afghanistan, India, Nigeria, and Pakistan. This is (17)---- the groundbreaking research undertaken by doctor and biologist Jonas Salk. In 1947, at the University of Pittsburgh, Salk combined his work on the influenza vaccine with his search for a vaccine to protect (18)----poliomyelitis. The virus was deadly in 5 to 10 percent of cases where patients became paralysed, and (19)---- were unable to breathe. Medical opinion at the time held that only a live virus (20)---- total immunity, but Salk disproved this. In 1952 he used formaldehyde, a gas with a strong smell, to inactivate the poliomyelitis virus and developed a vaccine still capable of triggering an immune response in a host. Initially tested on monkeys, then human patients, Salk’s success (21)---- him to test it on himself, his family, his staff, and other volunteers.",
+    "stem": null,
+    "options": [
+      "oppressed",
+      "neglected",
+      "prohibited",
+      "convinced",
+      "deterred"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q22",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2019-1-g22-26",
+    "passage": "The snake is one of the most emblematic creatures in human mythology, and is perceived to represent both wisdom and evil. Indian mythology considers snakes to be the ‘bringers of life’, (22)---- the Bible tells the story of a snake as the first deceiver. Snakes’ most (23)---- characteristic is their lack of limbs, so they move with a slithering motion. As they hunt other animals, they (24)---- a keen sense of smell and the ability to sense vibrations and temperature variations. To kill their prey, venomous snakes use their long and sharp teeth to inject a paralysing or deadly nerve venom (25)---- their specialised salivary glands, where the venom is stored. They can unhinge their jaws to swallow large prey. (26)---- growing continuously, snakes shed their skin by detaching the outermost layer.",
+    "stem": null,
+    "options": [
+      "once",
+      "while",
+      "otherwise",
+      "because",
+      "therefore"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q23",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2019-1-g22-26",
+    "passage": "The snake is one of the most emblematic creatures in human mythology, and is perceived to represent both wisdom and evil. Indian mythology considers snakes to be the ‘bringers of life’, (22)---- the Bible tells the story of a snake as the first deceiver. Snakes’ most (23)---- characteristic is their lack of limbs, so they move with a slithering motion. As they hunt other animals, they (24)---- a keen sense of smell and the ability to sense vibrations and temperature variations. To kill their prey, venomous snakes use their long and sharp teeth to inject a paralysing or deadly nerve venom (25)---- their specialised salivary glands, where the venom is stored. They can unhinge their jaws to swallow large prey. (26)---- growing continuously, snakes shed their skin by detaching the outermost layer.",
+    "stem": null,
+    "options": [
+      "sceptical",
+      "tolerable",
+      "variable",
+      "prominent",
+      "misleading"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q24",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2019-1-g22-26",
+    "passage": "The snake is one of the most emblematic creatures in human mythology, and is perceived to represent both wisdom and evil. Indian mythology considers snakes to be the ‘bringers of life’, (22)---- the Bible tells the story of a snake as the first deceiver. Snakes’ most (23)---- characteristic is their lack of limbs, so they move with a slithering motion. As they hunt other animals, they (24)---- a keen sense of smell and the ability to sense vibrations and temperature variations. To kill their prey, venomous snakes use their long and sharp teeth to inject a paralysing or deadly nerve venom (25)---- their specialised salivary glands, where the venom is stored. They can unhinge their jaws to swallow large prey. (26)---- growing continuously, snakes shed their skin by detaching the outermost layer.",
+    "stem": null,
+    "options": [
+      "have developed",
+      "were developing",
+      "had developed",
+      "would develop",
+      "are developing"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q25",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2019-1-g22-26",
+    "passage": "The snake is one of the most emblematic creatures in human mythology, and is perceived to represent both wisdom and evil. Indian mythology considers snakes to be the ‘bringers of life’, (22)---- the Bible tells the story of a snake as the first deceiver. Snakes’ most (23)---- characteristic is their lack of limbs, so they move with a slithering motion. As they hunt other animals, they (24)---- a keen sense of smell and the ability to sense vibrations and temperature variations. To kill their prey, venomous snakes use their long and sharp teeth to inject a paralysing or deadly nerve venom (25)---- their specialised salivary glands, where the venom is stored. They can unhinge their jaws to swallow large prey. (26)---- growing continuously, snakes shed their skin by detaching the outermost layer.",
+    "stem": null,
+    "options": [
+      "for",
+      "over",
+      "from",
+      "on",
+      "to"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q26",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2019-1-g22-26",
+    "passage": "The snake is one of the most emblematic creatures in human mythology, and is perceived to represent both wisdom and evil. Indian mythology considers snakes to be the ‘bringers of life’, (22)---- the Bible tells the story of a snake as the first deceiver. Snakes’ most (23)---- characteristic is their lack of limbs, so they move with a slithering motion. As they hunt other animals, they (24)---- a keen sense of smell and the ability to sense vibrations and temperature variations. To kill their prey, venomous snakes use their long and sharp teeth to inject a paralysing or deadly nerve venom (25)---- their specialised salivary glands, where the venom is stored. They can unhinge their jaws to swallow large prey. (26)---- growing continuously, snakes shed their skin by detaching the outermost layer.",
+    "stem": null,
+    "options": [
+      "Except for",
+      "Similar to",
+      "With the help of",
+      "In spite of",
+      "As a result of"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q27",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though some studies suggest that exposure to the blue light emitted by digital devices could be a risk factor for developing certain eye conditions, ----.",
+    "options": [
+      "it has also been revealed that long hours of screen time may trigger headaches",
+      "most parents worry that digital devices can ruin their children’s eyesight",
+      "many scientists think that the evidence to support this claim is not very strong",
+      "there are other eye issues that our screens can bring on, such as dry or tired eyes",
+      "some companies are marketing special glasses that protect our eyes from the blue light"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q28",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While Willis Carrier, who was among the most relentless researchers and promoters of air conditioning, is known as the father of air conditioning, ----.",
+    "options": [
+      "the range of processes and products involved in air conditioning cannot be attributed to a single person",
+      "for centuries, ice and water had been manipulated to cool air circulating in theatres, hospitals, and factories",
+      "air conditioning began to be marketed as a comfort device for domestic consumption during the 1930s",
+      "the development of industrial air conditioning dominated the newly created industry at the beginning of the 20th century",
+      "technologies were being developed in the refrigeration industry contemporaneously with Carrier’s work in humidification"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q29",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, the diseases which were also brought posed serious challenges to their way of life.",
+    "options": [
+      "Given that the Native Americans were initially hospitable to the European settlers",
+      "Although the Native Americans benefited from access to new technology and trade came with the early European settlers",
+      "Since the Native Americans had customs and culture which were totally different from those of the European immigrants",
+      "Because the Native Americans were aware of the early settlers’ thirst for land and wealth",
+      "Even though the Native Americans and European immigrants had difficulties in communication due to language problems"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q30",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although many people equate creativity with intelligence, ----.",
+    "options": [
+      "creativity is a critical aspect of a person’s life, starting from inside the womb onward through adulthood",
+      "a child’s creativity can be either strongly encouraged or discouraged by early experiences at home",
+      "the two terms are not synonymous, and it is not necessary to have a genius-level IQ to be creative",
+      "standard intelligence tests measure convergent thinking, which is the ability to come up with a single correct answer",
+      "creative individuals tend to share certain characteristics, including a tendency to be more impulsive or spontaneous"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q31",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since virtually all cultures on earth have some form of fortune-telling, ----.",
+    "options": [
+      "most people are no longer curious about what their future will bring to them",
+      "it is an incomprehensible temptation to get information about what awaits us in the future",
+      "it would be somewhat undesirable for a person to know what is ahead in the future",
+      "the desire to predict what will happen in the future can be a permanent feature of the human mind",
+      "it is considered to be a science by some, whereas others claim that it is nothing more than speculation"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q32",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Most people have experienced foodborne illness ----.",
+    "options": [
+      "given that those working in the field of food safety are most concerned about microbial foodborne illness",
+      "because ensuring the safety of food is a shared responsibility among producers, industry, government, and consumers",
+      "although current estimates of foodborne illness in the United States are 325,000 hospitalisations, and around 5,000 deaths per year",
+      "even though they might not recognise it as such, instead blaming it on the stomach flu or a 24-hour bug",
+      "when a person consciously thinks about food safety before, during or after eating a meal"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q33",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The literature on treatment for learning disabilities primarily discusses school-based treatments, ----.",
+    "options": [
+      "though individuals with learning disabilities experience challenges beyond such settings",
+      "because such endeavours do not guarantee that a specific treatment will be effective",
+      "so treatments without widespread research support may not turn out to be successful",
+      "if we treat individuals with learning disabilities through methods they prefer",
+      "while defining learning disabilities is as important as conducting research on treatments"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q34",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In our rapidly changing world, parents’ skills may easily become obsolete, ----.",
+    "options": [
+      "though children sometimes look to their peers rather than their parents for guidance and approval",
+      "as family-centred learning plays a key role in equipping children with social, cultural and moral values",
+      "while they might have difficulty in transmitting their accumulated knowledge to their children",
+      "but their children’s taste in diet, music, clothes and entertainment can significantly differ from their own taste",
+      "so they could have fewer opportunities for direct influence over their children’s development"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q35",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Hydroelectricity plants pose several threats to the environment ----.",
+    "options": [
+      "while flooding is an important indicator for the environmental impact they cause",
+      "even though the proliferation of mosquitoes may disturb those living close to them",
+      "because they could lead to the extinction of endemic species and block fish migration",
+      "although the loss of historical and archaeological heritage is a big concern",
+      "so that they help communities harness water resources for energy generation"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q36",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, they rely on each other for optimal performance, which is a sign of concern for interdependence in groups.",
+    "options": [
+      "Since some individuals are not attracted to group activities",
+      "Because it is possible for individuals to do something they find distasteful",
+      "Whenever members of a group come together to do a variety of tasks",
+      "Although group support depends on members’ willingness to take part",
+      "Whereas there is mutual interest between group members within social settings"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q37",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "The Morse code, which is a milestone in long-range communication, was designed so that telegraph operators could communicate via electrical signals.",
+    "options": [
+      "Uzun mesafe iletişimde bir dönüm noktası olan Mors alfabesi, telgraf operatörlerinin elektrik sinyalleri aracılığıyla iletişim kurabilmeleri için tasarlanmıştır.",
+      "Uzun mesafe iletişimde bir dönüm noktası olsa da Mors alfabesi ilk olarak telgraf operatörlerinin elektrik sinyalleri yoluyla haberleşmeleri için tasarlanmıştır.",
+      "Telgraf operatörlerinin elektrik sinyalleri aracılığıyla iletişim kurması için tasarlanması, Mors alfabesini uzun mesafe iletişimde bir dönüm noktası hâline getirmiştir.",
+      "Elektrik sinyalleri aracılığıyla telgraf operatörlerinin iletişim kurması için tasarlanan Mors alfabesi, uzun mesafe iletişimin dönüm noktasıdır.",
+      "Uzun mesafe iletişimde bir dönüm noktası olan Mors alfabesinin tasarlanma sebebi, telgraf operatörlerinin elektrik sinyalleriyle iletişim kurabilmelerini sağlamaktı."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q38",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Solving a series of incredibly difficult problems , the Wright brothers created a revolutionary new technology that changed the world in a way that even they could not imagine.",
+    "options": [
+      "Wright kardeşler, kendilerinin bile hayal edemeyeceği bir biçimde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratarak inanılmaz derecede zor bir dizi problemi çözmüşlerdir.",
+      "Wright kardeşler, inanılmaz derecede zor bir dizi problemi çözmüşler ve kendilerinin bile hayal edemeyeceği bir biçimde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmışlardır.",
+      "Wright kardeşlerin inanılmaz derecede zor bir dizi problemi çözerek dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmaları, kendilerinin bile hayal edemeyeceği bir şeydi.",
+      "Wright kardeşler, inanılmaz derecede zor bir dizi problemi çözerek kendilerinin bile hayal edemeyeceği bir şekilde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmışlardır.",
+      "Wright kardeşlerin kendilerinin bile hayal edemeyeceği bir biçimde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmak için yaptıkları şey, inanılmaz derecede zor bir dizi problemi çözmekti."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q39",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Every child has an individual learning style, and they learn information best when it is delivered in a mode suited to their style.",
+    "options": [
+      "Her çocuk kendine özgü bir öğrenme şekline sahiptir ve çocuklar bilgiyi en iyi kendi tarzlarına uygun bir biçimde verildiğinde öğrenir.",
+      "Kendine özgü öğrenme şekliyle her çocuk, bilgiyi en iyi kendi tarzına uygun bir biçimde verildiğinde öğrenir.",
+      "Kendine özgü bir öğrenme şekli olan her çocuk, öğrenme tarzına uygun verildiği takdirde bilgiyi en iyi şekilde öğrenir.",
+      "Her çocuk kendine özgü bir öğrenme şekline sahip olduğu için bilgiyi en iyi kendi tarzına uygun bir biçimde verildiğinde öğrenir.",
+      "Her çocuk kendine özgü bir öğrenme şekline sahiptir ve onlar için bilgiyi öğrenmenin en iyi yolu, kendi tarzlarına uygun olanıdır."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q40",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Gen terapisi çoğunlukla ender genetik bozuklukların tedavisinde faydalıdır; bunun aksine, mevcut genlerin değiştirilmesini kapsayan gen düzeltme, çok daha fazla hastalığı tedavi eder.",
+    "options": [
+      "Gene therapy is mainly useful for treating rare genetic disorders, whereas gene-editing involves altering existing genes and treating a wider range of conditions.",
+      "Gene therapy mainly treats rare genetic disorders; gene-editing, on the other hand, involves the alteration of the existing genes, which is useful for treating a wider range of conditions.",
+      "Gene therapy is mainly useful for treating rare genetic disorders; in contrast, gene-editing, which involves altering existing genes, treats a much wider range of conditions.",
+      "Gene therapy is mainly used for the treatment of rare genetic disorders, but gene-editing can treat a much wider range of disorders since it involves altering existing genes.",
+      "Gene therapy is mainly used to treat rare genetic disorders while gene-editing, which is the alteration of the existing genes, is involved in the treatment of a wider range of conditions."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q41",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sağlık okuryazarlığı, bireylerin sağlık konusunda uygun kararlar vermek için gerekli olan temel sağlık bilgi ve hizmetlerini elde etme ve anlama kapasitesine sahip olma derecesi olarak tanımlanabilir.",
+    "options": [
+      "Health literacy can be defined as the degree to which individuals have the capacity to obtain and understand basic health information and services, and to make necessary health decisions in an appropriate way.",
+      "Health literacy, which is required to make appropriate health decisions, can be defined as the degree to which individuals have the capacity to obtain and understand basic health information and services.",
+      "Defined as the degree to which individuals have the capacity to obtain and understand basic health information and services, health literacy is necessary to make appropriate health decisions.",
+      "Health literacy can be defined as the degree to which individuals have the capacity to obtain and understand basic health information and services required to make appropriate health decisions.",
+      "The degree to which individuals have the capacity to obtain and understand basic health information and services needed to make health decisions appropriately can be defined as health literacy."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q42",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Tüm vücut fonksiyonlarımızı senkronize eden iç saatimiz, ipuçlarını güneş ışığının gündüz-gece döngüsünden alır ve beyin bu 24 saatlik ritmi organlarımıza iletmek ve vücudumuza ne zaman uyumaya ve uyanmaya ihtiyaç duyduğunu bildirmek için sinirleri ve hormonları kullanır.",
+    "options": [
+      "Our internal clock keeps all our body functions in sync by taking its cues from the day-night cycle of sunlight, and the brain transmits this 24-hour rhythm to our internal organs and tells our body when it needs to sleep and wake by using nerves and hormones.",
+      "Our internal clock, which keeps all our body functions in sync, takes its cues from the day-night cycle of sunlight, and the brain uses nerves and hormones to transmit this 24-hour rhythm to our internal organs and to tell our body when it needs to sleep and wake.",
+      "Our internal clock, by which all our body functions are kept in sync, takes its cues from the day-night cycle of sunlight, and to transmit this 24-hour rhythm to our internal organs, the brain uses nerves and hormones, telling our body when it needs to sleep and wake.",
+      "All our body functions are kept in sync by our internal clock, which takes its cues from the day-night cycle of sunlight, and the brain uses nerves and hormones to transmit this 24-hour rhythm to our internal organs and tells our body when to sleep and wake.",
+      "It is our internal clock that keeps all our body functions in sync by taking cues from the day-night cycle of sunlight, and the brain uses nerves and hormones while transmitting this 24-hour rhythm to our internal organs, and tells our body when to sleep and wake."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q43",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2019-1-g43-46",
+    "passage": "We are born to judge others by how they look: our brains come hardwired with a specific face-processing area, and even shortly after birth, babies would rather look at a human face than anything else. Within their first year, they become more discerning, and are more likely to attend to friendly-looking faces than those who look serious. By the time we reach adulthood, we develop a great number of stereotypes and become snap-judgement specialists, jumping to conclusions about a person’s character and status after seeing his or her face for just a tenth of a second. And we ignore considered assessments of others in favour of simple cognitive shortcuts. For example, we judge a baby-faced individual as more trustworthy, associate a chiselled jaw with dominance, or refer to a person with a big nose as a curious one. Unfair or unethical, it may be, but it makes good evolutionary sense. Ours is an ultra-social species, so being able to quickly assess whether someone is friend or foe and whether they have the power to help or hurt us is important survival information. But there is a problem. As psychologist Alexander Todorov of Princeton University points out, more often than not, our first impressions are wrong; that is, relying on our shortcuts may not always produce good results. It is not clear why, but he suggests that we meet many more strangers than our prehistoric ancestors would have, and this may play a role.",
+    "stem": "Which could be inferred from the passage about our face-based judgements?",
+    "options": [
+      "Babies cannot make judgements concerning human faces because they are not yet capable of discriminating between different faces.",
+      "We begin to make assumptions about a person’s character or status after we have seen his or her face several times.",
+      "We are innately predisposed to form an idea about a person just by looking at his or her face.",
+      "The face-processing area in our brains functions more effectively during infancy than it does in our adult years.",
+      "Regardless of how they look, all human faces can attract babies’ attention within their first year."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q44",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2019-1-g43-46",
+    "passage": "We are born to judge others by how they look: our brains come hardwired with a specific face-processing area, and even shortly after birth, babies would rather look at a human face than anything else. Within their first year, they become more discerning, and are more likely to attend to friendly-looking faces than those who look serious. By the time we reach adulthood, we develop a great number of stereotypes and become snap-judgement specialists, jumping to conclusions about a person’s character and status after seeing his or her face for just a tenth of a second. And we ignore considered assessments of others in favour of simple cognitive shortcuts. For example, we judge a baby-faced individual as more trustworthy, associate a chiselled jaw with dominance, or refer to a person with a big nose as a curious one. Unfair or unethical, it may be, but it makes good evolutionary sense. Ours is an ultra-social species, so being able to quickly assess whether someone is friend or foe and whether they have the power to help or hurt us is important survival information. But there is a problem. As psychologist Alexander Todorov of Princeton University points out, more often than not, our first impressions are wrong; that is, relying on our shortcuts may not always produce good results. It is not clear why, but he suggests that we meet many more strangers than our prehistoric ancestors would have, and this may play a role.",
+    "stem": "One can understand from the passage that our shortcuts ----.",
+    "options": [
+      "become less helpful in adulthood as we tend to ignore them",
+      "are generally accompanied by careful assessments of others",
+      "produce more beneficial results than they did in prehistoric times",
+      "might be considered morally unacceptable although they can provide help in our social lives",
+      "are unreliable because each person can interpret such traits as trustworthiness differently"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q45",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2019-1-g43-46",
+    "passage": "We are born to judge others by how they look: our brains come hardwired with a specific face-processing area, and even shortly after birth, babies would rather look at a human face than anything else. Within their first year, they become more discerning, and are more likely to attend to friendly-looking faces than those who look serious. By the time we reach adulthood, we develop a great number of stereotypes and become snap-judgement specialists, jumping to conclusions about a person’s character and status after seeing his or her face for just a tenth of a second. And we ignore considered assessments of others in favour of simple cognitive shortcuts. For example, we judge a baby-faced individual as more trustworthy, associate a chiselled jaw with dominance, or refer to a person with a big nose as a curious one. Unfair or unethical, it may be, but it makes good evolutionary sense. Ours is an ultra-social species, so being able to quickly assess whether someone is friend or foe and whether they have the power to help or hurt us is important survival information. But there is a problem. As psychologist Alexander Todorov of Princeton University points out, more often than not, our first impressions are wrong; that is, relying on our shortcuts may not always produce good results. It is not clear why, but he suggests that we meet many more strangers than our prehistoric ancestors would have, and this may play a role.",
+    "stem": "How does Todorov explain why our shortcuts sometimes do not provide help?",
+    "options": [
+      "He states that our shortcuts lead us to make very quick assessments of others, and therefore our first impressions are usually wrong.",
+      "He believes that unlike our prehistoric ancestors, we do not live in a hazardous world, so we do not need to develop shortcuts to survive.",
+      "He thinks that we encounter so many faces in our modern world that our shortcuts may not guide us accurately.",
+      "He claims that we live in a more complex world, which requires us to rely on detailed assessments rather than simple shortcuts.",
+      "He puts forward that our shortcuts are mostly based on people’s facial characteristics, so they cannot provide precise information."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q46",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2019-1-g43-46",
+    "passage": "We are born to judge others by how they look: our brains come hardwired with a specific face-processing area, and even shortly after birth, babies would rather look at a human face than anything else. Within their first year, they become more discerning, and are more likely to attend to friendly-looking faces than those who look serious. By the time we reach adulthood, we develop a great number of stereotypes and become snap-judgement specialists, jumping to conclusions about a person’s character and status after seeing his or her face for just a tenth of a second. And we ignore considered assessments of others in favour of simple cognitive shortcuts. For example, we judge a baby-faced individual as more trustworthy, associate a chiselled jaw with dominance, or refer to a person with a big nose as a curious one. Unfair or unethical, it may be, but it makes good evolutionary sense. Ours is an ultra-social species, so being able to quickly assess whether someone is friend or foe and whether they have the power to help or hurt us is important survival information. But there is a problem. As psychologist Alexander Todorov of Princeton University points out, more often than not, our first impressions are wrong; that is, relying on our shortcuts may not always produce good results. It is not clear why, but he suggests that we meet many more strangers than our prehistoric ancestors would have, and this may play a role.",
+    "stem": "Which could be the best title for this passage?",
+    "options": [
+      "Learning Survival Information from Our Ancestors",
+      "Major Drawbacks of Our Cognitive Shortcuts",
+      "How to Reject Unethical Stereotypes",
+      "Transferring Our Cognitive Shortcuts into Adulthood",
+      "Our Strong Tendency to Stereotype People"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q47",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2019-1-g47-50",
+    "passage": "Consumer psychology is the study of the behaviour of consumers of goods and services regarding their buying patterns and reactions to advertising and marketing. It seeks to explain consumer behaviour in two basic ways: what the consumer wants and what the consumer needs. The logical explanation for fulfilling the needs is a simple one. If a person lives in New York, that person needs a winter coat to survive the cold outside. But why the person buys a particular style or colour depends on the more complex issues of why a particular choice is made. The key to unlocking consumer psychology is understanding that desires rule over needs when it comes to consumer purchase. In our modern world where new food products and electronic gadgets emerge daily, it is in the interest of psychologists, as well as those marketing the products, to understand the relationship between financial and psychological factors that make people buy what they buy. In fact, consumer psychology utilises more than simply psychology, because it also studies economics and culture.",
+    "stem": "Which of the following does consumer psychology deal with?",
+    "options": [
+      "What marketers can do to effectively reach out to potential customers",
+      "The challenge experienced by psychologists to understand consumer behaviour",
+      "How basic requirements and desires influence consumer behaviour",
+      "Whether certain goods and services chosen by consumers satisfy them or not",
+      "How to help consumers avoid the conflict of needs and desires when making a purchase"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q48",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2019-1-g47-50",
+    "passage": "Consumer psychology is the study of the behaviour of consumers of goods and services regarding their buying patterns and reactions to advertising and marketing. It seeks to explain consumer behaviour in two basic ways: what the consumer wants and what the consumer needs. The logical explanation for fulfilling the needs is a simple one. If a person lives in New York, that person needs a winter coat to survive the cold outside. But why the person buys a particular style or colour depends on the more complex issues of why a particular choice is made. The key to unlocking consumer psychology is understanding that desires rule over needs when it comes to consumer purchase. In our modern world where new food products and electronic gadgets emerge daily, it is in the interest of psychologists, as well as those marketing the products, to understand the relationship between financial and psychological factors that make people buy what they buy. In fact, consumer psychology utilises more than simply psychology, because it also studies economics and culture.",
+    "stem": "Which of the following can be inferred from the passage about the relationship between needs and purchases?",
+    "options": [
+      "Advertisers should take into account what consumers need, irrespective of what they desire, in order to persuade them to buy particular products.",
+      "Consumers are overwhelmed by their inner voice telling them to buy what they need rather than what they want.",
+      "Economic factors far outweigh psychological ones when it comes to purchases based on fundamental needs.",
+      "Although needs intervene in consumer purchase, they fall short in accounting for the details of the choices consumers make.",
+      "Advertisers should acknowledge that the battle between desires and needs usually ends in the victory of the latter."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q49",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2019-1-g47-50",
+    "passage": "Consumer psychology is the study of the behaviour of consumers of goods and services regarding their buying patterns and reactions to advertising and marketing. It seeks to explain consumer behaviour in two basic ways: what the consumer wants and what the consumer needs. The logical explanation for fulfilling the needs is a simple one. If a person lives in New York, that person needs a winter coat to survive the cold outside. But why the person buys a particular style or colour depends on the more complex issues of why a particular choice is made. The key to unlocking consumer psychology is understanding that desires rule over needs when it comes to consumer purchase. In our modern world where new food products and electronic gadgets emerge daily, it is in the interest of psychologists, as well as those marketing the products, to understand the relationship between financial and psychological factors that make people buy what they buy. In fact, consumer psychology utilises more than simply psychology, because it also studies economics and culture.",
+    "stem": "It can be inferred from the passage that in order to better understand consumer psychology, one should ----.",
+    "options": [
+      "consider that there are several factors at play when examining consumers’ buying habits",
+      "study financial factors rather than psychological ones that play a key role in advertising a product",
+      "concentrate more on seemingly rational reasons rather than superficial ones in buying decisions",
+      "pay special attention to the fact that advertisers often try to persuade people to buy what they actually do not need",
+      "realise that consumers often tend to buy what they need rather than what they desire"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q50",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2019-1-g47-50",
+    "passage": "Consumer psychology is the study of the behaviour of consumers of goods and services regarding their buying patterns and reactions to advertising and marketing. It seeks to explain consumer behaviour in two basic ways: what the consumer wants and what the consumer needs. The logical explanation for fulfilling the needs is a simple one. If a person lives in New York, that person needs a winter coat to survive the cold outside. But why the person buys a particular style or colour depends on the more complex issues of why a particular choice is made. The key to unlocking consumer psychology is understanding that desires rule over needs when it comes to consumer purchase. In our modern world where new food products and electronic gadgets emerge daily, it is in the interest of psychologists, as well as those marketing the products, to understand the relationship between financial and psychological factors that make people buy what they buy. In fact, consumer psychology utilises more than simply psychology, because it also studies economics and culture.",
+    "stem": "What is the main purpose of the passage?",
+    "options": [
+      "To analyse people’s buying habits from an economic viewpoint",
+      "To highlight the huge number of products consumers are offered",
+      "To stress the significant effect of advertising on consumer psychology",
+      "To describe the change in consumer psychology in the modern world",
+      "To explain what consumer psychology does to understand consumer behaviour"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q51",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2019-1-g51-54",
+    "passage": "All plants can survive for short periods without light. Obviously, they need to be able to last through the night, but they can also cope with a longer darkness in an emergency. If you leave a tent pitched on the same patch of lawn, the grass underneath turns yellow and spindly. This is an adaptation, called etiolation, which focuses the plant’s remaining resources into growing as far as possible to try and reach sunlight again. There are also some plants that have lost the power of photosynthesis altogether. The genus Orobanche (commonly known as ‘broomrape’) is an example. The plants have no chlorophyll and get all their nutrients by parasitically attaching to the roots of nearby plants instead. Although broomrape does not harness sunlight itself, it is still indirectly reliant on the sun to provide energy to its host plant. Some other parasitic plants, called mycoheterotrophs, feed on fungi and these could theoretically survive in complete darkness for months or even years. But of course, those fungi in turn get their energy by digesting dead plants, and in a permanently dark world, this food source would eventually run out.",
+    "stem": "What can be understood about the adaptation process of plants?",
+    "options": [
+      "They tend to use their remaining energy in an attempt to access sunlight.",
+      "They are not really affected by permanent darkness due to etiolation.",
+      "Even short periods of darkness cause plants to lose their ability to adapt.",
+      "Some plants such as grass are more adaptable to darkness than others.",
+      "They adjust to complete darkness by using up all their energy, so they no longer need photosynthesis."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q52",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2019-1-g51-54",
+    "passage": "All plants can survive for short periods without light. Obviously, they need to be able to last through the night, but they can also cope with a longer darkness in an emergency. If you leave a tent pitched on the same patch of lawn, the grass underneath turns yellow and spindly. This is an adaptation, called etiolation, which focuses the plant’s remaining resources into growing as far as possible to try and reach sunlight again. There are also some plants that have lost the power of photosynthesis altogether. The genus Orobanche (commonly known as ‘broomrape’) is an example. The plants have no chlorophyll and get all their nutrients by parasitically attaching to the roots of nearby plants instead. Although broomrape does not harness sunlight itself, it is still indirectly reliant on the sun to provide energy to its host plant. Some other parasitic plants, called mycoheterotrophs, feed on fungi and these could theoretically survive in complete darkness for months or even years. But of course, those fungi in turn get their energy by digesting dead plants, and in a permanently dark world, this food source would eventually run out.",
+    "stem": "Which of the following is given as a feature of broomrape?",
+    "options": [
+      "It provides energy for many nearby plants thanks to its roots that harness sunlight.",
+      "It can photosynthesise only when it is connected to another plant.",
+      "It cannot feed itself without attaching to a plant that photosynthesises.",
+      "It never depends on sunlight to harness energy thanks to its adaptation skill.",
+      "All the nutrients it gets are used up by the host plant it is attached to."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q53",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2019-1-g51-54",
+    "passage": "All plants can survive for short periods without light. Obviously, they need to be able to last through the night, but they can also cope with a longer darkness in an emergency. If you leave a tent pitched on the same patch of lawn, the grass underneath turns yellow and spindly. This is an adaptation, called etiolation, which focuses the plant’s remaining resources into growing as far as possible to try and reach sunlight again. There are also some plants that have lost the power of photosynthesis altogether. The genus Orobanche (commonly known as ‘broomrape’) is an example. The plants have no chlorophyll and get all their nutrients by parasitically attaching to the roots of nearby plants instead. Although broomrape does not harness sunlight itself, it is still indirectly reliant on the sun to provide energy to its host plant. Some other parasitic plants, called mycoheterotrophs, feed on fungi and these could theoretically survive in complete darkness for months or even years. But of course, those fungi in turn get their energy by digesting dead plants, and in a permanently dark world, this food source would eventually run out.",
+    "stem": "Which of the following is clearly stated about the survival mechanism of mycoheterotrophs?",
+    "options": [
+      "Their source of energy is limited to the amount of dead plants in their habitat.",
+      "They mainly depend on direct and permanent sunlight to survive.",
+      "They physically attach to fungi to help them digest dead plants.",
+      "They are heavily exploited by parasitic plants such as fungi to harness energy.",
+      "The longer their habitat is in darkness, the stronger their survival skill gets."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q54",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2019-1-g51-54",
+    "passage": "All plants can survive for short periods without light. Obviously, they need to be able to last through the night, but they can also cope with a longer darkness in an emergency. If you leave a tent pitched on the same patch of lawn, the grass underneath turns yellow and spindly. This is an adaptation, called etiolation, which focuses the plant’s remaining resources into growing as far as possible to try and reach sunlight again. There are also some plants that have lost the power of photosynthesis altogether. The genus Orobanche (commonly known as ‘broomrape’) is an example. The plants have no chlorophyll and get all their nutrients by parasitically attaching to the roots of nearby plants instead. Although broomrape does not harness sunlight itself, it is still indirectly reliant on the sun to provide energy to its host plant. Some other parasitic plants, called mycoheterotrophs, feed on fungi and these could theoretically survive in complete darkness for months or even years. But of course, those fungi in turn get their energy by digesting dead plants, and in a permanently dark world, this food source would eventually run out.",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+      "All plants need one another to store energy and produce food.",
+      "Plants can adapt to darkness, but none of them can live forever without sunlight.",
+      "The sun is the eternal source of energy for living beings on our planet.",
+      "Nature has so many defects that it is difficult for us to make up for all of them.",
+      "Darkness makes some plant species more susceptible to parasites."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q55",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2019-1-g55-58",
+    "passage": "Some 150 years after the Great French Wine Blight, European vines – climbing plants that produce grapes – are under threat from a disease that originated in the Americas. A bacterium known as Xyllella fastidiosa causes Pierce’s disease, in which the plants’ transport vessels become blocked, cutting the supply of water and nutrients to the leaves. California’s Department of Food and Agriculture spends about $40 million a year to control the leaf-hopping insects that carry the bacteria from plant to plant in that region. Without this expenditure, the annual cost to the wine industry could be up to $250 million. The bacterium does not just hit vines – in the Americas, it also strikes citrus and coffee plants. Now X. fastidiosa has reached Europe, where it has earned another name – the ‘Ebola of olive trees’. In 2013, it was spotted in a few olive trees in southern Italy, and by 2015 had infected up to a million trees there with what has become known as olive quick decline syndrome. So far, 359 plant species in Europe have been identified as being vulnerable to X. fastidiosa, including peaches, lavender and rosemary. Some show no symptoms, acting as reservoirs for the bacteria. Others dry and die quickly. Short of controlling insect species that could spread the disease, no cure is yet known. Generally cold winters slow the spread of Pierce’s disease; however, as the planet warms, there is every chance the disease’s ranges could increase.",
+    "stem": "One can understand from the passage that Pierce’s disease ----.",
+    "options": [
+      "originated in the Americas in 2013, killing many plant species",
+      "has already devastated the wine industry both in the Americas and Europe",
+      "causes the leaves of a plant to be deprived of necessary ingredients",
+      "is spread by a bacterium that absorbs water and nutrients in the leaves of a plant",
+      "has caused more damage in Europe than the Great French Wine Blight did"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q56",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2019-1-g55-58",
+    "passage": "Some 150 years after the Great French Wine Blight, European vines – climbing plants that produce grapes – are under threat from a disease that originated in the Americas. A bacterium known as Xyllella fastidiosa causes Pierce’s disease, in which the plants’ transport vessels become blocked, cutting the supply of water and nutrients to the leaves. California’s Department of Food and Agriculture spends about $40 million a year to control the leaf-hopping insects that carry the bacteria from plant to plant in that region. Without this expenditure, the annual cost to the wine industry could be up to $250 million. The bacterium does not just hit vines – in the Americas, it also strikes citrus and coffee plants. Now X. fastidiosa has reached Europe, where it has earned another name – the ‘Ebola of olive trees’. In 2013, it was spotted in a few olive trees in southern Italy, and by 2015 had infected up to a million trees there with what has become known as olive quick decline syndrome. So far, 359 plant species in Europe have been identified as being vulnerable to X. fastidiosa, including peaches, lavender and rosemary. Some show no symptoms, acting as reservoirs for the bacteria. Others dry and die quickly. Short of controlling insect species that could spread the disease, no cure is yet known. Generally cold winters slow the spread of Pierce’s disease; however, as the planet warms, there is every chance the disease’s ranges could increase.",
+    "stem": "Which could be inferred from the passage?",
+    "options": [
+      "Throughout Europe, 359 plant species have been found to show the symptoms of Pierce’s disease.",
+      "Although Pierce’s disease affects a lot of plants in Europe, it only develops in vines in the Americas.",
+      "California has been unable to cope with the insects that transmit X. fastidiosa, which has destroyed the wine industry.",
+      "The impact of X. fastidiosa is far-reaching when the variety of infected plant species is considered.",
+      "Southern Italy is known to be the place where Pierce’s disease appeared for the first time."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q57",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2019-1-g55-58",
+    "passage": "Some 150 years after the Great French Wine Blight, European vines – climbing plants that produce grapes – are under threat from a disease that originated in the Americas. A bacterium known as Xyllella fastidiosa causes Pierce’s disease, in which the plants’ transport vessels become blocked, cutting the supply of water and nutrients to the leaves. California’s Department of Food and Agriculture spends about $40 million a year to control the leaf-hopping insects that carry the bacteria from plant to plant in that region. Without this expenditure, the annual cost to the wine industry could be up to $250 million. The bacterium does not just hit vines – in the Americas, it also strikes citrus and coffee plants. Now X. fastidiosa has reached Europe, where it has earned another name – the ‘Ebola of olive trees’. In 2013, it was spotted in a few olive trees in southern Italy, and by 2015 had infected up to a million trees there with what has become known as olive quick decline syndrome. So far, 359 plant species in Europe have been identified as being vulnerable to X. fastidiosa, including peaches, lavender and rosemary. Some show no symptoms, acting as reservoirs for the bacteria. Others dry and die quickly. Short of controlling insect species that could spread the disease, no cure is yet known. Generally cold winters slow the spread of Pierce’s disease; however, as the planet warms, there is every chance the disease’s ranges could increase.",
+    "stem": "Which of the following conclusions could be drawn from the passage?",
+    "options": [
+      "Agricultural damage from Pierce’s disease peaks in winter months across Europe.",
+      "Why plant species die soon after they catch Pierce’s disease has not been revealed yet.",
+      "Most plant species infected with X. fastidiosa show typical symptoms of Pierce’s disease.",
+      "High temperatures may increase the speed at which Pierce’s disease is spreading.",
+      "Plants with Pierce’s disease can be cured by supplying adequate water and nutrients to their leaves."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q58",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2019-1-g55-58",
+    "passage": "Some 150 years after the Great French Wine Blight, European vines – climbing plants that produce grapes – are under threat from a disease that originated in the Americas. A bacterium known as Xyllella fastidiosa causes Pierce’s disease, in which the plants’ transport vessels become blocked, cutting the supply of water and nutrients to the leaves. California’s Department of Food and Agriculture spends about $40 million a year to control the leaf-hopping insects that carry the bacteria from plant to plant in that region. Without this expenditure, the annual cost to the wine industry could be up to $250 million. The bacterium does not just hit vines – in the Americas, it also strikes citrus and coffee plants. Now X. fastidiosa has reached Europe, where it has earned another name – the ‘Ebola of olive trees’. In 2013, it was spotted in a few olive trees in southern Italy, and by 2015 had infected up to a million trees there with what has become known as olive quick decline syndrome. So far, 359 plant species in Europe have been identified as being vulnerable to X. fastidiosa, including peaches, lavender and rosemary. Some show no symptoms, acting as reservoirs for the bacteria. Others dry and die quickly. Short of controlling insect species that could spread the disease, no cure is yet known. Generally cold winters slow the spread of Pierce’s disease; however, as the planet warms, there is every chance the disease’s ranges could increase.",
+    "stem": "What is the primary purpose of the author?",
+    "options": [
+      "To emphasise the great amount of money spent to protect the wine industry against Pierce’s disease",
+      "To point out the serious danger Pierce’s disease poses to various plant species",
+      "To explain why X. fastidiosa is called the ‘Ebola of olive trees’ in Europe",
+      "To warn that insects carrying X. fastidiosa increase in number as the planet warms",
+      "To draw attention to the fact that a cure to eradicate Pierce’s disease is to arrive shortly"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q59",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2019-1-g59-62",
+    "passage": "Do you think you are too old to do sport? Think again. An analysis of the world’s oldest record-breakers has named 104-year-old cyclist Robert Marchand as champion. Romuald Lepers at the University of Burgundy, in Dijon, France, and his colleagues have investigated how age affects athletic performance. While looking at middle-aged athletes, the team began to wonder who the world’s best 100-plus sportsperson might be. They identified all the best performances by centenarians in athletics, swimming and cycling. Then they compared each athlete with the world record holder in their discipline. The centenarian athlete who showed the smallest decline was Frenchman Robert Marchand. Cycling 26.93 kilometres in 1 hour, Marchand was only 50.6 percent slower than Bradley Wiggins’s 54.53 km record. The study has also shown that athletic ability can be maintained until 35 to 40, and after that, performance decreases by about 10 percent per decade. But Marchand’s ability has declined much more slowly. Lepers says that Marchand has extraordinary muscular and cardiorespiratory function for his age. His performance corresponds to an age-related decline of less than 8 percent per decade. Lepers suggests that these athletes are not only remarkable biological examples, but they could also be good role models for others to follow. “Take Canadian Ed Withlock,” he says. Withlock was the first person over 70 to run a marathon in less than 3 hours. He took up running in his 40s. “It’s never too late to be active,” says Lepers.",
+    "stem": "What was the initial aim of the study conducted by Lepers and his colleagues?",
+    "options": [
+      "To show that old people can also display excellent performance in several sports",
+      "To explain how world record holders in different sports achieved extraordianary success",
+      "To find out when athletic performance begins to decline dramatically",
+      "To study the relation between age and athletic performance in middle-aged sportspeople",
+      "To discover what distinguishes Robert Marchand from other 100-plus sportspeople"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q60",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2019-1-g59-62",
+    "passage": "Do you think you are too old to do sport? Think again. An analysis of the world’s oldest record-breakers has named 104-year-old cyclist Robert Marchand as champion. Romuald Lepers at the University of Burgundy, in Dijon, France, and his colleagues have investigated how age affects athletic performance. While looking at middle-aged athletes, the team began to wonder who the world’s best 100-plus sportsperson might be. They identified all the best performances by centenarians in athletics, swimming and cycling. Then they compared each athlete with the world record holder in their discipline. The centenarian athlete who showed the smallest decline was Frenchman Robert Marchand. Cycling 26.93 kilometres in 1 hour, Marchand was only 50.6 percent slower than Bradley Wiggins’s 54.53 km record. The study has also shown that athletic ability can be maintained until 35 to 40, and after that, performance decreases by about 10 percent per decade. But Marchand’s ability has declined much more slowly. Lepers says that Marchand has extraordinary muscular and cardiorespiratory function for his age. His performance corresponds to an age-related decline of less than 8 percent per decade. Lepers suggests that these athletes are not only remarkable biological examples, but they could also be good role models for others to follow. “Take Canadian Ed Withlock,” he says. Withlock was the first person over 70 to run a marathon in less than 3 hours. He took up running in his 40s. “It’s never too late to be active,” says Lepers.",
+    "stem": "To find the world’s best 100-plus sportsperson, Lepers and his colleagues ----.",
+    "options": [
+      "checked whether a centenarian athlete was able to break the world record in his or her discipline in the past",
+      "examined the most successful performances by 100-plus athletes and compared them with each other",
+      "looked at the differences between centenarians’ performances and those of the world record holders",
+      "asked the world record holders in athletics, swimming and cycling to lay out selection criteria",
+      "compared the performances of centenarian athletes with those of the middle-aged athletes"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q61",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2019-1-g59-62",
+    "passage": "Do you think you are too old to do sport? Think again. An analysis of the world’s oldest record-breakers has named 104-year-old cyclist Robert Marchand as champion. Romuald Lepers at the University of Burgundy, in Dijon, France, and his colleagues have investigated how age affects athletic performance. While looking at middle-aged athletes, the team began to wonder who the world’s best 100-plus sportsperson might be. They identified all the best performances by centenarians in athletics, swimming and cycling. Then they compared each athlete with the world record holder in their discipline. The centenarian athlete who showed the smallest decline was Frenchman Robert Marchand. Cycling 26.93 kilometres in 1 hour, Marchand was only 50.6 percent slower than Bradley Wiggins’s 54.53 km record. The study has also shown that athletic ability can be maintained until 35 to 40, and after that, performance decreases by about 10 percent per decade. But Marchand’s ability has declined much more slowly. Lepers says that Marchand has extraordinary muscular and cardiorespiratory function for his age. His performance corresponds to an age-related decline of less than 8 percent per decade. Lepers suggests that these athletes are not only remarkable biological examples, but they could also be good role models for others to follow. “Take Canadian Ed Withlock,” he says. Withlock was the first person over 70 to run a marathon in less than 3 hours. He took up running in his 40s. “It’s never too late to be active,” says Lepers.",
+    "stem": "It is clear from the passage that the decline in Marchand’s athletic ability ----.",
+    "options": [
+      "has been far slower thanks to his exceptional physical characteristics",
+      "has been found to be by 8 to 10 percent per decade",
+      "has allowed him to be a great inspiration to the athletes under 40",
+      "has been less sharp than the decrease in Bradley Wiggins’s athletic ability",
+      "has been occurring at a rapid pace due to his weakening bodily functions"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q62",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2019-1-g59-62",
+    "passage": "Do you think you are too old to do sport? Think again. An analysis of the world’s oldest record-breakers has named 104-year-old cyclist Robert Marchand as champion. Romuald Lepers at the University of Burgundy, in Dijon, France, and his colleagues have investigated how age affects athletic performance. While looking at middle-aged athletes, the team began to wonder who the world’s best 100-plus sportsperson might be. They identified all the best performances by centenarians in athletics, swimming and cycling. Then they compared each athlete with the world record holder in their discipline. The centenarian athlete who showed the smallest decline was Frenchman Robert Marchand. Cycling 26.93 kilometres in 1 hour, Marchand was only 50.6 percent slower than Bradley Wiggins’s 54.53 km record. The study has also shown that athletic ability can be maintained until 35 to 40, and after that, performance decreases by about 10 percent per decade. But Marchand’s ability has declined much more slowly. Lepers says that Marchand has extraordinary muscular and cardiorespiratory function for his age. His performance corresponds to an age-related decline of less than 8 percent per decade. Lepers suggests that these athletes are not only remarkable biological examples, but they could also be good role models for others to follow. “Take Canadian Ed Withlock,” he says. Withlock was the first person over 70 to run a marathon in less than 3 hours. He took up running in his 40s. “It’s never too late to be active,” says Lepers.",
+    "stem": "Why does Lepers put a special emphasis on Withlock’s performance?",
+    "options": [
+      "To suggest that 3 hours is not sufficient for a 70-plus athlete to run a marathon",
+      "To show that marathons are races where we can see powerful athletes over 70",
+      "To stress that an athlete must be a record-breaker to gain worldwide recognition",
+      "To prove that Withlock was a more successful sportsperson than Marchand",
+      "To indicate that one could be a brilliant sportsperson at any age"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q63",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Johanna: - Today, our psychology professor talked about a biological process called 'neuroplasticity'. He said that even the adult brain can grow new brain cells in response to new experiences. Stan: - ---- Johanna: - Yeah, he said the exact same thing. I’d never thought of them as being beneficial at all. I used to think they only cause aggressive behaviour and addiction. Stan: - Well, apparently some scientists still have those fears, but it all depends on how effectively you use them.",
+    "options": [
+      "Such as playing action video games? I remember reading that they help the brain and improve cognitive skills.",
+      "That's really interesting. I’ve always thought that the human brain couldn’t grow new cells after a certain age.",
+      "Did he say what kind of experiences? I’ve been playing chess for years hoping that it’ll give me a cognitive advantage at school.",
+      "I’ve seen scientists trying it with patients suffering from Alzheimer's disease to prevent them from losing cognitive skills.",
+      "But, don’t forget that outdoor games are more useful and educational than indoor games, no matter how entertaining they are."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q64",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Debby: - I was recently offered a job at a different firm with a higher salary. I feel as if I’m at a crossroads in my career. I’ll have to make a decision soon. Lucy: - ---- Debby: - I love my job and the team, but I feel the company is asking too much of me. Lucy: - I think you’ll easily get used to working with a new team. And this change will be to your advantage. You know it’s much easier to set your limits at the beginning. If you do so, I’m sure you'll manage your professional life more easily.",
+    "options": [
+      "What stops you from negotiating a better deal with your current employer?",
+      "Until now you seemed really happy with your current job. What’s the problem?",
+      "I know it’s quite challenging. What’s attractive about the new offer?",
+      "You’ve always dreamed of working in a big company. Why would you let yourself miss such an opportunity?",
+      "Do you think you’ve practised building appropriate boundaries in your professional life?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q65",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Daisy: - Last week, I was in a situation where things went from bad to worse. I failed to meet my end-of-year targets at work, the central heating system in my apartment broke, and my car was hit by an unknown car. All these happened in the same week! Sally: - Terrible! How do you keep calm in such situations? Daisy: - ---- Sally: - What do you do with that information? Daisy: - I look at the list and focus on the ones I can do something about. Then I think about the actions I can take, including asking for help if necessary.",
+    "options": [
+      "I can think and worry about many things at the same time, but when I’m in the action phase, I try to avoid that.",
+      "The truth is, it’s hard not to lose it in these moments. I may end up giving up because of the never-ending list of problems.",
+      "I write everything down. I draw a line, and on the left I put down all the problems, and on the right what to do about those problems.",
+      "In my experience, the easiest way to keep calm is to regain control of the situation by collecting information from as many people as possible.",
+      "No matter how bad things are, keeping my calm always helps me come up with a possible solution. I keep saying “This too shall pass”."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q66",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Kelsey: - Now, more and more experts are complaining about modern parenting styles. They say parents try to create an image of success that has little to do with their childen’s desires, talents or needs. Jill: - ---- Kelsey: - Actually, this makes children less independent. They always feel the need to meet their parents’ wishes and ask them what to do in their lives. Jill: - So, overparenting may prevent children from building self-confidence and gaining the ability to adapt to an unpredictable world.",
+    "options": [
+      "Parents tend to bring up their children as they were raised in the past, but it’s really difficult in this ever-changing world.",
+      "I think every child has a special talent, but it may remain undiscovered unless their parents help them recognise themselves.",
+      "That’s true. They want to sculpt their kids into a particular kind of adult, stressing them with endless schedules and heavy expectations.",
+      "I agree that parents should offer advice to their kids about their future plans, but they shouldn’t forget to understand their wishes too.",
+      "In today’s world, parents are bombarded with information from books and experts, so they can’t often decide how to contribute to their children’s success."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q67",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Robert: - The article I read this morning says whales stop singing when ships are nearby. Leonie: - ---- Robert: - It said that they used two underwater recorders to capture their singing in a remote area where a cargo liner was the only large ship around, and they found that whales within 500 metres of the ship when it passed tended to stop singing. Leonie: - So, it’s obvious that for some reason shipping interferes with whale songs.",
+    "options": [
+      "Does the article say which kind of whales were examined in their research?",
+      "How did researchers observe the whales’ response to shipping noise?",
+      "Do researchers think that whales feel threatened and try to remain undetected?",
+      "Then, how do whales communicate with each other when they don’t sing?",
+      "Why does shipping noise have a considerable impact on whale behaviour?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q68",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Lightning sensors can pinpoint lightning strikes and provide initial attack crews with accurate locations; however, there are too many strikes to check them all, and not every strike results in a fire.",
+    "options": [
+      "Although there are too many lightning strikes to check, and not all lead to a fire, lightning sensors are effective at detecting them and giving initial attack crews precise locations.",
+      "There are too many lightning strikes to be checked, most of which do not cause a fire, but lightning sensors help initial attack crews identify them and find the precise locations.",
+      "It is impossible to check all lightning strikes that cause a fire as there are too many of them; nevertheless, lightning sensors can provide specific locations so that initial attack crews can check them.",
+      "Lightning sensors can identify lightning strikes and help to cope with fires through providing initial attack crews with the exact location, though it is not easy to check them all since there are too many strikes.",
+      "Lightning sensors detect so many fires caused by lightning strikes that even if they show initial attack crews the exact location of these strikes, it is not easy to check them all."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q69",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The birthday cake tradition in the United States is little more than a century old, but the relationship of cakes and celebration has a much longer history.",
+    "options": [
+      "People in the United States have been traditionally celebrating birthdays with cakes for a long time since the two concepts were linked to each other around a century ago.",
+      "It was thanks to the emergence of the birthday cake tradition in the United States less than a century ago that the enduring relationship between cakes and celebration was established.",
+      "Despite the interconnection between cakes and celebration, it was not until a little more than a century ago that people in the United States began to celebrate birthdays with cakes.",
+      "Although the birthday cake tradition in the United States has a history of slightly more than a century, cakes and celebration have been associated with each other for a considerably longer time.",
+      "Until a little more than a century ago, people in the United States celebrated birthdays with cakes, but the traditional connection between cakes and celebration is a bit older than that."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q70",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "People had long known of petroleum, but there seemed to be little commercial use until 1853 when Samuel Kier began using it to make kerosene, a cheap substitute for the whale oil commonly used in lamps.",
+    "options": [
+      "The development of kerosene in 1853 by Samuel Kier as an economical alternative to whale oil for lamps was not the first commercial use of petroleum because people had known about it for so long, but it was the most commercially successful enterprise.",
+      "Though being known for a long time, petroleum did not seem to be much commercial until Samuel Kier developed it into kerosene in 1853 – a cheaper alternative to the whale oil commonly used in lamps.",
+      "Although most people had long known about the commercial uses of petroleum, there was little development of the substance until 1853 when Samuel Kier started using it to make kerosene and marketing it as a cheaper substitute for the whale oil commonly used in lamps.",
+      "It was in 1853 that petroleum – a substance which people had long known about but did not seem to have much interest in – was used commercially for the first time by Samuel Kier to make kerosene, which was a more economical substitute to power lamps than the commonly used whale oil.",
+      "In 1853, as the need for a more economical alternative to whale oil to power lamps arose, Samuel Kier saw an opportunity to make kerosene from petroleum – a substance long known for both its history and commercial uses."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q71",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Ageing is a complicated process, involving DNA damage, chronic inflammation, and worn-out cells, but we do not yet know which of these has the biggest impact on ageing.",
+    "options": [
+      "The combination of DNA damage, chronic inflammation and worn-out cells affects ageing to unknown extents, making it a complicated process.",
+      "Because ageing is a complex process, the relationship between ageing and resultant effects of DNA damage, chronic inflammation and worn-out cells is largely unknown.",
+      "As a complex process, ageing includes DNA damage, chronic inflammation and worn-out cells, though it is not clear which affects the ageing process the most.",
+      "Ageing, which itself is a complicated process, damages DNA, causes chronic inflammation and wears out cells; however, we do not yet know which symptom is triggered by ageing the most.",
+      "Ageing is characterised by damaged DNA, chronic inflammation and worn-out cells, but which one of these makes the process more complicated is yet to be determined."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q72",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- Yet even today, when objective evidence is valued highly, most people would admit to secretly cherishing one, or two, or many superstitions. Across America, tens of thousands of lottery tickets are pencilled in every day based on nothing more or less than people's lucky numbers. Though we now have scientific explanations for a number of once-mysterious phenomena, daily life still holds enough unpredictability that we turn to superstitions to account for the implausible.",
+    "options": [
+      "Bad-luck superstitions still keep many people from walking under a ladder, opening an umbrella indoors, or boarding an airplane on Friday the thirteenth.",
+      "Scientific studies reveal that most of the superstitious beliefs we inherit involve ways to protect ourselves from evil.",
+      "Archaeologists identify Neanderthal man, who roamed throughout Western Asia 50,000 years ago, as having produced the first superstitious belief.",
+      "Superstitious beliefs, given their irrational nature, should have receded with the arrival of education and the advent of science.",
+      "Supernatural beliefs come into being when particular events happen in a way that cannot be explained by reason and are followed by superstitions to help control them."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q73",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Braille is a tactile (touch-based) system of written language that features patterns of raised dots to represent letters of the alphabet, common words and contractions, mathematical symbols, and punctuation. Named after its developer, Louis Braille, braille allows people who are blind to read and, with adaptive technology, to write. ---- Learning each of the different forms of braille code is like learning a new language. Therefore, most people only learn the one or two of those they are most likely to use in their daily lives.",
+    "options": [
+      "People whose vision is still intact can also learn braille, and should if they have regular interactions with people who are blind.",
+      "There are a number of braille variations in common use in the US, including braille specific to music, mathematics, science, and computer programming.",
+      "Many communities have schools and consultants who teach braille as well as libraries that provide braille publications.",
+      "Nemeth braille code provides a mix of American literary braille, Nemeth braille, and unique symbols for instruction documentation.",
+      "American literary braille code uses about 250 patterns to create book-length materials using short-form words, contractions, and single-cell words."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q74",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Gothic is the style of architecture and art that succeeded Romanesque and prevailed in Europe from the mid-12th century to the 16th century. Like many other stylistic labels, the word was originally a term of abuse. It was coined by Italian artists of the Renaissance to denote the type of medieval architecture they condemned as barbaric. ---- None of these features was first used in the Gothic period, but when employed together they created a new type of skeletal structure and a sense of graceful resilience that was very different in spirit from the massive solidity of Romanesque buildings.",
+    "options": [
+      "The Gothic style is still characterised chiefly in terms of architecture – in particular by the use of pointed arches, rib vaults, and flying buttresses.",
+      "The term ‘Gothic’ has also been applied to the ornament, sculpture, and painting of the period in which Gothic architecture flourished.",
+      "A swaying elegance is often considered typical of Gothic figures, which are generally more naturalistic and less remote than those of the Romanesque period.",
+      "This architecture was not created by the Gothic tribes who had destroyed the classical art of the Roman Empire.",
+      "However, the movement became more serious in tone and developed into a major strand in art."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q75",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The fossil record of dinosaurs in Africa extends from the Late Triassic Period, over 200 million years ago, until the Late Cretaceous Period, presumably 65 million years ago. However, the extinction event that ended the reign of dinosaurs has yet to be documented. Throughout this length of time, Africa remained relatively stable geologically, changing position only slightly by drifting and rotating northward. ---- The changing geography of Africa and its neighbours throughout the Mesozoic Period is fundamental to understanding the dinosaur fossils found there.",
+    "options": [
+      "During the Late Triassic through the Early Jurassic, major continental land masses were united into the supercontinent of Pangaea.",
+      "Late Triassic dinosaur sites are found extensively in southern Africa (particularly South Africa, Lesotho, and Zimbabwe) and to a lesser extent in northern Africa (Morocco).",
+      "Thus, the dinosaur fauna of the Late Triassic and Early Jurassic are generally similar across the globe because there was only one continent rather than several continents.",
+      "By contrast, the continents surrounding Africa moved greatly, resulting in ocean barriers between what were once contiguous land masses.",
+      "The boundary between the Triassic and Jurassic Period is marked by extinctions globally, but it has not been studied in detail in Africa."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q76",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Science that presents an organised view of the universe developed with the rise of Greek civilisation, starting about 600 BC. (II) Scholars from the Egyptian and Mesopotamian civilisations already had learned many scientific results before the start of Greek civilisation. (III) The Greeks developed institutions, such as the Academy, the Lyceum, and the Museum, that pursued science in somewhat the way the universities do today. (IV)When the Academy and Lyceum were closed, and the Museum was destroyed, the Greek era in science was over. (V) This period, from the birth of Western civilisation in Europe to the start of what is often called the Dark Ages, can be termed 'Antiquity'.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q77",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) The Magna Carta was a document written to satisfy the grievances of England's barons and the Church by clearly defining their rights and responsibilities, as well as those of the King. (II) The agreement covered such topics as the giving of heirs in marriage, a widow's right to choose not to re-marry, and the handling of debts following a debtor's death. (III)Of particular note though were the promises that no free man would be imprisoned except by lawful justice, nor would they be denied the right to justice. (IV)The Magna Carta was written in medieval Latin and agreed to and sealed by King John in 1215. (V) There were also restrictions placed on the use of taxation by the King and his barons, including the formation of a council that could approve or reject proposed taxes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q78",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)The world's reef systems face overwhelming stress – threats from overfishing, pollution and climate change being the main causes. (II) Most threatened is the Caribbean reef system, with more than 80 percent of its live coral cover having disappeared since the 1970s, largely due to global warming. (III) Coral has evolved a spectacular way of maximising its chances of survival. (IV) A visual example of the damage being done is coral bleaching, which turns coral from a natural pink shade to a ghostly white. (V) It is the result of warmer waters destroying the algae that give coral its usual colour.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q79",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Allergies, like many conditions, tend to become worse if a person is run-down, stressed, over-tired, has a poor diet, or does not get adequate exercise. (II) An allergy is defined as a condition caused by an inappropriate or exaggerated reaction by the body’s immune system. (III)Harmless substances are misidentified by it as potentially dangerous, so the immune response is to form antibodies. (IV) These attack the perceived irritants – or allergens – on the surface of the offending substance. (V) The reaction between antibodies and allergens stimulates the release of substances within the body, such as histamine, which cause a variety of irritating symptoms.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q80",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)The voyages of discovery of the 15th and 16th centuries unveiled whole new worlds to the European eye, worlds full of new animals, plants and people. (II)The passage to new worlds was regarded by many as a commercial opportunity. (III) These new lands were rich in raw materials, which could be traded for manufactured goods. (IV)They also offered possibilities of settlement, and a number of countries began to plant their flags in distant parts of the globe. (V)The cultivation of sugar, tobacco and other crops on the plantations depended on slave labour.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V OSYM001"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

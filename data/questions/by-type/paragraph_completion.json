@@ -1,0 +1,1974 @@
+[
+  {
+    "id": "2013-sonbahar-q72",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Each year 300,000 people in England and Wales get food poisoning from the Campylobacter bacterium. ---- If the meat is not cooked properly, or if raw meat is allowed to cross-contaminate cooked food, you can end up swallowing live bacteria. The bacteria are destroyed by stomach acid but some will always survive.",
+    "options": [
+      "Obviously, eating vegetables is known as a safer method of nutrition.",
+      "It usually takes one or two days for the symptoms to appear, so it can be difficult to identify what kind of food was eaten.",
+      "The most common way to become infected is by eating contaminated chicken.",
+      "Vegetarians have a much higher tolerance to this bacterium than non-vegetarians.",
+      "Common symptoms include fever, diarrhoea and abdominal cramps."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q73",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As some economic studies have shown, the longer a person is unemployed, the harder it becomes for him or her to find a job. Many companies are reluctant to hire those who have not worked for a long time. There are 6,7 million Americans not officially counted as part of the labour force, who say they would like to work. ----",
+    "options": [
+      "A company should reform its working conditions if employees are not very productive.",
+      "Integrating these people into the economy will be a long and expensive undertaking.",
+      "In Western Europe, where it is hard to fire people, employers are more cautious.",
+      "Not all unemployment is equal, as there are better and worse ways to be without a job.",
+      "Likewise, there are not big differences between the unemployment rates of Europe and the US."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q74",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Identity in the 21stcentury is primarily self-constructed. Within a world of diversity and difference, style has become a crucial and indispensible tool for its expression. ---- However, body style is undoubtedly our most powerful and effective means of signalling where we are at.",
+    "options": [
+      "The human body is, by its very nature, special and essential.",
+      "This is true of all aspects of style from home decorations to cars, kitchens to cuisine.",
+      "What you look like is no longer strictly determined by your social situation and culture.",
+      "Free from rules, appearance is now a matter of personal creativity.",
+      "Throughout history, humans have devised different methods to alter their appearance."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q75",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "People generally have a repertoire of speech styles, and they automatically or deliberately tailor the way they speak to the context of the communicative event. For instance, we tend to speak slowly and use short words and simple grammatical constructions when we speak to foreigners and children. ----",
+    "options": [
+      "Moreover, scientists claim that children acquire their first language listening to their parents and imitating them.",
+      "However, we use longer and complex sentences when we are in a formal context such as an interview.",
+      "In fact, there are other similarities and differences in word choice of men and women.",
+      "For example, most people can quite easily identify Americans and Australians within various age groups.",
+      "In other words, speech style alone may not be sufficient to elicit a listener’s attitudes towards the group that the speaker represents."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q72",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many psychologists reject Freud’s view that dreams typically represent unconscious wishes and particular objects, and events in a dream are symbolic. Instead, they believe that the direct, overt action of a dream is the local point of its meaning. For example, a dream in which we have not studied for an exam does not relate to unconscious, unacceptable wishes. ---- Even more complex dreams can often be interpreted in terms of everyday concerns and stress.",
+    "options": [
+      "Instead, it simply may mean that we are concerned about a hard test that we will take soon.",
+      "Dreams can reflect events occurring in a dreamer’s environment.",
+      "It was important to pierce the armour of a dream’s clear content to understand its true meaning.",
+      "Moreover, it can be tested in an experiment whether this is true or not.",
+      "Although dreams are the rehearsal of a real event, they are not actually related with real actions."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q73",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- Many of these expectations have been demonstrated by social anthropologists. Margaret Mead, for example, showed that in some societies, women are expected to be subordinate, gentle and submissive, while in others, they are expected to be aggressive and competitive.",
+    "options": [
+      "Gender refers to differences in the way that men and women in a particular society are expected to feel.",
+      "We have long known that there are big differences between societies in the way women are expected to behave.",
+      "Women today have a number of expectations from the study of female relations.",
+      "People may debate how different men and women are in their expectations.",
+      "The relationships of power and inequality between men and women have changed over the centuries as expected."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q74",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many jargon terms pass into the standard language. Jargon spreads from a narrow group until it is used by a large segment of the population, similar to slang. ---- This is true of the now ordinary French word meaning ‘head’ tête, which was once a slang word derived from the Latin testa, which meant ‘earthen pot’.",
+    "options": [
+      "Two words can have the identical linguistic meaning, and one can be acceptable for use, and the other might be strictly forbidden.",
+      "Every conceivable science, profession, trade and occupation has its own set of words, some of which are considered to be ‘slang’ and others ‘technical’.",
+      "Shakespeare used the expression ‘beat it’ to mean ‘scram’, and ‘beat it’ would be considered by most English speakers to still be a slang expression.",
+      "Eventually, it may lose its special status as either jargon or slang and gain entrance into the respectable circle of formal usage.",
+      "The use of slang varies from region to region, as one would expect, so slang in New York and Los Angeles is not the same."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q75",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Caring for the young may delay ageing in the brain. Gro Amdam, who studies ageing in bees at Arizona State University, observed improvements in cognition among older bees that turn their attention back to nursing. ---- Amdam’s theory is that when older individuals participate in tasks typically handled by a younger generation – whether in a hive or in our own society – antioxidant levels increase in the brain, which slows the ageing process.",
+    "options": [
+      "This change in social behaviour could help the human brain as well.",
+      "In a bee colony, there is a perfect distribution of duties, leaving no room for any delay in ageing.",
+      "However, changing social roles can have negative impact on both the young and the old.",
+      "It is essential that we try and keep our brain young at any cost.",
+      "The study is subject to serious criticism, as bees and humans are very different species."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q72",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "No one on the planet is going to escape the effects of global warming and for billions the resulting environmental deterioration is going to make life considerably more difficult. ---- The question is whether we will ever be able to achieve a worthwhile international consensus that allows us to do this with any degree of effectiveness.",
+    "options": [
+      "Without US ratification, emissions from all the industrial countries could rise significantly soon.",
+      "It is too late now to put the clock back, but we can at least attempt to reduce the worst impacts of global warming.",
+      "The more global warming continues to attract the public attention, the closer we are to finding a solution.",
+      "The latter includes ways of using the oceans as a dumping ground for atmospheric carbon dioxide.",
+      "In terms of greenhouse gas emissions, things are getting steadily worse, not better."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q73",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "One of the first microscopes was built by a lensmaker in the Netherlands in 1590. It was a simple device with one lens. In 1625, Italian scientist Galileo Galilei made the first compound microscope. ---- The magnified view appears as a so-called ‘virtual image’ behind the target. Many microscopes today also have a light source behind the target to illuminate it.",
+    "options": [
+      "It had one lens to create an image of the target and another to make it bigger.",
+      "While it was very useful then, it did not take long for more advanced ones to come.",
+      "Galilei, himself, did not believe that he could magnify views on lens.",
+      "This microscope gave the impression that it could pave the way for new microscopes.",
+      "Microscopes have been used in a variety of fields including forensics, metallurgy and medical microbiology."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q74",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Between 4000 and 2000 BC, the first urban civilizations arose independently along the Tigris, the Nile, the Indus and the Yellow River. All of these great rivers are prone to seasonal variations in flow, with flood alternating with drought. ---- Once this technology was developed, farmers found that they could move into drier areas, such as southern Mesopotamia.",
+    "options": [
+      "Archaeologists have found sites where one Sumerian city was built on top of an earlier one, separated by a layer of mud swept over in a flood.",
+      "Although most humans lived in small hunting bands, some pre-farming peoples worked out a very different strategy of survival.",
+      "To maximize agricultural production, it was necessary to build dams to store the flood waters in reservoirs to water the fields during the dry season.",
+      "Constructing such schemes required an accurate calendar to predict when the floods would come, and a high degree of social organization.",
+      "It was here that first people first began to cultivate crops, kick starting a global revolution in the way humans live."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q75",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "It was only about a century ago that Jules Verne fantasized about people travelling around the world in only 80 days. Much of what we take for granted today results from technology that has been developed only within the last century. Before then, change occurred slowly. ---- Travellers commonly fly from New York to London in six-and-a-half hours, and communications are almost instantaneous.",
+    "options": [
+      "Demand for new products, services and technology has little impact on international transport.",
+      "Moreover, the cost of improved communications and transportation has risen more slowly than the speed of travel.",
+      "But conducting business on an international level involves greater distances than it did in the previous century.",
+      "Speed restrictions now make international business more expensive to undertake.",
+      "In recent years, however, the pace of technological advances has accelerated at a fast rate."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q72",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Over the years scientists have hunted for some signal that would allow forecasters to pinpoint exactly where and when an earthquake will hit. After decades spent searching in vain, many seismologists now doubt whether such a signal even exists. ---- Within seconds of an earthquake’s first subtle motions, scientists can now predict with some certainty how strong and widespread the shaking will be.",
+    "options": [
+      "Nevertheless, not all hope is lost.",
+      "This would put people out of the harm’s way.",
+      "This is enough to send shutdown warnings to power plants.",
+      "An earthquake early-warning system could provide a 20-second warning to the heart of the region.",
+      "The nationwide network issues warnings via most television and radio stations."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q73",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The brain analyzes the flood of incoming information, decides how to respond, and sends outgoing signals to muscles and other organs, telling them what to do. ---- However, many parts of the nervous system work automatically, controlling your internal organs and reflexes without your conscious awareness.",
+    "options": [
+      "The nervous system has two main parts: the central nervous system and the peripheral nervous system.",
+      "The nervous system in the human body is made up of billions of cells called neurons used for sending and receiving information.",
+      "Nerve cells located almost everywhere in your body have long extensions called axons that can stretch to 1 m in length.",
+      "Much of your nervous system is under voluntary control, which means you can choose how to react.",
+      "While man-made wires carry power, the cells that make up the nervous system carry information."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q74",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In his renowned theory of relativity, the German-born Nobel Prize-winning theoretical physicist Albert Einstein discarded the now discredited theory of ether and came to a conclusion: the speed of light remains constant, regardless of a light source’s motion. ---- For instance, as a rocket accelerates, time passes more slowly for the rocket, and its length shortens. Conversely, from the rocket’s point of view, clocks on the Earth advance more quickly.",
+    "options": [
+      "Instead, space and time are altered in accordance with the object’s movement.",
+      "Not only is the speed of light always and everywhere the same, it is also the absolute maximum speed limit.",
+      "Albert Einstein, a great physicist, transformed our understanding of time and space.",
+      "Mathematically, general relativity is much more complicated than special relativity.",
+      "Neither special nor general relativity is significant at the speeds achieved by cars, airplanes or high-speed trains."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q75",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In the early 1980s, Israeli scientist Dan Shechtman discovered that snow crystals could form in structures that are ordered, but that have no repeating pattern. ---- It turns out, he should not have worried as he was awarded the Nobel Prize for the work in 2011. The structures, now known as quasicrystals, resemble Moorish mosaics such as those found in the Alhambra in Granada, Spain.",
+    "options": [
+      "Since Shechtman’s publication, hundreds of quasicrystals have been created in the laboratory.",
+      "It was 100 years ago when the technique of X-ray diffraction, which Shechtman used a lot in his studies, first allowed the detailed study of crystals.",
+      "The idea was so controversial that he did not publish his results for two years, fearing that no one would believe him.",
+      "Shechtman’s findings were not enough; the world had to wait until 2010 for a natural crystal to be identified.",
+      "When he published his findings, Shechtman had to confront a lot of criticism."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q72",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "There are a lot of doubts and questions about how effective antidepressants are. Many professionals in the field of psychology claim that for drugs to work, we need 'precision medication'. The aim of precision medication is to develop strategies that are best suited to each patient's biological, psychological, and social profile. ---- For example, if you have a job, you may be more likely to respond to a specific type of antidepressants.",
+    "options": [
+      "Studies of antidepressant response prediction continue with millions of dollars and generate data derived from neurophysiology and genetics.",
+      "Doctors can now use new technologies in neuroimaging to improve treatment that can produce better results.",
+      "Certain characteristics, such as socioeconomic factors, can predict how someone will respond to a drug.",
+      "We can understand from large clinical trials that antidepressants do not work as much as we expect them to on average.",
+      "We do not need big data studies on antidepressant response, as even finding out the complaints of a patient can provide doctors with sufficient information."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q73",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Ethnic groups can differ greatly in appearance, dress codes, cultural practices, and religious beliefs. ---- For instance, the Welsh and the English in the UK are most distinctive in terms of their accent and language. Speech style, then, is an important and often central stereotypical or normative property of group membership.",
+    "options": [
+      "Therefore, communities that live in well-defined boundaries exhibit uniformity in the way they use language orally.",
+      "Yet, communication involves spoken and written languages and a rich mix of expressions which are contextualized by ethnicity and nationality.",
+      "Nevertheless, language or speech style is often regarded as one of the most distinct and clear markers of ethnic identity.",
+      "Besides, the nature of the power and status relations between ethnic groups in society is influenced by self-respect and pride.",
+      "In addition, ethnic groups that are high on status and have respectful jobs have high ethno-linguistic value."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q74",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sons look to their fathers for support and example. They need to be instructed and inspired, but sometimes fathers cannot meet these needs of their sons. For example, Abraham Lincoln had little to learn from his father, Thomas. Abraham Lincoln and his father differed in almost every way. While Thomas could not understand reading as a passion, Abraham read every book he could get hold of. ---- Unlike his son Abraham, Thomas was unambitious and stubborn. Thus, when Abraham was a young adult, he turned to the heroes of the past generation for inspiration.",
+    "options": [
+      "When fathers cannot inspire their children, they often search for father figures among their favourite teachers.",
+      "Abraham was not content with his life; therefore, at the age of 21, he left his parents' home and rarely saw his father again.",
+      "Thomas was a good father, as he always supported Abraham to read different kinds of books to gain different perspectives.",
+      "In addition to their intellectual differences, Thomas and Abraham were emotionally incompatible, too.",
+      "Besides, it was hard for Abraham to hide his reactions to the political and social events that occured when he was young."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q75",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "There are some 100 billion galaxies in the observable universe, with about 100 billion stars in each of these galaxies. ---- In fact, there are more planets in the universe than there are sand grains on all the beaches of all the coastlines of all the continents. Yet, in all this immensity, there is only one place where we know there is life – the tiny, fragile blue dot we call Earth.",
+    "options": [
+      "The reality is that finding life in remote planets will be very difficult and it will take quite a lot of time.",
+      "Many scientists are trying to explain the origin of the disparate bodies in the solar system.",
+      "Since one of Saturn's moons has been found to have ice fountains, we should be looking more widely for alive bodies.",
+      "In recent years, we have discovered that there are probably more planets than there are stars.",
+      "It is possible to find some kind of life in space, but whether we can talk to it is a matter of debate."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q72",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Floating and flying above us are not only the usual suspects – birds, bats, insects – but countless microscopic creatures as well. The discipline of aeroecology explores how animals, plants and other organisms live in, move through and interact with the aerosphere. ---- Instruments are now so precise that these technical observations can spot a single bee at about 45 km away.",
+    "options": [
+      "How animals are sensing, using and adapting to changes in atmospheric conditions is not interesting for some people.",
+      "A whole world of invisible creatures inhabit the aerosphere, which contains more than 100,000 living things.",
+      "Air, as an environment, can lead to surprising interactions between living and non-living things.",
+      "There are still many mysterious organisms that ecologists cannot define.",
+      "This science has seen huge gains because of the growing ability to track air movement with radar and telemetry."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q73",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "People strive for success, which motivates them to continuously strive for greater achievements. However, the strength of this motivation can vary greatly from person to person. ---- People lacking self-confidence tend to give up on a task much sooner than people with a strong belief in their own abilities. People's levels of motivation are also connected to their beliefs concerning the causes of events.",
+    "options": [
+      "Among other things, it depends on the value an individual places on his or her own performance.",
+      "While some sources of motivation are biological and directly promote survival, others are learned.",
+      "Because emotions can both trigger and maintain behaviour, they are motivators of human actions.",
+      "External incentives also act as a motivator for a certain type of behaviour or action.",
+      "The concept of motivation explains why people strive to achieve particular goals."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q74",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "For thousands of years, man and wolf have been together as allies and companions. A natural instinct that bonds them still exists. Drawing on human interactions with wolves, a team of doctors came up with wolf therapy to work towards repairing the empathy and self-esteem deficits among young adults. ---- The progress they make builds their motivation to complete the program and reduces the risk of reverting back to old harmful habits.",
+    "options": [
+      "Wolves have been rescued from dire circumstances, including abuse, neglect and abandonment.",
+      "Treatment centres are technologically advanced and have perfect facilities.",
+      "The treatment is designed to ease depression, anxiety and stress among those in the rehabilitation programs.",
+      "One of the challenges that therapists face is the difficulty in obtaining permission to capture wild animals.",
+      "A wolf has a unique capacity for engaging people's emotions and breaking through their defense mechanisms."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q75",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The way that interpersonal attraction develops is related partly to how we select a mate. Typically, men prefer women with the classic shapely body figure, probably because it signifies youthfulness, good health and fertility. However, there are cultural and ecological influences. ---- In modern Western societies, where heaviness may indicate ill health, men prefer slimmer women.",
+    "options": [
+      "In the United States, a woman's physical beauty is considered to be an ultimately important factor in partner-choosing.",
+      "In traditional agricultural societies, being thin may mean having a serious disease, so men prefer their women to be heavier.",
+      "If a woman lacks fertility in Far Eastern societies, this may deter men from choosing her as a wife.",
+      "Youthful appearance, body and facial symmetry have all become points of interest for American men.",
+      "Traditional societies have the conception that good genes cannot find their place in heavy bodies, which cause women to lose youthfulness."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q72",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Almost all of us experience prejudice in one form or another. People make assumptions about us on the basis of our age, ethnicity, race or sex, and we often find ourselves automatically making the same sorts of assumptions about others. Herein lies a paradox: prejudice is socially undesirable; however, it is widespread in society. ---- For example, the system of apartheid in South Africa, where black people were forced to live away from white people, was a classic case of such prejudice, as it was defended publicly as being recognition of and respect for cultural differences.",
+    "options": [
+      "No matter what the majority thinks, the government has to make sure that all citizens are safe regardless of their background.",
+      "If public awareness is raised, prejudice may not trigger serious problems in multicultural societies.",
+      "Once the influence of certain ideologies becomes commonplace throughout the world, it is not easy to eradicate the core beliefs.",
+      "Even in societies where prejudice is institutionalised, sophisticated justifications are often used to excuse or deny its presence.",
+      "Only when the necessary precautions are taken, can people feel secure, respected and equal in society."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q73",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When someone we regard as a cherished friend suddenly is not there for us, it can feel like a hurtful betrayal. But before accusing or condemning them, you might want to ask yourself such questions as \"Have they disappointed me before?\", \"Are my expectations too high?\", \"Have I always behaved perfectly towards them?\". ---- Since we are all fallible and could potentially disappoint our friends, it is good to remember that there are two sides to every story.",
+    "options": [
+      "Exploring these issues honestly will allow you to accept your share of responsibility.",
+      "It is common in these situations to start wondering if the person was ever a 'real' friend.",
+      "Particularly with social media, many bestow the status of friend on others with surprising speed and ease.",
+      "An enduring friendship is based on a similar life experience, and a shared value system.",
+      "One reason for ending the friendship or distancing yourself from it is growing apart in terms of interests."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q74",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The origins of the 35 mm camera lie in the increasing availability of motion picture film stock during the early years of the 20th century. The 35 mm format was first used in Edison’s Kinetoscope, a moving picture viewing device patented in 1891, and was later adopted as the standard film gauge by cinema-makers after 1896. ---- However, as the quality of the film improved, the potential virtues of small size and convenience of handling began to appeal to still camera designers.",
+    "options": [
+      "Three Spanish inventors took out a British patent for a still camera using 35 mm format as early as 1908.",
+      "Unsurprisingly perhaps, the 35 mm camera gained enormous popularity across the world.",
+      "Sales of the cameras were limited by the outbreak of World War I in 1914.",
+      "The earliest 35 mm film was very slow and not ideal for still camera work.",
+      "The first 35 mm camera sold to the public was probably an American model developed in 1913."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q75",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Children who do not master basic reading skills at an early age, specifically the ability to automatically decode new words and build vocabulary that leads to fluency, experience academic failure. ---- In other words, the curriculum focuses much less on teaching students to acquire the basic tools of literacy, and much more on using those tools to learn content, express ideas, and solve problems. At this point, students are likely to be given content textbooks in science and social studies and to read non-fiction for the purpose of gaining new information.",
+    "options": [
+      "The readiness of children to read, in particular, has recently gained greater attention from educators.",
+      "Family environment is as important as the school environment in children’s development.",
+      "By the third grade, learning to read has become reading to learn.",
+      "Children with good phonological awareness skills usually learn to read quickly.",
+      "They also need to learn book-handling skills such as orienting a book correctly."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q72",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "We are terrified of sharks, largely thanks to their reputation as vicious killers. Shark attacks are rare but appear to be rising: There were 98 unprovoked attacks worldwide in 2015, six fatal. There are three particularly notorious species: tiger sharks, great whites, and oceanic whitetips. ---- Recently, scientists have been shedding new light on these enigmatic creatures that are seemingly vital to the seas, and not as scary as you might think.",
+    "options": [
+      "Tiger sharks are unlikely to attack divers who keep them in sight.",
+      "Novice divers may come face-to-face with the sharks and see their true nature.",
+      "On the other hand, a lesser known fact is the crucial role sharks play in ocean ecology.",
+      "Tiger sharks in the protected waters of the Bahamas are relatively harmless, but they rarely stay in one place for long.",
+      "Scientists in Australia say that sharks keep fish numbers down and stop them degrading sea grass ecosystems."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q73",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "St. Valentine's Day is set aside for lovers and for declarations of love, with these declarations traditionally sent anonymously. ---- Theories put forward generally refer the custom back to Roman times, telling the story of St. Valentine, a Roman priest who assisted the Christian martyrs during the persecutions in the time of Claudius II. St. Valentine was caught and ordered to give up the Christian faith. He refused to do so and was executed on the 14th February 270 AD. In another telling, St. Valentine was executed for the cause of love, after allowing Christian soldiers to marry in spite of a ban on them imposed by Emperor Claudius Gothicus.",
+    "options": [
+      "St. Valentine's Day flourishes in cultures where there is a free choice of spouse.",
+      "As with many traditions of this kind, it is difficult to determine the real origin of the practice.",
+      "In the past, there was a belief that the first member of the opposite sex you met on this day would be your valentine.",
+      "Nowadays, St. Valentine's Day is promoted for commercial interests, by businesses from card manufacturers to flower merchants.",
+      "The Valentine's card as we know it today did not begin to gain popularity until recent decades."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q74",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "There is some indication that children whose access to television is restricted are less likely to be negatively affected by it, even when they do view it. A study has found that children whose parents restrict viewing are less likely to be unnecessarily fearful of the outside world. ---- In other words, children whose parents severely limit access to television may actually become more aggressive, perhaps due to the frustration that results from the deprivation of privileges.",
+    "options": [
+      "It should be noted, however, that there is some evidence that very extreme levels of restriction will backfire.",
+      "Children with limited access to television are less likely to believe that what they see on television is real.",
+      "It is possible that the mere presence of parents while viewing makes children feel happy.",
+      "Children who receive parental restriction are better able to quickly understand the plots of television programmes.",
+      "Much of the research on the effects of television viewing has focused on children whose parents are more sophisticated consumers of television."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q75",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Beautifully coloured birds, acrobatic monkeys, and noisy insects are just a few of the sights and sounds in a tropical rainforest – the richest plant and animal habitat in the world. Rainforests are found near the Equator where it is wet and warm enough for plants to grow all year round. Most rainforest trees are evergreen, and they produce food and shelter for a vast number of animals. ---- Every year, huge areas are cut down for timber and to make way for pastures and crops.",
+    "options": [
+      "Yet, the negative effect of global warming on this rich fauna can be seen.",
+      "Therefore, people should try hard to protect the variety of species living in rainforests.",
+      "In other words, the tropical rainforest is home to various plants and animals.",
+      "However, despite this richness, rainforests have recently been shrinking.",
+      "Some trees, on the other hand, are used to provide shelter for human beings."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q72",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When Parkinson’s disease develops, all emphasis shifts to getting the symptoms under control. This shift tends to guide medical care decisions, as well it should for optimal management of the Parkinson’s. ---- It remains important for the person with Parkinson’s disease to continue seeing a primary care doctor to manage other health conditions and tend to other routine health matters such as physical exams and screenings for high blood pressure, high blood cholesterol level, heart disease, diabetes, and breast, colon, and prostate cancer, as well as other conditions that become more common with aging.",
+    "options": [
+      "Anti-Parkinson’s medications remain the cornerstone of treatment and can restore near-normal function for years or decades.",
+      "Although Parkinson’s disease can strike at any age, it is a condition primarily associated with aging.",
+      "People who are younger and working when diagnosed are likely to have employer-sponsored group health insurance.",
+      "But this focus should not preclude attention to overall health care needs, as it sometimes does.",
+      "However, the Parkinson’s disease’s progression is unpredictable and inconsistent, and patients respond differently to treatment."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q73",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Tchaikovsky (1840-1893) was the first Russian composer to gain international fame. ---- He also had a remarkable gift for writing melody. Tchaikovsky is often described as a composer of music that is basically melancholy. Some of his music is melancholy, especially the last movement of his Symphony No. 6. Yet, he also wrote spirited music, as in Marche Slave and \"1812\" overture; lyrical music, as in the symphonic poem Romeo and Juliet; lively ballet music, as in the Nutcracker Suite; and powerful symphonies.",
+    "options": [
+      "But Tchaikovsky always claimed to be fully Russian in his feelings, and his works contain quotations from Russian folk melodies.",
+      "On the other hand, he cited Mozart, a Westerner, and Mikhail Glinka, a Russian, as the composers who influenced him the most.",
+      "He was a master of orchestration with a superb talent for blending instrumental sounds and for achieving rousing orchestral effects.",
+      "His early emotional sensitivity developed into long periods of depression, but he wrote some of his most cheerful music during these periods.",
+      "From 1862 to 1866, he studied music at the St. Petersburg Conservatory under Anton Rubinstein, a pianist and composer."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q74",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Time brought fundamental changes to mankind’s relationship with the wilderness and animals. The traditional view of animals as consumable was joined by a much more complex appreciation of the place of other living things. The greatest impact was on harvest hunting; the ancient moral relationship with prey was revisited. As wasteful as some traditional hunting methods were, the technology to destroy entire populations of prey rarely existed. ---- Whole communities of animals were nearly annihilated, but through the end of the 19th century increasingly powerful objections were raised to that extreme predation.",
+    "options": [
+      "However, as a result of machine culture and the industrial-scale harvesting of varied prey by commercial agents, wildlife destruction was horrific in scale and magnitude.",
+      "Ironically, as senseless as the terrific waste of prey such as bison and pigeon certainly was, the bloodshed took place too far from most citizens for it to register well.",
+      "Typically, hunting was thought to be more a process than a goal-oriented behavior; the hunter’s motivation and action are as important as the result.",
+      "Luckily, negative public reaction ensued in response to the enormous harvest of animals and also by a growing public awareness of the butchery exhibited in the name of fashion.",
+      "Therefore, regulating and taxing traditional hunters guaranteed the protection of vast habitat and wildlife populations, making them available for future generations of hunters."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q75",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The warming of the planet that began around 10,000 BC forced humans to adapt, and they did so with great ingenuity. Many of the larger animals people had feasted on during the Ice Age died out as a result of global warming and over-hunting. ---- Based on the behavior of hunter-gatherers in recent times, women did much of the gathering in ancient times and probably used their knowledge of plants to domesticate wheat, barley, rice, corn, and other cereals. This allowed groups who had once wandered in search of sustenance to settle in one place.",
+    "options": [
+      "This forced people to travel to far away places where there were still animals to hunt and eat.",
+      "At the same time, edible plants flourished in places that had once been too cold or dry to support them.",
+      "However, this did not change how the early humans found food as they went on hunting smaller animals.",
+      "Therefore, people used their logic and started preserving the small number of large animals left.",
+      "That was the point in human history that triggered the innate traits of humans to protect wildlife."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q72",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "It has been a basic tenet that an individual who uses substances heavily will become addicted. There are reports, however, of people becoming addicted to a substance with exposure only once or a few times. Some experts believe people are born with the predisposition to become addicted. ---- Thus, the potential for addiction may be hereditary. On the other hand, a psychological problem may lead the individual into addiction. The need for instant gratification, a feeling of being socially ostracized, and an inability to cope with the downfalls of life have all been cited as possible springboards to addiction.",
+    "options": [
+      "One characteristic that marks addiction, whether to chemicals or nonchemical practices, is the genetic modification it leads to.",
+      "A careful medically-controlled withdrawal program can reverse the chemical changes in genes caused by the addiction.",
+      "Habitual use of an addictive substance can produce changes in body chemistry and any treatment must be geared to a gradual reduction in dosage.",
+      "Studies have found that many former addicts have enough determination to avoid drugs for the rest of their lives.",
+      "Children of addicts have a greater probability of becoming addicts themselves than children whose parents are not. 2018-Y DS Spring/English"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q73",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In almost all cultures and societies, children have collected a broad spectrum of items. Although the activity seems to be universal, very little has been written on this subject. And even though collecting has played an important part in many individuals’ lives, it is seldom described in memoirs or autobiographies. This may be because many collections are suddenly abandoned when the collector grows up. ---- Other collections, however, continue into adult life, becoming lifelong passionate occupations; this is especially likely with collections that have some kind of economic value or present the adult with challenges or opportunities for further study.",
+    "options": [
+      "Most children will carry on adding to their collections throughout adulthood because they are so attached to them.",
+      "Many are often split up and disappear during childhood unless parents understand the fascinating world of the small collector and pay special attention to saving them.",
+      "The spirit of the collector, once established, never leaves the individual but is turned in new directions and can result in life-changing career choices.",
+      "Grand collections may end up in places like museums, which seems to be the dream of collectors who do not want their passionate investments to disappear with them.",
+      "Collecting trains the eye, creates a sense of order, and develops aesthetic appreciation, while at the same time creating a sense of economic appreciation for certain items."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q74",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Fossils are remnants or traces of an animal or plant of a past geologic age that have been preserved in various ways in the Earth’s crust. From earliest times people must have seen fossils, but the first reports we have on the subject are from the ancient Greeks. Xenophanes of the early Ionian school is said to have noticed fossilised sea creatures high on mountains; he correctly interpreted this as meaning that these mountains had once been under water. ---- For example, he associated the fossilised bones of large creatures with mythical animals or with giant humans.",
+    "options": [
+      "In the 17th century, Nicolaus Steno argued persuasively that fossils are remains of living organisms.",
+      "In Roman times, Suetonius casually mentions that the emperor Augustus kept a collection of large fossil bones in his villa.",
+      "The famous scholar Avicenna put forward an idea that confused people about fossils for centuries.",
+      "Later, Herodotus reached the same conclusion regarding fossilized clam shells, but he misinterpreted other fossils.",
+      "Theophrastus, Aristotle’s successor, is said to have written a book on fossils, which was lost later, where he refers to fossilised fish. 2018-Y DS Spring/English"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q75",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "According to a World Bank report in1993, the East Asian miracle, achieving high economic growth for all people, is due to a combination of fundamentally sound development policies, tailored interventions, and an unusually rapid increase of physical and human capital. The more advanced economies in the Asian region are part of this success and have been referred to as high-performing East Asian economies. ---- In addition, these economies have displayed high per capita incomes, along with a much-improved income distribution, compared with most other developing economies.",
+    "options": [
+      "In contrast, the dramatic growth of the Asian tiger economies has been based on the export of manufactured goods.",
+      "Poorer countries have greater difficulty than relatively richer countries climbing up the ladder of development.",
+      "The study suggests that economies with a strong inward focus could not succeed.",
+      "Such economies have a record of high and sustained economic growth.",
+      "Promoting trade is positively related to levels of per capita income."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q72",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "According to a study in Usenge, Kenya, near the town of Kisimu, most families in the village do not value formal Western schooling. There is no reason they should, as their children will for the most part spend their lives farming or engaged in other occupations that make little or no use of Western schooling. These families emphasise teaching their children the indigenous, informal knowledge that will lead to successful adaptation in the environments in which they will really live. ---- They hope that their children may be able to leave the village and to go to a university. These families tend to emphasise the value of Western education and to devalue indigenous informal knowledge. Thus, the families typically value and emphasise one or the other kind of knowledge, but not both.",
+    "options": [
+      "At the same time, there are some, perhaps not many, families in the village that have different expectations for their children.",
+      "They believe that investing a lot of time in the development of academic skills needed for school success is a poor investment.",
+      "Furthermore, they see the learning of informal knowledge as relevant to their everyday adaptation as a better use of their time.",
+      "Some wealthy and educated parents living in the village share the same opinion with such families and do not favour formal Western schooling.",
+      "In formal Western schooling, however, children typically study a variety of subjects, including maths, foreign languages, etc., from an early age."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q73",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As children move into adolesence, they seek much more autonomy. At this stage, parents must achieve a delicate balance between granting autonomy and making sure their children do not get into situations where problematic or even dangerous behaviour could occur. ---- This makes it likely that their children will be involved with other teens who are enthusiastic about school and not into risk-taking.",
+    "options": [
+      "However, some parents may find it difficult to develop clear rules to ensure the teenager engages in appropriate activities when not under adult supervision.",
+      "It could be helpul if parents establish effective communication with their children with regard to what they are doing each day and foster their academic interests.",
+      "Children who are not regularly monitored by their parents are more likely to adopt destructive habits, suffer from depression, and obtain poor grades.",
+      "The most important issues to consider are the time teens need to be home, where they can go when they are out, and whom they can be with.",
+      "On the contrary, offering numerous opportunities for young people to play a greater role in civic life and governance is another way to prevent problems."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q74",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Medieval Islam became the principal heir to ancient Greek science, and Islamic civilisation remained the world leader in virtually every field of science between 800-1300 AD. The sheer level of scientific activity underlines this point, as the number of Islamic scientists during the four centuries after the Prophet matched the number of Greek scientists during the four centuries following Thales. Islamic scientists established the first truly international scientific community, stretching from Iberia to Central Asia. ---- A moment’s thought, however, shows how unreasonable it is to evaluate the history of Islamic science only or even largely as a link to European science, or even to subsume Islamic science into the ‘Western tradition’. Medieval Islam and its science must be judged on their own terms, and those terms are as much Eastern as Western.",
+    "options": [
+      "Early Islamic rulers encouraged the mastery of foreign cultural traditions, including notably Greek philosophy and science.",
+      "Yet, medieval Islamic science is sometimes dismissed as a conduit passively transmitting ancient Greek science to the European Middle Ages.",
+      "Islam was and is based on literacy and the holy book of the Quran, and contrary to the popular view, Islam showed itself tolerant toward others.",
+      "The result was another hybrid society, the cultural ‘Hellenisation’ of Islam and its typically bureaucratised institutions.",
+      "The institutional aspects of Islamic science are only beginning to be studied with scholarly rigour, and nothing like a full historical survey exists for the Islamic case."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q75",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though there are a number of teaching approaches, the literature indicates that teachers have two primary orientations to teaching: an orientation toward conveying knowledge and an orientation toward facilitating learning. ---- On the other hand, if the teacher wants to maximise students’ understanding, he or she will probably focus on the integration and elaboration of information in ways that could facilitate meaningful learning and critical thinking.",
+    "options": [
+      "Interestingly, teachers’ approaches to teaching are also mediated by situational and contextual factors in addition to a number of other factors.",
+      "Hence, the various characteristics of students in these classrooms will influence the approach to teaching as well as its outcomes.",
+      "For example, a teacher whose goal of teaching is to transmit and increase knowledge will likely focus on the content and provide structured learning experiences.",
+      "Moreover, it is generally known that the values and beliefs of teachers influence their perceptions and judgements and also affect their behaviour in the classroom.",
+      "Furthermore, this teacher might believe that students should be rewarded for good work and penalised for lack of effort and poor work."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q72",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- Yet even today, when objective evidence is valued highly, most people would admit to secretly cherishing one, or two, or many superstitions. Across America, tens of thousands of lottery tickets are pencilled in every day based on nothing more or less than people's lucky numbers. Though we now have scientific explanations for a number of once-mysterious phenomena, daily life still holds enough unpredictability that we turn to superstitions to account for the implausible.",
+    "options": [
+      "Bad-luck superstitions still keep many people from walking under a ladder, opening an umbrella indoors, or boarding an airplane on Friday the thirteenth.",
+      "Scientific studies reveal that most of the superstitious beliefs we inherit involve ways to protect ourselves from evil.",
+      "Archaeologists identify Neanderthal man, who roamed throughout Western Asia 50,000 years ago, as having produced the first superstitious belief.",
+      "Superstitious beliefs, given their irrational nature, should have receded with the arrival of education and the advent of science.",
+      "Supernatural beliefs come into being when particular events happen in a way that cannot be explained by reason and are followed by superstitions to help control them."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q73",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Braille is a tactile (touch-based) system of written language that features patterns of raised dots to represent letters of the alphabet, common words and contractions, mathematical symbols, and punctuation. Named after its developer, Louis Braille, braille allows people who are blind to read and, with adaptive technology, to write. ---- Learning each of the different forms of braille code is like learning a new language. Therefore, most people only learn the one or two of those they are most likely to use in their daily lives.",
+    "options": [
+      "People whose vision is still intact can also learn braille, and should if they have regular interactions with people who are blind.",
+      "There are a number of braille variations in common use in the US, including braille specific to music, mathematics, science, and computer programming.",
+      "Many communities have schools and consultants who teach braille as well as libraries that provide braille publications.",
+      "Nemeth braille code provides a mix of American literary braille, Nemeth braille, and unique symbols for instruction documentation.",
+      "American literary braille code uses about 250 patterns to create book-length materials using short-form words, contractions, and single-cell words."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q74",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Gothic is the style of architecture and art that succeeded Romanesque and prevailed in Europe from the mid-12th century to the 16th century. Like many other stylistic labels, the word was originally a term of abuse. It was coined by Italian artists of the Renaissance to denote the type of medieval architecture they condemned as barbaric. ---- None of these features was first used in the Gothic period, but when employed together they created a new type of skeletal structure and a sense of graceful resilience that was very different in spirit from the massive solidity of Romanesque buildings.",
+    "options": [
+      "The Gothic style is still characterised chiefly in terms of architecture – in particular by the use of pointed arches, rib vaults, and flying buttresses.",
+      "The term ‘Gothic’ has also been applied to the ornament, sculpture, and painting of the period in which Gothic architecture flourished.",
+      "A swaying elegance is often considered typical of Gothic figures, which are generally more naturalistic and less remote than those of the Romanesque period.",
+      "This architecture was not created by the Gothic tribes who had destroyed the classical art of the Roman Empire.",
+      "However, the movement became more serious in tone and developed into a major strand in art."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q75",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The fossil record of dinosaurs in Africa extends from the Late Triassic Period, over 200 million years ago, until the Late Cretaceous Period, presumably 65 million years ago. However, the extinction event that ended the reign of dinosaurs has yet to be documented. Throughout this length of time, Africa remained relatively stable geologically, changing position only slightly by drifting and rotating northward. ---- The changing geography of Africa and its neighbours throughout the Mesozoic Period is fundamental to understanding the dinosaur fossils found there.",
+    "options": [
+      "During the Late Triassic through the Early Jurassic, major continental land masses were united into the supercontinent of Pangaea.",
+      "Late Triassic dinosaur sites are found extensively in southern Africa (particularly South Africa, Lesotho, and Zimbabwe) and to a lesser extent in northern Africa (Morocco).",
+      "Thus, the dinosaur fauna of the Late Triassic and Early Jurassic are generally similar across the globe because there was only one continent rather than several continents.",
+      "By contrast, the continents surrounding Africa moved greatly, resulting in ocean barriers between what were once contiguous land masses.",
+      "The boundary between the Triassic and Jurassic Period is marked by extinctions globally, but it has not been studied in detail in Africa."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q72",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Unlike learning a second language, acquiring a first or native language does not require systematic instruction. Parents usually do not teach children the rules of language or do not tell them what kinds of sentences they can and cannot say. ---- For example, English speaking children might continue to say bringed rather than brought even though parents occasionally correct them.",
+    "options": [
+      "Parents' corrections inform children of what is not possible in the language they are exposed to.",
+      "Although parents generally do not correct their children, corrections can improve the children's language.",
+      "Children are rarely corrected, and even when they are, they resist the correction.",
+      "Children often take advantage of parents' correction and reformulate their utterances.",
+      "If children ask a question, parents will hardly check for its grammatical correctness."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q73",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Wilhelm Röntgen was born in Germany, but lived in the Netherlands for part of his childhood. He studied mechanical engineering in Zurich before becoming a lecturer in physics at Strasbourg University in 1874, and a professor two years later. He took senior positions at several universities during his career. ---- However, in the world of science, he is best known for his research into X-rays, and in 1901, he was awarded the first Nobel Prize in Physics for this work.",
+    "options": [
+      "Röntgen was always shy of having an assistant, and he usually preferred to work alone and built much of the apparatus he used by himself.",
+      "By 1900, Röntgen’s discovery of high energy electromagnetic radiation in the form of X-rays was being used in medical diagnosis.",
+      "Röntgen studied many different areas of physics, including light, gases, heat transfer, and thermal conductivity of crystals.",
+      "In his laboratory in Germany, Röntgen discovered X-rays by accident while he was studying the conduction of electricity through gases at low pressure.",
+      "Despite the numerous prizes, medals and honorary doctorates he had, Röntgen retained the characteristics of a strikingly modest man."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q74",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "There is a new milk in town; there are many, actually. The old alternatives to cow’s milk – soy, rice, and coconut milk – are now joined on grocery shelves by alternative milks made from almonds, peanuts, cashews, oats, peas – the list goes on and on. You can even buy milk made from potatoes or bananas. ---- But is that really true? Almond and cashew milks have less than half the calories found in cow’s milk, but are lower in protein. For those with allergies to nuts, banana milk is the way to go, but it can be difficult to find. Each type of alternative milk has its benefits and limitations. You should decide what is most important to you – nutrition, sustainability, or allergies.",
+    "options": [
+      "Alternative milks are only healthy if combined with a well-balanced diet, though the same is true of cow’s milk.",
+      "Manufacturers have recently begun to position such products as a reasonable alternative.",
+      "Alternative milks vary greatly in their nutritional value, and while some have a mild flavour, others have a stronger taste.",
+      "Most alternative milks are friendlier to the environment than dairy products, as the carbon footprint of producing, packaging and transporting cow’s milk is very high.",
+      "However, people do not drink alternative milks for their nutritional benefits; instead, they tend to use them for their coffee or cereal."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q75",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Much of what archaeologists know about past human life is uncertain and partial. For example, archaeologists argue about the dates that human life began and changed. New discoveries constantly force scientists to rethink the dating given to major developments in human prehistory. Even the primary method of identifying the age of discoveries, known as radiocarbon dating, is subject to second-guessing. Often different sources have different dates. Another difficulty is that there are simply not many sources of evidence about early human life. ---- Because of these difficulties, much of what is known about prehistoric man is based on the best guesses of scientists who may have devoted their life’s work to the subject.",
+    "options": [
+      "The older the historical remains, the more valuable and surprising they are to archaeologists.",
+      "Archaeologists must form their picture of early life based on small sets of discovered materials separated by both time and distance.",
+      "Another form of evidence comes from early rock paintings and etchings that have depicted human clothes, hair, and body decoration.",
+      "Archaeologists must carefully dig the remnants of the human past from out of the earth.",
+      "The problem of understanding the clothing of early humans is even more difficult by the fragile nature of fur."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q72",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The decline of England’s wild bees has been linked for the first time to the use of neonicotinoid pesticides on oilseed rape farms. ---- But recently, Ben Woodcock at the Centre for Ecology and Hydrology in Wallingford, UK, and his colleagues have studied data on 62 bee species from 31,800 surveys across more than 4,000 square kilometres of land. They have found that populations across all species declined by average of 7 percent after 2002, when farmers started widely using neonicotinoids on oilseed rape, and species that feed on rapeseed were hit three times as hard as those that do not.",
+    "options": [
+      "Researchers have concluded that many other factors affect bee-to-bee communication, such as climate change and disease.",
+      "These pesticides do not only contribute to the decline in the number of wild bee species, but they also hurt their ability to reproduce.",
+      "The effects such pesticides have on bees have been documented before, but there was no strong evidence focusing particularly on neonicotinoid pesticides.",
+      "Studies done on wild bees that eat plants with neonicotinoid pesticides have not yielded reliable results, so researchers now look for different reasons for bee decline.",
+      "In February 2018, the European Union approved the ban on neonicotinoid pesticides in an effort to protect bees and other valuable pollinator insects."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q73",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Thousands of individual parts make up the modern automobile. Much like the human body, these parts are arranged into several semi-independent systems, each with a different function. ---- The automobile contains similar circulatory systems to cool the engine using fluid (mostly water) and to circulate oil and fuel within the system. The engine ─ the ‘heart’ of the automobile ─ is comprised of pistons, cylinders, tubes to deliver fuel to the cylinders, and other components. Each system is necessary for making the automobile run and reducing noise and pollution.",
+    "options": [
+      "For example, our circulatory system comprises the heart, blood vessels, and blood.",
+      "The major systems of an automobile include the engine, fuel system, transmission, and electrical system.",
+      "When an automobile is designed, the arrangement and type of components depend on various factors.",
+      "Furthermore, the dependence on petroleum fuel of automobiles leads to power struggles and thus influences global politics.",
+      "Automobiles have given great freedom of movement as well as comfort to their owners."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q74",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As elephants walk through the forest or savanna, they leave big footprints behind them. These marks then fill with water, creating microhabitats for other forms of life. Researchers at Germany’s University of Koblenz-Landau analysed the contents of 30 footprints in Uganda. They found at least 61 different micro-invertebrate species, including mites. ---- Nevertheless, the study adds to a body of research suggesting that elephants play vital roles in their ecosystems.",
+    "options": [
+      "Researchers also think that this study serves as one more reminder of what we could lose if the illegal hunting crisis in Africa continues.",
+      "Because elephants weigh upward of 6,000 kilograms, they make quite an impression with their giant footprints.",
+      "Thanks to this study, researchers have proven without doubt that elephant footprints teem with life.",
+      "This work is in its early stage and more needs to be done to understand how heavily the tiny species rely on these footprint worlds.",
+      "The most common species found in these footprints were mayflies, backswimmers, leeches and gastropods."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q75",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Cities are dense with impermeable sidewalks and streets, so the concrete jungle does not exactly absorb excess water during storms. The result: destructive flash floods. To help, a Danish architectural firm has developed a tile-based modular paving system that collects and distributes rainwater. ---- The system captures water from roofs, streets, and parking lots, and delivers it to nearby permeable landscapes – such as garden boxes or park spaces – where it can be absorbed. The firm has already given a few Copenhagen sidewalks a face-lift this year to test out the tiles. But even before that experiment is finished, Toronto and several other cities have put in requests for the rain-draining material.",
+    "options": [
+      "Since permable pavements come in different forms, urban planners in other countries prefer to use a type of porous asphalt to absorb storm run-off.",
+      "Plants could be considered a necessity since they offer many perks to cities including shade, beauty, and habitat for wildlife.",
+      "These tiles resemble a normal paved surface but have small holes in them that funnel storm run-off into horizontally connected channels.",
+      "Roads, sidewalks, and terraces connect people but are often also impermeable to rain or flood waters.",
+      "One concern environmentalists have is preventing storm run-off from mixing with everyday pollutants like fertiliser and sewage."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q72",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "With few exceptions, the Austronesian languages are closely interrelated. In spite of their very large number and the enormous expanse of the territories occupied by them, it is very easy to recognise their genetic interrelationship. ---- As a result of this, the total number of Austronesian languages is a contentious issue. Taking this into account, the approximate number of Austronesian languages of given areas, and the number of their speakers in these areas could be detected only if a wide-scale scientific study is conducted.",
+    "options": [
+      "Because of their great similarity to each other, it is often difficult to establish whether certain varieties are different languages, or dialects of one language.",
+      "Phonologically, Austronesian languages are, with a few exceptions, fairly simple.",
+      "Like other language groups, the Austronesian languages are thought to have originated thousands of years ago.",
+      "The recognition of the genetic interrelationship and initial classification of Austronesian languages had its beginnings in the nineteenth century.",
+      "There are four types of indigenous languages in the Australasia and the Pacific area."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q73",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "At the very least, the egocentric bias causes us to misunderstand others. It undermines empathy and tolerance. It also traps us in a bubble and we waste vast amount of psychic energy recovering from insults that were never targeted at us in the first place. To live a life that is less reactive, more directed, it is necessary to put the ego in its place. ---- We can then see situations with clarity and approach them effectively. We may even see the wisdom in others’ point of view, and learn from them.",
+    "options": [
+      "We can cognitively prompt ourselves to recognise that our own point of view is not the only one, or necessarily the best one.",
+      "Social psychologists say our tilt to egocentricity is deeply ingrained as it helps us maintain a coherent narrative of the events in our lives.",
+      "Even so, it is essential for all of us to recognise the egocentric bias for what it is: an adaptive illusion.",
+      "There are some situations in which such ego-shifts occur naturally, with little effort ─ sublime experiences that defy comprehension.",
+      "Some studies also find that memento mori, reminders of the impermanence of life, also displace the self from centre stage."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q74",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The mind is a problem-solving organ that allows us to deal with events in imagination before they are faced in reality. That amazing skill has, over the last 10,000 years, allowed us, a weak, slow, and poorly defended species, to take over the planet. ---- We are living longer, even in the poorest countries. Violence is down, despite how things appear on our screens. We have made human progress.",
+    "options": [
+      "Some of the real-world difficulties a person faced centuries ago have been taken care of or at least diminished.",
+      "Still, choosing values takes a certain amount of psychological sophistication to rein in the problem-solving mind.",
+      "When we engage the capacity to choose and to embrace the values that inform our actions, we are humanising ourselves.",
+      "Our mental capacity can serve as an ever-present compass, letting us know we are straying from our true purpose.",
+      "Sometimes we get so caught up in our own thinking that we risk turning our values into a pros-and-cons list."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q75",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "A tendency to sleep at a set time each day defines an individual’s ‘chronotype’. Although strongly influenced by genetics and light exposure, age-related body changes play a key role. Puberty heralds a notable shift as bedtimes and wake-up times get later. ---- By 55 we wake at around the time we did as young children, approximately two hours earlier than as adolescents. Thus, a 7 am alarm for a teenager feels like a 5 am start for a person in their 50s.",
+    "options": [
+      "Teenagers need about 9 hours for best academic performance; however, many of them get far less.",
+      "This trend continues until 19.5 years in women and nearly 21 in men, then gradually reverses.",
+      "A Canadian study compared cognitive performance mid-morning and mid-afternoon in teenagers and adults.",
+      "Not surprisingly, teachers in their 50s will generally be at their best in the morning, unlike their teenage students.",
+      "More relaxed attitudes to bedtimes, ignorance about sleep and the near addictive use of social media make this worse."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q72",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sleep is a period of intense neurological activity, especially when we have dreams. ---- Many researchers think that dreams could be an unintended consequence of these and other underlying neurological processes. Harvard psychiatrists propose that as brain circuits become active during the night, they trigger sensations, emotions and memories, all of which are essentially random. But our meaning-making brains still assemble all of this underlying activity into a story, often a strange or illogical one.",
+    "options": [
+      "One of its main functions may be to allow the brain to consolidate and organise our memories.",
+      "Deciphering nocturnal symbols may be enjoyable, but in reality, it is much more complicated than it seems.",
+      "Scientific theories are more sceptical than dream dictionaries about how much dreams actually reveal.",
+      "Dreaming has recently been seen as something that opens a window to the working of the mind.",
+      "Dream interpretations seem relevant to our lives because they apply equally well to almost everybody."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q73",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Infants can recognise the emotions of others, and use this information when reacting to novel situations and people. As infants explore their world, they generally rely on the emotional expressions of their mothers or caregivers to determine the safety or appropriateness of a particular endeavour. ---- Are infants simply imitating their mother’s emotional responses, or do they actually experience a change in mood purely from the expressive visual cues of the mother? What is known, however, is that as infants explore their environment, their emotional responses to what they encounter are based on cues portrayed by their mother or primary caregiver.",
+    "options": [
+      "During the second year, infants express emotions of shame or embarrassment and pride, which are greatly developed with the help of adults.",
+      "Parents, however, are one of the primary sources that socialise children to communicate emotional experience in culturally specific ways.",
+      "Some scientists claim that infants may fail to react to a threat in an appropriate way because it is usually difficult for them to appreciate inputs.",
+      "Although this process has been established by several studies, there is some debate about how infants do it.",
+      "Most infants, on the other hand, pay close attention to the events that take place in their environment, particularly after the first month."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q74",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "For centuries, people have bred microorganisms for the production of foods such as cheese and yogurt. Genetic technology takes this process a step further by manipulating specific genes for practical applications in research, medicine, and agriculture. The manipulation of genes resulted in hundreds of new products at the beginning of the 21st century. ---- The tools used by scientists in this process include DNA-splitting enzymes and host organisms including a range of bacteria.",
+    "options": [
+      "Usually, one gene prevails over the other and is thus called the dominant gene that supresses the other.",
+      "Currently there are a number of technologies that use genetic engineering.",
+      "Genes are individual segments of DNA within chromosomes and are known to affect all human traits.",
+      "Reproduction entails a copy of a gene from the father and a gene from the mother joining together.",
+      "Genes from different species are often combined by inserting a gene from one organism into another."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q75",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Striving to eat healthily can, ironically, become an unhealthy obsession. People with the condition known as ‘orthorexia nervosa’ are fixated on consuming food in a way that they consider pure, clean or healthy to the point where their well-being suffers. They can, for example, become malnourished. ---- Some cut out entire food groups like fats or carbs. Orthorexia is not yet listed in psychiatric manuals, but it is described in scientific journals.",
+    "options": [
+      "The term ‘orthorexia nervosa’, which refers to a pathological fixation on eating only healthy foods, was coined by Steven Bratman, a Colorado physician.",
+      "Experts generally link orthorexia with perfectionism, dieting, obsessive-compulsive traits and mental health struggles.",
+      "That is because, as the disorder progresses, patients often become increasingly restrictive in what they will eat.",
+      "If people cannot deal with such problems in a proper way, then it could be of high importance for them to talk to a mental health professional.",
+      "Interestingly, and in contrast to many other eating disorders, gender does not seem to reduce the risk of getting orthorexia."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q72",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many ancient Greek writers told of a race of women warriors who were descended from Ares, the god of war, and the nymph Harmonia. They were said to live without men, wear masculine clothing, and spend their days hunting, farming, and above all fighting. ---- Researchers have only found traces of a people, the Sauromatians, whose women hunted and fought alongside their men. Nevertheless, the myth of the Amazons was popular; classical writers repeated the tales, and artists portrayed the Amazon women prominently in their art.",
+    "options": [
+      "In fact, they were placed in variety of geographical locations, the most mentioned of which is an area near the Black Sea.",
+      "However, there has been no archaeological evidence that proves the existence of such a tribe of women warriors.",
+      "Thus, the women were believed to be the fighters, rulers, and administrators; the men, looked after the home and reared the children.",
+      "So, Amazonian customs generated attention from ancient authors who were drawn to speculations about exotic women.",
+      "Moreover, for most of the writers, the Amazons lived not only far away but also in a distant time usually before or during the Trojan War."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q73",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Toxic behaviour is common in the workplace. In part, it grows from selfishness and callousness that can manifest in extreme form from certain character disorders that do not recede after work hours and are particularly destructive to interpersonal relationships. ---- The spirit of the times plays a role as well. Periods of cultural turbulence, instability and uncertainty tend to stimulate and release hostile behaviours that play on the fears of others. Whether it turns up in the conference room or the home, toxic behaviour has a negative emotional impact beyond its immediate cause.",
+    "options": [
+      "Toxic behaviour can also be the product of work environments where productivity is the only measure for success or where there is an atmosphere of mistrust.",
+      "A toxic boss behaves like a dictator whose rudeness is matched by bullying and the implementation of other offensive actions towards workers.",
+      "Toxic behaviour does not just inflict personal harm, it attacks the systematic well-being of entire groups and organisations alike.",
+      "People who are subjected to toxic behaviour as a target can be adversely physically affected in the long-term.",
+      "Nearly half of all workers in one poll in 1998 reported they were treated rudely at least once a week; a number which increased to 62% in 2016."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q74",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Misinformation is perhaps an inevitable part of the world we live in, but it is not a new problem. ---- Deceiving others can offer an apparent opportunity to gain strategic advantage, to motivate others to action, or to even protect interpersonal bonds. Moreover, people inadvertently have been sharing inaccurate information with one another for thousands of years. However, we currently live in an era in which technology enables information to reach large audiences distributed across the globe, and thus the potential for immediate and widespread effects from misinformation now looms larger than in the past.",
+    "options": [
+      "People have likely told lies to one another for roughly as long as verbal communication has existed.",
+      "Yet, certain patterns of communication and the facilitated spread of information might solve this problem.",
+      "Indeed, misinformation is concerning because of its potential to unduly influence attitudes and behaviour.",
+      "From an ethical perspective, many people worry most about the active promotion of misinformation.",
+      "However, media systems do not censor many types of it before being put in content made available to audiences."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q75",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Adaptive Business Intelligence (ABI) is the discipline of combining prediction, optimisation, and adaptability into a system capable of answering these two fundamental questions: “What is likely to happen in the future?” and “What is the best decision right now?” To build such a system, we first need to understand the methods and techniques that enable prediction, optimisation, and adaptability. At first glance, this subject matter is nothing new, as hundreds of books and articles have been written on business intelligence, prediction methods, optimisation techniques, and so forth. ---- ABI addresses this very issue.",
+    "options": [
+      "This popular statement has been around for years as business managers stored massive amounts of data in the belief that they contain valuable insight.",
+      "Moreover, recent research in psychology indicates widely held beliefs can actually hamper the decision-making process.",
+      "The concept of adaptability is certainly gaining popularity, and not just in the software sector; it can be seen in running shoes or Internet search engines.",
+      "However, none of these has explained how to combine these various technologies into a software system capable of predicting, optimising, and adapting.",
+      "These products are very appealing for individual consumers, because, despite their mass production, they are capable of adapting to the preferences of each unique owner."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

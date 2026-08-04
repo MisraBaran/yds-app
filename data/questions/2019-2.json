@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2019-2-q01",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Research has found that the typical brain is a ‘mosaic’ combining some features that are more common in males and some that appear more frequently in females, pointing to the ---- that human brains do not belong to two distinct types categorised by gender.",
+    "options": [
+      "violation",
+      "conclusion",
+      "development",
+      "compulsion",
+      "obstacle"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q02",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many scientists and research advocates contend that animal experiments are crucial for learning about basic biology and disease mechanisms, and are necessary for testing the ---- of new medicines.",
+    "options": [
+      "scarcity",
+      "urgency",
+      "ambiguity",
+      "efficacy",
+      "uniformity"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q03",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because the functions and disturbances of smell and taste are nearly ----, disturbances of one affect the other.",
+    "options": [
+      "inconvenient",
+      "unremarkable",
+      "inexplicable",
+      "unsophisticated",
+      "inseparable ENGLISH"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q04",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Maps of the ocean are rare as the vastness and depth of the ocean make it ---- difficult to study.",
+    "options": [
+      "admirably",
+      "notoriously",
+      "questionably",
+      "properly",
+      "incidentally"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q05",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Children with autism spectrum conditions often have trouble ---- the emotional states of people around them, struggling to distinguish a happy face from a sad one, for example.",
+    "options": [
+      "overcoming",
+      "ignoring",
+      "provoking",
+      "identifying",
+      "improving"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q06",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Human accomplishments ---- our ability to acquire knowledge from others and to use that communal store of experience to devise novel solutions to life’s challenges .",
+    "options": [
+      "call off",
+      "stem from",
+      "bring down",
+      "take out",
+      "figure out"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q07",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "For the first time, doctors ---- that temporarily opening the protective barrier of the human brain ---- to boost the delivery of cancer medication to brain tumours.",
+    "options": [
+      "are showing / helped",
+      "have shown / helps",
+      "showed / is helping",
+      "will have shown / was helping",
+      "will be showing / has been helping"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q08",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The Martian atmosphere is so thin, and the planet’s temperature so low that liquid water ---- there, and if it ever did in the past, conditions ---- very different.",
+    "options": [
+      "might not have existed / were to be",
+      "could not exist / may be",
+      "would not exist / can be",
+      "cannot exist / must have been",
+      "must not exist / should have been"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q09",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "A tsunami damaged emergency generators that ---- power to keep the nuclear reactors at Fukushima in Japan cool; however, the earthquake ---- to the tsunami also caused the cooling systems to fail.",
+    "options": [
+      "should provide / to lead",
+      "could have provided / to have led",
+      "would have provided / leading",
+      "must have provided / having led",
+      "might provide / led"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q10",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- the 17th century, committed Anglicans produced a steady flow of religious and devotional literature that aimed to inspire holiness ---- readers.",
+    "options": [
+      "By / about",
+      "During / through",
+      "Throughout / among",
+      "From / against",
+      "Across / over"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q11",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The word adolescence is Latin ---- origin, derived from the verb adolescere, which means ‘to grow ---- adulthood’.",
+    "options": [
+      "through / on",
+      "from / to",
+      "at / beyond",
+      "in / into",
+      "with / over"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q12",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- immigrants to North America's new colonies were primarily British in the 17th and 18th centuries, significant numbers of people of other nationalities also established a presence in the Americas.",
+    "options": [
+      "Because",
+      "While",
+      "As long as",
+      "Provided that",
+      "Once"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q13",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Not much had been accomplished with the phenomena of magnetism and static ---- the Chinese began to use the magnetic compass for navigation around 1000 AD.",
+    "options": [
+      "in case",
+      "while",
+      "until",
+      "if",
+      "as soon as"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q14",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Liquid water covers more than two-thirds of the Blue Planet's surface, ---- exactly how it got there has always been puzzling.",
+    "options": [
+      "so",
+      "instead",
+      "but",
+      "otherwise",
+      "as"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q15",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Personality is ---- a crucial aspect of psychology ---- every main branch of psychological research has attempted to contribute to the existing knowledge in this area.",
+    "options": [
+      "such / that",
+      "whether / or",
+      "as much / as",
+      "the more / the more",
+      "neither / nor"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q16",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Having a geopolitical significance ---- its unique aspect of dividing two continents, the Bosphorus stands among distinguished landmarks of Istanbul.",
+    "options": [
+      "similar to",
+      "thanks to",
+      "in place of",
+      "in spite of",
+      "contrary to"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q17",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2019-2-g17-21",
+    "passage": "In 2015, the Australian Shark Attack File, kept by researchers at Sydney’s Taronga Conservation Society, recorded 33 shark attacks in local waters, two of which were fatal. Both deaths, (17)---- a series of close encounters in which no one was harmed, were clustered around the towns of Ballina and Byron Bay in New South Wales, one of the eastern states of Australia. (18)---- , in 2014 the total number of attacks was 23; in 2013, that figure stood at 14. “But the stats only tell part of the story,” says John West, curator of the Australian Shark Attack File. He (19)---- the rise in attacks not to a sudden change in shark behaviour but to the higher number of surfers in the water. “For the last 60 years, wetsuits (20)---- people to spend more time in the water throughout the winter months, thus surfing in those conditions increases the risk,” says West. In addition, marine ecologist Dr. Daniel Bucher suggests that rainfalls in the state’s north could be carrying food for fish from rivers (21)---- the ocean and attracting sharks. “Don’t swim if you know there are plenty of bait fish around,” Bucher advises. “Especially if they’re breaking the surface, as it usually means something is chasing them from below.”",
+    "stem": null,
+    "options": [
+      "owing to",
+      "on behalf of",
+      "by means of",
+      "with the aim of",
+      "along with"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q18",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2019-2-g17-21",
+    "passage": "In 2015, the Australian Shark Attack File, kept by researchers at Sydney’s Taronga Conservation Society, recorded 33 shark attacks in local waters, two of which were fatal. Both deaths, (17)---- a series of close encounters in which no one was harmed, were clustered around the towns of Ballina and Byron Bay in New South Wales, one of the eastern states of Australia. (18)---- , in 2014 the total number of attacks was 23; in 2013, that figure stood at 14. “But the stats only tell part of the story,” says John West, curator of the Australian Shark Attack File. He (19)---- the rise in attacks not to a sudden change in shark behaviour but to the higher number of surfers in the water. “For the last 60 years, wetsuits (20)---- people to spend more time in the water throughout the winter months, thus surfing in those conditions increases the risk,” says West. In addition, marine ecologist Dr. Daniel Bucher suggests that rainfalls in the state’s north could be carrying food for fish from rivers (21)---- the ocean and attracting sharks. “Don’t swim if you know there are plenty of bait fish around,” Bucher advises. “Especially if they’re breaking the surface, as it usually means something is chasing them from below.”",
+    "stem": null,
+    "options": [
+      "Therefore",
+      "That is",
+      "Eventually",
+      "For instance",
+      "By comparison"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q19",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2019-2-g17-21",
+    "passage": "In 2015, the Australian Shark Attack File, kept by researchers at Sydney’s Taronga Conservation Society, recorded 33 shark attacks in local waters, two of which were fatal. Both deaths, (17)---- a series of close encounters in which no one was harmed, were clustered around the towns of Ballina and Byron Bay in New South Wales, one of the eastern states of Australia. (18)---- , in 2014 the total number of attacks was 23; in 2013, that figure stood at 14. “But the stats only tell part of the story,” says John West, curator of the Australian Shark Attack File. He (19)---- the rise in attacks not to a sudden change in shark behaviour but to the higher number of surfers in the water. “For the last 60 years, wetsuits (20)---- people to spend more time in the water throughout the winter months, thus surfing in those conditions increases the risk,” says West. In addition, marine ecologist Dr. Daniel Bucher suggests that rainfalls in the state’s north could be carrying food for fish from rivers (21)---- the ocean and attracting sharks. “Don’t swim if you know there are plenty of bait fish around,” Bucher advises. “Especially if they’re breaking the surface, as it usually means something is chasing them from below.”",
+    "stem": null,
+    "options": [
+      "leads",
+      "exposes",
+      "attributes",
+      "dedicates",
+      "conveys"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q20",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2019-2-g17-21",
+    "passage": "In 2015, the Australian Shark Attack File, kept by researchers at Sydney’s Taronga Conservation Society, recorded 33 shark attacks in local waters, two of which were fatal. Both deaths, (17)---- a series of close encounters in which no one was harmed, were clustered around the towns of Ballina and Byron Bay in New South Wales, one of the eastern states of Australia. (18)---- , in 2014 the total number of attacks was 23; in 2013, that figure stood at 14. “But the stats only tell part of the story,” says John West, curator of the Australian Shark Attack File. He (19)---- the rise in attacks not to a sudden change in shark behaviour but to the higher number of surfers in the water. “For the last 60 years, wetsuits (20)---- people to spend more time in the water throughout the winter months, thus surfing in those conditions increases the risk,” says West. In addition, marine ecologist Dr. Daniel Bucher suggests that rainfalls in the state’s north could be carrying food for fish from rivers (21)---- the ocean and attracting sharks. “Don’t swim if you know there are plenty of bait fish around,” Bucher advises. “Especially if they’re breaking the surface, as it usually means something is chasing them from below.”",
+    "stem": null,
+    "options": [
+      "were allowing",
+      "have allowed",
+      "had allowed",
+      "used to allow",
+      "will be allowing"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q21",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2019-2-g17-21",
+    "passage": "In 2015, the Australian Shark Attack File, kept by researchers at Sydney’s Taronga Conservation Society, recorded 33 shark attacks in local waters, two of which were fatal. Both deaths, (17)---- a series of close encounters in which no one was harmed, were clustered around the towns of Ballina and Byron Bay in New South Wales, one of the eastern states of Australia. (18)---- , in 2014 the total number of attacks was 23; in 2013, that figure stood at 14. “But the stats only tell part of the story,” says John West, curator of the Australian Shark Attack File. He (19)---- the rise in attacks not to a sudden change in shark behaviour but to the higher number of surfers in the water. “For the last 60 years, wetsuits (20)---- people to spend more time in the water throughout the winter months, thus surfing in those conditions increases the risk,” says West. In addition, marine ecologist Dr. Daniel Bucher suggests that rainfalls in the state’s north could be carrying food for fish from rivers (21)---- the ocean and attracting sharks. “Don’t swim if you know there are plenty of bait fish around,” Bucher advises. “Especially if they’re breaking the surface, as it usually means something is chasing them from below.”",
+    "stem": null,
+    "options": [
+      "with",
+      "about",
+      "for",
+      "into",
+      "upon"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q22",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2019-2-g22-26",
+    "passage": "As early humans moved out of Africa and into colder climates, they were confronted with the problem of keeping warm. Without a coat of hair to protect themselves against harsh climatic conditions, they (22)---- an artificial means of retaining body heat in order to survive. From this basic need developed the rich and varied dress of the world’s peoples. As societies began to develop, many other factors (23)---- the specific dress of a region or a culture, including the relative affluence, class and hierarchy, migration, war, religion, and industrialisation. Historically, dress has provided people with a visual cue that helps them make predictions about a person (24)---- ethnicity, class, gender, profession, economic status, and even place of origin. It forms an important element in social and economic history and can be an excellent basis (25)---- the study of culture. Most cultures have particular dress for ceremonial occasions and life celebrations. (26)----, dress holds a central role in ritual, social, and political life.",
+    "stem": null,
+    "options": [
+      "might find",
+      "should have found",
+      "can find",
+      "had to find",
+      "would have found"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q23",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2019-2-g22-26",
+    "passage": "As early humans moved out of Africa and into colder climates, they were confronted with the problem of keeping warm. Without a coat of hair to protect themselves against harsh climatic conditions, they (22)---- an artificial means of retaining body heat in order to survive. From this basic need developed the rich and varied dress of the world’s peoples. As societies began to develop, many other factors (23)---- the specific dress of a region or a culture, including the relative affluence, class and hierarchy, migration, war, religion, and industrialisation. Historically, dress has provided people with a visual cue that helps them make predictions about a person (24)---- ethnicity, class, gender, profession, economic status, and even place of origin. It forms an important element in social and economic history and can be an excellent basis (25)---- the study of culture. Most cultures have particular dress for ceremonial occasions and life celebrations. (26)----, dress holds a central role in ritual, social, and political life.",
+    "stem": null,
+    "options": [
+      "blurred",
+      "endured",
+      "determined",
+      "exhausted",
+      "threatened"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q24",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2019-2-g22-26",
+    "passage": "As early humans moved out of Africa and into colder climates, they were confronted with the problem of keeping warm. Without a coat of hair to protect themselves against harsh climatic conditions, they (22)---- an artificial means of retaining body heat in order to survive. From this basic need developed the rich and varied dress of the world’s peoples. As societies began to develop, many other factors (23)---- the specific dress of a region or a culture, including the relative affluence, class and hierarchy, migration, war, religion, and industrialisation. Historically, dress has provided people with a visual cue that helps them make predictions about a person (24)---- ethnicity, class, gender, profession, economic status, and even place of origin. It forms an important element in social and economic history and can be an excellent basis (25)---- the study of culture. Most cultures have particular dress for ceremonial occasions and life celebrations. (26)----, dress holds a central role in ritual, social, and political life.",
+    "stem": null,
+    "options": [
+      "regardless of",
+      "in contrast with",
+      "similar to",
+      "in terms of",
+      "rather than"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q25",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2019-2-g22-26",
+    "passage": "As early humans moved out of Africa and into colder climates, they were confronted with the problem of keeping warm. Without a coat of hair to protect themselves against harsh climatic conditions, they (22)---- an artificial means of retaining body heat in order to survive. From this basic need developed the rich and varied dress of the world’s peoples. As societies began to develop, many other factors (23)---- the specific dress of a region or a culture, including the relative affluence, class and hierarchy, migration, war, religion, and industrialisation. Historically, dress has provided people with a visual cue that helps them make predictions about a person (24)---- ethnicity, class, gender, profession, economic status, and even place of origin. It forms an important element in social and economic history and can be an excellent basis (25)---- the study of culture. Most cultures have particular dress for ceremonial occasions and life celebrations. (26)----, dress holds a central role in ritual, social, and political life.",
+    "stem": null,
+    "options": [
+      "over",
+      "for",
+      "at",
+      "toward",
+      "from"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q26",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2019-2-g22-26",
+    "passage": "As early humans moved out of Africa and into colder climates, they were confronted with the problem of keeping warm. Without a coat of hair to protect themselves against harsh climatic conditions, they (22)---- an artificial means of retaining body heat in order to survive. From this basic need developed the rich and varied dress of the world’s peoples. As societies began to develop, many other factors (23)---- the specific dress of a region or a culture, including the relative affluence, class and hierarchy, migration, war, religion, and industrialisation. Historically, dress has provided people with a visual cue that helps them make predictions about a person (24)---- ethnicity, class, gender, profession, economic status, and even place of origin. It forms an important element in social and economic history and can be an excellent basis (25)---- the study of culture. Most cultures have particular dress for ceremonial occasions and life celebrations. (26)----, dress holds a central role in ritual, social, and political life.",
+    "stem": null,
+    "options": [
+      "Even so",
+      "Instead",
+      "However",
+      "Otherwise",
+      "Therefore"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q27",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As the Dakota tribes along the Minnesota River in the US were fed up with settlers flooding into their territory, ----.",
+    "options": [
+      "they were less powerful and thus failed to defeat the settlers",
+      "the settlers were determined to fight against the Dakota tribes",
+      "they decided to respond with attacks to push the settlers off their reservation",
+      "the settlers reached an agreement on the territorial issues with the Dakota tribes",
+      "the new settlers of Dakota started a riot to rebel against the tribal chiefs"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q28",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because we are bombarded with so much information and misinformation about what might cause cancer, ----.",
+    "options": [
+      "it is often hard to separate myth from reality",
+      "it affects every one of us in the same way",
+      "the chance of being diagnosed is one in two",
+      "there are some things we can do to reduce our risk of getting cancer",
+      "the extent of public confusion was exposed in a survey last year"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q29",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "For a long time, punishment was viewed as a useful child-rearing tool, ----.",
+    "options": [
+      "since children seek role models who they can observe and imitate to learn complex social behaviours",
+      "furthermore, it evokes strong negative feelings in a child that he or she relates to the person applying it",
+      "therefore, punishment draws attention to the negative behaviour rather than the desired alternative",
+      "yet, it is now recognised that it generally does not lead to the desired behavioural outcome for children",
+      "hence, parents punishing their children for an inappropriate action are not providing an example of the correct behaviour"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q30",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While each researcher has their own way of analysing and interpreting animal remains, ----.",
+    "options": [
+      "it must be remembered that sample size and preservation quality ultimately influence the outcome",
+      "animal remains aid in the interpretation of ancient resource choices",
+      "it is fundamental to determine the locations and social complexity of archaeological sites",
+      "animal remains can be used to provide information about a variety of issues in the study of societies",
+      "some methods, terms and analytical tools are considered standard"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q31",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though animal behaviourists have traditionally avoided linking human emotions, such as grief, with responses by animals, ----.",
+    "options": [
+      "grief in animals may take forms that are difficult for humans to recognise as mourning",
+      "observations suggest that the ways in which we mourn might be uniquely human",
+      "a growing body of evidence shows that species ranging from dolphins to ducks mourn the passing of relatives",
+      "research on grief in wild monkeys that live in social units has been surprisingly limited so far",
+      "we think that humans are the only species that grieves over the loss of loved ones"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q32",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, language, as a complicated phenomenon of the human mind, does not seem to be restricted to a single region in the brain.",
+    "options": [
+      "If neurolinguists want to examine the functioning of the human brain in more detail",
+      "Even if certain tasks are fulfilled through coordination among neurons",
+      "Although it is localised mainly on the left side of the brain",
+      "As it is a concrete manifestation of the human mind",
+      "When the brain is overwhelmed with long and complex sentences"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q33",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, someone who is successful in several fields is often called a Renaissance man or Renaissance woman.",
+    "options": [
+      "In order to better understand the masterpieces of the brilliant Renaissance artists such as Michelangelo and Raphael",
+      "While the Renaissance affected every area of human activity and knowledge, from art to zoology",
+      "Because the Renaissance produced individuals with a wide range of interests who excelled in a number of different areas",
+      "Although most historians shared the view of the period as a rebirth after the darkness of the Middle Ages",
+      "After science advanced when Renaissance humanists discovered and spread ancient works on mathematics, medicine, and other topics"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q34",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Peer pressure is what causes people to do things that are popular in order to fit in with others, ----.",
+    "options": [
+      "while middle school students influence each other to a great extent",
+      "however, peers are the people who are of similar age, such as classmates",
+      "in other words, some individuals resist peer pressure and prioritise their own personal views",
+      "so it can be a very powerful driving force in the lives of adolescents",
+      "as psychologists use positive peer pressure as a method to change a child’s behaviour"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q35",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "According to skeletal therapists, it is vital that women strengthen their bodies in their 40s, ----.",
+    "options": [
+      "so a considerable number of women do not know very well how to maintain their bone health",
+      "as bone density starts to gradually decrease, leaving the bones fragile during this period",
+      "but hunched shoulders and poor posture can lead to a range of health issues in the old age",
+      "as long as muscles work optimally to support the skeleton and the body is positioned correctly",
+      "even though bad posture is known to give them an awkward look and might lead to serious ailments in time"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q36",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Fast food has emerged as one of the biggest enemies of health, especially for children, ----.",
+    "options": [
+      "thus its high consumption makes sense when the prices are considered",
+      "provided that the most common cause of obesity is the wide availability of fast food",
+      "while people are highly concerned about the nutritional deficiency of foods like burgers",
+      "so the fast food industry has received a lot of critical attention in recent years",
+      "as many fast food restaurants have started to provide healthier alternatives such as salads"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q37",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Alternative medicine has become increasingly popular in the Western world since about 1975, and has been the subject of much research ever since.",
+    "options": [
+      "Yaklaşık 1975’ten beri Batı dünyasında gittikçe yaygınlaşan alternatif tıp, bu tarihten itibaren birçok araştırmanın konusu olmuştur.",
+      "Alternatif tıp, Batı dünyasında yaklaşık 1975’ten beri gittikçe popüler hâle gelmiştir ve bu tarihten itibaren pek çok araştırmanın konusu olmuştur.",
+      "Alternatif tıp, Batı dünyasında yaklaşık 1975’ten beri gitgide yaygınlaşarak bu tarihten itibaren çok sayıda araştırmanın konusu olmuştur.",
+      "Yaklaşık 1975’ten beri Batı dünyasında gittikçe artan bir popülerliğe sahip olan alternatif tıp, bu tarihten itibaren birçok araştırmaya konu olmuştur.",
+      "Alternatif tıp, yaklaşık 1975’ten beri Batı dünyasında gitgide tanındığı için bu tarihten itibaren birçok araştırmanın konusu olmuştur."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q38",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Forensic investigators make a permanent record of anything at a crime scene that is relevant to the crime, and not only does this attention prevent dependence on highly unreliable human memory, and it also provides evidence that is likely to be accepted in court.",
+    "options": [
+      "Adli araştırmacıların olay yerinde suç ile ilgili her şeyin kalıcı kaydını tutmaları ve onların bu dikkatleri, oldukça güvenilmez olan insan hafızasına bağımlı olmayı engellemekle kalmaz, mahkemede muhtemelen kabul edilebilecek kanıt da sağlar.",
+      "Olay yerinde suç ile ilgili her şeyin kalıcı kaydını tutan adli araştırmacılar ve onların bu dikkatleri, oldukça güvenilmez olan insan hafızasına bağımlı olmayı engellemekle birlikte mahkemeye muhtemelen kabul edilebilecek kanıt sağlar.",
+      "Adli araştırmacılar, olay yerinde suç ile ilgili her şeyin kalıcı kaydını tutarlar ve bu dikkat sadece oldukça güvenilmez olan insan hafızasına bağımlı olmayı engellemekle kalmaz aynı zamanda mahkemede muhtemelen kabul edilebilecek kanıt da sağlar.",
+      "Adli araştırmacılar, olay yerinde suç ile ilgili her şeyin kalıcı kaydını dikkatle tutarlar ve bu, hem oldukça güvenilmez olan insan hafızasına bağımlı olmalarını engeller hem de mahkemede muhtemelen kabul edilebilecek kanıt sunmalarını sağlar.",
+      "Adli araştırmacılar olay yerinde suç ile ilgili her şeyin kalıcı kaydını dikkatli bir şekilde tutarak hem oldukça güvenilmez olan insan hafızasına bağımlı olmaktan kaçınırlar hem de mahkemede muhtemelen kabul edilebilecek kanıt elde ederler."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q39",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Bullying has been documented in almost every culture around the world, though there is evidence that it may be more prevalent in some countries than in others.",
+    "options": [
+      "Dünya genelinde neredeyse bütün ülkelerde zorbalığa dair kanıtlar bulunmaktadır ancak bazı kültürlerde diğerlerinde olduğundan daha yaygın olabileceği ispat edilmiştir.",
+      "Dünya genelinde neredeyse her kültürde kanıtları olan zorbalığın bazı ülkelerde diğerlerinde olduğundan daha yaygın olabileceği ispat edilmiştir.",
+      "Dünya genelinde neredeyse her kültürde bulunduğu ispat edilmiş olsa da zorbalığın bazı ülkelerde diğerlerine oranla daha yaygın olduğuna dair kanıtlar bulunmuştur.",
+      "Zorbalığın dünya çapında neredeyse her kültürde var olduğu ispat edilmiştir ancak bazı ülkelerde diğerlerinde olduğundan daha yaygın olabileceğine dair kanıtlar bulunmaktadır.",
+      "Bazı ülkelerde diğerlerine oranla daha yaygın olabileceğine dair kanıtlar bulunan zorbalığın, dünya genelinde neredeyse her kültürde var olduğu ispat edilmiştir."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q40",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Aşırı yağlı yiyecekler tüketen insanların diğerlerine göre kalitesiz gece uykusundan yakınmaları daha muhtemeldir, çünkü yağ tüketimi hormonları ve metabolizmayı olumsuz etkiler, ki bunların ikisi de uykuyu düzenleyen biyolojik saatle etkileşim içerisindedir.",
+    "options": [
+      "People who live on high-fat foods are more likely to suffer from poor night-time sleep than others, because hormones and metabolism, both of which interact with the internal clock to regulate sleep, are adversely affected by fat intake.",
+      "People who consume high-fat foods are more likely to suffer from poor night-time sleep than others, as fat intake negatively affects hormones and metabolism, both of which interact with the internal clock that regulates sleep.",
+      "Because fat intake negatively affects both hormones and metabolism and their interaction with the internal clock that regulates sleep, people who prefer high-fat foods are more likely to suffer from poor night-time sleep than others.",
+      "When people consume high-fat foods, they become more likely to suffer from poor night-time sleep than others, as fat intake adversely affects hormones and metabolism, both of which interact with the internal clock in regulating sleep.",
+      "Compared to others, people who eat high-fat foods are more likely to suffer from poor night-time sleep and the negative effect of the fat intake on their hormones and metabolism, both of which interact with the internal clock that regulates sleep."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q41",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Anoreksiya nervoza; perhiz ve ince olma takıntısının aşırı kilo kaybına yol açtığı bir beslenme bozukluğudur, ancak birey kilo kaybını bir sağlık problemi olarak kabul etmez.",
+    "options": [
+      "Anorexia nervosa is an eating disorder caused by an individual’s obsession with dieting and thinness that results in excessive weight loss, though the individual does not accept the weight loss as a health problem.",
+      "Anorexia nervosa is an eating disorder in which an individual is obsessed with dieting and thinness and thus loses excessive weight, but the individual does not view the weight loss as a health problem.",
+      "Anorexia nervosa is an eating disorder where obsession with dieting and thinness leads to excessive weight loss, but the individual does not acknowledge the weight loss as a health problem.",
+      "Anorexia nervosa is an eating disorder that leads an individual to lose excessive weight because of his or her obsession with dieting and thinness; however, the individual does not consider the weight loss as a health problem.",
+      "Anorexia nervosa is an eating disorder that causes an individual who is obsessed with dieting and thinness to lose excessive weight, which is not seen as a health problem by that individual."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q42",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "İlk kentlerin tam olarak ne zaman, nerede ve nasıl ortaya çıktığına dair devam eden tartışmalar olsa da çoğu araştırmacı bu kentlerin beş ya da altı bin yıl önce dünyanın çeşitli bölgelerinde kurulduğunu ileri sürmektedir.",
+    "options": [
+      "Most researchers claim that the first cities were built five or six thousand years ago in various regions around the world, yet there are still ongoing debates about precisely when, where and how these cities arose.",
+      "Even though discussions go on with regard to exactly when, where and how the first cities arose, many researchers argue that these cities were built five or six thousand years ago in various regions around the world.",
+      "Most researchers put forward that the first cities were built five or six thousand years ago in different parts of the world although debates still continue regarding exactly when, where and how these cities arose.",
+      "Although there are ongoing debates about exactly when, where and how the first cities arose, most researchers put forward that these cities were built five or six thousand years ago in various regions around the world.",
+      "In spite of the ongoing debates about precisely when, where and how the first cities arose, most researchers presume that these cities in different regions around the world were built five or six thousand years ago."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q43",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2019-2-g43-46",
+    "passage": "You may think that the leap from naked-eye observation to instrument-aided vision could be one of the greatest advances in the history of the planet. But nobody set out to invent a telescope or eyeglasses. One of the deepest and most widespread human conceptions was faith in the unaided human senses, particularly the naked eye. We do not know who invented eyeglasses, how or where. Everything we know suggests that they were invented by chance, and by a layman who had not been taught about optics. Perhaps an elderly glassmaker making glass disks for leaded windows tested a disk by looking through it and found to his delight that he could see much better. We can suspect that the inventor was not an academic, as professors would delight in boasting of their invention, and before the 13th century, we have no record by any such self-styled inventor. The Italian word lente (English ‘lens’ from ‘lentil’ - the edible seed) or lente di vetro (glass lentil) first used to describe the invention was obviously unacademic; it is clearly not the sort of word that a professor would use to describe the application of his optical theories. From the first recorded uses of eyeglasses before 1300 until the invention of the telescope nearly three hundred years later, lenses were ignored by scholars.",
+    "stem": "What was the reason for the initial lack of interest in making instruments for improving human vision?",
+    "options": [
+      "People saw no prospects for developments in the field of optics with respect to improving human vision.",
+      "Instruments that aided human vision were not a popular topic of interest among scholars and glassmakers.",
+      "There were too few scholars who had the necessary skills to invent instruments that could improve human vision.",
+      "Scholars were not willing to collaborate with each other to invent optical devices.",
+      "People had a strongly-held belief in the superiority of the naked eye."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q44",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2019-2-g43-46",
+    "passage": "You may think that the leap from naked-eye observation to instrument-aided vision could be one of the greatest advances in the history of the planet. But nobody set out to invent a telescope or eyeglasses. One of the deepest and most widespread human conceptions was faith in the unaided human senses, particularly the naked eye. We do not know who invented eyeglasses, how or where. Everything we know suggests that they were invented by chance, and by a layman who had not been taught about optics. Perhaps an elderly glassmaker making glass disks for leaded windows tested a disk by looking through it and found to his delight that he could see much better. We can suspect that the inventor was not an academic, as professors would delight in boasting of their invention, and before the 13th century, we have no record by any such self-styled inventor. The Italian word lente (English ‘lens’ from ‘lentil’ - the edible seed) or lente di vetro (glass lentil) first used to describe the invention was obviously unacademic; it is clearly not the sort of word that a professor would use to describe the application of his optical theories. From the first recorded uses of eyeglasses before 1300 until the invention of the telescope nearly three hundred years later, lenses were ignored by scholars.",
+    "stem": "Which of the following could be true of the inventor of eyeglasses?",
+    "options": [
+      "His usual work involved devising new instruments that improved human vision.",
+      "He was an experienced glassmaker who had a keen interest in optics.",
+      "He may have been an old inventor who did not want to boast about his invention.",
+      "Since he had difficulty seeing while working with glass disks, he invented eyeglasses to improve his vision.",
+      "He might have invented eyeglasses unintentionally while working on an unrelated project."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q45",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2019-2-g43-46",
+    "passage": "You may think that the leap from naked-eye observation to instrument-aided vision could be one of the greatest advances in the history of the planet. But nobody set out to invent a telescope or eyeglasses. One of the deepest and most widespread human conceptions was faith in the unaided human senses, particularly the naked eye. We do not know who invented eyeglasses, how or where. Everything we know suggests that they were invented by chance, and by a layman who had not been taught about optics. Perhaps an elderly glassmaker making glass disks for leaded windows tested a disk by looking through it and found to his delight that he could see much better. We can suspect that the inventor was not an academic, as professors would delight in boasting of their invention, and before the 13th century, we have no record by any such self-styled inventor. The Italian word lente (English ‘lens’ from ‘lentil’ - the edible seed) or lente di vetro (glass lentil) first used to describe the invention was obviously unacademic; it is clearly not the sort of word that a professor would use to describe the application of his optical theories. From the first recorded uses of eyeglasses before 1300 until the invention of the telescope nearly three hundred years later, lenses were ignored by scholars.",
+    "stem": "What makes the author think that the invention of eyeglasses was unacademic?",
+    "options": [
+      "Most academicians did not pay attention to this invention as they were captivated by a more sophisticated tool – the telescope.",
+      "The very first word to refer to this invention seemed too odd to be linked with optical theories formulated by a professor.",
+      "Eyeglasses were invented by a glassmaker who did not have any knowledge about optical theories.",
+      "Professors would not consider the invention of eyeglasses remarkable enough to boast about.",
+      "Professors actually began to study lenses in a detailed way after the invention of the telescope."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q46",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2019-2-g43-46",
+    "passage": "You may think that the leap from naked-eye observation to instrument-aided vision could be one of the greatest advances in the history of the planet. But nobody set out to invent a telescope or eyeglasses. One of the deepest and most widespread human conceptions was faith in the unaided human senses, particularly the naked eye. We do not know who invented eyeglasses, how or where. Everything we know suggests that they were invented by chance, and by a layman who had not been taught about optics. Perhaps an elderly glassmaker making glass disks for leaded windows tested a disk by looking through it and found to his delight that he could see much better. We can suspect that the inventor was not an academic, as professors would delight in boasting of their invention, and before the 13th century, we have no record by any such self-styled inventor. The Italian word lente (English ‘lens’ from ‘lentil’ - the edible seed) or lente di vetro (glass lentil) first used to describe the invention was obviously unacademic; it is clearly not the sort of word that a professor would use to describe the application of his optical theories. From the first recorded uses of eyeglasses before 1300 until the invention of the telescope nearly three hundred years later, lenses were ignored by scholars.",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+      "Like most other inventions in the modern world, eyeglasses are the product of human wisdom and struggle.",
+      "Despite being an important technological innovation, the specifics related to the invention of eyeglasses remain unknown.",
+      "Not all scientific projects lead to success despite the concentrated efforts of academicians.",
+      "Scholars in the past were often against new technologies, so they rarely used them even if they enhanced the quality of their lives.",
+      "The etymology of the word lente gives us reliable information about the inventor of the greatest advancement in optical technology."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q47",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2019-2-g47-50",
+    "passage": "The annual melt of Arctic ice is under way, and the melt is getting worse and worse. The size of the ice cap where the melt is taking place has become the smallest since satellite records began. It will not be many more years until the Arctic is ice-free in summer. This is not news. Nor is the fact that the US is about to break its promise on its climate change policies, again. The scale and speed of worrying events in the Arctic is increasing, so is the recklessness of the current administration’s climate policies. The two are closely connected: without comprehensive, rapid, global action, there is zero chance of preventing irreversible change in the Arctic, which may bring catastrophe to the rest of the world. What is also not-news is the antibiotic crisis. For years, if not decades, medics have been warning that overuse is driving up resistance, threating to propel us back to a pre-penicillin age when common bacterial infections could be fatal. Both are large, complex problems arising from technological progress. Both are tragedies that require collective action. But on antibiotic resistance, there are signs that the problem is getting less severe, thanks largely to changing prescription habits, following great collective action, which is missing in the climate change problem.",
+    "stem": "According to the passage, the Arctic melt ----.",
+    "options": [
+      "has only recently been found to cause ice-free summers in the Arctic soon",
+      "has finally led the US to keep its promise on its climate change policies",
+      "was taking place at a faster pace before satellite recordings began",
+      "will possibly result in worldwide devastation due to a lack of sound climate policies",
+      "is one of the most immediate priorities of a large number of governments worldwide"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q48",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2019-2-g47-50",
+    "passage": "The annual melt of Arctic ice is under way, and the melt is getting worse and worse. The size of the ice cap where the melt is taking place has become the smallest since satellite records began. It will not be many more years until the Arctic is ice-free in summer. This is not news. Nor is the fact that the US is about to break its promise on its climate change policies, again. The scale and speed of worrying events in the Arctic is increasing, so is the recklessness of the current administration’s climate policies. The two are closely connected: without comprehensive, rapid, global action, there is zero chance of preventing irreversible change in the Arctic, which may bring catastrophe to the rest of the world. What is also not-news is the antibiotic crisis. For years, if not decades, medics have been warning that overuse is driving up resistance, threating to propel us back to a pre-penicillin age when common bacterial infections could be fatal. Both are large, complex problems arising from technological progress. Both are tragedies that require collective action. But on antibiotic resistance, there are signs that the problem is getting less severe, thanks largely to changing prescription habits, following great collective action, which is missing in the climate change problem.",
+    "stem": "What is the author’s attitude towards the current US administration’s climate policies?",
+    "options": [
+      "impartial",
+      "dissatisfied",
+      "indifferent",
+      "appreciative",
+      "sarcastic"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q49",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2019-2-g47-50",
+    "passage": "The annual melt of Arctic ice is under way, and the melt is getting worse and worse. The size of the ice cap where the melt is taking place has become the smallest since satellite records began. It will not be many more years until the Arctic is ice-free in summer. This is not news. Nor is the fact that the US is about to break its promise on its climate change policies, again. The scale and speed of worrying events in the Arctic is increasing, so is the recklessness of the current administration’s climate policies. The two are closely connected: without comprehensive, rapid, global action, there is zero chance of preventing irreversible change in the Arctic, which may bring catastrophe to the rest of the world. What is also not-news is the antibiotic crisis. For years, if not decades, medics have been warning that overuse is driving up resistance, threating to propel us back to a pre-penicillin age when common bacterial infections could be fatal. Both are large, complex problems arising from technological progress. Both are tragedies that require collective action. But on antibiotic resistance, there are signs that the problem is getting less severe, thanks largely to changing prescription habits, following great collective action, which is missing in the climate change problem.",
+    "stem": "It is clearly stated in the passage that the antibiotic crisis ----.",
+    "options": [
+      "might have been alleviated thanks to the extensive use penicillin",
+      "has diminished as a result of coordinated efforts to raise awareness of the issue",
+      "could have been prevented if doctors had been warned about it much earlier",
+      "is different from the climate change crisis in terms of politicians’ level of sensitivity",
+      "can be tackled through the effective use of technological developments"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q50",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2019-2-g47-50",
+    "passage": "The annual melt of Arctic ice is under way, and the melt is getting worse and worse. The size of the ice cap where the melt is taking place has become the smallest since satellite records began. It will not be many more years until the Arctic is ice-free in summer. This is not news. Nor is the fact that the US is about to break its promise on its climate change policies, again. The scale and speed of worrying events in the Arctic is increasing, so is the recklessness of the current administration’s climate policies. The two are closely connected: without comprehensive, rapid, global action, there is zero chance of preventing irreversible change in the Arctic, which may bring catastrophe to the rest of the world. What is also not-news is the antibiotic crisis. For years, if not decades, medics have been warning that overuse is driving up resistance, threating to propel us back to a pre-penicillin age when common bacterial infections could be fatal. Both are large, complex problems arising from technological progress. Both are tragedies that require collective action. But on antibiotic resistance, there are signs that the problem is getting less severe, thanks largely to changing prescription habits, following great collective action, which is missing in the climate change problem.",
+    "stem": "What is the main aim of the author in writing this passage?",
+    "options": [
+      "To emphasise the importance of collective action in addressing major global problems",
+      "To show how carefully governments are trying to cope with global issues",
+      "To criticise the US government’s policies on climate change and the antibiotic crisis",
+      "To compare the methods used in the handling of the antibiotic crisis and climate change",
+      "To highlight the incompetence of policy-makers in combatting global tragedies"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q51",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2019-2-g51-54",
+    "passage": "Child labour has traditionally referred to the use of children to perform adult work on farms and in factories and mines. Ironically, it has helped as well as hindered the development of universal public education in the United States. Historically, this problem did not become a controversial social issue until the beginning of the Industrial Revolution in the late 18th century. After a series of wars produced a shortage of adult male labour in Britain, cotton mill owners offered children free room and meals in company-owned dormitories in exchange for their labour. Government authorities were delighted to get homeless children off the streets. For the mills, the introduction of child labour proved one of the most profitable innovations of the Industrial Revolution. The practice spread to the United States, which also faced a shortage of adult male factory workers to produce food and tobacco, the staples of the new nation’s trade. At the time, most schools were already reserved for the children of landowners, and therefore, an entire generation of child labourers had grown up illiterate by the 1830s. As the quality of goods they produced deteriorated and overseas sales of American goods declined, many of the very industrialists who had exploited child labour at the turn of the century joined social reformers who wanted to end such exploitation, supporting universal compulsory education to ensure that their future workers would be able to read, write and calculate.",
+    "stem": "Why did child labour become an important issue during the Industrial Revolution?",
+    "options": [
+      "The number of homeless children in the streets increased dramatically.",
+      "Government officials were reluctant to provide homeless children with free room and meals.",
+      "The size of the labour force in Britain declined since wars resulted in a lack of adult male workers.",
+      "The development of universal public education was enhanced by government authorities.",
+      "Children who worked for cotton mill owners could earn a huge amount of money."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q52",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2019-2-g51-54",
+    "passage": "Child labour has traditionally referred to the use of children to perform adult work on farms and in factories and mines. Ironically, it has helped as well as hindered the development of universal public education in the United States. Historically, this problem did not become a controversial social issue until the beginning of the Industrial Revolution in the late 18th century. After a series of wars produced a shortage of adult male labour in Britain, cotton mill owners offered children free room and meals in company-owned dormitories in exchange for their labour. Government authorities were delighted to get homeless children off the streets. For the mills, the introduction of child labour proved one of the most profitable innovations of the Industrial Revolution. The practice spread to the United States, which also faced a shortage of adult male factory workers to produce food and tobacco, the staples of the new nation’s trade. At the time, most schools were already reserved for the children of landowners, and therefore, an entire generation of child labourers had grown up illiterate by the 1830s. As the quality of goods they produced deteriorated and overseas sales of American goods declined, many of the very industrialists who had exploited child labour at the turn of the century joined social reformers who wanted to end such exploitation, supporting universal compulsory education to ensure that their future workers would be able to read, write and calculate.",
+    "stem": "What caused child labourers in the United States to become illiterate?",
+    "options": [
+      "They were supposed to contribute to the nation’s economic growth, so factory-owners did not allow them to go to school.",
+      "They believed that engaging in food and tobacco production would bring them much more benefits than attending school.",
+      "They did not have to learn to read and write to perform simple tasks in factories.",
+      "Landowners did not want them to go to the schools where their children were taught since they thought this would cause a social conflict.",
+      "A great majority of the schools were only accepting the children of landowners, so they could not receive education."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q53",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2019-2-g51-54",
+    "passage": "Child labour has traditionally referred to the use of children to perform adult work on farms and in factories and mines. Ironically, it has helped as well as hindered the development of universal public education in the United States. Historically, this problem did not become a controversial social issue until the beginning of the Industrial Revolution in the late 18th century. After a series of wars produced a shortage of adult male labour in Britain, cotton mill owners offered children free room and meals in company-owned dormitories in exchange for their labour. Government authorities were delighted to get homeless children off the streets. For the mills, the introduction of child labour proved one of the most profitable innovations of the Industrial Revolution. The practice spread to the United States, which also faced a shortage of adult male factory workers to produce food and tobacco, the staples of the new nation’s trade. At the time, most schools were already reserved for the children of landowners, and therefore, an entire generation of child labourers had grown up illiterate by the 1830s. As the quality of goods they produced deteriorated and overseas sales of American goods declined, many of the very industrialists who had exploited child labour at the turn of the century joined social reformers who wanted to end such exploitation, supporting universal compulsory education to ensure that their future workers would be able to read, write and calculate.",
+    "stem": "What was the real reason why industrialists started to promote universal compulsory education?",
+    "options": [
+      "Child labour combined with compulsory education was a practical option to cope with the shortage of adult male factory workers.",
+      "Child labour eventually had an adverse impact on the quality of American goods, which reduced export earnings.",
+      "Most of the child labourers were unable to read, write and calculate, which was a disturbing fact for industrialists in sociocultural terms.",
+      "Social reformers forced industrialists to acknowledge the fact that children must be well-educated.",
+      "Social reformers were against the brutal exploitation of child labour since children could not receive compulsory education."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q54",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2019-2-g51-54",
+    "passage": "Child labour has traditionally referred to the use of children to perform adult work on farms and in factories and mines. Ironically, it has helped as well as hindered the development of universal public education in the United States. Historically, this problem did not become a controversial social issue until the beginning of the Industrial Revolution in the late 18th century. After a series of wars produced a shortage of adult male labour in Britain, cotton mill owners offered children free room and meals in company-owned dormitories in exchange for their labour. Government authorities were delighted to get homeless children off the streets. For the mills, the introduction of child labour proved one of the most profitable innovations of the Industrial Revolution. The practice spread to the United States, which also faced a shortage of adult male factory workers to produce food and tobacco, the staples of the new nation’s trade. At the time, most schools were already reserved for the children of landowners, and therefore, an entire generation of child labourers had grown up illiterate by the 1830s. As the quality of goods they produced deteriorated and overseas sales of American goods declined, many of the very industrialists who had exploited child labour at the turn of the century joined social reformers who wanted to end such exploitation, supporting universal compulsory education to ensure that their future workers would be able to read, write and calculate.",
+    "stem": "What is the primary purpose of the author?",
+    "options": [
+      "To explain the reasons why child labour was not as effective in the United States as it was in Britain",
+      "To inform readers about how farms, factories and mines throughout the world benefitted from child labour in the late 1800s",
+      "To emphasise that farms, factories and mines would not have been productive enough without child labour during the Industrial Revolution",
+      "To highlight that child labour, initially considered advantageous, later proved to be disadvantageous",
+      "To draw attention to the successful collaboration between industrialists and social reformers to support universal compulsory education"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q55",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2019-2-g55-58",
+    "passage": "Earth is teeming with life — and water makes it all possible. But elsewhere in the cosmos, life might be built from different chemicals that dissolve and assemble in some other liquid: perhaps methane, kerosene, or even chloroform. For now, it is not feasible for humans to set foot on those worlds and see what is there, but researchers are exploring some possibilities in labs here on Earth. The idea of a strange parallel form of life, whose cells do the same basic things as ours using a completely different chemistry, is not new to science. In fact, Isaac Asimov broached the subject in his 1962 essay “Not as We Know It: The Chemistry of Life.” And in 2004, the same year the Cassini spacecraft entered Saturn’s orbit, biochemist Steven Benner proposed that on a world like Saturn’s moon Titan, life might use liquid hydrocarbons as a solvent (a liquid that can dissolve other substances), the way water is used on Earth. With new exoplanets joining the roster of known worlds every day, it is likely that some of them have oceans (or at least warm puddles) of hexane, ethers, chloroform, or other exotic liquids that might serve as a source of life, which we do not yet know.",
+    "stem": "According to the passage, chemicals such as methane, kerosene and chloroform ----.",
+    "options": [
+      "cannot be compared with water in their capacity to dissolve life chemicals",
+      "have been found on several exoplanets humans are planning to set foot on",
+      "have been proved to be much better alternatives to water, which makes life possible",
+      "could possibly be solvents of various chemicals that form life",
+      "should be researched more extensively in order to protect life on Earth"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q56",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2019-2-g55-58",
+    "passage": "Earth is teeming with life — and water makes it all possible. But elsewhere in the cosmos, life might be built from different chemicals that dissolve and assemble in some other liquid: perhaps methane, kerosene, or even chloroform. For now, it is not feasible for humans to set foot on those worlds and see what is there, but researchers are exploring some possibilities in labs here on Earth. The idea of a strange parallel form of life, whose cells do the same basic things as ours using a completely different chemistry, is not new to science. In fact, Isaac Asimov broached the subject in his 1962 essay “Not as We Know It: The Chemistry of Life.” And in 2004, the same year the Cassini spacecraft entered Saturn’s orbit, biochemist Steven Benner proposed that on a world like Saturn’s moon Titan, life might use liquid hydrocarbons as a solvent (a liquid that can dissolve other substances), the way water is used on Earth. With new exoplanets joining the roster of known worlds every day, it is likely that some of them have oceans (or at least warm puddles) of hexane, ethers, chloroform, or other exotic liquids that might serve as a source of life, which we do not yet know.",
+    "stem": "It is stated in the passage that Isaac Asimov ----.",
+    "options": [
+      "led the way to discovery of several exoplanets that host life-friendly exotic liquids such as hexane, ethers and chloroform",
+      "was the first person to understand that a solvent chemical, even if not water, is necessary for life to develop",
+      "came up with the idea that life might have formed elsewhere in the universe with a different chemistry than we know",
+      "developed his thoughts about the strange parallel forms of life using the data provided by the Cassini spacecraft which studies Saturn",
+      "inspired Steve Benner who wrote in 2004 that liquid hydrocarbons might make life possible on a world like Saturn’s moon Titan"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q57",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2019-2-g55-58",
+    "passage": "Earth is teeming with life — and water makes it all possible. But elsewhere in the cosmos, life might be built from different chemicals that dissolve and assemble in some other liquid: perhaps methane, kerosene, or even chloroform. For now, it is not feasible for humans to set foot on those worlds and see what is there, but researchers are exploring some possibilities in labs here on Earth. The idea of a strange parallel form of life, whose cells do the same basic things as ours using a completely different chemistry, is not new to science. In fact, Isaac Asimov broached the subject in his 1962 essay “Not as We Know It: The Chemistry of Life.” And in 2004, the same year the Cassini spacecraft entered Saturn’s orbit, biochemist Steven Benner proposed that on a world like Saturn’s moon Titan, life might use liquid hydrocarbons as a solvent (a liquid that can dissolve other substances), the way water is used on Earth. With new exoplanets joining the roster of known worlds every day, it is likely that some of them have oceans (or at least warm puddles) of hexane, ethers, chloroform, or other exotic liquids that might serve as a source of life, which we do not yet know.",
+    "stem": "The underlined word in the passage ‘broached’ is closest in meaning to ----.",
+    "options": [
+      "introduced",
+      "distorted",
+      "revised",
+      "obscured",
+      "simplified"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q58",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2019-2-g55-58",
+    "passage": "Earth is teeming with life — and water makes it all possible. But elsewhere in the cosmos, life might be built from different chemicals that dissolve and assemble in some other liquid: perhaps methane, kerosene, or even chloroform. For now, it is not feasible for humans to set foot on those worlds and see what is there, but researchers are exploring some possibilities in labs here on Earth. The idea of a strange parallel form of life, whose cells do the same basic things as ours using a completely different chemistry, is not new to science. In fact, Isaac Asimov broached the subject in his 1962 essay “Not as We Know It: The Chemistry of Life.” And in 2004, the same year the Cassini spacecraft entered Saturn’s orbit, biochemist Steven Benner proposed that on a world like Saturn’s moon Titan, life might use liquid hydrocarbons as a solvent (a liquid that can dissolve other substances), the way water is used on Earth. With new exoplanets joining the roster of known worlds every day, it is likely that some of them have oceans (or at least warm puddles) of hexane, ethers, chloroform, or other exotic liquids that might serve as a source of life, which we do not yet know.",
+    "stem": "What is the passage mainly about?",
+    "options": [
+      "The contributions of Asimov and Benner to the understanding of life on Earth",
+      "The search for alternatives to water that can support extraterrestrial life",
+      "The newly discovered exoplanets being studied to determine if they potentially host life",
+      "The role of water as a solvent in the formation of life on Earth",
+      "The chemical processes underlying the formation of water on other planets"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q59",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2019-2-g59-62",
+    "passage": "Companies often link pay increases to a measure of performance to motivate and retain the best employees, which may also ensure the companies’ long-term success. Among many forms of individual performance-related pay, the most popular is merit-based pay. Under such a system, an employee’s pay increase is based on a supervisor’s assessment of performance over a previous time period, usually the prior 12 months. The annual cycle of the pay scheme begins with the establishment of performance objectives, either by the supervisor or jointly between the employee and the supervisor. Progress is monitored over the ensuing months, and the supervisor rates the performance of an employee, on a given scale, against these objectives. Each of these rating points is then associated with the amount of a pay increase, expressed as a percentage, so the higher the rating, the higher the pay increase. The size of the pay increase can also vary depending on the position in the pay range. Typically, employees at the bottom of the pay range with high-performance ratings will get a larger increase than an employee near the top of the pay range with a high-performance rating. In some cases, the intention is to enable the employee to reach the top of the pay range at the same time as he or she is ready to be promoted. The difficulty is that this system is not supported by all employees. Research has demonstrated that merit-based pay is attractive to some occupations, for example managers, and to certain demographic groups, such as white-collar workers, high-income earners, and younger employees, but it might not be the best payment approach for all occupations and companies.",
+    "stem": "It is stated in the passage that companies ----.",
+    "options": [
+      "can contribute to their future prosperity by motivating their employees with a pay increase",
+      "use various forms of payment depending on the importance of the position",
+      "evaluate their employees’ previous performance to lay out future performance criteria",
+      "increase the motivation of their employees by setting attainable performance objectives",
+      "should use individual performance-related pay to motivate their non-efficient employees"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q60",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2019-2-g59-62",
+    "passage": "Companies often link pay increases to a measure of performance to motivate and retain the best employees, which may also ensure the companies’ long-term success. Among many forms of individual performance-related pay, the most popular is merit-based pay. Under such a system, an employee’s pay increase is based on a supervisor’s assessment of performance over a previous time period, usually the prior 12 months. The annual cycle of the pay scheme begins with the establishment of performance objectives, either by the supervisor or jointly between the employee and the supervisor. Progress is monitored over the ensuing months, and the supervisor rates the performance of an employee, on a given scale, against these objectives. Each of these rating points is then associated with the amount of a pay increase, expressed as a percentage, so the higher the rating, the higher the pay increase. The size of the pay increase can also vary depending on the position in the pay range. Typically, employees at the bottom of the pay range with high-performance ratings will get a larger increase than an employee near the top of the pay range with a high-performance rating. In some cases, the intention is to enable the employee to reach the top of the pay range at the same time as he or she is ready to be promoted. The difficulty is that this system is not supported by all employees. Research has demonstrated that merit-based pay is attractive to some occupations, for example managers, and to certain demographic groups, such as white-collar workers, high-income earners, and younger employees, but it might not be the best payment approach for all occupations and companies.",
+    "stem": "It is understood from the passage that in the merit-based pay system, ----.",
+    "options": [
+      "supervisors’ strict control over employees may backfire as weak performance",
+      "employees are allowed to rate their own performance",
+      "supervisors’ rating points determine the amount of the pay increase",
+      "an employee gets a pay increase when his or her performance is higher than those of others",
+      "employees may get a pay increase during the supervision period"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q61",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2019-2-g59-62",
+    "passage": "Companies often link pay increases to a measure of performance to motivate and retain the best employees, which may also ensure the companies’ long-term success. Among many forms of individual performance-related pay, the most popular is merit-based pay. Under such a system, an employee’s pay increase is based on a supervisor’s assessment of performance over a previous time period, usually the prior 12 months. The annual cycle of the pay scheme begins with the establishment of performance objectives, either by the supervisor or jointly between the employee and the supervisor. Progress is monitored over the ensuing months, and the supervisor rates the performance of an employee, on a given scale, against these objectives. Each of these rating points is then associated with the amount of a pay increase, expressed as a percentage, so the higher the rating, the higher the pay increase. The size of the pay increase can also vary depending on the position in the pay range. Typically, employees at the bottom of the pay range with high-performance ratings will get a larger increase than an employee near the top of the pay range with a high-performance rating. In some cases, the intention is to enable the employee to reach the top of the pay range at the same time as he or she is ready to be promoted. The difficulty is that this system is not supported by all employees. Research has demonstrated that merit-based pay is attractive to some occupations, for example managers, and to certain demographic groups, such as white-collar workers, high-income earners, and younger employees, but it might not be the best payment approach for all occupations and companies.",
+    "stem": "What can be concluded about a pay increase in the merit-based pay system?",
+    "options": [
+      "Younger employees may not get a high pay increase since they may not compete well with experienced ones.",
+      "Employees deserve a pay increase only if they have gained the qualifications required for a promotion.",
+      "Companies try to keep the best employees at the top of the pay range by providing them with the highest pay increase.",
+      "No matter how hard they try, employees in the lowest position cannot get a pay increase as high as that of the ones who are at the top of the pay range.",
+      "Industrious employees with a low income may get a higher percentage of pay increase than those having a high income."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q62",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2019-2-g59-62",
+    "passage": "Companies often link pay increases to a measure of performance to motivate and retain the best employees, which may also ensure the companies’ long-term success. Among many forms of individual performance-related pay, the most popular is merit-based pay. Under such a system, an employee’s pay increase is based on a supervisor’s assessment of performance over a previous time period, usually the prior 12 months. The annual cycle of the pay scheme begins with the establishment of performance objectives, either by the supervisor or jointly between the employee and the supervisor. Progress is monitored over the ensuing months, and the supervisor rates the performance of an employee, on a given scale, against these objectives. Each of these rating points is then associated with the amount of a pay increase, expressed as a percentage, so the higher the rating, the higher the pay increase. The size of the pay increase can also vary depending on the position in the pay range. Typically, employees at the bottom of the pay range with high-performance ratings will get a larger increase than an employee near the top of the pay range with a high-performance rating. In some cases, the intention is to enable the employee to reach the top of the pay range at the same time as he or she is ready to be promoted. The difficulty is that this system is not supported by all employees. Research has demonstrated that merit-based pay is attractive to some occupations, for example managers, and to certain demographic groups, such as white-collar workers, high-income earners, and younger employees, but it might not be the best payment approach for all occupations and companies.",
+    "stem": "What is the drawback of the merit-based pay system according to the passage?",
+    "options": [
+      "Employees have no right to take part in the formulation of performance criteria.",
+      "It is not efficient because it does not guarantee the promotion of hard-working employees.",
+      "Rating points may not accurately reflect an employee’s performance.",
+      "It may not be favoured by everyone since it benefits certain positions and careers.",
+      "It does not help to assess employees’ monthly performance since it is applied annually."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q63",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Student: - How do leaves know that it’s autumn? Teacher: - During the autumn, every day is four minutes shorter than the one before it. This means leaves have four minutes less sunlight. Student: - ---- Teacher: - Exactly! And, at some point, when it’s simply not worth the effort, trees shed their leaves.",
+    "options": [
+      "In other words, they have a relatively smaller amount of time to change light and water into energy.",
+      "Does this mean some trees closest to streetlights keep their leaves later into autumn?",
+      "But the decrease in the amount of sunlight is not the sole reason, is it?",
+      "So, trees are very strong and in winter even produce their own anti-freeze in their cells.",
+      "That’s because leaves can’t distinguish between sunlight and artificial light, right?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q64",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Doctor: - Most people don’t worry about their eye health, but we often say that all of us need an eye test, even if we can see fine. Reporter: - You’re right, but people generally don’t see a doctor unless they have a problem with their vision. So, could you tell us why you highlight the importance of eye examinations? Doctor: - ---- Reporter: - It seems early diagnosis is crucial in fighting some eye diseases.",
+    "options": [
+      "If people would make a conscious effort to try to understand their visual health through personal research, many eye diseases would be less problematic.",
+      "Eye tests not only help us treat visual impairment, but they can also reveal the presence of some non-eye diseases like diabetes and high blood pressure.",
+      "Many eye conditions show no symptoms, and if people put off eye tests until they experience symptoms like blurry vision, the damage could already be irreversible.",
+      "The frequency of eye tests differs with age and the health of the person, but we often recommend an eye test every two years between ages 19 and 40.",
+      "Visual problems are not the single cause. People should also have an eye test when they experience redness, pain, discharge or flashes of light."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q65",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Daisy: - Look at the lighthouse over there. It’s on a very steep hill. Do you think there is someone in it? Kate: - ---- Daisy: - Perhaps the huge antenna on the roof can explain that. Kate: - So, the lighthouse-keeper just goes there for periodic maintenance of the equipment.",
+    "options": [
+      "I’m not certain. Some modern installations are controlled remotely from a convenient location.",
+      "I can’t say for sure, but it seems there is no one there. Otherwise, the lights would be on.",
+      "Probably! Lighthouses usually overlook the sea from a coastal hill and provide a safe shelter for the residents.",
+      "Yes, and I’m really curious about daily routines of a lighthouse-keeper. Watching the ships must be entertaining.",
+      "I don’t think so. Lighthouses guide ships with a strong light, so why should they be attended?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q66",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Amanda: - Don't you think people attach too much of their personal happiness to their weight? Jane: - Definitely! They're even willing to spend huge sums of money for the slightest chance of being thinner, especially overweight people and the ones who suffer from obesity. Amanda: - Yeah, but so many of them get frustrated in the process because it's more complicated than it looks. Jane: - What do you mean? Amanda: - ---- Jane: - Oh, so dietary advice won't work in the same way for everybody.",
+    "options": [
+      "The vast majority of people place such a high value on being thin that overweight people face prejudice and discrimination.",
+      "The view that undisciplined eating habits are the major cause of weight gain has been widespread for a long time.",
+      "Fortunately, dieticians have been coming up with a variety of new treatments to fight unhealthy weight gain.",
+      "The reality is weight-gain has many causes and there can be various combinations of these causes in different people.",
+      "Permanent lifestyle changes like making healthy food choices can promote long-term weight loss."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q67",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Chris: - A group of scientists tried to develop drones that could fly through the hoops or gates used in drone racing, and prepared a track with gates laid out in a circuit. Luke: - Really? Were their drones able to stay on course? Chris: - ---- Luke: - That’s a key development. A drone that can autonomously escape from things in its way could be useful in a number of contexts.",
+    "options": [
+      "The on-board camera in each device gathered images of the gates and the pictures allowed a neural network controlling drones to learn how to pass through them.",
+      "If they were smarter, they could be relied on to deliver packages in complex environments like cities.",
+      "The study revealed that they had to come up with better ways for drones to learn to avoid obstacles as they fly.",
+      "Drones have a habit of crashing, so they planned to alter the position of these obstacles after each lap.",
+      "Their performance in simulated experiments does not guarantee success in real life. It’s early to say that a drone can pilot itself in environments with lots of obstacles like disaster zones."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q68",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The invention of television was not a single event, but rather it depended on a chain of developments in electricity, telegraphy, and photography.",
+    "options": [
+      "Though seeming as a distinct event, the invention of television had to wait for several developments in electricity, telegraphy, and photography.",
+      "A variety of developments in electricity, telegraphy, and photography gave rise to the invention of television, which was seen as a remarkable event.",
+      "Television did not come about all by itself, as a series of innovations in electricity, telegraphy, and photography led to its invention.",
+      "But for the innovations in electricity, telegraphy, and photography, the invention of television could not have occurred as a spectacular event.",
+      "Television developed as a specific invention; however, a set of developments in electricity, telegraphy, and photography became more important than its invention."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q69",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The system of logic, formulated by Aristotle and considered to include the laws that govern thought, remained unaltered until the 19th century.",
+    "options": [
+      "The 19th century witnessed a change in the system of logic, which was created by Aristotle after he defined the laws that govern thought.",
+      "Throughout the 19th century, the system of logic developed by Aristotle was believed to involve the laws that govern thought.",
+      "It was only in the 19th century that the system of logic, established by Aristotle and believed to include the laws that govern thought, began to change.",
+      "In the 19th century, the system of logic, which was drawn up by Aristotle, went through a change because the laws that govern thought started to change as well.",
+      "Aristotle is considered to have developed the system of logic, which embraces the laws that govern thought and has not been changed since the 19th century."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q70",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because eating disorders are neither purely physical nor purely psychological, medical management and psychotherapy should be combined for effective treatment.",
+    "options": [
+      "While eating disorders can be separated into physical and psychological ones, successful treatment requires a combination of medical intervention and psychotherapy.",
+      "Eating disorders can be treated effectively with medical intervention or psychotherapy, based on whether they are mostly physical or psychological.",
+      "To treat eating disorders effectively, regardless of their classification as physical or psychological, medical management should be accompanied by psychotherapy.",
+      "Given that eating disorders cannot be classified as only physical or psychological, effective treatment should include both medical intervention and psychotherapy.",
+      "Since eating disorders are not only physical but psychological as well, psychotherapy should be administered more often than medical management to treat them successfully."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q71",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "In the 1950s, popular demand for more powerful cars was met by manufacturers by further increasing the size of the engine and the rotation speed, although these changes were at the expense of fuel economy.",
+    "options": [
+      "In the 1950s, powerful cars with larger engines and faster rotation speed had a negative impact on fuel economy, so people wanted manufacturers to produce cars that would be fuel-efficient.",
+      "Had there been no attempt by manufacturers in the 1950s to increase the size of the engine and the rotation speed, people might not have demanded more powerful cars, and thus fuel economy would have remained stable.",
+      "Even though it led to less economical fuel use, in the 1950s, manufacturers started to make bigger engines and increase the rotation speed to persuade people into buying cars that would become more powerful.",
+      "People started to seek more powerful cars in the 1950s, and manufacturers responded to this by making engines bigger and the rotation speed faster, while it meant damaging the fuel economy.",
+      "In the 1950s, manufacturers met people’s demand for more powerful cars by making the engine bigger and the rotation speed faster, but they were not able to predict that it would result in a worse fuel economy."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q72",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Unlike learning a second language, acquiring a first or native language does not require systematic instruction. Parents usually do not teach children the rules of language or do not tell them what kinds of sentences they can and cannot say. ---- For example, English speaking children might continue to say bringed rather than brought even though parents occasionally correct them.",
+    "options": [
+      "Parents' corrections inform children of what is not possible in the language they are exposed to.",
+      "Although parents generally do not correct their children, corrections can improve the children's language.",
+      "Children are rarely corrected, and even when they are, they resist the correction.",
+      "Children often take advantage of parents' correction and reformulate their utterances.",
+      "If children ask a question, parents will hardly check for its grammatical correctness."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q73",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Wilhelm Röntgen was born in Germany, but lived in the Netherlands for part of his childhood. He studied mechanical engineering in Zurich before becoming a lecturer in physics at Strasbourg University in 1874, and a professor two years later. He took senior positions at several universities during his career. ---- However, in the world of science, he is best known for his research into X-rays, and in 1901, he was awarded the first Nobel Prize in Physics for this work.",
+    "options": [
+      "Röntgen was always shy of having an assistant, and he usually preferred to work alone and built much of the apparatus he used by himself.",
+      "By 1900, Röntgen’s discovery of high energy electromagnetic radiation in the form of X-rays was being used in medical diagnosis.",
+      "Röntgen studied many different areas of physics, including light, gases, heat transfer, and thermal conductivity of crystals.",
+      "In his laboratory in Germany, Röntgen discovered X-rays by accident while he was studying the conduction of electricity through gases at low pressure.",
+      "Despite the numerous prizes, medals and honorary doctorates he had, Röntgen retained the characteristics of a strikingly modest man."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q74",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "There is a new milk in town; there are many, actually. The old alternatives to cow’s milk – soy, rice, and coconut milk – are now joined on grocery shelves by alternative milks made from almonds, peanuts, cashews, oats, peas – the list goes on and on. You can even buy milk made from potatoes or bananas. ---- But is that really true? Almond and cashew milks have less than half the calories found in cow’s milk, but are lower in protein. For those with allergies to nuts, banana milk is the way to go, but it can be difficult to find. Each type of alternative milk has its benefits and limitations. You should decide what is most important to you – nutrition, sustainability, or allergies.",
+    "options": [
+      "Alternative milks are only healthy if combined with a well-balanced diet, though the same is true of cow’s milk.",
+      "Manufacturers have recently begun to position such products as a reasonable alternative.",
+      "Alternative milks vary greatly in their nutritional value, and while some have a mild flavour, others have a stronger taste.",
+      "Most alternative milks are friendlier to the environment than dairy products, as the carbon footprint of producing, packaging and transporting cow’s milk is very high.",
+      "However, people do not drink alternative milks for their nutritional benefits; instead, they tend to use them for their coffee or cereal."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q75",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Much of what archaeologists know about past human life is uncertain and partial. For example, archaeologists argue about the dates that human life began and changed. New discoveries constantly force scientists to rethink the dating given to major developments in human prehistory. Even the primary method of identifying the age of discoveries, known as radiocarbon dating, is subject to second-guessing. Often different sources have different dates. Another difficulty is that there are simply not many sources of evidence about early human life. ---- Because of these difficulties, much of what is known about prehistoric man is based on the best guesses of scientists who may have devoted their life’s work to the subject.",
+    "options": [
+      "The older the historical remains, the more valuable and surprising they are to archaeologists.",
+      "Archaeologists must form their picture of early life based on small sets of discovered materials separated by both time and distance.",
+      "Another form of evidence comes from early rock paintings and etchings that have depicted human clothes, hair, and body decoration.",
+      "Archaeologists must carefully dig the remnants of the human past from out of the earth.",
+      "The problem of understanding the clothing of early humans is even more difficult by the fragile nature of fur."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q76",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Astronomers are searching for twins of Earth orbiting other sunlike stars. (II)Yet, the more closely scientists study our own planet's habitability, the less ideal our world appears to be. (III)Detecting Earth-like twins remains at the edge of our technical capabilities. (IV)Larger super-Earths orbiting smaller stars are easier to detect and may be the most common type of planet. (V) New thinking suggests that these systems may also be habitable and more conducive to life than our own planet.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q77",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)The world of plants is rich and diversified and produces numerous herbal remedies that have been used for thousands of years. (II)A qualified herbalist and a well-respected herbal guide or specialist are generally expected to be conferred with for the most effective herbal treatments. (III)Today, modern scientific research continues to document and validate the historical traditional uses of many herbs as well as new uses of some traditional medicines. (IV)The safe and responsible use of traditional herbal medicines offers an important way to lower health care costs and increase the wellness of the public. (V)It is most likely that more scientific research will continue to place herbs in a position to offer many benefits in the new medicine of the 21st century.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q78",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Water is one of the essential natural resources that have been the centre of attention in the last century due to pollution and excessive consumption, particularly in the developed world. (II) Water itself does not conduct electricity particularly well, yet it is the chemicals dissolved in it that are the source of the trouble. (III) For example, the salt content of seawater makes it a million times better at conducting electricity than ultra-pure water. (IV)Even so, even a trace of water can prove fatal with high voltages. (V) This is the very reason why people have been killed thinking they can move live cables using a freshly broken tree branch.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q79",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Both students and teachers may consult grammar books for a number of reasons.(II)For example, students may be drafting a piece of written work and may want to check if they are using some grammar rules correctly. (III)Alternatively, a teacher, having noticed that a student is making a lot of mistakes in one particular area, might tell that student to look up the language in a grammar book to understand it better. (IV)There are a large number of grammar books available, most of which are criticised by students for including highly difficult grammar exercises.(V) When it comes to teachers, they often use grammar books to check grammar concepts, especially when an area is so complex that they need to re-visit it from time to time to remind themselves of the full picture.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q80",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) The ancient Olympic Games, known to us from ancient literature and art and from modern archaeology, were the oldest and most prestigious athletic competition of antiquity.(II) Although they have inspired the modern Olympics, the ancient games must be seen in their own ancient Greek cultural context.(III)Despite common misperceptions, the ancient Olympics differed from their modern counterpart in organisation, events, and ideology. (IV)The permanent home of the ancient Olympics was an isolated religious sanctuary on the Alpheios River in the territory of the state of Elis in southwestern Greece. (V) With sacred rituals and wreaths of olive leaves as prizes, the ancient Olympic Games were part of a great religious festival in honour of Zeus, the Greeks’ chief god.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V 19200104374 OSYM001 43750500K04"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

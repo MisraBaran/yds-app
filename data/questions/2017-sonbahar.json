@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2017-sonbahar-q01",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Some ethnic minority groups of students within the US, such as African Americans and Hispanic Americans, achieve below the national average of all students; however, one ---- is the high educational achievements demonstrated by Asian American students.",
+    "options": [
+      "aspiration",
+      "defect",
+      "exception",
+      "influence",
+      "complaint"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q02",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Without artificial fertilisers and pesticides, there would not be enough food grown on Earth to satisfy our needs, even with equal ---- of agricultural output.",
+    "options": [
+      "recognition",
+      "deterioration",
+      "distribution",
+      "fluctuation",
+      "reduction"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q03",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "An important reason to re-evaluate how we are raising the next generation grows out of an incredibly exciting discovery about brain development: during adolescence, the brain’s potential to change through experience is ----.",
+    "options": [
+      "tremendous",
+      "frustrating",
+      "debatable",
+      "redundant",
+      "exhausted ENGLISH"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q04",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Children and adolescents with attention deficit or hyperactivity disorder frequently experience difficulties in school settings, most ---- in the areas of academic achievement and interpersonal relationships.",
+    "options": [
+      "appropriately",
+      "urgently",
+      "subtly",
+      "compulsorily",
+      "notably"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q05",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Children who grow up in two-parent homes where the parents are non-traditional in their own gender roles ---- less gender-stereotypic behaviour than do children whose parents are traditional in their role enactment.",
+    "options": [
+      "display",
+      "alter",
+      "achieve",
+      "reject",
+      "eradicate"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q06",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "When Columbus sailed west from Spain in 1492 in pursuit of the riches of the Far East, he ---- recent advances in navigation and age-old geographical knowledge.",
+    "options": [
+      "kept off",
+      "drew on",
+      "put forward",
+      "gave away",
+      "brought about"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q07",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "In 1517, the Italian physician Girolamo Fracastoro was probably the first person ---- that fossils are animal remains; however, it was not until the 18th century that scientists ---- to realise that fossils can tell us a great deal about the history of living things.",
+    "options": [
+      "suggesting / had begun",
+      "being suggested / were beginning",
+      "to have suggested / have begun",
+      "to suggest / began",
+      "having suggested / were going to begin"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q08",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The technological advancements that once made nations prosperous, such as the internal combustion engine, ---- to shatter empires during the First World War, on a scale few people ---- before the outbreak of the war.",
+    "options": [
+      "had been used / should have imagined",
+      "should have been used / used to imagine",
+      "would have been used / might have imagined",
+      "were used / could have imagined",
+      "must have been used / can imagine"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q09",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Tomatoes are so widely consumed that they represent a vehicle ---- beneficial nutrients to those who ---- expensive seasonal berries.",
+    "options": [
+      "having introduced / would not afford",
+      "introducing / could not afford",
+      "to have introduced / may not afford",
+      "to introduce / cannot afford",
+      "being introduced / might not afford"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q10",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Early mastery of fire offered many benefits to humankind, including protection ---- wild animals, heat that enabled them to spread ---- cooler regions, and the ability to cook food.",
+    "options": [
+      "against / into",
+      "from / by",
+      "to / over",
+      "for / along",
+      "on / towards"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q11",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Anschluss, the political union of Germany and Austria, was specifically prohibited ---- the Versailles Treaty, but was carried out by Hitler in March 1938 ---- any resistance from the victors of the First World War.",
+    "options": [
+      "across / through",
+      "under / without",
+      "for / on",
+      "from / behind",
+      "to / about"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q12",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Home-grown produce tastes better than grocery store produce ---- it is freshly picked and perfectly ripe, which shines through even when cooked or preserved.",
+    "options": [
+      "although",
+      "whereas",
+      "whether",
+      "because",
+      "unless"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q13",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- there have been dozens of proposals for gender-neutral third-person pronouns in English over the past two centuries, none has gained acceptance.",
+    "options": [
+      "Now that",
+      "As long as",
+      "In case",
+      "Once",
+      "Even though"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q14",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The story of the cat’s domestication is one of mutual appreciation: early farming communities benefited from cats’ rodent-catching skills ---- cats won themselves protection and shelter without losing their independence.",
+    "options": [
+      "even if",
+      "only when",
+      "as soon as",
+      "while",
+      "before"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q15",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "In most cultures around the world, men and women typically differ in a number of ways ---- physical appearance, personality traits, and occupational preferences.",
+    "options": [
+      "in case of",
+      "in spite of",
+      "such as",
+      "similar to",
+      "as well as"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q16",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "19th-century scientists fell into a bitter debate as to ---- intelligence lay in anatomy ---- a vital force was responsible for thoughts.",
+    "options": [
+      "as / as",
+      "neither / nor",
+      "so / that",
+      "whether / or",
+      "not only / but also"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q17",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2017-sonbahar-g17-21",
+    "passage": "In the 1960s, people had greater employment opportunities and a new buying power. (17)----this growing affluence, music and fashion became mass-market industries and were quick to cater to the demands of the youth market. The growing popularity of television helped to spread popular culture throughout the world, (18)---- new trends could develop rapidly. Programmes such as Top of the Pops in the UK and TheEd Sullivan Show in the US could lead people (19)---- considerable attention to pop music. In 1962, the Beatles emerged from Liverpool's Cavern Club. Their first album Please Please Me became very famous(20)---- the globe within a year. They grew (21)---- popular, sparking such intense devotion in their fans that it became known as 'Beatlemania'.",
+    "stem": null,
+    "options": [
+      "Instead of",
+      "Rather than",
+      "As a result of",
+      "Contrary to",
+      "Regardless of"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q18",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2017-sonbahar-g17-21",
+    "passage": "In the 1960s, people had greater employment opportunities and a new buying power. (17)----this growing affluence, music and fashion became mass-market industries and were quick to cater to the demands of the youth market. The growing popularity of television helped to spread popular culture throughout the world, (18)---- new trends could develop rapidly. Programmes such as Top of the Pops in the UK and TheEd Sullivan Show in the US could lead people (19)---- considerable attention to pop music. In 1962, the Beatles emerged from Liverpool's Cavern Club. Their first album Please Please Me became very famous(20)---- the globe within a year. They grew (21)---- popular, sparking such intense devotion in their fans that it became known as 'Beatlemania'.",
+    "stem": null,
+    "options": [
+      "though",
+      "otherwise",
+      "instead",
+      "just as",
+      "so"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q19",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2017-sonbahar-g17-21",
+    "passage": "In the 1960s, people had greater employment opportunities and a new buying power. (17)----this growing affluence, music and fashion became mass-market industries and were quick to cater to the demands of the youth market. The growing popularity of television helped to spread popular culture throughout the world, (18)---- new trends could develop rapidly. Programmes such as Top of the Pops in the UK and TheEd Sullivan Show in the US could lead people (19)---- considerable attention to pop music. In 1962, the Beatles emerged from Liverpool's Cavern Club. Their first album Please Please Me became very famous(20)---- the globe within a year. They grew (21)---- popular, sparking such intense devotion in their fans that it became known as 'Beatlemania'.",
+    "stem": null,
+    "options": [
+      "to be paid",
+      "having paid",
+      "to have paid",
+      "to pay",
+      "being paid A B D E"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q20",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2017-sonbahar-g17-21",
+    "passage": "In the 1960s, people had greater employment opportunities and a new buying power. (17)----this growing affluence, music and fashion became mass-market industries and were quick to cater to the demands of the youth market. The growing popularity of television helped to spread popular culture throughout the world, (18)---- new trends could develop rapidly. Programmes such as Top of the Pops in the UK and TheEd Sullivan Show in the US could lead people (19)---- considerable attention to pop music. In 1962, the Beatles emerged from Liverpool's Cavern Club. Their first album Please Please Me became very famous(20)---- the globe within a year. They grew (21)---- popular, sparking such intense devotion in their fans that it became known as 'Beatlemania'.",
+    "stem": null,
+    "options": [
+      "from",
+      "around",
+      "toward",
+      "into",
+      "about"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q21",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2017-sonbahar-g17-21",
+    "passage": "In the 1960s, people had greater employment opportunities and a new buying power. (17)----this growing affluence, music and fashion became mass-market industries and were quick to cater to the demands of the youth market. The growing popularity of television helped to spread popular culture throughout the world, (18)---- new trends could develop rapidly. Programmes such as Top of the Pops in the UK and TheEd Sullivan Show in the US could lead people (19)---- considerable attention to pop music. In 1962, the Beatles emerged from Liverpool's Cavern Club. Their first album Please Please Me became very famous(20)---- the globe within a year. They grew (21)---- popular, sparking such intense devotion in their fans that it became known as 'Beatlemania'.",
+    "stem": null,
+    "options": [
+      "slightly",
+      "coincidentally",
+      "steadily",
+      "equally",
+      "immensely"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q22",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2017-sonbahar-g22-26",
+    "passage": "Since ancient times, architecture has been considered the ‘mother’ of the arts. (22)---- music, painting, and sculpture that exist in a way separate from life, architecture incorporates life. People and their activities are an (23)---- component of architecture, not merely as spectators to be entertained but as contributors and participants. Painters, sculptors, and composers of music (24)---- about how their viewers or audience never see or hear their art in quite the same way as it was conceived, or that is interpreted or displayed in ways that affect its innate character. However, they have control (25)---- the essence of their work and that essence is, in a way, tightly sealed within the object: the musical score, the covers of a book or the picture frame. (26)----, even the essence of architecture is realised by the people whose activities it influences.",
+    "stem": null,
+    "options": [
+      "As well as",
+      "By means of",
+      "As opposed to",
+      "In terms of",
+      "Because of"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q23",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2017-sonbahar-g22-26",
+    "passage": "Since ancient times, architecture has been considered the ‘mother’ of the arts. (22)---- music, painting, and sculpture that exist in a way separate from life, architecture incorporates life. People and their activities are an (23)---- component of architecture, not merely as spectators to be entertained but as contributors and participants. Painters, sculptors, and composers of music (24)---- about how their viewers or audience never see or hear their art in quite the same way as it was conceived, or that is interpreted or displayed in ways that affect its innate character. However, they have control (25)---- the essence of their work and that essence is, in a way, tightly sealed within the object: the musical score, the covers of a book or the picture frame. (26)----, even the essence of architecture is realised by the people whose activities it influences.",
+    "stem": null,
+    "options": [
+      "impoverished",
+      "immeasurable",
+      "unreasonable",
+      "indispensable",
+      "unintentional"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q24",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2017-sonbahar-g22-26",
+    "passage": "Since ancient times, architecture has been considered the ‘mother’ of the arts. (22)---- music, painting, and sculpture that exist in a way separate from life, architecture incorporates life. People and their activities are an (23)---- component of architecture, not merely as spectators to be entertained but as contributors and participants. Painters, sculptors, and composers of music (24)---- about how their viewers or audience never see or hear their art in quite the same way as it was conceived, or that is interpreted or displayed in ways that affect its innate character. However, they have control (25)---- the essence of their work and that essence is, in a way, tightly sealed within the object: the musical score, the covers of a book or the picture frame. (26)----, even the essence of architecture is realised by the people whose activities it influences.",
+    "stem": null,
+    "options": [
+      "would have complained",
+      "may complain",
+      "should complain",
+      "must have complained",
+      "used to complain"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q25",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2017-sonbahar-g22-26",
+    "passage": "Since ancient times, architecture has been considered the ‘mother’ of the arts. (22)---- music, painting, and sculpture that exist in a way separate from life, architecture incorporates life. People and their activities are an (23)---- component of architecture, not merely as spectators to be entertained but as contributors and participants. Painters, sculptors, and composers of music (24)---- about how their viewers or audience never see or hear their art in quite the same way as it was conceived, or that is interpreted or displayed in ways that affect its innate character. However, they have control (25)---- the essence of their work and that essence is, in a way, tightly sealed within the object: the musical score, the covers of a book or the picture frame. (26)----, even the essence of architecture is realised by the people whose activities it influences.",
+    "stem": null,
+    "options": [
+      "about",
+      "over",
+      "against",
+      "from",
+      "with"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q26",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2017-sonbahar-g22-26",
+    "passage": "Since ancient times, architecture has been considered the ‘mother’ of the arts. (22)---- music, painting, and sculpture that exist in a way separate from life, architecture incorporates life. People and their activities are an (23)---- component of architecture, not merely as spectators to be entertained but as contributors and participants. Painters, sculptors, and composers of music (24)---- about how their viewers or audience never see or hear their art in quite the same way as it was conceived, or that is interpreted or displayed in ways that affect its innate character. However, they have control (25)---- the essence of their work and that essence is, in a way, tightly sealed within the object: the musical score, the covers of a book or the picture frame. (26)----, even the essence of architecture is realised by the people whose activities it influences.",
+    "stem": null,
+    "options": [
+      "Otherwise",
+      "Unfortunately",
+      "For instance",
+      "Therefore",
+      "On the contrary"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q27",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- until they are considered ready to switch to English.",
+    "options": [
+      "Around 2.6 million school-aged children throughout the US do not speak English at all",
+      "It is difficult for bilingual teachers to help their students improve their native language skills in some subjects",
+      "In transitional bilingual education, students are taught academic subjects in their native languages",
+      "The language rights of ethnic minorities in the US have been a source of public controversy for decades",
+      "Most people who are opposed to bilingualism are part of the English-only movement"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q28",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Though China began as a small empire centred on the Great Bend of the Yellow River, ----.",
+    "options": [
+      "almost all of what we know about its culture comes from the wealthy classes",
+      "the emperor of China, believed to have descended from the gods, was at the top of society",
+      "it was with the Shang dynasty that people began to keep written records of Chinese history",
+      "kings of local areas gained more power and sometimes fought among themselves",
+      "it expanded considerably over time to become quite a vast kingdom"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q29",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While scientists are pretty certain that black holes exist, ----.",
+    "options": [
+      "they have never observed one directly, let alone gotten in near proximity of one",
+      "they are defined as areas in space from which nothing can escape",
+      "it has been long known that the gravity there is intensely strong",
+      "they can be produced in supernova explosions, marking the death of a star",
+      "they use quantum rules to show that black holes must evaporate"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q30",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though parchment was more difficult to produce and more expensive than papyrus, ----.",
+    "options": [
+      "the king of Egypt stopped exporting papyrus to Pergamum, fearing that Pergamum's great library might overshadow that of Alexandria",
+      "the finest parchments, especially those made from the skins of very young animals, were called 'vellum'",
+      "parchment was made from the skins of sheep and goats while papyrus was made from the stems of the papyrus plant",
+      "it was Europe's favoured writing material until the 14th-century advances in paper making",
+      "among the most famous medieval manuscripts written on parchment is the stunning Très Riches Heures of the Duc de Berry"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q31",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the science of geology as we know it today is a relatively young field, ----.",
+    "options": [
+      "it basically refers to the scientific study of rocks and soil",
+      "it is a vast field, stretching from palaeontology to mineralogy",
+      "insightful observations of the Earth's processes dates back to the ancient Greeks",
+      "many geologists think there are some truths that work most of the time",
+      "many of the processes attached to geology cannot be used for measurement in all situations"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q32",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Preventing children's academic failure means developing individuals who are able to contribute to the common good; ----.",
+    "options": [
+      "yet, some types of academic failure prevention call for an increased emphasis on arithmetic skills",
+      "nevertheless, causes of academic failure include socioeconomic and cultural issues",
+      "accordingly, academic failure has recently come to mean a failure to acquire basic literacy skills",
+      "on the contrary, a positive family environment is very important in preventing academic failure",
+      "thus, the prevention of academic failure should be a primary concern for any society"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q33",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, we regularly leave digital traces of our economic standing when expressing ourselves through posts on social media.",
+    "options": [
+      "In order that people can stay away from the negative effects of the Internet",
+      "Unless we talk about business, politics and non-profit work with others",
+      "No matter we reveal our own personal information online",
+      "Although money is a topic that most of us avoid discussing publicly",
+      "Since more than half of the Internet users stay away from using social media actively"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q34",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Early humans had no explanation for the existence of a vast array of substances and their transformations, ----.",
+    "options": [
+      "so they could only attribute chemical phenomena to the acts of the gods",
+      "but the first step to modern chemistry was the recognition of the fact that atoms existed",
+      "as they were able to observe various materials on Earth and predict their future forms",
+      "because chemical researchers identified the building blocks of matter in modern times",
+      "for they could interpret chemical changes between substances in a small amount of time"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q35",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, the illness can present itself at any stage of life.",
+    "options": [
+      "As cultural pressures foster both unhealthy dieting and anorexia",
+      "Even though anorexia is often claimed to overlap with clinical depression",
+      "While there is certainly a prevalence of anorexia in teenagers",
+      "If a lack of serotonin has a causal effect on the existence of anorexia",
+      "Despite the common belief that anorexia is the result of an abnormality in the brain"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q36",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "World Space Week takes place every year in October, ----.",
+    "options": [
+      "so World Space Week 2016 has been, by far, the largest space celebration in history",
+      "because you do not have to be an astronaut to be part of the global celebration of World Space Week",
+      "and it has grown into the largest public space event on Earth since its declaration by the United Nations",
+      "but it can be a great framework for countries and agencies to foster space exploration",
+      "while the Mexican Space Agency has been an important promoter of World Space Week"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q37",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "New Zealand, separated from other land masses, has unique plant and animal species, which are vulnerable to the impacts of non-native species.",
+    "options": [
+      "Eşsiz bitki ve hayvan türlerinin bulunduğu Yeni Zelanda diğer kara parçalarından ayrıdır, dolayısıyla bu türler yabancı türlerin etkilerine karşı savunmasızdır.",
+      "Yeni Zelanda’nın diğer kara parçalarından ayrı olması, eşsiz bitki ve hayvan türlerini yabancı türlerin etkilerine karşı savunmasız hâle getirmiştir.",
+      "Yeni Zelanda diğer kara parçalarından ayrılmış olsa da yabancı türlerin etkilerine karşı savunmasız hâlde bulunan eşsiz bitki ve hayvan türlerine sahiptir.",
+      "Diğer kara parçalarından ayrı olan Yeni Zelanda, yabancı türlerin etkilerine karşı savunmasız hâlde bulunan eşsiz bitki ve hayvan türlerine sahiptir.",
+      "Yeni Zelanda diğer kara parçalarından ayrı olduğu için burada bulunan eşsiz bitki ve hayvan türleri, yabancı türlerin etkilerine karşı savunmasızdır."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q38",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Believing that sports could be used to promote peace between countries, the French aristocrat Pierre de Coubertin organised the first modern Olympic Games in Athens, in 1896.",
+    "options": [
+      "Fransız aristokrat Pierre de Coubertin, sporun ülkeler arasındaki barışa önayak olması için kullanılabileceğine inanarak 1896'da Atina'da ilk modern Olimpiyat Oyunları'nı düzenledi.",
+      "1896'da, sporun ülkeler arasındaki barışa önayak olması için kullanılabileceği inancıyla ilk modern Olimpiyat Oyunları'nı düzenleyen kişi Fransız aristokrat Pierre de Coubertin'dir.",
+      "Fransız aristokrat Pierre de Coubertin, spor aracılığıyla ülkeler arasındaki barışa önayak olunabileceğine inanarak 1896'da Atina'da ilk modern Olimpiyat Oyunları'nı düzenledi.",
+      "Fransız aristokrat Pierre de Coubertin, sporun ülkeler arasındaki barışa önayak olabileceğine inandığı için 1896'da Atina'da ilk modern Olimpiyat Oyunları'nın düzenlenmesini sağladı.",
+      "İlk modern Olimpiyat Oyunları'nın 1896'da düzenlenmesi, Fransız aristokrat Pierre de Coubertin'in sporun ülkeler arasındaki barışa önayak olması için kullanılabileceği düşüncesine dayanır."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q39",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Originally imported from China in the 12th century, tea has been a significant component of Japanese culture ever since.",
+    "options": [
+      "12. yüzyıldan beri Japon kültürünün önemli bir parçası olan çay, aslında Çin’den getirilmiştir.",
+      "12. yüzyılda aslında Çin'den getirilen çay, o zamandan beri Japon kültürünün önemli bir parçası olmuştur.",
+      "Japon kültürünün önemli bir parçası olan çay, aslında 12. yüzyıldan beri Çin'den getirilmektedir.",
+      "Çay aslında 12. yüzyılda Çin'den getirilse de o zamandan beri Japon kültürünün önemli bir parçası olmuştur.",
+      "Çay aslında 12. yüzyılda Çin’den getirildiğinden beri Japon kültürünün önemli bir parçası olmuştur."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q40",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Kutup ayıları iklim değişikliğinin sadece sembolü değil, aynı zamanda her yaz biraz daha seyrekleşen doğal yaşam alanlarını terk eden asıl kurbanlarıdır.",
+    "options": [
+      "Polar bears are both the symbol of climate change and true victims of it, because they have to leave their habitat which has become sparser every summer.",
+      "Climate change is not only responsible for making polar bears a symbol but also a victim of it, as they have to leave their habitat becoming sparser every summer.",
+      "Polar bears are known as both the symbol and the victims of climate change since they have to leave their habitat every summer as it becomes sparser.",
+      "Polar bears are not just the symbol of climate change but they are also true victims, leaving their habitat which has become sparser each summer.",
+      "Polar bears have become the symbol of climate change; however, they are also the victims of it due to the necessity of leaving their habitat every summer."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q41",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Newton'ın evrensel yer çekimi kanunu, Güneş sistemindeki nesnelerin matematiksel olarak tahmin edilebilir bir dizi kurala göre hareket ettiğini göstermektedir.",
+    "options": [
+      "It is shown by Newton's law of universal gravitation that the objects in the solar system move according to a mathematically predictable set of rules.",
+      "Newton’s law of universal gravitation shows that the objects in the solar system move according to a mathematically predictable set of rules.",
+      "Newton's law of universal gravitation shows how the objects in the solar system move according to a mathematically predictable set of rules.",
+      "Thanks to Newton's law of universal gravitation, it is shown that the objects in the solar system move according to a mathematically predictable set of rules.",
+      "Newton's law of universal gravitation shows that the moves of the objects in the solar system are linked to a mathematically predictable set of rules."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q42",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Besin kaynaklarının dağılımı, bolluğu ve mevsimselliği, insanların göçebe veya yerleşik bir yaşam sürme tercihini etkilemiştir.",
+    "options": [
+      "The distribution, abundance and seasonality of food resources affected people's choice to live a nomadic or settled existence.",
+      "What affected people's choice to live a nomadic or settled existence were the distribution, abundance and seasonality of food resources.",
+      "People's choice to live a nomadic or settled existence was affected by the distribution, abundance and seasonality of food resources.",
+      "Food resources, with their distribution, abundance and seasonality, affected people's choice to live a nomadic or settled existence.",
+      "People's choice to live a nomadic or settled existence was affected by food resources, based on their distribution, abundance and seasonality."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q43",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g43-46",
+    "passage": "Sometimes it feels like the Internet has the answer to everything. At our fingertips, we have the ability to improve our knowledge or test someone's doubtful \"Did you know...?\" statement. Our online searches have their limits, though. If we have questions about what is in front of us, the Internet cannot always help. Is this water safe to drink? How much fat is really in this steak? Search engines cannot access these objects, so their answers are limited to averages and tendencies. To get real answers, we must tap into the chemical make-up of our world. The technology to do this exists, but it is limited to immovable pieces of lab kit called near-infrared (NIR) spectrometers. NIR spectrometers work by shining a spectrum of near-infrared light onto objects and analysing the light that bounces back. Say you want to scan an apple. Each substance within the fruit, be it water, sugar, or fibre, will respond to the light in a unique way. The bonds within them will be energised, moving around at specific wavelengths. The spectrometer can detect these wavelengths and then identify what is inside your particular apple. NIR light is also perfectly safe to use, unlike more destructive X-rays or ultraviolet radiation.",
+    "stem": "By asking questions such as \"Is this water safe to drink?\", what is the author actually trying to say?",
+    "options": [
+      "We can expand our knowledge about almost everything by using the Internet.",
+      "A great number of questions can be answered thanks to the Internet.",
+      "What we can learn through online searches is not endless.",
+      "Doubtful statements made by others cannot be exactly clarified by doing online searches.",
+      "We can easily discover averages and tendencies via search engines."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q44",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g43-46",
+    "passage": "Sometimes it feels like the Internet has the answer to everything. At our fingertips, we have the ability to improve our knowledge or test someone's doubtful \"Did you know...?\" statement. Our online searches have their limits, though. If we have questions about what is in front of us, the Internet cannot always help. Is this water safe to drink? How much fat is really in this steak? Search engines cannot access these objects, so their answers are limited to averages and tendencies. To get real answers, we must tap into the chemical make-up of our world. The technology to do this exists, but it is limited to immovable pieces of lab kit called near-infrared (NIR) spectrometers. NIR spectrometers work by shining a spectrum of near-infrared light onto objects and analysing the light that bounces back. Say you want to scan an apple. Each substance within the fruit, be it water, sugar, or fibre, will respond to the light in a unique way. The bonds within them will be energised, moving around at specific wavelengths. The spectrometer can detect these wavelengths and then identify what is inside your particular apple. NIR light is also perfectly safe to use, unlike more destructive X-rays or ultraviolet radiation.",
+    "stem": "What is the main function of NIR spectrometers?",
+    "options": [
+      "They enable us to examine the chemical structure of objects.",
+      "They help scientists explore the chemistry of objects through search engines.",
+      "They reply to questions that cannot be answered through the Internet.",
+      "They reveal the amount of substances like water and sugar in foods.",
+      "They detect whether objects are destroyed by X-rays or ultraviolet radiation."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q45",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g43-46",
+    "passage": "Sometimes it feels like the Internet has the answer to everything. At our fingertips, we have the ability to improve our knowledge or test someone's doubtful \"Did you know...?\" statement. Our online searches have their limits, though. If we have questions about what is in front of us, the Internet cannot always help. Is this water safe to drink? How much fat is really in this steak? Search engines cannot access these objects, so their answers are limited to averages and tendencies. To get real answers, we must tap into the chemical make-up of our world. The technology to do this exists, but it is limited to immovable pieces of lab kit called near-infrared (NIR) spectrometers. NIR spectrometers work by shining a spectrum of near-infrared light onto objects and analysing the light that bounces back. Say you want to scan an apple. Each substance within the fruit, be it water, sugar, or fibre, will respond to the light in a unique way. The bonds within them will be energised, moving around at specific wavelengths. The spectrometer can detect these wavelengths and then identify what is inside your particular apple. NIR light is also perfectly safe to use, unlike more destructive X-rays or ultraviolet radiation.",
+    "stem": "What is the drawback of NIR spectrometers?",
+    "options": [
+      "The light they give out can be hazardous.",
+      "When the substances in an object respond in the same way, they cannot be distinguished.",
+      "Their functions are limited to foods.",
+      "They are restricted to laboratory use.",
+      "They cannot accurately analyse the light reflected from objects."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q46",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g43-46",
+    "passage": "Sometimes it feels like the Internet has the answer to everything. At our fingertips, we have the ability to improve our knowledge or test someone's doubtful \"Did you know...?\" statement. Our online searches have their limits, though. If we have questions about what is in front of us, the Internet cannot always help. Is this water safe to drink? How much fat is really in this steak? Search engines cannot access these objects, so their answers are limited to averages and tendencies. To get real answers, we must tap into the chemical make-up of our world. The technology to do this exists, but it is limited to immovable pieces of lab kit called near-infrared (NIR) spectrometers. NIR spectrometers work by shining a spectrum of near-infrared light onto objects and analysing the light that bounces back. Say you want to scan an apple. Each substance within the fruit, be it water, sugar, or fibre, will respond to the light in a unique way. The bonds within them will be energised, moving around at specific wavelengths. The spectrometer can detect these wavelengths and then identify what is inside your particular apple. NIR light is also perfectly safe to use, unlike more destructive X-rays or ultraviolet radiation.",
+    "stem": "Which could be the best title for this passage?",
+    "options": [
+      "Advantages and Limitations of Search Engines",
+      "Are NIR Spectrometers Safe to Use?",
+      "Can Wavelengths Be Used with Search Engines?",
+      "Choosing the Best Food to Eat through Scanning",
+      "Seeing Inside Things through NIR Spectrometers"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q47",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g47-50",
+    "passage": "2014 was a landmark year for drug development. The US Food and Drug Administration approved 41 new pharmaceuticals, the most since 1996. Each of these will hopefully make the world a better place, alleviating distress and preventing premature deaths. But developing drugs is incredibly expensive – and increasingly so. The cost of bringing a new compound to the market is now around $2.5 billion, twice as much in real terms as it was a decade ago. One of the costliest parts is recruiting and retaining volunteers to test the drug in a clinical trial. Around three quarters of trials are delayed by problems with this process. Most trials over-recruit by up to 50 percent to compensate, but the drop-out is still so high that only 1 in 20 volunteers end up generating useful data. The result: wasted time, effort and money. That is not for lack of patient willingness. In 2013, the UK's House of Commons found that people want to volunteer but do not know how. Yet, volunteers can be brought on board and kept there by making more effort to inform and help them to choose which trial they would like to enter. The problems with volunteer recruitment were identified a decade ago but have not been eradicated. It is high time they were. It is in everyone's interest to get rid of this unnecessary waste.",
+    "stem": "It is understood from the passage that many participants in clinical trials ----.",
+    "options": [
+      "think that their time and effort will be wasted",
+      "are recruited again when a clinical trial ultimately fails",
+      "have to comply with strict regulations in order to take part in these trials",
+      "are well informed about the processes and procedures in these trials",
+      "fail to contribute to the production of reliable data on drugs"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q48",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g47-50",
+    "passage": "2014 was a landmark year for drug development. The US Food and Drug Administration approved 41 new pharmaceuticals, the most since 1996. Each of these will hopefully make the world a better place, alleviating distress and preventing premature deaths. But developing drugs is incredibly expensive – and increasingly so. The cost of bringing a new compound to the market is now around $2.5 billion, twice as much in real terms as it was a decade ago. One of the costliest parts is recruiting and retaining volunteers to test the drug in a clinical trial. Around three quarters of trials are delayed by problems with this process. Most trials over-recruit by up to 50 percent to compensate, but the drop-out is still so high that only 1 in 20 volunteers end up generating useful data. The result: wasted time, effort and money. That is not for lack of patient willingness. In 2013, the UK's House of Commons found that people want to volunteer but do not know how. Yet, volunteers can be brought on board and kept there by making more effort to inform and help them to choose which trial they would like to enter. The problems with volunteer recruitment were identified a decade ago but have not been eradicated. It is high time they were. It is in everyone's interest to get rid of this unnecessary waste.",
+    "stem": "One can conclude from the passage that the problems of volunteer recruitment ----.",
+    "options": [
+      "have been solved using a strategy called 'over-recruitment'",
+      "show many differences in each clinical trial",
+      "are to be solved soon by making up for waste of time in clinical trials",
+      "can be reduced by providing people with more guidance on volunteering",
+      "have changed a lot in time with respect to their basic characteristics"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q49",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g47-50",
+    "passage": "2014 was a landmark year for drug development. The US Food and Drug Administration approved 41 new pharmaceuticals, the most since 1996. Each of these will hopefully make the world a better place, alleviating distress and preventing premature deaths. But developing drugs is incredibly expensive – and increasingly so. The cost of bringing a new compound to the market is now around $2.5 billion, twice as much in real terms as it was a decade ago. One of the costliest parts is recruiting and retaining volunteers to test the drug in a clinical trial. Around three quarters of trials are delayed by problems with this process. Most trials over-recruit by up to 50 percent to compensate, but the drop-out is still so high that only 1 in 20 volunteers end up generating useful data. The result: wasted time, effort and money. That is not for lack of patient willingness. In 2013, the UK's House of Commons found that people want to volunteer but do not know how. Yet, volunteers can be brought on board and kept there by making more effort to inform and help them to choose which trial they would like to enter. The problems with volunteer recruitment were identified a decade ago but have not been eradicated. It is high time they were. It is in everyone's interest to get rid of this unnecessary waste.",
+    "stem": "What is the primary purpose of the author?",
+    "options": [
+      "To highlight the number of the drugs introduced to the market in 2014",
+      "To explain reasons why developing drugs has become too expensive in recent years",
+      "To elaborate on the role that the US Food and Drug Administration plays in developing drugs",
+      "To inform readers about some important problems confronted in clinical trials of drugs",
+      "To emphasise the health benefits that 41 new pharmaceuticals are expected to yield"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q50",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g47-50",
+    "passage": "2014 was a landmark year for drug development. The US Food and Drug Administration approved 41 new pharmaceuticals, the most since 1996. Each of these will hopefully make the world a better place, alleviating distress and preventing premature deaths. But developing drugs is incredibly expensive – and increasingly so. The cost of bringing a new compound to the market is now around $2.5 billion, twice as much in real terms as it was a decade ago. One of the costliest parts is recruiting and retaining volunteers to test the drug in a clinical trial. Around three quarters of trials are delayed by problems with this process. Most trials over-recruit by up to 50 percent to compensate, but the drop-out is still so high that only 1 in 20 volunteers end up generating useful data. The result: wasted time, effort and money. That is not for lack of patient willingness. In 2013, the UK's House of Commons found that people want to volunteer but do not know how. Yet, volunteers can be brought on board and kept there by making more effort to inform and help them to choose which trial they would like to enter. The problems with volunteer recruitment were identified a decade ago but have not been eradicated. It is high time they were. It is in everyone's interest to get rid of this unnecessary waste.",
+    "stem": "Which could be the best title for this passage?",
+    "options": [
+      "The Activities of the US Food and Drug Administration",
+      "A Variety of Methods of Volunteer Recruitment in Drug Trials",
+      "Time to Take Voluntary Participation in Drug Trials Seriously",
+      "The Huge Expense of Drug Development",
+      "How to Participate in Clinical Trials of Drugs"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q51",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g51-54",
+    "passage": "Socrates was a classical Greek philosopher whose thoughts had profound influence in his field. Little is known about his early and middle years, although according to ancient tradition, he worked as a stonecutter. The fact that he served as a heavily armed soldier in the Peloponnesian War indicates that during the early years of the war, he was roughly middle class, because men from this social class were required to provide their own armour. At some time during this period, Socrates began the mission of moral reform for which he became famous. He passed his time arguing about various moral subjects that interested him with his fellow Athenians and attempting to inspire them to be virtuous and honourable. Socrates' followers included not only Plato, but Alcibiades and Critias as well, both of whom later undermined the Athenian democracy. Possibly because of such notorious connections, Socrates was accused of impiety – showing a lack of respect for God – and corrupting youth. Different versions of the speech he made to defend himself against these accusations still exist today. In his speech, he described himself as a great benefactor to the city, and claimed that the Athenians would harm themselves in killing him. In spite of, or perhaps to some extent because of, his defence, Socrates was convicted, sentenced to death, and executed.",
+    "stem": "Which of the following is certainly true about Socrates?",
+    "options": [
+      "His initiation of moral reform earned him a reputation in Athenian society.",
+      "Socrates earned his living by selling his ideas to his fellow philosophers.",
+      "Socrates became a soldier because he wanted to gain a higher social status.",
+      "Socrates took up stonecutting in his early years and practised it until his execution.",
+      "One can learn minute details of his whole life because he is a famous philosopher."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q52",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g51-54",
+    "passage": "Socrates was a classical Greek philosopher whose thoughts had profound influence in his field. Little is known about his early and middle years, although according to ancient tradition, he worked as a stonecutter. The fact that he served as a heavily armed soldier in the Peloponnesian War indicates that during the early years of the war, he was roughly middle class, because men from this social class were required to provide their own armour. At some time during this period, Socrates began the mission of moral reform for which he became famous. He passed his time arguing about various moral subjects that interested him with his fellow Athenians and attempting to inspire them to be virtuous and honourable. Socrates' followers included not only Plato, but Alcibiades and Critias as well, both of whom later undermined the Athenian democracy. Possibly because of such notorious connections, Socrates was accused of impiety – showing a lack of respect for God – and corrupting youth. Different versions of the speech he made to defend himself against these accusations still exist today. In his speech, he described himself as a great benefactor to the city, and claimed that the Athenians would harm themselves in killing him. In spite of, or perhaps to some extent because of, his defence, Socrates was convicted, sentenced to death, and executed.",
+    "stem": "What could be said about the philosophical tradition of Socrates?",
+    "options": [
+      "His ideas fiercely competed with those of Alcibiades and Critias.",
+      "His philosophical arguments were heartily welcomed by authorities.",
+      "His main philosophical point of view was to debate the legitimacy of the Athenian democracy.",
+      "Authorities thought that his prevailing philosophy was in line with religious principles.",
+      "He discussed ethical issues with the Athenians to foster respectable behaviours."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q53",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g51-54",
+    "passage": "Socrates was a classical Greek philosopher whose thoughts had profound influence in his field. Little is known about his early and middle years, although according to ancient tradition, he worked as a stonecutter. The fact that he served as a heavily armed soldier in the Peloponnesian War indicates that during the early years of the war, he was roughly middle class, because men from this social class were required to provide their own armour. At some time during this period, Socrates began the mission of moral reform for which he became famous. He passed his time arguing about various moral subjects that interested him with his fellow Athenians and attempting to inspire them to be virtuous and honourable. Socrates' followers included not only Plato, but Alcibiades and Critias as well, both of whom later undermined the Athenian democracy. Possibly because of such notorious connections, Socrates was accused of impiety – showing a lack of respect for God – and corrupting youth. Different versions of the speech he made to defend himself against these accusations still exist today. In his speech, he described himself as a great benefactor to the city, and claimed that the Athenians would harm themselves in killing him. In spite of, or perhaps to some extent because of, his defence, Socrates was convicted, sentenced to death, and executed.",
+    "stem": "Which of the following can be inferred based on the speech Socrates made to defend his actions?",
+    "options": [
+      "His defence might have had an adverse effect on his chances of survival.",
+      "His defence failed just because he had some ill-famed supporters who were strongly condemned by the Athenians.",
+      "Although he completely refuted accusations in his defence, he was executed.",
+      "He made several spontaneous speeches to defend himself in the court.",
+      "He failed to take appropriate action to reject the accusations against him."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q54",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g51-54",
+    "passage": "Socrates was a classical Greek philosopher whose thoughts had profound influence in his field. Little is known about his early and middle years, although according to ancient tradition, he worked as a stonecutter. The fact that he served as a heavily armed soldier in the Peloponnesian War indicates that during the early years of the war, he was roughly middle class, because men from this social class were required to provide their own armour. At some time during this period, Socrates began the mission of moral reform for which he became famous. He passed his time arguing about various moral subjects that interested him with his fellow Athenians and attempting to inspire them to be virtuous and honourable. Socrates' followers included not only Plato, but Alcibiades and Critias as well, both of whom later undermined the Athenian democracy. Possibly because of such notorious connections, Socrates was accused of impiety – showing a lack of respect for God – and corrupting youth. Different versions of the speech he made to defend himself against these accusations still exist today. In his speech, he described himself as a great benefactor to the city, and claimed that the Athenians would harm themselves in killing him. In spite of, or perhaps to some extent because of, his defence, Socrates was convicted, sentenced to death, and executed.",
+    "stem": "Which could be the best title for this passage?",
+    "options": [
+      "Achievements of the Distinguished Ancient Philosopher Socrates",
+      "The Execution of the Leading Greek Philosopher Socrates",
+      "Unfounded Accusations Against Socrates",
+      "A Life Story of Socrates: From Ideas to Execution",
+      "A Soldier Serving as a Philosopher: Socrates"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q55",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g55-58",
+    "passage": "Body image can be affected by outside influences. Media sources, such as television, the Internet, and magazines, often portray people closer to the commonly accepted ideal body type than the average body image in order to sell their products and services. Consequently, people, especially older children and young adults, are overly influenced by such depictions of body image. Family life can also affect children's perception of their body image. Parents who criticise how their children look, talk, or act, may often have a negative effect on the development of self-esteem in their children. Young people may also be affected by the comments of classmates and peers when it comes to their body image. Teasing is often a method used by young people to convey negative comments and hurtful words. Common characteristics for being teased include being too small or too large; too smart or too dumb; too popular or not very popular; and any of a number of other personal characterisations. Additionally, young people often try to pressure their peers to conform to what is currently popular in clothing styles, language, and other characteristics – all that can potentially hurt one's perception of their body image.",
+    "stem": "What could be inferred about the relationship between the media and body image?",
+    "options": [
+      "The body image promoted by the media encourages people to keep up with the latest trends, thus enriching their lives.",
+      "The way the media presents body image can badly influence how people see their bodies.",
+      "The media presents an ideal body type in order to improve people's perceptions of their body image.",
+      "A great majority of people are aware of how the media affects their perception of body image.",
+      "The ideal body type described by the media is harshly criticised by families since it has a negative impact on their children's self-esteem."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q56",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g55-58",
+    "passage": "Body image can be affected by outside influences. Media sources, such as television, the Internet, and magazines, often portray people closer to the commonly accepted ideal body type than the average body image in order to sell their products and services. Consequently, people, especially older children and young adults, are overly influenced by such depictions of body image. Family life can also affect children's perception of their body image. Parents who criticise how their children look, talk, or act, may often have a negative effect on the development of self-esteem in their children. Young people may also be affected by the comments of classmates and peers when it comes to their body image. Teasing is often a method used by young people to convey negative comments and hurtful words. Common characteristics for being teased include being too small or too large; too smart or too dumb; too popular or not very popular; and any of a number of other personal characterisations. Additionally, young people often try to pressure their peers to conform to what is currently popular in clothing styles, language, and other characteristics – all that can potentially hurt one's perception of their body image.",
+    "stem": "It is clearly understood from the passage that young people ----.",
+    "options": [
+      "may encounter a lack of self-esteem if they face criticism from their parents",
+      "can disregard the influence of parental behaviour on their perception of body image",
+      "could get help from their families or peers to improve their perception of body image",
+      "tend to follow the latest trends to become much more popular among their peers",
+      "are often forced by their peers to follow popular trends, which either improves or harms their perception of body image"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q57",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g55-58",
+    "passage": "Body image can be affected by outside influences. Media sources, such as television, the Internet, and magazines, often portray people closer to the commonly accepted ideal body type than the average body image in order to sell their products and services. Consequently, people, especially older children and young adults, are overly influenced by such depictions of body image. Family life can also affect children's perception of their body image. Parents who criticise how their children look, talk, or act, may often have a negative effect on the development of self-esteem in their children. Young people may also be affected by the comments of classmates and peers when it comes to their body image. Teasing is often a method used by young people to convey negative comments and hurtful words. Common characteristics for being teased include being too small or too large; too smart or too dumb; too popular or not very popular; and any of a number of other personal characterisations. Additionally, young people often try to pressure their peers to conform to what is currently popular in clothing styles, language, and other characteristics – all that can potentially hurt one's perception of their body image.",
+    "stem": "According to the author, teasing ----.",
+    "options": [
+      "might sometimes be performed by media sources to draw attention to the importance of body image",
+      "is generally used by people who are not satisfied with their own body image",
+      "is used as a way to communicate both positive and negative comments",
+      "is mostly characterised with criticism on wearing outmoded clothes",
+      "might concern a great variety of issues related with typical personal features"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q58",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g55-58",
+    "passage": "Body image can be affected by outside influences. Media sources, such as television, the Internet, and magazines, often portray people closer to the commonly accepted ideal body type than the average body image in order to sell their products and services. Consequently, people, especially older children and young adults, are overly influenced by such depictions of body image. Family life can also affect children's perception of their body image. Parents who criticise how their children look, talk, or act, may often have a negative effect on the development of self-esteem in their children. Young people may also be affected by the comments of classmates and peers when it comes to their body image. Teasing is often a method used by young people to convey negative comments and hurtful words. Common characteristics for being teased include being too small or too large; too smart or too dumb; too popular or not very popular; and any of a number of other personal characterisations. Additionally, young people often try to pressure their peers to conform to what is currently popular in clothing styles, language, and other characteristics – all that can potentially hurt one's perception of their body image.",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+      "Families can improve their children's body image by criticising them and choosing what is good for them.",
+      "It is no use ignoring peer pressure if you want to build a positive perception of body image.",
+      "Popular ways of behaving and types of clothing may help young people build a stronger body image.",
+      "Various familial and societal factors can influence the perception of body image in young people.",
+      "Families and society should stop trying to shape young people's body image through criticism and teasing."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q59",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g59-62",
+    "passage": "Botany, the study of plants, is one of the major fields of biology, together with zoology and microbiology, and has been around for a very long time. Aristotle and Theophrastus, who lived in ancient Greece around the 4th century BC, were both involved in identifying and describing plants. Theophrastus has been called the 'father of botany' due to his two well-known books on plants that are still influential. The early study of plants, however, was not limited to Western cultures. The Chinese developed the study of botany along lines similar to the ancient Greeks at about the same time. In 60 AD, another Greek, Dioscorides, wrote De Materia Medica, a work that described a thousand medicines, 60 percent of which came from plants. It remained the guidebook on medicines in the Western world for 1,500 years until the compound microscope was invented in the late 16th century. During the 17th century, progress was made in plant experimentation. In the 19th century, rapid advances were made in the study of plant diseases after the potato blight that killed potato crops in Ireland in the 1840s. The study of plants continues today as botanists try to understand the structure, behaviour, and cellular activities of plants in order to develop better crops and create new medicines.",
+    "stem": "Why is Theophrastus called the ‘father of botany’?",
+    "options": [
+      "He distinguished botany from zoology and microbiology as a distinct field.",
+      "He was more successful than Aristotle in identifying and describing plants.",
+      "He was the first person who studied plants.",
+      "He produced significant works whose effects last today.",
+      "He worked on plants for long periods of time."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q60",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g59-62",
+    "passage": "Botany, the study of plants, is one of the major fields of biology, together with zoology and microbiology, and has been around for a very long time. Aristotle and Theophrastus, who lived in ancient Greece around the 4th century BC, were both involved in identifying and describing plants. Theophrastus has been called the 'father of botany' due to his two well-known books on plants that are still influential. The early study of plants, however, was not limited to Western cultures. The Chinese developed the study of botany along lines similar to the ancient Greeks at about the same time. In 60 AD, another Greek, Dioscorides, wrote De Materia Medica, a work that described a thousand medicines, 60 percent of which came from plants. It remained the guidebook on medicines in the Western world for 1,500 years until the compound microscope was invented in the late 16th century. During the 17th century, progress was made in plant experimentation. In the 19th century, rapid advances were made in the study of plant diseases after the potato blight that killed potato crops in Ireland in the 1840s. The study of plants continues today as botanists try to understand the structure, behaviour, and cellular activities of plants in order to develop better crops and create new medicines.",
+    "stem": "Which of the following is true about De Materia Medica?",
+    "options": [
+      "It contained information on which plants are more widely used to make medicines.",
+      "It continued to be highly influential even after the invention of the compound microscope.",
+      "It contributed much to the invention of the compound microscope.",
+      "It was written by Dioscorides as a reaction to the botanical developments that occurred in China.",
+      "It was a book for consultation in the Western world for a very long time."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q61",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g59-62",
+    "passage": "Botany, the study of plants, is one of the major fields of biology, together with zoology and microbiology, and has been around for a very long time. Aristotle and Theophrastus, who lived in ancient Greece around the 4th century BC, were both involved in identifying and describing plants. Theophrastus has been called the 'father of botany' due to his two well-known books on plants that are still influential. The early study of plants, however, was not limited to Western cultures. The Chinese developed the study of botany along lines similar to the ancient Greeks at about the same time. In 60 AD, another Greek, Dioscorides, wrote De Materia Medica, a work that described a thousand medicines, 60 percent of which came from plants. It remained the guidebook on medicines in the Western world for 1,500 years until the compound microscope was invented in the late 16th century. During the 17th century, progress was made in plant experimentation. In the 19th century, rapid advances were made in the study of plant diseases after the potato blight that killed potato crops in Ireland in the 1840s. The study of plants continues today as botanists try to understand the structure, behaviour, and cellular activities of plants in order to develop better crops and create new medicines.",
+    "stem": "What is the current objective of botany?",
+    "options": [
+      "To study the works of Theophrastus and Dioscorides for better crops and new medicines",
+      "To improve products in the agricultural and pharmaceutical sectors",
+      "To make people have a better understanding of the long history of the discipline",
+      "To prevent certain plants like the potato plant from catching diseases",
+      "To analyse plants in greater detail by enhancing the experiments conducted in the 17th century"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q62",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2017-sonbahar-g59-62",
+    "passage": "Botany, the study of plants, is one of the major fields of biology, together with zoology and microbiology, and has been around for a very long time. Aristotle and Theophrastus, who lived in ancient Greece around the 4th century BC, were both involved in identifying and describing plants. Theophrastus has been called the 'father of botany' due to his two well-known books on plants that are still influential. The early study of plants, however, was not limited to Western cultures. The Chinese developed the study of botany along lines similar to the ancient Greeks at about the same time. In 60 AD, another Greek, Dioscorides, wrote De Materia Medica, a work that described a thousand medicines, 60 percent of which came from plants. It remained the guidebook on medicines in the Western world for 1,500 years until the compound microscope was invented in the late 16th century. During the 17th century, progress was made in plant experimentation. In the 19th century, rapid advances were made in the study of plant diseases after the potato blight that killed potato crops in Ireland in the 1840s. The study of plants continues today as botanists try to understand the structure, behaviour, and cellular activities of plants in order to develop better crops and create new medicines.",
+    "stem": "What is the passage mainly about?",
+    "options": [
+      "The comparison of the Western and Chinese studies of botany",
+      "The differences between botany and other fields of biology",
+      "The contribution of botany to the cultivation of crops",
+      "The history of the study of botany",
+      "The medical applications of botany"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q63",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Journalist: - Could you tell us about your research on heroic Egyptian kings? Anthropologist: - We found a skeleton that showed extensive battle trauma. After examining his injuries, we discovered that he had died due to the injuries he got while on a horse. Journalist: - ---- Anthropologist: - Previously, the Egyptian kings riding into battle could only be seen in paintings and were thought to be just aggressive depictions of the ruling class. This is the first real evidence that points to the kings actually joining their armies in battle.",
+    "options": [
+      "How does this discovery impact our traditional perceptions of the Egyptian kings?",
+      "How often did the Egyptian kings fight in battle and get injured?",
+      "Why is it significant that all the Egyptian kings were on horseback in battle?",
+      "Why did you focus on the injuries the Egyptian kings had?",
+      "Do you think that old paintings portray the Egyptian kings in detail?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q64",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Patient: - I don’t know if I’ll ever overcome this fear. Can you tell me again about this new memory therapy you want to try? Psychologist: - Well,I’m going to show you a series of pictures of the thing you’re afraid of at 10-minute intervals. Patient: - ---- Psychologist: - Time is crucial to disrupting the brain’s ability to remember your fear. If we increase the time intervals between the pictures, your brain has more time to remember, and that’s exactly what we don’t want.",
+    "options": [
+      "Are the lengths of the intervals important?",
+      "Is there a particular order of pictures?",
+      "How many times will you show me these pictures?",
+      "What does memory have to do with my fear?",
+      "What happens if my fear doesn’t go away?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q65",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Ann: - There's a very interesting article in this magazine about a scientist, Ella Al-Shamahi, who’s a palaeontologist and also performs stand-up comedy about her field. Jane: - Science and comedy, how does that work? Ann: - ---- Jane: - I get it now. She's using comedy to increase interest in her scientific research. Well, she might be on the right path, maybe comedy is the next stage in the evolution of how we present science.",
+    "options": [
+      "I guess she's using palaeontology to add variety to the topics she's talking about in her performance to be different from the other stand-up performers.",
+      "I'm not sure, but I can assume that she might have really good time management skills to be able to do research and fulfill other responsibilities as a palaeontologist.",
+      "Well, when you think about it, we seem to have a communication problem in science, so she might be using comedy to get to people with no enthusiasm about science.",
+      "The rest of the article says it's an incredible therapy for her as some of the places she researches are quite dark and it's nice to find the funny side in them.",
+      "If she's really good at it, these shows might even make her famous meaning that she can also continue doing research in her field if she wants to."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q66",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Journalist: - You always highlight the importance of keeping a checklist during complex operations. You’ve also written a book on how to create such checklists. Why do we need them? Surgeon: - Well, they're memory aids. They can help you perform well when you're working with many people on a complex procedure which eventually will save lives during surgery. Journalist: - ---- Surgeon: - A checklist was used during surgical procedures for 8,000 patients in eight hospitals around the world. In every hospital, major complications were reduced by 36 percent and the death rate was lowered by half.",
+    "options": [
+      "How did you come to the decision that checklists are really beneficial?",
+      "How did you manage to create a common checklist to be used in various complications?",
+      "How exactly can a checklist be used during a surgical procedure?",
+      "How could you spare enough time to write a book on checklists while working as a surgeon?",
+      "How did you convince your medical staff to start using a checklist?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q67",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Robert: - Can perfectionism or stress be a reason for nail-biting? Carl: - This might be true, but I'm not sure one can find reliable research as to why nail-biting is so addictive. Robert: - ---- Carl: - Anyway, I think it'd be better not to form an opinion on the causes of nail-biting without knowing all the details and scientific facts.",
+    "options": [
+      "Some experts say childhood nail-biters are less prone to allergies, presumably because they're exposed to more germs.",
+      "The most common treatment of this addiction, which is also cheap and widely available, is to apply a bitter-tasting nail polish to the nails.",
+      "I know some other body-focused repetitive behaviours like skin-picking and the urge to pull out hair, and they sometimes coexist with nail-biting.",
+      "Doctors state that nail-biting does not only lead to harmful effects in fingers, but also mouth and more generally the digestive system.",
+      "We can speculate that it's to do with experiencing high levels of anxiety and fear, or being too passionate or impatient about things and events."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q68",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The fierce debate among scientists over whether intelligence is inherited or acquired later is yet to be resolved.",
+    "options": [
+      "Scientists have not still agreed upon how much of intelligence is inherited and how much of it is acquired after birth.",
+      "Whether people are innately endowed with intelligence or they acquire it at a later time has stimulated an intense debate among scientists.",
+      "A hot debate among scientists revolves around the inheritance of intelligence rather than its acquisition in the following years.",
+      "The heated debate among scientists over whether people are born with intelligence or they acquire it later has not still ended in agreement.",
+      "The fact that intelligence can be both inherited and acquired in later years has been vigorously debated by scientists."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q69",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "According to a recent study, there are more overfed people in the world today than those who do not have enough food to eat.",
+    "options": [
+      "A new study shows that there is a significant increase in the number of overfed people worldwide when compared to those who suffer from a lack of food.",
+      "A recent study reveals that, across the world, overfed people now outnumber those who are malnourished.",
+      "A current study suggests that, in today’s world, the difference between the number of people who do not have enough food and that of those who overeat is slight.",
+      "The claim that there are as many overfed people as malnourished people in the world today has been proven by a recent study.",
+      "A new study has found that malnourished people are far greater in number than overfed people in the entire world today."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q70",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "It is imperative that women start modifying their risk factors when they are younger in order to reduce the risk of developing heart disease once they are older.",
+    "options": [
+      "If women immediately begin changing their risk factors when they are still young, they may decrease their risk of developing heart disease in their old ages.",
+      "Women are recommended to start changing their risk factors at young ages rather than old ages, because this will reduce the risk of developing heart disease.",
+      "It is extremely important for women to begin changing their risk factors when they are young because it might not be easy to decrease the risk of having heart disease in their old ages.",
+      "Women should immediately begin changing their risk factors at a young age so that they can decrease the risk of having heart disease in their old ages.",
+      "It is urgent that women begin changing their risk factors at a young age, otherwise the risk of developing heart disease among old women cannot be decreased."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q71",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "It is already known that flowers display their bright colours and use their beautiful scents to lure bees; however, scientists have recently discovered that they use electric fields as well.",
+    "options": [
+      "Scientists used to believe that flowers avoided using electric fields to attract bees despite utilising their vivid colours and scents, but now they suggest electric fields are also used.",
+      "It is common knowledge that bees are attracted by flowers' bright colours and beautiful scents, but what draws scientists' attention more these days is the electric fields that flowers also use.",
+      "It has long been known that flowers use several methods to attract bees, such as displaying striking colours and using their appealing scents, but scientists now think that flowers use electric fields for the same purpose.",
+      "In addition to the exploitation of their bright colours and beautiful scents, flowers make use of electric fields to attract bees, which has long been known by scientists.",
+      "The fact that flowers manifest their brilliant colours and benefit from their pleasant scents to attract bees has been known for a while, but what scientists have recently revealed is their use of electric fields."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q72",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "We are terrified of sharks, largely thanks to their reputation as vicious killers. Shark attacks are rare but appear to be rising: There were 98 unprovoked attacks worldwide in 2015, six fatal. There are three particularly notorious species: tiger sharks, great whites, and oceanic whitetips. ---- Recently, scientists have been shedding new light on these enigmatic creatures that are seemingly vital to the seas, and not as scary as you might think.",
+    "options": [
+      "Tiger sharks are unlikely to attack divers who keep them in sight.",
+      "Novice divers may come face-to-face with the sharks and see their true nature.",
+      "On the other hand, a lesser known fact is the crucial role sharks play in ocean ecology.",
+      "Tiger sharks in the protected waters of the Bahamas are relatively harmless, but they rarely stay in one place for long.",
+      "Scientists in Australia say that sharks keep fish numbers down and stop them degrading sea grass ecosystems."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q73",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "St. Valentine's Day is set aside for lovers and for declarations of love, with these declarations traditionally sent anonymously. ---- Theories put forward generally refer the custom back to Roman times, telling the story of St. Valentine, a Roman priest who assisted the Christian martyrs during the persecutions in the time of Claudius II. St. Valentine was caught and ordered to give up the Christian faith. He refused to do so and was executed on the 14th February 270 AD. In another telling, St. Valentine was executed for the cause of love, after allowing Christian soldiers to marry in spite of a ban on them imposed by Emperor Claudius Gothicus.",
+    "options": [
+      "St. Valentine's Day flourishes in cultures where there is a free choice of spouse.",
+      "As with many traditions of this kind, it is difficult to determine the real origin of the practice.",
+      "In the past, there was a belief that the first member of the opposite sex you met on this day would be your valentine.",
+      "Nowadays, St. Valentine's Day is promoted for commercial interests, by businesses from card manufacturers to flower merchants.",
+      "The Valentine's card as we know it today did not begin to gain popularity until recent decades."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q74",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "There is some indication that children whose access to television is restricted are less likely to be negatively affected by it, even when they do view it. A study has found that children whose parents restrict viewing are less likely to be unnecessarily fearful of the outside world. ---- In other words, children whose parents severely limit access to television may actually become more aggressive, perhaps due to the frustration that results from the deprivation of privileges.",
+    "options": [
+      "It should be noted, however, that there is some evidence that very extreme levels of restriction will backfire.",
+      "Children with limited access to television are less likely to believe that what they see on television is real.",
+      "It is possible that the mere presence of parents while viewing makes children feel happy.",
+      "Children who receive parental restriction are better able to quickly understand the plots of television programmes.",
+      "Much of the research on the effects of television viewing has focused on children whose parents are more sophisticated consumers of television."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q75",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Beautifully coloured birds, acrobatic monkeys, and noisy insects are just a few of the sights and sounds in a tropical rainforest – the richest plant and animal habitat in the world. Rainforests are found near the Equator where it is wet and warm enough for plants to grow all year round. Most rainforest trees are evergreen, and they produce food and shelter for a vast number of animals. ---- Every year, huge areas are cut down for timber and to make way for pastures and crops.",
+    "options": [
+      "Yet, the negative effect of global warming on this rich fauna can be seen.",
+      "Therefore, people should try hard to protect the variety of species living in rainforests.",
+      "In other words, the tropical rainforest is home to various plants and animals.",
+      "However, despite this richness, rainforests have recently been shrinking.",
+      "Some trees, on the other hand, are used to provide shelter for human beings."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q76",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Images of distant and unknown places have inspired explorers and public for a very long time. (II)The photographs of Yellowstone were the reason why it was selected as America's first national park in 1872. (III)Photographer William Henry Jackson captured the public's imagination and support by confirming the existence of western landmarks in the park. (IV) Half a century later photographer Ansel Adams began his long career of delighting the public with his pictures of parks that many people would never visit. (V)These landmarks which were previously regarded as glorified myths made it easier to attract attention.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q77",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Groups perform many tasks, of which making decisions is one of the most important. (II) The course of our lives is largely determined by decisions made by groups: for example, selection committees, juries, parliaments and groups of friends.(III)In addition, many of us spend a significant portion of our working lives making decisions in groups. (IV) Therefore,social psychologists have long been interested in the social processes involved in group decision-making, and in whether groups make better or different decisions than individuals do.(V) Another important dimension of group decision-making is the ability to recall information.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q78",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) In the North American autumn, Arctic air meets warmer air from the south, creating the perfect conditions for storms. (II) Wind rages around all of the Great Lakes at this time of year, but Lake Erie is the shallowest and contains the least water. (III) The water of Lake Erie is darkened by mud and sand mixed by the strong currents. (IV) This means its waves are typically the biggest as it is more easily influenced by the wind. (V) As the wind blows, the waves start to build a beat, rhythmically sloshing back and forth along the lake’s roughly east-west axis, and growing in height as they do.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q79",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) During impression formation, we tend to pay special attention to negative or potentially threatening information.(II)When we come to form an overall impression of the person, that negative information is weighed more heavily.(III)That is, a negative trait affects an impression more than a positive trait, everything else being equal.(IV) For example, in one study, students rated 97 percent of their professors in college favorably despite all the mixed experiences they have had in their college classes. (V)The main explanation for this fact is that negative traits are more unusual and therefore more distinctive.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q80",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) The symptoms of senile dementia generally include a decline in memory, learning, attention, and judgement, as well as disorientation and increased difficulties in communication.(II)Alzheimer’s disease is the most common cause of senile dementia, accounting for around 70 percent of all cases. (III)Alzheimer’s disease often makes it more difficult to think of the right word, for example. (IV) Behavioural manifestations of Alzheimer’s disease include a decline in personal hygiene, inappropriate social behaviour, and apparent changes in personality. (V) Wandering and forgetting what one is doing can also become a serious problem, as this can create a genuine danger.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V OSYM001"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2021-1-q01",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The most powerful ---- to parachuting is fear, but one should also take its high cost into account, as a total outfit for parachuting can be extremely expensive.",
+    "options": [
+      "resemblance",
+      "adjustment",
+      "deterrent",
+      "submission",
+      "adherence"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q02",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Peanut may very well be the most common food allergy in some populations, but the ---- of a particular food allergy varies according to age and group.",
+    "options": [
+      "utilisation",
+      "withdrawal",
+      "precaution",
+      "termination",
+      "prevalence"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q03",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Heating and cooling of the Earth are not ----, as it takes time for land, water, and air to either absorb heat and warm up or release stored heat and cool down.",
+    "options": [
+      "hospitable",
+      "convertible",
+      "instantaneous",
+      "detrimental",
+      "preliminary ENGLISH"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q04",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since the mid-20th century, plastic pollution has increased ----, and resulting pollution has become a global environmental issue.",
+    "options": [
+      "exponentially",
+      "conveniently",
+      "alternatively",
+      "precisely",
+      "fruitfully"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q05",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The most basic path to computer literacy is to ---- competence in using computers to perform personal or vocational tasks.",
+    "options": [
+      "exclude",
+      "relieve",
+      "deteriorate",
+      "restrict",
+      "attain"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q06",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Making videos should be a lot of fun, but it can also be a bit of a minefield, as lots of people ---- problems and lose momentum before they even get started.",
+    "options": [
+      "hand over",
+      "look for",
+      "turn down",
+      "give up",
+      "run into"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q07",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "A seminal study ---- that people who ---- less than seven hours a night are at increased risk of mortality.",
+    "options": [
+      "revealed / will sleep",
+      "has revealed / sleep",
+      "reveals / will be sleeping",
+      "will reveal / have slept",
+      "had revealed / had been sleeping"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q08",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Ideally, the end of the Cold War between the United States and the Soviet Union ---- a substantial lessening of security concerns in the world; however, in practice, the focus ---- to terrorism and subnational groups.",
+    "options": [
+      "might have signified / will have moved",
+      "would have signified / used to move",
+      "must have signified / had moved",
+      "could have signified / had been moving",
+      "should have signified / moved"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q09",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The recent discovery of a toe made of wood and leather ---- to the mummified body of an Egyptian noblewoman in Cairo, approximately 3,000 years old, ---- that artificial limbs are nothing new.",
+    "options": [
+      "attached / proves",
+      "being attached / had proven",
+      "attach / has proven",
+      "attaching / proved",
+      "to be attached / used to prove"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q10",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Anorexia nervosa is a severe eating disorder, usually involving excessive weight loss ---- self-starvation, most often found ---- teenage girls.",
+    "options": [
+      "at / with",
+      "from / of",
+      "for / between",
+      "by / on",
+      "through / among"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q11",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "With concerns ---- the rate of energy demand, the role of renewable energy, which is generated ---- sources that are naturally replenished, such as wind and sunlight, is becoming increasingly significant.",
+    "options": [
+      "at / upon",
+      "in / for",
+      "to / through",
+      "about / from",
+      "over / into"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q12",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- certain types of fungi have been used throughout history for a variety of beneficial purposes, others have been found to contain dangerous toxins that are poisonous to humans.",
+    "options": [
+      "Once",
+      "Although",
+      "Since",
+      "Provided that",
+      "Only when"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q13",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- such an intimate connection existed between agricultural intensification and the appearance of cities, it is not surprising that the earliest evidence for cities comes from regions with ancient agricultural traditions.",
+    "options": [
+      "Because",
+      "As if",
+      "Before",
+      "Although",
+      "While"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q14",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- children can be easy targets for exploitation and victimization, supervision is a necessary component of any Internet safety.",
+    "options": [
+      "Even if",
+      "Although",
+      "Since",
+      "Before",
+      "Unless"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q15",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The conventional view of dinosaur origins holds that they were endowed with ---- superior speed, agility, metabolism and intelligence ---- as soon as they debuted they quickly spread across the globe.",
+    "options": [
+      "either / or",
+      "both / and",
+      "the more / the more",
+      "whether / or",
+      "such / that"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q16",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Books continue to be a major medium for communicating scholarly works in the field of history, ---- many other social sciences, where journal articles are far more important.",
+    "options": [
+      "with the help of",
+      "in contrast to",
+      "due to",
+      "such as",
+      "on the basis of"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q17",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2021-1-g17-21",
+    "passage": "According to classical Western historiography, modernity begins in 1789 with the advent of the French Revolution. This is, perhaps, not entirely (17)----the many social changes inspired by that upheaval. It is also because of the political change, marking the break between the former regime and modernity (18)----the French Revolution represents the beginning of modern political culture. Between 1791 and 1795, France (19)----three constitutions. These were a liberal constitutional monarchy, a democratic republic based on universal manhood suffrage and a liberal republic. All three provided inspiration for constitutional monarchists, democrats and liberals far (20)----the borders of France. Indeed, the legacy of the 1791 constitution eventually forced most ruling 19th-century monarchs (21)----a constitution limiting their powers. And of the 29 constitutions adopted in Europe during 1791 – 1802 alone, 26 were the result of direct French influence.",
+    "stem": null,
+    "options": [
+      "unlike",
+      "despite",
+      "due to",
+      "instead of",
+      "except for"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q18",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2021-1-g17-21",
+    "passage": "According to classical Western historiography, modernity begins in 1789 with the advent of the French Revolution. This is, perhaps, not entirely (17)----the many social changes inspired by that upheaval. It is also because of the political change, marking the break between the former regime and modernity (18)----the French Revolution represents the beginning of modern political culture. Between 1791 and 1795, France (19)----three constitutions. These were a liberal constitutional monarchy, a democratic republic based on universal manhood suffrage and a liberal republic. All three provided inspiration for constitutional monarchists, democrats and liberals far (20)----the borders of France. Indeed, the legacy of the 1791 constitution eventually forced most ruling 19th-century monarchs (21)----a constitution limiting their powers. And of the 29 constitutions adopted in Europe during 1791 – 1802 alone, 26 were the result of direct French influence.",
+    "stem": null,
+    "options": [
+      "as if",
+      "because",
+      "although",
+      "once",
+      "unless"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q19",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2021-1-g17-21",
+    "passage": "According to classical Western historiography, modernity begins in 1789 with the advent of the French Revolution. This is, perhaps, not entirely (17)----the many social changes inspired by that upheaval. It is also because of the political change, marking the break between the former regime and modernity (18)----the French Revolution represents the beginning of modern political culture. Between 1791 and 1795, France (19)----three constitutions. These were a liberal constitutional monarchy, a democratic republic based on universal manhood suffrage and a liberal republic. All three provided inspiration for constitutional monarchists, democrats and liberals far (20)----the borders of France. Indeed, the legacy of the 1791 constitution eventually forced most ruling 19th-century monarchs (21)----a constitution limiting their powers. And of the 29 constitutions adopted in Europe during 1791 – 1802 alone, 26 were the result of direct French influence.",
+    "stem": null,
+    "options": [
+      "withdrew",
+      "neglected",
+      "jeopardised",
+      "dispelled",
+      "adopted"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q20",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2021-1-g17-21",
+    "passage": "According to classical Western historiography, modernity begins in 1789 with the advent of the French Revolution. This is, perhaps, not entirely (17)----the many social changes inspired by that upheaval. It is also because of the political change, marking the break between the former regime and modernity (18)----the French Revolution represents the beginning of modern political culture. Between 1791 and 1795, France (19)----three constitutions. These were a liberal constitutional monarchy, a democratic republic based on universal manhood suffrage and a liberal republic. All three provided inspiration for constitutional monarchists, democrats and liberals far (20)----the borders of France. Indeed, the legacy of the 1791 constitution eventually forced most ruling 19th-century monarchs (21)----a constitution limiting their powers. And of the 29 constitutions adopted in Europe during 1791 – 1802 alone, 26 were the result of direct French influence.",
+    "stem": null,
+    "options": [
+      "beyond",
+      "under",
+      "between",
+      "by",
+      "into"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q21",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2021-1-g17-21",
+    "passage": "According to classical Western historiography, modernity begins in 1789 with the advent of the French Revolution. This is, perhaps, not entirely (17)----the many social changes inspired by that upheaval. It is also because of the political change, marking the break between the former regime and modernity (18)----the French Revolution represents the beginning of modern political culture. Between 1791 and 1795, France (19)----three constitutions. These were a liberal constitutional monarchy, a democratic republic based on universal manhood suffrage and a liberal republic. All three provided inspiration for constitutional monarchists, democrats and liberals far (20)----the borders of France. Indeed, the legacy of the 1791 constitution eventually forced most ruling 19th-century monarchs (21)----a constitution limiting their powers. And of the 29 constitutions adopted in Europe during 1791 – 1802 alone, 26 were the result of direct French influence.",
+    "stem": null,
+    "options": [
+      "having accepted",
+      "to have accepted",
+      "accepting",
+      "to accept",
+      "to be accepting"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q22",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2021-1-g22-26",
+    "passage": "Martin Scorsese’s Goodfellas (1990) is a long, violent and enthralling interweaving of biography, social observation and black comedy. It is a story based on the real life of Henry Hill, who grew to manhood in the Mafia and eventually (22)---- his former associates, sending them to prison for the rest of their lives. The film is considered to be successful by critics and audiences (23)---- its superb cast, which includes some of the best of New York’s character actors: Paul Sorvino, Lorraine Bracco as Hill’s wife, Robert De Niro in his sixth collaboration with director Scorsese, and Joe Pesci, who gives a remarkably realistic performance as a menacing gangster (24)---- the rise. As Henry Hill, the actor Ray Liotta gives a complex portrayal of an Irish-Italian kid who succeeds in his youthful ambition (25)---- popularity as a wealthy gangster, only to have his position slowly eroded until it almost destroys him. Martin Scorsese sustains the fast tempo of the tale to an exciting, artful climax, (26)----some questioned whether Goodfellas glamorised or made criminals appear too sympathetic.",
+    "stem": null,
+    "options": [
+      "executed",
+      "recalled",
+      "converted",
+      "anticipated",
+      "betrayed"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q23",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2021-1-g22-26",
+    "passage": "Martin Scorsese’s Goodfellas (1990) is a long, violent and enthralling interweaving of biography, social observation and black comedy. It is a story based on the real life of Henry Hill, who grew to manhood in the Mafia and eventually (22)---- his former associates, sending them to prison for the rest of their lives. The film is considered to be successful by critics and audiences (23)---- its superb cast, which includes some of the best of New York’s character actors: Paul Sorvino, Lorraine Bracco as Hill’s wife, Robert De Niro in his sixth collaboration with director Scorsese, and Joe Pesci, who gives a remarkably realistic performance as a menacing gangster (24)---- the rise. As Henry Hill, the actor Ray Liotta gives a complex portrayal of an Irish-Italian kid who succeeds in his youthful ambition (25)---- popularity as a wealthy gangster, only to have his position slowly eroded until it almost destroys him. Martin Scorsese sustains the fast tempo of the tale to an exciting, artful climax, (26)----some questioned whether Goodfellas glamorised or made criminals appear too sympathetic.",
+    "stem": null,
+    "options": [
+      "at the expense of",
+      "as opposed to",
+      "on account of",
+      "except for",
+      "in comparison to"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q24",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2021-1-g22-26",
+    "passage": "Martin Scorsese’s Goodfellas (1990) is a long, violent and enthralling interweaving of biography, social observation and black comedy. It is a story based on the real life of Henry Hill, who grew to manhood in the Mafia and eventually (22)---- his former associates, sending them to prison for the rest of their lives. The film is considered to be successful by critics and audiences (23)---- its superb cast, which includes some of the best of New York’s character actors: Paul Sorvino, Lorraine Bracco as Hill’s wife, Robert De Niro in his sixth collaboration with director Scorsese, and Joe Pesci, who gives a remarkably realistic performance as a menacing gangster (24)---- the rise. As Henry Hill, the actor Ray Liotta gives a complex portrayal of an Irish-Italian kid who succeeds in his youthful ambition (25)---- popularity as a wealthy gangster, only to have his position slowly eroded until it almost destroys him. Martin Scorsese sustains the fast tempo of the tale to an exciting, artful climax, (26)----some questioned whether Goodfellas glamorised or made criminals appear too sympathetic.",
+    "stem": null,
+    "options": [
+      "for",
+      "at",
+      "in",
+      "to",
+      "on"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q25",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2021-1-g22-26",
+    "passage": "Martin Scorsese’s Goodfellas (1990) is a long, violent and enthralling interweaving of biography, social observation and black comedy. It is a story based on the real life of Henry Hill, who grew to manhood in the Mafia and eventually (22)---- his former associates, sending them to prison for the rest of their lives. The film is considered to be successful by critics and audiences (23)---- its superb cast, which includes some of the best of New York’s character actors: Paul Sorvino, Lorraine Bracco as Hill’s wife, Robert De Niro in his sixth collaboration with director Scorsese, and Joe Pesci, who gives a remarkably realistic performance as a menacing gangster (24)---- the rise. As Henry Hill, the actor Ray Liotta gives a complex portrayal of an Irish-Italian kid who succeeds in his youthful ambition (25)---- popularity as a wealthy gangster, only to have his position slowly eroded until it almost destroys him. Martin Scorsese sustains the fast tempo of the tale to an exciting, artful climax, (26)----some questioned whether Goodfellas glamorised or made criminals appear too sympathetic.",
+    "stem": null,
+    "options": [
+      "to gain",
+      "gaining",
+      "to have gained",
+      "having gained",
+      "to be gaining"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q26",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2021-1-g22-26",
+    "passage": "Martin Scorsese’s Goodfellas (1990) is a long, violent and enthralling interweaving of biography, social observation and black comedy. It is a story based on the real life of Henry Hill, who grew to manhood in the Mafia and eventually (22)---- his former associates, sending them to prison for the rest of their lives. The film is considered to be successful by critics and audiences (23)---- its superb cast, which includes some of the best of New York’s character actors: Paul Sorvino, Lorraine Bracco as Hill’s wife, Robert De Niro in his sixth collaboration with director Scorsese, and Joe Pesci, who gives a remarkably realistic performance as a menacing gangster (24)---- the rise. As Henry Hill, the actor Ray Liotta gives a complex portrayal of an Irish-Italian kid who succeeds in his youthful ambition (25)---- popularity as a wealthy gangster, only to have his position slowly eroded until it almost destroys him. Martin Scorsese sustains the fast tempo of the tale to an exciting, artful climax, (26)----some questioned whether Goodfellas glamorised or made criminals appear too sympathetic.",
+    "stem": null,
+    "options": [
+      "given that",
+      "only when",
+      "even though",
+      "as long as",
+      "as if"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q27",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Unless they regard the material they are taught as worth learning, ----.",
+    "options": [
+      "classrooms are rather intricate microcosms where students spend a great deal of their life and find out who they are",
+      "time pressure under which most teachers work prevents them from meeting their students’ needs",
+      "students will not be motivated to take part in classroom activities and interact with each other",
+      "subjects related to students’ everyday experiences stimulate their interest and induce them to study with vigour",
+      "making learning process more enjoyable and interesting encourages further student involvement"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q28",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While chronic stress can bring on significant mental health issues along with other problems, ----.",
+    "options": [
+      "stress can be prevented from becoming a problem in the first place by following a healthy diet",
+      "employees should be trained in stress management before they experience stress-related problems in the workplace",
+      "work-related stress often leads to depression or anxiety, causing a high rate of loss in employee productivity",
+      "short-term stress, such as working to meet an imminent deadline, can be beneficial",
+      "stress may trigger headaches, digestive disorders and cardiovascular disease"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q29",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, advertisers will quickly be discouraged from attempting to use such approaches because of public disapproval.",
+    "options": [
+      "Even if a successful return on investment is forthcoming from subliminal advertisements",
+      "Because companies desire high profits from their investments, including advertising",
+      "As a result of a rapid growth in online advertising in many sectors",
+      "Whereas there is no credible evidence that subliminal advertising will yield benefits",
+      "Although proponents provide no rationale to guide the use of subliminal adverts"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q30",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In addition to the obvious detrimental effects of sport injury on physical functioning, ----.",
+    "options": [
+      "athletes are mainly able to focus primary attention on their rehabilitation programs",
+      "any injury that occurs during a sports event is called a sport injury",
+      "most negative emotions tend to dissipate over the first month following the injuries",
+      "sport injury can have a harmful effect on various aspects of psychological functioning",
+      "injury appears to spur athletes’ use of coping strategies and seeking support from others"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q31",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though Egyptian medicine went into decline about 1200 BCE, ----.",
+    "options": [
+      "ancient Egyptians began to develop the world’s first sophisticated medical practice sometime before 2000 BCE",
+      "its reputation as the best in the ancient world continued for many centuries to follow",
+      "there is evidence suggesting that most treatments for disease were based on trial-and-error experimentation",
+      "it is assumed that Egyptian priests gained their understanding of the human body by preparing mummies",
+      "religion in ancient Egypt played an integral role in the treatment of all kinds of diseases"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q32",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Visiting buildings gives you the best chance to experience architecture in relation to the world of light, sound, setting, and people, ----.",
+    "options": [
+      "though visits to buildings are enjoyable and provide a chance to see how architecture changes the real world",
+      "but to understand the underlying architecture of buildings you need to study them through drawing",
+      "as many books on architecture and the history of architecture are rich in various kinds of visuals",
+      "and there is no readily-available prescription on how to become a good architect",
+      "even so, architecture is about changing the world, making it better, more comfortable, and more beautiful"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q33",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The many varieties of lime are nearly identical in shape and appearance, ----.",
+    "options": [
+      "while their primary use is to flavour foods like salads and cakes",
+      "although they are widely considered to have originated in Asia",
+      "given that they are high in vitamin C and contain antioxidants that promote health",
+      "but their degree of acidity ranges from nearly neutral to extremely sour",
+      "so they can also be utilised to produce perfumes and suntan products"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q34",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Consumers are less likely to adopt innovations that demand radical behaviour changes ----.",
+    "options": [
+      "as certain habits are more likely to be rapidly adopted",
+      "unless they are convinced that the effort will be worthwhile",
+      "although innovators represent about 2.5% of the population",
+      "whereas marketers are interested in identifying producers’ needs",
+      "since they tend to have more favourable attitudes toward taking risks"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q35",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Irish people fear that international populations of Ireland’s cities threaten the native culture, ----.",
+    "options": [
+      "as cultural education is mandatory for all permanent residents of Ireland",
+      "yet Irish artists are encouraged to focus on traditional rather than modern art projects",
+      "and thus foreigners seeking good job opportunities stay in big cities like Dublin and Belfast",
+      "but the survival of traditional music, dance, and storytelling proves otherwise",
+      "so Ireland’s popularity as a tourist destination is ensured by its profound cultural heritage"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q36",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Esperanto, an artificial language invented in 1887 for international use, is considered by many to be one of the easiest languages to master ----.",
+    "options": [
+      "but UNESCO has affirmed the value of establishing it as a universal second language",
+      "although the Polish linguist Ludwik L. Zamenhof hoped to bring all of the peoples of the Earth together by inventing such a language",
+      "in order that the number of speakers can reach several million in varying levels of proficiency",
+      "because it is known for its simplicity, beauty and flexibility as a medium for translation",
+      "even if Esperantists believe in the positive outcomes in learning and teaching this language"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q37",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "One of the difficulties of studying African literature is that for much of the history of Africa, the societies were non-literate and thus relied on oral traditions to pass their stories to the coming generations.",
+    "options": [
+      "Afrika edebiyatını incelemenin zorluklarından biri, Afrika tarihinin büyük bir bölümünde toplumların okuryazar olmamalarından dolayı hikâyelerini gelecek nesillere sözlü gelenek yoluyla aktarmayı tercih etmeleridir.",
+      "Afrika tarihinin büyük bir bölümünde toplumların okuryazar olmamaları sebebiyle hikâyelerini gelecek nesillere aktarmak için sözlü geleneklere bağlı kalması, Afrika edebiyatını incelemenin zorluklarından birini oluşturmaktadır.",
+      "Afrika edebiyatını incelerken karşılaşılan zorluklardan biri, Afrika tarihinin büyük bir bölümüne bakıldığında toplumların okuryazar olmamaları ve hikâyelerini gelecek nesillere sözlü geleneklere bağlı kalarak aktarmalarıdır.",
+      "Afrika edebiyatını incelemenin zorluklarından biri, Afrika tarihinin büyük bir bölümünde toplumların okuryazar olmamaları ve dolayısıyla hikâyelerini gelecek nesillere aktarmak için sözlü geleneklere bağlı kalmalarıdır.",
+      "Afrika tarihinin büyük bir bölümünde toplumlar okuryazar olmadıklarından hikâyelerini gelecek nesillere aktarmak için sözlü geleneklere bağlıydılar ve bu durum Afrika edebiyatını incelemenin zorluklarından birini oluşturmaktadır."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q38",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Being overweight after turning 60 may increase the risk of Alzheimer’s disease, but by losing weight, people may be able to hinder ageing of their brains and reduce the likelihood of memory problems later on.",
+    "options": [
+      "Aşırı kilolu olmak, 60 yaşına gelindiğinde Alzheimer hastalığı riskini artırabilmektedir fakat kilo veren insanlar beyinlerinin yaşlanmasını engelleyerek sonrasında yaşanacak olan hafıza problemleri olasılığını azaltabilirler.",
+      "60 yaşından sonra aşırı kilolu olmak, Alzheimer hastalığı riskini artırabilir ancak kilo vererek beyinlerinin yaşlanmasının önüne geçebilen insanlar sonrasında yaşanacak olan hafıza problemleri olasılığını azaltabilirler.",
+      "60 yaşına geldikten sonra aşırı kilolu olanlar, Alzheimer hastalığı riskini artırabilmektedir fakat insanlar kilo vererek beynin yaşlanmasının önüne geçtiğinde sonrasında yaşanacak olan hafıza problemleri olasılığını azaltabilirler.",
+      "60 yaşına geldikten sonra aşırı kilolu olmak, Alzheimer hastalığı riskini artırabilir ancak insanlar kilo vererek beyinlerinin yaşlanmasının önüne geçebilir ve sonrasında hafıza problemleri yaşama olasılığını azaltabilirler.",
+      "60 yaş sonrası kilolu olmak, Alzheimer hastalığı riskini artırsa da insanlar beyinlerinin yaşlanmasını engellemek ve sonrasında hafıza problemleri yaşama olasılığını azaltmak için kilo verebilirler."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q39",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "As well as being low in calories, vegetables are a rich source of vitamins and minerals and can help reduce the risk of many health problems.",
+    "options": [
+      "Zengin bir vitamin ve mineral kaynağı olan sebzeler aynı zamanda düşük kalorili olduğu için birçok sağlık sorunu riskinin azaltılmasına yardımcı olabilir.",
+      "Sebzeler, düşük kalorili olmakla birlikte zengin bir vitamin ve mineral kaynağı olduğu için birçok sağlık sorunu riskinin azaltılmasına yardımcı olur.",
+      "Düşük kalorili olmalarının yanı sıra sebzeler, zengin bir vitamin ve mineral kaynağıdır ve pek çok sağlık sorunu riskinin azaltılmasına yardımcı olabilir.",
+      "Pek çok sağlık sorunu riskinin azaltılmasına yardımcı olan sebzeler, zengin bir vitamin ve mineral kaynağı olmakla birlikte düşük kalorilidir.",
+      "Sebzeler sadece düşük kalorili olmakla kalmayıp aynı zamanda zengin bir vitamin ve mineral kaynağıdır ve birçok sağlık sorunu riskinin azaltılmasına yardımcı olmaktadır."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q40",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Birinci Dünya Savaşı’ndan sonra Avrupa otomobil endüstrisi yavaş yavaş toparlanmaya başladı ancak nispeten düşük gelirler ve yüksek işletme maliyetleri gerçek anlamda bir seri otomobil üretiminin ortaya çıkmasını engelledi.",
+    "options": [
+      "It was comparatively low incomes and high operating costs that hindered the emergence of a real mass production of automobiles although the European automobile industry started to make gradual progress after World War I.",
+      "Following World War I, the European automobile industry started to improve gradually; however, the factors that hindered the emergence of a real mass production of automobiles were relatively low incomes and high operating costs.",
+      "Whereas the European automobile industry began to recover slowly following World War I, the emergence of a real mass production of automobiles was delayed because of relatively low incomes and high operating costs.",
+      "The European automobile industry started to recover slowly after World War I, but relatively low incomes and high operating costs prevented the emergence of a real mass production of automobiles.",
+      "Having started to improve gradually after World War I, the European automobile industry prevented the emergence of a real mass production of automobiles due to comparatively low incomes and high operating costs."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q41",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Önemli gelişmelere rağmen beynin tam olarak nasıl hesap yaptığı hâlâ çözülmemiş bir problemdir, çünkü nöronların bilgiyi nasıl kodladığıyla ilgili pek çok soru henüz cevaplanmamıştır.",
+    "options": [
+      "The reason why there are still many unanswered questions about how neurons code information in spite of significant progress is that the problem of exactly how the brain computes has not been solved yet.",
+      "In spite of considerable progress, the problem of exactly how the brain can compute remains to be unsolved, as there are many unanswered questions about the way neurons code information.",
+      "Despite considerable progress, exactly how the brain computes remains an unsolved problem because many questions about how neurons code information have not been answered yet.",
+      "There has been considerable progress, but many questions about exactly how neurons code information remain unanswered, so the problem of how the brain can compute has not been solved yet.",
+      "While there has been significant progress, we still cannot solve the problem of exactly how the brain computes, as many questions about how neurons code information have not been answered yet."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q42",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "İki farklı bakteri türü, insan vücudunun belirli bölgelerinde karşılaştıklarında antibiyotiklere karşı gösterdikleri alışılagelmiş tepkilerini bırakarak beklenmedik bir şekilde davranabilirler.",
+    "options": [
+      "Two different types of bacteria are likely to act unpredictably when they meet in certain parts of the human body and abandon their usual responses to antibiotics.",
+      "When two different types of bacteria meet in certain parts of the human body, they can act unexpectedly, abandoning their typical responses to antibiotics.",
+      "When two different types of bacteria meet in certain parts of the human body, abandoning their typical responses to antibiotics can make them act unexpectedly.",
+      "The human body has certain parts where two different types of bacteria may act unpredictably when they meet and abandon their typical responses to antibiotics.",
+      "Meeting in certain parts of the human body, two different types of bacteria can act unexpectedly if they have abandoned their normal responses to antibiotics."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q43",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2021-1-g43-46",
+    "passage": "The question of animal language and thought has been debated since ancient times. Some have held the view that humans are exceptional in these respects, while others believe that humans and animals are similar with respect to language and thought. The issue is important because our self-image as a species is at stake. Arguments for human exceptionalism such as Cartesian, Wittgensteinian and behaviourist state that language and thought are closely associated, and animals do not have language. The ape language experiments of the 1960s and 1970s were especially important against this background: if apes could learn language then even the advocates of human exceptionalism would have to admit that they have thoughts. It is now generally believed that whatever linguistic abilities apes have shown have been quite rudimentary. Yet many sceptics are willing to grant that in some cases apes did develop linguistic skills to some extent, and clearly evidenced thought. Studies of other animals in captivity and various animals in the wild have provided evidence of highly sophisticated communicative behaviour. Cognitive ethology and comparative psychology have emerged as the fields that study animal thought. While there are conceptual difficulties in grounding these fields, it appears plausible that many animals have thoughts and these can be scientifically investigated.",
+    "stem": "According to the passage, the issue of animal language is significant because ----.",
+    "options": [
+      "it has just started to emerge in various debates",
+      "it can determine the self-image of human beings as a species",
+      "it has been proven that animals can understand human language",
+      "human beings’ self-image is strengthened when animals understand their language",
+      "there is strong evidence against animals’ ability to have thoughts"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q44",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2021-1-g43-46",
+    "passage": "The question of animal language and thought has been debated since ancient times. Some have held the view that humans are exceptional in these respects, while others believe that humans and animals are similar with respect to language and thought. The issue is important because our self-image as a species is at stake. Arguments for human exceptionalism such as Cartesian, Wittgensteinian and behaviourist state that language and thought are closely associated, and animals do not have language. The ape language experiments of the 1960s and 1970s were especially important against this background: if apes could learn language then even the advocates of human exceptionalism would have to admit that they have thoughts. It is now generally believed that whatever linguistic abilities apes have shown have been quite rudimentary. Yet many sceptics are willing to grant that in some cases apes did develop linguistic skills to some extent, and clearly evidenced thought. Studies of other animals in captivity and various animals in the wild have provided evidence of highly sophisticated communicative behaviour. Cognitive ethology and comparative psychology have emerged as the fields that study animal thought. While there are conceptual difficulties in grounding these fields, it appears plausible that many animals have thoughts and these can be scientifically investigated.",
+    "stem": "According to the passage, human exceptionalism is based on ----.",
+    "options": [
+      "evidence that apes have the ability to learn a human language",
+      "the fact that apes are able to think just like humans do",
+      "the assumption that animal behaviour is closely connected to their thoughts",
+      "an idea that there is a strong link between language and thought",
+      "a behaviourist approach to language learning"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q45",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2021-1-g43-46",
+    "passage": "The question of animal language and thought has been debated since ancient times. Some have held the view that humans are exceptional in these respects, while others believe that humans and animals are similar with respect to language and thought. The issue is important because our self-image as a species is at stake. Arguments for human exceptionalism such as Cartesian, Wittgensteinian and behaviourist state that language and thought are closely associated, and animals do not have language. The ape language experiments of the 1960s and 1970s were especially important against this background: if apes could learn language then even the advocates of human exceptionalism would have to admit that they have thoughts. It is now generally believed that whatever linguistic abilities apes have shown have been quite rudimentary. Yet many sceptics are willing to grant that in some cases apes did develop linguistic skills to some extent, and clearly evidenced thought. Studies of other animals in captivity and various animals in the wild have provided evidence of highly sophisticated communicative behaviour. Cognitive ethology and comparative psychology have emerged as the fields that study animal thought. While there are conceptual difficulties in grounding these fields, it appears plausible that many animals have thoughts and these can be scientifically investigated.",
+    "stem": "It can be inferred from the passage that ----.",
+    "options": [
+      "captive and wild animals differ greatly in how they communicate",
+      "wild animals are better at developing ways of communication than captive animals",
+      "there is a significant lack of study of animal thought and communication",
+      "studies of animals in captivity fail to provide any evidence of their ability to think",
+      "whether captive or wild, many animals may exhibit sophisticated communicational behaviour"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q46",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2021-1-g43-46",
+    "passage": "The question of animal language and thought has been debated since ancient times. Some have held the view that humans are exceptional in these respects, while others believe that humans and animals are similar with respect to language and thought. The issue is important because our self-image as a species is at stake. Arguments for human exceptionalism such as Cartesian, Wittgensteinian and behaviourist state that language and thought are closely associated, and animals do not have language. The ape language experiments of the 1960s and 1970s were especially important against this background: if apes could learn language then even the advocates of human exceptionalism would have to admit that they have thoughts. It is now generally believed that whatever linguistic abilities apes have shown have been quite rudimentary. Yet many sceptics are willing to grant that in some cases apes did develop linguistic skills to some extent, and clearly evidenced thought. Studies of other animals in captivity and various animals in the wild have provided evidence of highly sophisticated communicative behaviour. Cognitive ethology and comparative psychology have emerged as the fields that study animal thought. While there are conceptual difficulties in grounding these fields, it appears plausible that many animals have thoughts and these can be scientifically investigated.",
+    "stem": "Which of the following can be said about the author of the passage?",
+    "options": [
+      "He seems to be of the opinion that there are many animals with the ability to think.",
+      "He supports the philosophical views that regard humans as the highest of species.",
+      "He clearly states that investigating animal intelligence in terms of thinking is a waste of time.",
+      "He does not accept the idea that humans and animals can be investigated on one scale.",
+      "He endorses the idea that human beings’ self-image as a species has been destroyed."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q47",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2021-1-g47-50",
+    "passage": "Risk is inherent in all business activity. Start-ups, for example, face the risk of too few customers, and therefore insufficient revenue to cover costs. There is also the risk that a competitor will copy the company’s idea, and perhaps offer a better alternative. When a company has borrowed money from a bank, there is a risk that interest rates will rise, and repayments will become too burdensome to afford. Start-ups that rely on overseas trade are also exposed to exchange-rate risk. Moreover, new businesses in particular may be exposed to the risk of operating in only one market. Whereas large companies often diversify their operations to spread risk, the success of small companies is often linked to the success of one idea (the original genesis for the start-up) or one geographic region, such as the local area. A decline in that market or area can lead to failure. It is essential that new businesses are mindful of market changes, and position themselves to adapt to those changes. At its heart, risk is a strategic issue. Business owners must carefully weigh the operational risk of a start-up, or the risks of a new product or project, against potential profits or losses – in other words, the strategic consequences of action vs. inaction. Risk must be quantified and managed; and it poses a constant strategic challenge. Fortune favours the brave, but with people’s lives and the success of the business at stake, caution cannot simply be thrown to the wind.",
+    "stem": "Which of the following is not mentioned as a risk in business activity?",
+    "options": [
+      "Not having enough customers to meet the costs of operating your business",
+      "A competitor offering a better version of your product",
+      "Not being able to get a bank loan to cover your start-up costs",
+      "Exchange-rate risk in overseas trade",
+      "Challenge of loan repayment if interest rates increase"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q48",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2021-1-g47-50",
+    "passage": "Risk is inherent in all business activity. Start-ups, for example, face the risk of too few customers, and therefore insufficient revenue to cover costs. There is also the risk that a competitor will copy the company’s idea, and perhaps offer a better alternative. When a company has borrowed money from a bank, there is a risk that interest rates will rise, and repayments will become too burdensome to afford. Start-ups that rely on overseas trade are also exposed to exchange-rate risk. Moreover, new businesses in particular may be exposed to the risk of operating in only one market. Whereas large companies often diversify their operations to spread risk, the success of small companies is often linked to the success of one idea (the original genesis for the start-up) or one geographic region, such as the local area. A decline in that market or area can lead to failure. It is essential that new businesses are mindful of market changes, and position themselves to adapt to those changes. At its heart, risk is a strategic issue. Business owners must carefully weigh the operational risk of a start-up, or the risks of a new product or project, against potential profits or losses – in other words, the strategic consequences of action vs. inaction. Risk must be quantified and managed; and it poses a constant strategic challenge. Fortune favours the brave, but with people’s lives and the success of the business at stake, caution cannot simply be thrown to the wind.",
+    "stem": "According to the passage, the success of small businesses is often associated with ----.",
+    "options": [
+      "diversification of risk",
+      "a specific idea or location",
+      "operating in several markets",
+      "their position relative to inherent risks",
+      "revising their targets"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q49",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2021-1-g47-50",
+    "passage": "Risk is inherent in all business activity. Start-ups, for example, face the risk of too few customers, and therefore insufficient revenue to cover costs. There is also the risk that a competitor will copy the company’s idea, and perhaps offer a better alternative. When a company has borrowed money from a bank, there is a risk that interest rates will rise, and repayments will become too burdensome to afford. Start-ups that rely on overseas trade are also exposed to exchange-rate risk. Moreover, new businesses in particular may be exposed to the risk of operating in only one market. Whereas large companies often diversify their operations to spread risk, the success of small companies is often linked to the success of one idea (the original genesis for the start-up) or one geographic region, such as the local area. A decline in that market or area can lead to failure. It is essential that new businesses are mindful of market changes, and position themselves to adapt to those changes. At its heart, risk is a strategic issue. Business owners must carefully weigh the operational risk of a start-up, or the risks of a new product or project, against potential profits or losses – in other words, the strategic consequences of action vs. inaction. Risk must be quantified and managed; and it poses a constant strategic challenge. Fortune favours the brave, but with people’s lives and the success of the business at stake, caution cannot simply be thrown to the wind.",
+    "stem": "What is the author’s attitude towards risk-taking?",
+    "options": [
+      "Cautious",
+      "Supportive",
+      "Neutral",
+      "Changeable",
+      "Tolerant"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q50",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2021-1-g47-50",
+    "passage": "Risk is inherent in all business activity. Start-ups, for example, face the risk of too few customers, and therefore insufficient revenue to cover costs. There is also the risk that a competitor will copy the company’s idea, and perhaps offer a better alternative. When a company has borrowed money from a bank, there is a risk that interest rates will rise, and repayments will become too burdensome to afford. Start-ups that rely on overseas trade are also exposed to exchange-rate risk. Moreover, new businesses in particular may be exposed to the risk of operating in only one market. Whereas large companies often diversify their operations to spread risk, the success of small companies is often linked to the success of one idea (the original genesis for the start-up) or one geographic region, such as the local area. A decline in that market or area can lead to failure. It is essential that new businesses are mindful of market changes, and position themselves to adapt to those changes. At its heart, risk is a strategic issue. Business owners must carefully weigh the operational risk of a start-up, or the risks of a new product or project, against potential profits or losses – in other words, the strategic consequences of action vs. inaction. Risk must be quantified and managed; and it poses a constant strategic challenge. Fortune favours the brave, but with people’s lives and the success of the business at stake, caution cannot simply be thrown to the wind.",
+    "stem": "Which of the following describes the main purpose of this passage?",
+    "options": [
+      "To warn businesses against the risks that are a natural part of doing business",
+      "To discourage start-ups from doing business with overseas companies",
+      "To show that risks in business far outweigh any possible advantages",
+      "To explain why risk-taking in business is essential in certain business models",
+      "To describe how risk-taking contributes to success in business"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q51",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2021-1-g51-54",
+    "passage": "Neanderthals could hold objects between finger and thumb like we would hold a pen because their hands were more nimble, able to move quickly and easily. Recent findings suggest that Neanderthals were able to perform skilful tasks like threading sea shells onto string to make jewellery. These activities were hard to explain if they were clumsy. Neanderthal hand bones were much chunkier than ours, implying a lack of fine control. Previous studies suggested Neanderthals were unable to perform a ‘precision grip’ with finger and thumb. Instead, they were thought to use a ‘power grip’ involving their whole fist like small children holding crayons. To find out how Neanderthals used their hands, Katerina Harvati at the University of Tübingen, Germany studied 3D scans of ‘entheses’: the points on the bones where muscles were attached. A precision grip uses a different set of muscles to a power grip, and those muscles that get used more result in larger entheses. Harvati’s team previously showed this by studying modern humans having done different jobs. They examined the hand entheses of Neanderthals and early modern humans. The Neanderthals spent most of their time using precision grips, while the early modern humans used both precision and power grips. “Our study reconciles the archaeological with the anatomical fossil evidence,” says Harvati. “It was previously proposed Neanderthals relied on force for their manual activities”, but this perception “was at odds with mounting archaeological evidence for sophisticated cultural behaviour of Neanderthals”.",
+    "stem": "It is stated in the passage that contrary to earlier research, Neanderthals ----.",
+    "options": [
+      "were capable of using their finger and thumb to grasp things",
+      "expended considerable effort to be able to perform a precision grip",
+      "learnt to control their hand muscles through activities like making jewellery with sea shells",
+      "were clumsy, and thus incompetent in accomplishing complicated tasks",
+      "used power grips even for tasks that required delicacy"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q52",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2021-1-g51-54",
+    "passage": "Neanderthals could hold objects between finger and thumb like we would hold a pen because their hands were more nimble, able to move quickly and easily. Recent findings suggest that Neanderthals were able to perform skilful tasks like threading sea shells onto string to make jewellery. These activities were hard to explain if they were clumsy. Neanderthal hand bones were much chunkier than ours, implying a lack of fine control. Previous studies suggested Neanderthals were unable to perform a ‘precision grip’ with finger and thumb. Instead, they were thought to use a ‘power grip’ involving their whole fist like small children holding crayons. To find out how Neanderthals used their hands, Katerina Harvati at the University of Tübingen, Germany studied 3D scans of ‘entheses’: the points on the bones where muscles were attached. A precision grip uses a different set of muscles to a power grip, and those muscles that get used more result in larger entheses. Harvati’s team previously showed this by studying modern humans having done different jobs. They examined the hand entheses of Neanderthals and early modern humans. The Neanderthals spent most of their time using precision grips, while the early modern humans used both precision and power grips. “Our study reconciles the archaeological with the anatomical fossil evidence,” says Harvati. “It was previously proposed Neanderthals relied on force for their manual activities”, but this perception “was at odds with mounting archaeological evidence for sophisticated cultural behaviour of Neanderthals”.",
+    "stem": "It is stated in the passage that the hand bones of Neanderthals ----.",
+    "options": [
+      "were chunkier than those of early modern humans allowing only power grips",
+      "were previously considered to make them incapable of performing delicate tasks",
+      "helped them to excel in using string to make jewellery from various materials",
+      "led to a lack of control while using power grips to perform different jobs",
+      "were not well developed enough to study them through 3D scans"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q53",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2021-1-g51-54",
+    "passage": "Neanderthals could hold objects between finger and thumb like we would hold a pen because their hands were more nimble, able to move quickly and easily. Recent findings suggest that Neanderthals were able to perform skilful tasks like threading sea shells onto string to make jewellery. These activities were hard to explain if they were clumsy. Neanderthal hand bones were much chunkier than ours, implying a lack of fine control. Previous studies suggested Neanderthals were unable to perform a ‘precision grip’ with finger and thumb. Instead, they were thought to use a ‘power grip’ involving their whole fist like small children holding crayons. To find out how Neanderthals used their hands, Katerina Harvati at the University of Tübingen, Germany studied 3D scans of ‘entheses’: the points on the bones where muscles were attached. A precision grip uses a different set of muscles to a power grip, and those muscles that get used more result in larger entheses. Harvati’s team previously showed this by studying modern humans having done different jobs. They examined the hand entheses of Neanderthals and early modern humans. The Neanderthals spent most of their time using precision grips, while the early modern humans used both precision and power grips. “Our study reconciles the archaeological with the anatomical fossil evidence,” says Harvati. “It was previously proposed Neanderthals relied on force for their manual activities”, but this perception “was at odds with mounting archaeological evidence for sophisticated cultural behaviour of Neanderthals”.",
+    "stem": "The underlined word ‘reconciles’ is closest in meaning to ----.",
+    "options": [
+      "challenges",
+      "divides",
+      "matches",
+      "identifies",
+      "abandons"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q54",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2021-1-g51-54",
+    "passage": "Neanderthals could hold objects between finger and thumb like we would hold a pen because their hands were more nimble, able to move quickly and easily. Recent findings suggest that Neanderthals were able to perform skilful tasks like threading sea shells onto string to make jewellery. These activities were hard to explain if they were clumsy. Neanderthal hand bones were much chunkier than ours, implying a lack of fine control. Previous studies suggested Neanderthals were unable to perform a ‘precision grip’ with finger and thumb. Instead, they were thought to use a ‘power grip’ involving their whole fist like small children holding crayons. To find out how Neanderthals used their hands, Katerina Harvati at the University of Tübingen, Germany studied 3D scans of ‘entheses’: the points on the bones where muscles were attached. A precision grip uses a different set of muscles to a power grip, and those muscles that get used more result in larger entheses. Harvati’s team previously showed this by studying modern humans having done different jobs. They examined the hand entheses of Neanderthals and early modern humans. The Neanderthals spent most of their time using precision grips, while the early modern humans used both precision and power grips. “Our study reconciles the archaeological with the anatomical fossil evidence,” says Harvati. “It was previously proposed Neanderthals relied on force for their manual activities”, but this perception “was at odds with mounting archaeological evidence for sophisticated cultural behaviour of Neanderthals”.",
+    "stem": "Which of the following could be the best title for the passage?",
+    "options": [
+      "Effects of the Power Grip on Cultural Behaviours of Neanderthals",
+      "Historical Records of Manual Activities of Neanderthals",
+      "A Comparison between Neanderthal and Modern Human Hand Anatomies",
+      "Archaeological Findings on Early Modern Humans’ Manual Skills",
+      "Neanderthal Performance: Power Grip or Precision Grip"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q55",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2021-1-g55-58",
+    "passage": "US statistics taken from between 2000 and 2009 show that car drivers or passengers suffer 7.3 deaths per billion miles. In contrast, air travel comes in at just 0.07 deaths per billion passenger miles. Of course, statistics cannot cure someone’s fear of flying, but they do prove that it is one of the safest ways to get from A to B. This safety is thanks to the testing that every single part of the aircraft has to go through before it is allowed to undertake its first flight. While passengers get to enjoy the comfort of air conditioning, the engines have to be able to cope with temperatures as low as -55 ºC during cruise conditions. Temperature tests are important to the airlines because they want to make sure that their planes can operate in as many environments as possible. Each time they have to ground an aircraft because of bad weather, they lose money. Another thing to be considered by the airlines is the migrating birds. They can travel at altitudes of over 8,000m and threaten the cruise phase of the flight, although the greatest risk is during take-off, when the craft is at its heaviest and the engines are close to maximum power.",
+    "stem": "It is pointed out in the passage that according to the statistics ----.",
+    "options": [
+      "air travel is more popular than ever, especially in the USA",
+      "the number of people afraid of air travel is increasing",
+      "transportation is safer by plane than by car",
+      "the number of deaths in air travel is increasing",
+      "people die of the fear of flights, not of air crashes"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q56",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2021-1-g55-58",
+    "passage": "US statistics taken from between 2000 and 2009 show that car drivers or passengers suffer 7.3 deaths per billion miles. In contrast, air travel comes in at just 0.07 deaths per billion passenger miles. Of course, statistics cannot cure someone’s fear of flying, but they do prove that it is one of the safest ways to get from A to B. This safety is thanks to the testing that every single part of the aircraft has to go through before it is allowed to undertake its first flight. While passengers get to enjoy the comfort of air conditioning, the engines have to be able to cope with temperatures as low as -55 ºC during cruise conditions. Temperature tests are important to the airlines because they want to make sure that their planes can operate in as many environments as possible. Each time they have to ground an aircraft because of bad weather, they lose money. Another thing to be considered by the airlines is the migrating birds. They can travel at altitudes of over 8,000m and threaten the cruise phase of the flight, although the greatest risk is during take-off, when the craft is at its heaviest and the engines are close to maximum power.",
+    "stem": "According to the passage, the safety of each flight is ensured by ----.",
+    "options": [
+      "supplying powerful engines",
+      "having skilled aircraft crew",
+      "the tests before the flights",
+      "less traffic in the air",
+      "having fewer passengers"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q57",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2021-1-g55-58",
+    "passage": "US statistics taken from between 2000 and 2009 show that car drivers or passengers suffer 7.3 deaths per billion miles. In contrast, air travel comes in at just 0.07 deaths per billion passenger miles. Of course, statistics cannot cure someone’s fear of flying, but they do prove that it is one of the safest ways to get from A to B. This safety is thanks to the testing that every single part of the aircraft has to go through before it is allowed to undertake its first flight. While passengers get to enjoy the comfort of air conditioning, the engines have to be able to cope with temperatures as low as -55 ºC during cruise conditions. Temperature tests are important to the airlines because they want to make sure that their planes can operate in as many environments as possible. Each time they have to ground an aircraft because of bad weather, they lose money. Another thing to be considered by the airlines is the migrating birds. They can travel at altitudes of over 8,000m and threaten the cruise phase of the flight, although the greatest risk is during take-off, when the craft is at its heaviest and the engines are close to maximum power.",
+    "stem": "According to the passage, temperature is important in air travel because ----.",
+    "options": [
+      "bad weather conditions can result in loss of money for the airlines",
+      "temperatures as low as -55 ºC are the main cause of plane crashes",
+      "the air conditioning in aircrafts is not effective at low temperatures",
+      "it can affect the speed of the planes leading to delays in flights",
+      "passengers generally prefer to fly in good weather conditions"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q58",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2021-1-g55-58",
+    "passage": "US statistics taken from between 2000 and 2009 show that car drivers or passengers suffer 7.3 deaths per billion miles. In contrast, air travel comes in at just 0.07 deaths per billion passenger miles. Of course, statistics cannot cure someone’s fear of flying, but they do prove that it is one of the safest ways to get from A to B. This safety is thanks to the testing that every single part of the aircraft has to go through before it is allowed to undertake its first flight. While passengers get to enjoy the comfort of air conditioning, the engines have to be able to cope with temperatures as low as -55 ºC during cruise conditions. Temperature tests are important to the airlines because they want to make sure that their planes can operate in as many environments as possible. Each time they have to ground an aircraft because of bad weather, they lose money. Another thing to be considered by the airlines is the migrating birds. They can travel at altitudes of over 8,000m and threaten the cruise phase of the flight, although the greatest risk is during take-off, when the craft is at its heaviest and the engines are close to maximum power.",
+    "stem": "One can understand from the passage that birds ----.",
+    "options": [
+      "are responsible for the majority of air travel deaths",
+      "are a bigger danger to planes than low temperatures",
+      "threaten the safety of the flight mostly during the initial stages of the flight",
+      "can prevent the engines from reaching their maximum power",
+      "are most dangerous at altitudes higher than 8,000m"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q59",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2021-1-g59-62",
+    "passage": "What makes for a long-lasting memory? Research has shown that emotional or important events become deeply rooted, whereas neutral ones create weak impressions that easily fade. But what about an experience that initially seemed forgettable but was later shown to be important? Animal research suggested that these types of older memories could be strengthened, but until now scientists had not been able to replicate these findings in humans. New evidence suggests that our initially weak memories are maintained by the brain for a set period of time, during which they can be enhanced. In a recent study, psychologists at New York University showed 119 participants a set of images of tools and animals. A few minutes later the subjects saw a new set of images, with an electric shock paired with either tools or animals to increase the salience of one category. The participants' memories for both sets of images were then tested either six hours later, or the next day. Participants remembered images from the first series better if they belonged to the same category that was later paired with a shock. The findings suggest that even if an event does not seem meaningful when it occurs, a later cue signalling that the experience was important can enhance the old memory.",
+    "stem": "According to the passage, in order for memories to be deeply rooted, they should be ----.",
+    "options": [
+      "paired with a physical stimulus",
+      "accompanied by stimulating feelings",
+      "linked to the ones that are initially strong",
+      "broadly categorised in the brain before they are lost",
+      "replicated immediately after they are created"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q60",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2021-1-g59-62",
+    "passage": "What makes for a long-lasting memory? Research has shown that emotional or important events become deeply rooted, whereas neutral ones create weak impressions that easily fade. But what about an experience that initially seemed forgettable but was later shown to be important? Animal research suggested that these types of older memories could be strengthened, but until now scientists had not been able to replicate these findings in humans. New evidence suggests that our initially weak memories are maintained by the brain for a set period of time, during which they can be enhanced. In a recent study, psychologists at New York University showed 119 participants a set of images of tools and animals. A few minutes later the subjects saw a new set of images, with an electric shock paired with either tools or animals to increase the salience of one category. The participants' memories for both sets of images were then tested either six hours later, or the next day. Participants remembered images from the first series better if they belonged to the same category that was later paired with a shock. The findings suggest that even if an event does not seem meaningful when it occurs, a later cue signalling that the experience was important can enhance the old memory.",
+    "stem": "It is pointed out in the passage that weak memories ----.",
+    "options": [
+      "can be strengthened but they cannot be as permanent as initially strong ones",
+      "remain in the brain only if they are replicated on a daily basis",
+      "can be better remembered if they are connected to initially strong ones",
+      "are bound to disappear eventually, even if they are repeated",
+      "are kept in the brain for some time before they are forgotten"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q61",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2021-1-g59-62",
+    "passage": "What makes for a long-lasting memory? Research has shown that emotional or important events become deeply rooted, whereas neutral ones create weak impressions that easily fade. But what about an experience that initially seemed forgettable but was later shown to be important? Animal research suggested that these types of older memories could be strengthened, but until now scientists had not been able to replicate these findings in humans. New evidence suggests that our initially weak memories are maintained by the brain for a set period of time, during which they can be enhanced. In a recent study, psychologists at New York University showed 119 participants a set of images of tools and animals. A few minutes later the subjects saw a new set of images, with an electric shock paired with either tools or animals to increase the salience of one category. The participants' memories for both sets of images were then tested either six hours later, or the next day. Participants remembered images from the first series better if they belonged to the same category that was later paired with a shock. The findings suggest that even if an event does not seem meaningful when it occurs, a later cue signalling that the experience was important can enhance the old memory.",
+    "stem": "Which of the following is true about the study done by New York University psychologists?",
+    "options": [
+      "Accompanying an image in the second set with an electric shock facilitated recollection of the ones in the same category in the first set.",
+      "The participants remembered as many images from the second series as from the first one when asked on the same day or the next day.",
+      "The memory experiment tested humans' neural reactions to a set of images of animals and tools.",
+      "The study provided evidence for how memories can be manipulated to alter reality.",
+      "The researchers accompanied the images of tools with an electric shock to make the tool category distinct."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q62",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2021-1-g59-62",
+    "passage": "What makes for a long-lasting memory? Research has shown that emotional or important events become deeply rooted, whereas neutral ones create weak impressions that easily fade. But what about an experience that initially seemed forgettable but was later shown to be important? Animal research suggested that these types of older memories could be strengthened, but until now scientists had not been able to replicate these findings in humans. New evidence suggests that our initially weak memories are maintained by the brain for a set period of time, during which they can be enhanced. In a recent study, psychologists at New York University showed 119 participants a set of images of tools and animals. A few minutes later the subjects saw a new set of images, with an electric shock paired with either tools or animals to increase the salience of one category. The participants' memories for both sets of images were then tested either six hours later, or the next day. Participants remembered images from the first series better if they belonged to the same category that was later paired with a shock. The findings suggest that even if an event does not seem meaningful when it occurs, a later cue signalling that the experience was important can enhance the old memory.",
+    "stem": "What does the passage mainly focus on?",
+    "options": [
+      "How new experiences boost initially weak memories",
+      "How humans react psychologically to different images",
+      "When a memory is susceptible to weakening",
+      "What types of feedback can strengthen memories",
+      "Whether positive outcomes improve long-term memory"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q63",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Daniel: - In my Humanities course this week, we’re learning about common American hobbies. One such hobby is coin collecting. Beth: - That sounds strange and uncommon. Why would someone have a hobby such as coin collecting? Daniel: - ---- Beth: - Well, it’s true that coins represent changes in trade as well as in international relations. However, it still seems like a strange hobby to me.",
+    "options": [
+      "I’m not sure why someone would have a hobby like this. Perhaps people with large collections feel more powerful than those without.",
+      "Some would argue that coin collecting is related to history and economics. Therefore, this hobby covers a wide range of interests.",
+      "My father grew up in America and he collected coins because he wanted to learn about metals.",
+      "The reasons behind our hobbies are sometimes unexplainable. I do know that people appreciate money, so that could be why.",
+      "Our professor asked us that same question. I’m going to think about possible reasons this week."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q64",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Jeff: - The scale of natural catastrophes in the world reveals that something must be done as soon as possible. Just consider the fire in Australia in 2019. Amy: - ---- Jeff: - Neither. Actually, a more viable solution would be better. Amy: - Well, I completely agree that urgent precautions are needed.",
+    "options": [
+      "Can you please be more specific or at least give some clear examples as to how?",
+      "What are the two major actions you consider should be taken on this matter at hand?",
+      "Governments have neither action nor contingency plans for such a gravely important issue, don’t you think?",
+      "Do you mean harsh penalties or increasing ecological taxes?",
+      "I believe that more efforts should be made to increase public awareness of natural catastrophes. Would you agree?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q65",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Hannah: - The weather has finally warmed up! Time to bring out the spring wardrobe! Michael: - You’re right, but for many of us that means the onset of allergies with sniffles and watery eyes. Hannah: - ---- Michael: - Actually a healthy diet is said to be the key. What we eat has the potential to prevent allergic reactions, like sneezing, from happening in the first place. Hannah: - That’s great! Then everybody can find a way to enjoy outdoors in spring.",
+    "options": [
+      "What other symptoms do people have when their spring allergy starts?",
+      "Which allergens should people watch out for during spring time?",
+      "Why don’t people prefer to stay indoors to deal with spring allergies?",
+      "How can people avoid allergies especially throughout spring?",
+      "How long are allergic people allowed to stay out when it is spring?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q66",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Elizabeth: - Did you know that the rise of drug-resistant bacteria due to overprescription of antibiotics kills nearly one million people a year around the world? Philip: - ---- Elizabeth: - To address this, the UK government offered local health bodies an extra £5 in funding per patient if they cut prescribing antibiotics. Philip: - Did it really work? Elizabeth: - Well, one study has found that general practitioners began writing 3% fewer antibiotic prescriptions for respiratory infections.",
+    "options": [
+      "Some family doctors in Australia and the UK use tests before they prescribe antibiotics.",
+      "Yeah that’s right, and many doctors unnecessarily prescribe the drugs for viral infections as well.",
+      "Fortunately, doctors have been successfully nudged to cut antibiotic use in recent years.",
+      "To be honest, governments should try raising patients´ awareness rather than interfering with the doctor’s business.",
+      "I heard that an initiative to curb the overuse of antibiotics was introduced, which dramatically lowered the rates."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q67",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Student: - I think for my final presentation I'm going to focus on culture and the characteristics of cultured people. Teacher: - ---- Student: - Well I like the topic because how people interpret it may vary greatly. To some, being cultured means being cultured in arts while for others it only refers to a good education. Teacher: - I see your point now. Then, you will also need to address how complementary these two views are to each other.",
+    "options": [
+      "Wouldn’t it be better if you also mention the mainstream culture in different societies to illustrate the common features of cultured people?",
+      "Why do you consider it as an issue worth discussing in detail? Isn’t it clear what we expect to find in these people?",
+      "Are you also interested in the definition of cultural events since it may provide clues about who to include as cultured or not?",
+      "Do you find cultured people who attend talks, exhibitions and music concerts more intriguing than ordinary ones?",
+      "What about also comparing the description of cultured people with those of intellectuals, artists, and literary figures?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q68",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although it is incorrect to characterise adolescence as a time of inevitable family conflict, early adolescence is a period of significant change in family relationships.",
+    "options": [
+      "Early adolescence is a period of serious change in family relationships, so it may be wrongly considered as a time when frequent disagreements arise in the family.",
+      "Early adolescence refers to a period of substantial change in family relationships; however, it would be wrong to characterise adolescence as a time when unavoidable family disputes occur.",
+      "As adolescence is a time when inescapable family arguments break out, early adolescence is mistakenly believed to result in critical change in family relationships.",
+      "Whereas early adolescence is regarded as a period during which family relationships undergo remarkable change, adolescence is incorrectly considered as a time when family disputes become more intense.",
+      "Even though early adolescence is incorrectly characterised as a period of dramatic change in family relationships, adolescence is generally seen as a time when unavoidable family arguments occur frequently."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q69",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "If the benefits of zoos are negligible, animal advocates contend, then, keeping wildlife captive cannot be justified.",
+    "options": [
+      "According to animal advocates, keeping wildlife captive is not justifiable even though zoos have several benefits.",
+      "Despite the proven benefits of zoos, animal advocates believe that keeping wildlife captive is not justifiable.",
+      "Animal advocates think that it is not possible to justify keeping wildlife captive unless there are significant benefits to be gained from the zoos.",
+      "Animal advocates suggest that justifying the need to keep wildlife captive in zoos depends on how much benefit they offer.",
+      "Regardless of the benefits of zoos, keeping wildlife captive is unacceptable for animal advocates to justify."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q70",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Communicative development in the first year of all infants occurs in the same way, regardless of the complexity of the language being acquired.",
+    "options": [
+      "While communicative development in the first year of all infants takes place in a similar way, the complexity of the language being acquired may impact this development.",
+      "The complexity of an infant’s language determines whether he or she can learn to communicate more easily than others in his or her first year.",
+      "Although some infants have a language that is more complex than those of others, their communicative development in their first year could occur more quickly.",
+      "No matter how complicated their language is, every infant goes through the same process of communicative development in their first year.",
+      "The complexity of the language being acquired has nothing to do with the communicative development in the first year of an infant, though it seems to do so."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q71",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Neuroscientists know a lot about how individual neurons operate but remarkably little about how large numbers of them work together to produce thoughts, feelings and behaviours.",
+    "options": [
+      "Neuroscientists’ comprehensive understanding of the workings of individual neurons may contribute significantly to what they know about large numbers of neurons, which are thought to work in cooperation to produce thoughts, feelings and behaviours.",
+      "As they already know how neurons behave individually, what neuroscientists need to focus more on is how large neuron groups collaborate to produce thoughts, feelings and behaviours.",
+      "Neuroscientists are knowledgeable enough about how individual neurons function during the production of thought, feelings, and behaviours, but they know little about how large numbers of neurons perform these duties.",
+      "Neuroscientists’ knowledge of how large numbers of neurons cooperate for the production of thoughts, feelings and behaviours is rather limited despite the fact that they have vast knowledge of how individual neurons work.",
+      "Neuroscientists have already discovered enough about the functioning of individual neurons, and now they need to expand their knowledge of how large neuron groups produce thoughts, feelings and behaviours."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q72",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sleep is a period of intense neurological activity, especially when we have dreams. ---- Many researchers think that dreams could be an unintended consequence of these and other underlying neurological processes. Harvard psychiatrists propose that as brain circuits become active during the night, they trigger sensations, emotions and memories, all of which are essentially random. But our meaning-making brains still assemble all of this underlying activity into a story, often a strange or illogical one.",
+    "options": [
+      "One of its main functions may be to allow the brain to consolidate and organise our memories.",
+      "Deciphering nocturnal symbols may be enjoyable, but in reality, it is much more complicated than it seems.",
+      "Scientific theories are more sceptical than dream dictionaries about how much dreams actually reveal.",
+      "Dreaming has recently been seen as something that opens a window to the working of the mind.",
+      "Dream interpretations seem relevant to our lives because they apply equally well to almost everybody."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q73",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Infants can recognise the emotions of others, and use this information when reacting to novel situations and people. As infants explore their world, they generally rely on the emotional expressions of their mothers or caregivers to determine the safety or appropriateness of a particular endeavour. ---- Are infants simply imitating their mother’s emotional responses, or do they actually experience a change in mood purely from the expressive visual cues of the mother? What is known, however, is that as infants explore their environment, their emotional responses to what they encounter are based on cues portrayed by their mother or primary caregiver.",
+    "options": [
+      "During the second year, infants express emotions of shame or embarrassment and pride, which are greatly developed with the help of adults.",
+      "Parents, however, are one of the primary sources that socialise children to communicate emotional experience in culturally specific ways.",
+      "Some scientists claim that infants may fail to react to a threat in an appropriate way because it is usually difficult for them to appreciate inputs.",
+      "Although this process has been established by several studies, there is some debate about how infants do it.",
+      "Most infants, on the other hand, pay close attention to the events that take place in their environment, particularly after the first month."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q74",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "For centuries, people have bred microorganisms for the production of foods such as cheese and yogurt. Genetic technology takes this process a step further by manipulating specific genes for practical applications in research, medicine, and agriculture. The manipulation of genes resulted in hundreds of new products at the beginning of the 21st century. ---- The tools used by scientists in this process include DNA-splitting enzymes and host organisms including a range of bacteria.",
+    "options": [
+      "Usually, one gene prevails over the other and is thus called the dominant gene that supresses the other.",
+      "Currently there are a number of technologies that use genetic engineering.",
+      "Genes are individual segments of DNA within chromosomes and are known to affect all human traits.",
+      "Reproduction entails a copy of a gene from the father and a gene from the mother joining together.",
+      "Genes from different species are often combined by inserting a gene from one organism into another."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q75",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Striving to eat healthily can, ironically, become an unhealthy obsession. People with the condition known as ‘orthorexia nervosa’ are fixated on consuming food in a way that they consider pure, clean or healthy to the point where their well-being suffers. They can, for example, become malnourished. ---- Some cut out entire food groups like fats or carbs. Orthorexia is not yet listed in psychiatric manuals, but it is described in scientific journals.",
+    "options": [
+      "The term ‘orthorexia nervosa’, which refers to a pathological fixation on eating only healthy foods, was coined by Steven Bratman, a Colorado physician.",
+      "Experts generally link orthorexia with perfectionism, dieting, obsessive-compulsive traits and mental health struggles.",
+      "That is because, as the disorder progresses, patients often become increasingly restrictive in what they will eat.",
+      "If people cannot deal with such problems in a proper way, then it could be of high importance for them to talk to a mental health professional.",
+      "Interestingly, and in contrast to many other eating disorders, gender does not seem to reduce the risk of getting orthorexia."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q76",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Children, adolescents and adults sometimes fear the challenge of sustained, formal speaking before large groups. (II)Teachers can help reduce unrealistic fears by pointing out how common they are among people and what to do about them in order to reduce such fears by providing opportunities for students to practice alone or with one other student and then before increasingly larger groups. (III)Thus, students can practice speaking in front of their peers who face the same situation while presenting information, answering questions and holding group discussions. (IV)Students need to know how speakers differ from one another and how particular circumstances call for different forms of speech. (V) Practising oral presentation in these ways can lessen students’ anxieties while, at the same time, helping them to learn the subject matter of the lesson.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q77",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Whale sharks, Rhincodon typus, are the biggest fish on Earth, reaching up to 20 metres long and weighing up to 20 tonnes. (II) Despite their size, the slow-moving giants are not dangerous to humans. (III) Whale sharks tend to cluster at various coastal areas, drawn by seasonal increases in prey, including zooplankton blooms and fish spawning. (IV) Juveniles have been known to play with divers. (V)But humans are a threat to them, with the species considered endangered as numbers decline from fishing, accidental capture alongside other fish, and collisions with vessels.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q78",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) All human muscles contain both slow and fast fibres, but muscles differ in the percentage of each. (II) The percentage of each fibre type in a particular muscle also varies from person to person. (III) For example, in the quadriceps muscles of the legs, most marathon runners have about 80% slow fibres, whereas sprinters have about 60% fast fibres.(IV)It is unusual to find a runner who competes equally well in both 100-m and 10,000-m races; runners just seem to feel comfortable running races of particular lengths. (V) These differences, which are genetically determined, undoubtedly help account for our differing athletic capabilities.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q79",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) The Aztecs, who developed a great but short-lived civilisation in central Mexico, are descendants of a warlike tribe known as the Toltecs. (II) According to the Aztecs, their original homeland was an island in a lake called Aztlan, which means 'White Land'. (III) In the 10th century AD, the Toltecs built a great city called Tula to the north of what is now Mexico City. (IV) But only two and a half centuries later, in the middle of the 12th century, the Toltecs were conquered by a nomadic tribe called the Chicimeca. (V) After that, the Toltecs dispersed in all directions, leaving a legacy of legends and religious traditions that would become important elements of Aztec culture.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q80",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Crocodiles and alligators are the biggest living reptiles. (II)A crocodile is specialised at hunting in the water.(III)Although they look rather like lizards, they are actually more closely related to birds, and to the giant dinosaurs that disappeared from the Earth about 66 million years ago.(IV)These creatures lived alongside the dinosaurs millions of years ago, and probably preyed on them using the same ambush tactics that modern saltwater crocodiles use to kill buffalo.(V)They have not changed much since then, because they have not needed to ─ they have always been perfectly adapted for their way of life.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

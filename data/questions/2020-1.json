@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2020-1-q01",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Twenty-five hundred years ago, ancient Greek philosophers turned their highly sophisticated ---- away from the whims of the gods and toward questions of the natural world.",
+    "options": [
+      "inquiries",
+      "fallacies",
+      "incentives",
+      "complaints",
+      "precautions"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q02",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The mission control experts cannot tell if the space junk is going to hit the space station or not, but they are sure that a ---- would knock a hole in the body and cause all air inside it to quickly escape into space.",
+    "options": [
+      "succession",
+      "collision",
+      "conversion",
+      "fluctuation",
+      "deviation"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q03",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "While newspapers have been in dramatic decline in much of the developed West, the industry is ---- and still growing in many of Asia’s booming cities.",
+    "options": [
+      "fragile",
+      "profitable",
+      "confidential",
+      "peculiar",
+      "notorious ENGLISH"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q04",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "As the DNA of two unrelated people only differs by about one in every 1,000 base pairs, humans show ---- little genetic diversity.",
+    "options": [
+      "remarkably",
+      "elaborately",
+      "ambiguously",
+      "sufficiently",
+      "promptly"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q05",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Biologists have created a molecule that ---- the connections between brain cells, called neurons, acting exactly like the steel bars in reinforced concrete.",
+    "options": [
+      "penetrates",
+      "overcomes",
+      "implements",
+      "fortifies",
+      "receives"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q06",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Internet users are increasingly ---- cyberchondria, a mental condition in which easy access to information on medical issues causes increased feelings of anxiety over health.",
+    "options": [
+      "making up for",
+      "cutting down on",
+      "getting away with",
+      "looking around for",
+      "coming down with"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q07",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "So far, only two types of mental exertion ---- to improve overall cognitive ability: one is musical training, the other is learning a new language or practising a second one you ----.",
+    "options": [
+      "were shown / will have already learned",
+      "had been shown / have already been learning",
+      "have been shown / have already learned",
+      "will be shown / already learned",
+      "are shown / had already learned"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q08",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "If an age could ever be rightly described as ‘dark’ in European history, it ---- the two centuries that ---- the collapse of Roman authority in Britain at the beginning of the fifth century.",
+    "options": [
+      "may be / follow",
+      "would be / followed",
+      "used to be / had followed",
+      "must be / have followed",
+      "had to be / were following"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q09",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Wall paintings previously ---- in three Spanish caves have now been dated to 65,000 years ago – some 20,000 years before Homo sapiens is thought ---- in Europe.",
+    "options": [
+      "to have been discovered / to arrive",
+      "being discovered / having arrived",
+      "discovered / to have arrived",
+      "having been discovered / to be arriving",
+      "to be discovered / arriving"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q10",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "A compound called ‘hyloins’ that can be found in the frog's lymph and skin glands increases the frog's brightness ---- around 20 percent ---- a full moon.",
+    "options": [
+      "by / during",
+      "in / under",
+      "at / over",
+      "to / along",
+      "from / through"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q11",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The scientific study of the dynamic relationship ---- the celestial bodies of the solar system and the motion of human-made objects ---- outer space, such as spacecraft and satellites, is called orbital mechanics.",
+    "options": [
+      "about / on",
+      "between / at",
+      "with / of",
+      "among / in",
+      "beyond / without"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q12",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- electricity and heat account for 41 percent of global carbon dioxide emissions today, curbing climate change will require satisfying that much demand with renewables rather than fossil fuels.",
+    "options": [
+      "Since",
+      "While",
+      "Until",
+      "Unless",
+      "As if"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q13",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- all dogs show signs of having ‘theory of mind’, which enables them to grasp that we think differently from them, it is unlikely that they are capable of extending this to knowing the reason why one person behaves differently to another.",
+    "options": [
+      "In case",
+      "Only if",
+      "As far as",
+      "Given that",
+      "Even though"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q14",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- there are hundreds of school- and community-based aggression prevention and social skills promotion programmes, only a handful of these appear to be effective.",
+    "options": [
+      "Provided that",
+      "Since",
+      "Although",
+      "Just as",
+      "Unless"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q15",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Finding ammonia on the surface of Pluto could be a hint of more complex organic chemistry on the planet, although it is ---- cold ---- there is almost definitely no life there.",
+    "options": [
+      "not only / but also",
+      "both / and",
+      "neither / nor",
+      "such / that",
+      "so / that"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q16",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- the Sun’s constant stream of energy, water molecules are continually evaporating from the surfaces of oceans and lakes, adding to the water vapour in the air.",
+    "options": [
+      "Rather than",
+      "Thanks to",
+      "As opposed to",
+      "In terms of",
+      "Unlike"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q17",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2020-1-g17-21",
+    "passage": "The first civilisations emerged in areas where high agricultural productivity was possible, supporting dense populations. In the Old World, they appeared (17)---- the rivers in Mesopotamia, northern India, Egypt and northern China. Craft specialisation developed, trade flourished, writing began, and rulers were often given elaborate burials. (18)----, each civilisation also had unique features rooted in its own cultural background and environment. Life in Ancient Egypt evolved around the Nile, which provided a regular water supply and fertile soils and thus, (19)---- the surrounding desert regions, made agricultural production possible. Navigation on the river was easy, as boats (20)---- northwards with the current. From the 5th millennium BC, farming communities on the banks of the Nile gradually began to merge into a cultural, political and economic unit. This process of unification was (21)---- by trading contacts and the need to control the floodwaters of the Nile. To reap the benefits of the yearly flooding of the river, communities had to work together to build dams and flood basins.",
+    "stem": null,
+    "options": [
+      "at",
+      "into",
+      "with",
+      "along",
+      "toward"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q18",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2020-1-g17-21",
+    "passage": "The first civilisations emerged in areas where high agricultural productivity was possible, supporting dense populations. In the Old World, they appeared (17)---- the rivers in Mesopotamia, northern India, Egypt and northern China. Craft specialisation developed, trade flourished, writing began, and rulers were often given elaborate burials. (18)----, each civilisation also had unique features rooted in its own cultural background and environment. Life in Ancient Egypt evolved around the Nile, which provided a regular water supply and fertile soils and thus, (19)---- the surrounding desert regions, made agricultural production possible. Navigation on the river was easy, as boats (20)---- northwards with the current. From the 5th millennium BC, farming communities on the banks of the Nile gradually began to merge into a cultural, political and economic unit. This process of unification was (21)---- by trading contacts and the need to control the floodwaters of the Nile. To reap the benefits of the yearly flooding of the river, communities had to work together to build dams and flood basins.",
+    "stem": null,
+    "options": [
+      "Instead",
+      "However",
+      "For instance",
+      "Otherwise",
+      "That is"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q19",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2020-1-g17-21",
+    "passage": "The first civilisations emerged in areas where high agricultural productivity was possible, supporting dense populations. In the Old World, they appeared (17)---- the rivers in Mesopotamia, northern India, Egypt and northern China. Craft specialisation developed, trade flourished, writing began, and rulers were often given elaborate burials. (18)----, each civilisation also had unique features rooted in its own cultural background and environment. Life in Ancient Egypt evolved around the Nile, which provided a regular water supply and fertile soils and thus, (19)---- the surrounding desert regions, made agricultural production possible. Navigation on the river was easy, as boats (20)---- northwards with the current. From the 5th millennium BC, farming communities on the banks of the Nile gradually began to merge into a cultural, political and economic unit. This process of unification was (21)---- by trading contacts and the need to control the floodwaters of the Nile. To reap the benefits of the yearly flooding of the river, communities had to work together to build dams and flood basins.",
+    "stem": null,
+    "options": [
+      "in terms of",
+      "thanks to",
+      "in place of",
+      "by contrast with",
+      "by means of"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q20",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2020-1-g17-21",
+    "passage": "The first civilisations emerged in areas where high agricultural productivity was possible, supporting dense populations. In the Old World, they appeared (17)---- the rivers in Mesopotamia, northern India, Egypt and northern China. Craft specialisation developed, trade flourished, writing began, and rulers were often given elaborate burials. (18)----, each civilisation also had unique features rooted in its own cultural background and environment. Life in Ancient Egypt evolved around the Nile, which provided a regular water supply and fertile soils and thus, (19)---- the surrounding desert regions, made agricultural production possible. Navigation on the river was easy, as boats (20)---- northwards with the current. From the 5th millennium BC, farming communities on the banks of the Nile gradually began to merge into a cultural, political and economic unit. This process of unification was (21)---- by trading contacts and the need to control the floodwaters of the Nile. To reap the benefits of the yearly flooding of the river, communities had to work together to build dams and flood basins.",
+    "stem": null,
+    "options": [
+      "could travel",
+      "ought to travel",
+      "may have travelled",
+      "must have travelled",
+      "would have travelled"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q21",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2020-1-g17-21",
+    "passage": "The first civilisations emerged in areas where high agricultural productivity was possible, supporting dense populations. In the Old World, they appeared (17)---- the rivers in Mesopotamia, northern India, Egypt and northern China. Craft specialisation developed, trade flourished, writing began, and rulers were often given elaborate burials. (18)----, each civilisation also had unique features rooted in its own cultural background and environment. Life in Ancient Egypt evolved around the Nile, which provided a regular water supply and fertile soils and thus, (19)---- the surrounding desert regions, made agricultural production possible. Navigation on the river was easy, as boats (20)---- northwards with the current. From the 5th millennium BC, farming communities on the banks of the Nile gradually began to merge into a cultural, political and economic unit. This process of unification was (21)---- by trading contacts and the need to control the floodwaters of the Nile. To reap the benefits of the yearly flooding of the river, communities had to work together to build dams and flood basins.",
+    "stem": null,
+    "options": [
+      "abandoned",
+      "distributed",
+      "encouraged",
+      "overlooked",
+      "threatened"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q22",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2020-1-g22-26",
+    "passage": "Colliding tankers, damaged platforms and pipelines, as well as the release of residual oil from oil tanks, are potential causes for catastrophes. Pictures of dying seabirds show the (22)---- of such environmental damage. Yet, not all environmental hazards are this obvious. Water pollution (23)---- by the uncontrolled use of pesticides and heavy metals, such as mercury, lead, cadmium, and zinc, largely remains unnoticed. The dangerous prior assumption that the oceans could naturally purify themselves (24)---- limit has caused possibly irreparable damage. Not only the oceans, but many creeks, rivers, and lakes have also suffered from human interference. Many lakes have become polluted (25)---- the chemicals added by household wastewater and the overfertilisation with phosphates in agriculture. (26)----, unknown effluents from industry and acid rain add to the acidification of water bodies, which contributes to the decrease of biodiversity.",
+    "stem": null,
+    "options": [
+      "improvement",
+      "extent",
+      "suspension",
+      "eradication",
+      "release"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q23",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2020-1-g22-26",
+    "passage": "Colliding tankers, damaged platforms and pipelines, as well as the release of residual oil from oil tanks, are potential causes for catastrophes. Pictures of dying seabirds show the (22)---- of such environmental damage. Yet, not all environmental hazards are this obvious. Water pollution (23)---- by the uncontrolled use of pesticides and heavy metals, such as mercury, lead, cadmium, and zinc, largely remains unnoticed. The dangerous prior assumption that the oceans could naturally purify themselves (24)---- limit has caused possibly irreparable damage. Not only the oceans, but many creeks, rivers, and lakes have also suffered from human interference. Many lakes have become polluted (25)---- the chemicals added by household wastewater and the overfertilisation with phosphates in agriculture. (26)----, unknown effluents from industry and acid rain add to the acidification of water bodies, which contributes to the decrease of biodiversity.",
+    "stem": null,
+    "options": [
+      "having triggered",
+      "triggered",
+      "to have been triggered",
+      "triggering",
+      "to have triggered"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q24",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2020-1-g22-26",
+    "passage": "Colliding tankers, damaged platforms and pipelines, as well as the release of residual oil from oil tanks, are potential causes for catastrophes. Pictures of dying seabirds show the (22)---- of such environmental damage. Yet, not all environmental hazards are this obvious. Water pollution (23)---- by the uncontrolled use of pesticides and heavy metals, such as mercury, lead, cadmium, and zinc, largely remains unnoticed. The dangerous prior assumption that the oceans could naturally purify themselves (24)---- limit has caused possibly irreparable damage. Not only the oceans, but many creeks, rivers, and lakes have also suffered from human interference. Many lakes have become polluted (25)---- the chemicals added by household wastewater and the overfertilisation with phosphates in agriculture. (26)----, unknown effluents from industry and acid rain add to the acidification of water bodies, which contributes to the decrease of biodiversity.",
+    "stem": null,
+    "options": [
+      "from",
+      "upon",
+      "against",
+      "for",
+      "without"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q25",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2020-1-g22-26",
+    "passage": "Colliding tankers, damaged platforms and pipelines, as well as the release of residual oil from oil tanks, are potential causes for catastrophes. Pictures of dying seabirds show the (22)---- of such environmental damage. Yet, not all environmental hazards are this obvious. Water pollution (23)---- by the uncontrolled use of pesticides and heavy metals, such as mercury, lead, cadmium, and zinc, largely remains unnoticed. The dangerous prior assumption that the oceans could naturally purify themselves (24)---- limit has caused possibly irreparable damage. Not only the oceans, but many creeks, rivers, and lakes have also suffered from human interference. Many lakes have become polluted (25)---- the chemicals added by household wastewater and the overfertilisation with phosphates in agriculture. (26)----, unknown effluents from industry and acid rain add to the acidification of water bodies, which contributes to the decrease of biodiversity.",
+    "stem": null,
+    "options": [
+      "except for",
+      "because of",
+      "contrary to",
+      "rather than",
+      "in pursuit of"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q26",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2020-1-g22-26",
+    "passage": "Colliding tankers, damaged platforms and pipelines, as well as the release of residual oil from oil tanks, are potential causes for catastrophes. Pictures of dying seabirds show the (22)---- of such environmental damage. Yet, not all environmental hazards are this obvious. Water pollution (23)---- by the uncontrolled use of pesticides and heavy metals, such as mercury, lead, cadmium, and zinc, largely remains unnoticed. The dangerous prior assumption that the oceans could naturally purify themselves (24)---- limit has caused possibly irreparable damage. Not only the oceans, but many creeks, rivers, and lakes have also suffered from human interference. Many lakes have become polluted (25)---- the chemicals added by household wastewater and the overfertilisation with phosphates in agriculture. (26)----, unknown effluents from industry and acid rain add to the acidification of water bodies, which contributes to the decrease of biodiversity.",
+    "stem": null,
+    "options": [
+      "For instance",
+      "Therefore",
+      "Even so",
+      "Moreover",
+      "Instead"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q27",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because there has been growing public awareness regarding cultural and ethnic differences around the world, ----.",
+    "options": [
+      "tourists, who search for unfamiliar environments and cultures, also search for familiar facilities available for them",
+      "the true cultural heritage of the host society maintains its integrity by keeping tourists on the other side of the curtain",
+      "culture is seen as a dynamic living concept and changes continually in order to embrace the needs of present-day society",
+      "it has been argued that so-called authenticity of culture is a fleeting movement in the development calendar",
+      "there has been increasing demand for tourism products that offer cultural authenticity rather than standard concepts"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q28",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although all archaeologists agree that keeping careful records of an excavation is essential to good practice, ----.",
+    "options": [
+      "there is a close relationship between their interpretation and that of archaeological museums",
+      "they are concerned with the activities of people and nature that create evidence of a cultural past",
+      "artefacts, sculptures and drawings found in caves help them learn about early humans",
+      "many mapping techniques developed for use on land have also been adapted for underwater archaeology",
+      "there is no certain consensus on what exactly constitutes archaeological data"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q29",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As more people suffer from insecure attachment styles in their relationships with others, ----.",
+    "options": [
+      "they feel that they do not need their belongings to survive anymore",
+      "seeing possessions as an extension of themselves starts to decrease",
+      "the needs for security are more complex than just the basics for physical survival",
+      "possessions do not make them feel secure by substituting for the loved ones",
+      "the behaviour of seeking emotional comfort from material objects is likely to rise"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q30",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While mainstream cultural artefacts (films, books, fashion, etc.) produced specifically for and about girls have been popular for more than two centuries, ----.",
+    "options": [
+      "academic research on girls and their complex relationship with girl culture is still fairly new to the communication discipline",
+      "early research on this topic tended to focus on girls as audiences and as vulnerable to the effects of mass culture",
+      "communication scholars examining girl culture today have been greatly influenced by girls’ or girlhood studies",
+      "a new area that is mainly interested in how girls actively negotiate and even resist these cultural artefacts is needed",
+      "many researchers have examined the Internet as a space fostering girls’ self-expression and community building"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q31",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When bacteria sense that their numbers have reached a critical threshold, ----.",
+    "options": [
+      "the drugs that will interrupt this process are still being researched",
+      "they switch on the production of substances that attack their human host",
+      "we are not still sure about how to prevent them from increasing in number",
+      "some are mostly resistant to many common antibiotics, making an infection hard to treat",
+      "plant products have been reported to have no significant effect on their growth"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q32",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "It may be a long time before scientists can confirm that biological life exists in places other than Earth, ----.",
+    "options": [
+      "but recent discovery of tiny life forms in some extreme conditions and inhospitable environments has raised hopes",
+      "as scientists have long known that amino acids and nucleotides, the main ingredients for building proteins and DNA, can be found in meteors and comets",
+      "while it takes a lot of intellectual effort on the part of ordinary people to understand the dynamics of life in outer space",
+      "though professional associations informing the public about microbial life in space have not been very successful",
+      "so the discovery of the bacteria in Antarctica, which live by extracting nutrition from the air, indicates that life can thrive without complex organic material"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q33",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, few realise that moderate to vigorous physical activity done regularly completely changes our bodies from the inside out.",
+    "options": [
+      "Since regular movement prevents certain cancers and lowers the risk of diabetes",
+      "As scientists have developed methods for measuring intensity of aerobic exercise",
+      "While most people inherently know that they are supposed to leave sedentary habits",
+      "Although many are not aware that being physically active expands lung capacity",
+      "Unless prolonged sitting denies people some of the health advantages of regular exercise"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q34",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, food shortages will be inevitable, leading to mass starvation and unrest.",
+    "options": [
+      "Because many governments are committed to avoiding a reduction in farming subsidies and financial speculation nowadays",
+      "Unless a solution to the dramatic increase in world population and the demand for food is found",
+      "While the growing population in some parts of the world increasingly demand a more varied diet",
+      "Since the increase in oil prices has appeared in many developing nations in the last several decades",
+      "If worldwide drought, which affects wide territories, is seen as the consequence of climate change"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q35",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The consequences of eating disorders need to be taken seriously, ----.",
+    "options": [
+      "whereas there is growing interest in and worry about their potential risks and treatment methods",
+      "while evidence is now emerging that they occur in a wide range of socioeconomic groups",
+      "given that they might increase one’s risk of developing conditions such as high blood pressure and diabetes",
+      "though clinical depression and anxiety disorders have been reported to commonly co-occur with eating disorders",
+      "so patients who engage in binge eating, which is highly associated with obesity, suffer from numerous health issues"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q36",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Most classic research indicates that it is extremely difficult to identify boys from girls on behavioural grounds when children are under two years of age ----.",
+    "options": [
+      "unless there are some external cultural indicators of gender such as clothing",
+      "so that the impact of gender in young children’s lives could be examined in great detail",
+      "if young children know about gender and acquire gendered ways of being and thinking from an early age",
+      "given that preschool children often actively maintain gender stereotypes in their own behaviours and that of their peers",
+      "because there has recently been a focus on how boys and girls play with the toys they choose"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q37",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because volcanic activity has usually been extremely violent and destructive, in the past there were some cultures believing that eruptions and tremblings had to be the fault of humans.",
+    "options": [
+      "Volkanik faaliyetler genellikle aşırı derecede şiddetli ve yıkıcı oldukları için geçmişte patlamaların ve sarsılmaların insanların hatasından kaynaklandığını düşünen bazı kültürler vardı.",
+      "Volkanik faaliyetlerin genellikle aşırı derecede şiddetli ve yıkıcı olmasından dolayı geçmişte bazı kültürler patlamaların ve sarsılmaların insanların hatasından kaynaklandığına inanıyordu.",
+      "Genellikle aşırı derecede şiddetli ve yıkıcı olan volkanik faaliyetler yüzünden geçmişte yaşanan patlamaların ve sarsılmaların insanların hatasından kaynaklandığına inanan bazı kültürler vardı.",
+      "Geçmişte patlamaların ve sarsılmaların insanların hatasından kaynaklandığına inanan kültürler olmasının sebebi, bazı volkanik faaliyetlerin genellikle son derece şiddetli ve yıkıcı olmasıydı.",
+      "Geçmişte patlamaların ve sarsılmaların insanların hatasından kaynaklandığına inanan bazı kültürlerin olması, volkanik faaliyetlerin genellikle son derece şiddetli ve yıkıcı olmasından kaynaklanıyordu."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q38",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "According to a recent report, early adopters of enterprise artificial intelligence have shown a bigger improvement in productivity and performance compared to those that have yet to explore this exciting new field.",
+    "options": [
+      "Yeni bir rapora göre, yapay zekâ girişimini önceden benimseyenler, bu heyecan verici yeni alanı henüz keşfetmemiş olanlara kıyasla verimlilik ve performans bakımından daha büyük bir gelişme göstermiştir.",
+      "Yeni hazırlanan bir rapora göre, yapay zekâ girişimini daha keşfetmemiş olanların aksine, bu heyecan verici yeni alanı önceden kullanmaya başlayanlar verimlilik ve performans konularında daha çok ilerleme kaydetmiştir.",
+      "Yeni bir rapora göre, yeni ve heyecan verici yapay zekâ girişimini önceden benimseyenlerin, bu alanı henüz keşfetmeyenlere göre, verimlilik ve performans açısından çok daha fazla ilerleme kaydettiği görülmüştür.",
+      "Yeni hazırlanan bir rapor, yapay zekâ girişimini önceden edinenlerin, bu heyecan verici yeni alanı keşfetmeyenlerle karşılaştırıldığında verimlilik ve performans bakımından daha fazla gelişme ortaya koyduğunu göstermiştir.",
+      "Yeni bir rapor, yapay zekâ girişimini önceden benimseyenlerde verimlilik ve performans alanındaki gelişmelerin bu yeni ve heyecan verici alanı keşfetmeyenlere kıyasla daha fazla olduğunu göstermiştir."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q39",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "One of the biggest difficulties of a manager is possibly demonstrating leadership in a context where those being directed neither believe they need to be organised, nor are motivated to cooperate with the administration.",
+    "options": [
+      "Bir yönetici için muhtemelen en büyük zorluklardan biri, yönetilenlerin ya organize edilmeleri gerektiğine inanmadıkları ya da yönetimle işbirliği yapmaya istekli olmadıkları bir ortamda liderlik göstermektir.",
+      "Bir yöneticinin en büyük zorluklarından biri muhtemelen, yönetilenlerin ne organize edilmeleri gerektiğine inandıkları ne de yönetimle işbirliği yapmaya istekli oldukları bir ortamda liderlik göstermektir.",
+      "Bir yöneticinin yaşayabileceği en büyük zorluklardan biri muhtemelen, organize edilmeye ihtiyaç duymayanların ve yönetimle işbirliği yapmayanların olduğu bir ortamda liderlik göstermektir.",
+      "Bir yönetici olmanın muhtemel en büyük zorluğu, yönetilenlerin organize edilme gereksinimi duymadıkları için yönetimle işbirliği yapmaya istekli olmadığı bir ortamda liderlik göstermektir.",
+      "Bir yöneticinin yaşayabileceği en büyük zorluk muhtemelen, yönetilenleri ne organize olmaya inandırabildiği ne de yönetimle işbirliği yapmaya motive edebildiği bir ortamda liderlik göstermektir."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q40",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Koalalar yüksek miktarlarda su içeren okaliptus yapraklarıyla beslenirler, bu yüzden nadiren su içmeye ihtiyaç duyarlar ve böylelikle yerdeki yırtıcılardan kurtulmuş olarak ağaçlarda uzun saatler kalabilirler.",
+    "options": [
+      "Koalas feed on eucalyptus leaves that consist of high amounts of water, and as a result, they rarely need to drink water, which means they can stay in trees for long hours, away from predators on land.",
+      "Because koalas eat eucalyptus leaves that have excessive amounts of water, they hardly need to drink water and thus they can stay in trees for long hours, away from predators on land.",
+      "Koalas feed on eucalyptus leaves that contain high amounts of water, so they hardly need to drink water, and therefore they can stay in trees for long hours, safe from predators on land.",
+      "Eucalyptus leaves that koalas feed on are composed of excessive amounts of water, so they rarely need to drink water and thus they can stay in trees for long hours, which keeps them away from predators on land.",
+      "Koalas rely on eucalyptus leaves for nourishment, and since they have high amounts of water, koalas scarcely need to drink water, and consequently, they can stay in trees for long hours, free from predators on land."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q41",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Dünya, 66 milyon yıl önce dinozorların neslini tükettiği düşünülen ve sıcaklıkları 5ºC'ye kadar artıran bir asteroid etkisinden kaynaklanan sıcak bir dönem geçirmiştir.",
+    "options": [
+      "The Earth underwent a hot period that stemmed from an asteroid impact thought to have wiped out the dinosaurs 66 million years ago and caused temperatures to rise by 5ºC.",
+      "A hot period experienced by the Earth is thought to have caused the extinction of the dinosaurs 66 years ago leading to an asteroid impact with a 5ºC increase in temperatures.",
+      "The extinction of the dinosaurs is thought to have resulted from the 5ºC rise in the temperatures during the hot period due to an asteroid impact the Earth experienced 66 million years ago.",
+      "A hot period is thought to have dominated the Earth, wiping out the dinosaurs 66 million years ago after a 5ºC increase in the temperatures together with an asteroid impact.",
+      "The Earth underwent a hot period with the influence of the dinosaurs that became extinct 66 million years ago with an asteroid impact, resulting in the rising of the temperatures by 5ºC."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q42",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Avustralya’daki bir çocuk hastanesinde çalışan uzmanlar, bazı insanların 20’li yaşlarına kadar büyümeye devam ettiğine dair pek çok kanıt ortaya koyarak ergenliğin bittiği kabul edilen yaşın 19’dan 24’e çıkarılması gerektiğini öne sürmektedir.",
+    "options": [
+      "Experts working at a children’s hospital in Australia suggest that the recognised age at which adolescence ends should be raised to 24 from 19, revealing plenty of evidence that some people keep growing into their 20s.",
+      "Experts working at a children’s hospital in Australia have provided plenty of evidence that some people keep growing into their 20s, and therefore they claim that the recognised age at which adolescence ends should be raised to 24 from 19.",
+      "The recognised age at which adolescence ends is 19, but experts working at a children’s hospital in Australia claim that it should be raised to 24, providing lots of evidence that some people keep growing into their 20s.",
+      "Provided that there is abundant evidence suggesting that some people keep growing into their 20s, experts working at a children’s hospital in Australia point out that the recognised age at which adolescence ends, which is 19, should be raised to 24.",
+      "The claim that the recognised age at which adolescence ends should be raised to 24 from 19 has been made by the experts working at a children’s hospital in Australia, who have revealed plenty of evidence that some people keep growing into their 20s."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q43",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2020-1-g43-46",
+    "passage": "Most people, from those who are fond of living alone to the rich and famous, probably have experienced feelings of shyness at various times in their lives. Physiological symptoms may include blushing, increased heart rate, sweating, and shaking. Just as these outward manifestations vary in type and intensity from person to person, so do the inner feelings. Anxious thoughts and worries, low self-esteem, self-criticism, and concern over a lack of social skills, real or imagined, are common. Nevertheless, the causes of shyness are not known. Some researchers believe it results from a genetic predisposition. Others theorize that uncommunicative parents restrict a child’s development of the social skills that compensate for discomfort caused by new experiences and people, resulting in shyness. Variously, it has been considered a symptom of social phobia or a simple characteristic of introversion. Psychological research that follows large numbers of children from very early childhood to adulthood has found that a tendency to be shy with others is one of the most stable traits that is preserved from the first three or four years of life through young adulthood. Learning or improving social skills through self-help courses or formal training in assertiveness and public speaking are some of the methods used to diminish the effects of shyness.",
+    "stem": "The author clearly states that shyness ----.",
+    "options": [
+      "is a widespread phenomenon likely to be experienced by people from different walks of life",
+      "makes itself clear through several symptoms that are unvaryingly seen",
+      "is generally accompanied by some inner feelings caused by imaginary conditions",
+      "is a psychological condition which is caused by several well-known triggers",
+      "can be detected by others easily as most of its symptoms are visible"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q44",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2020-1-g43-46",
+    "passage": "Most people, from those who are fond of living alone to the rich and famous, probably have experienced feelings of shyness at various times in their lives. Physiological symptoms may include blushing, increased heart rate, sweating, and shaking. Just as these outward manifestations vary in type and intensity from person to person, so do the inner feelings. Anxious thoughts and worries, low self-esteem, self-criticism, and concern over a lack of social skills, real or imagined, are common. Nevertheless, the causes of shyness are not known. Some researchers believe it results from a genetic predisposition. Others theorize that uncommunicative parents restrict a child’s development of the social skills that compensate for discomfort caused by new experiences and people, resulting in shyness. Variously, it has been considered a symptom of social phobia or a simple characteristic of introversion. Psychological research that follows large numbers of children from very early childhood to adulthood has found that a tendency to be shy with others is one of the most stable traits that is preserved from the first three or four years of life through young adulthood. Learning or improving social skills through self-help courses or formal training in assertiveness and public speaking are some of the methods used to diminish the effects of shyness.",
+    "stem": "What can be concluded from the passage about the initial period of life?",
+    "options": [
+      "children who are shy during this period will be shy throughout their lives no matter what they do.",
+      "If children are shy with others during this period, they should be observed psychologically.",
+      "It might be highly influential on whether a person will be shy in later life.",
+      "It is not easy to overcome shyness during this period because personality traits do not change until young adulthood.",
+      "It is the period when children should learn some self-help techniques to overcome their shyness."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q45",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2020-1-g43-46",
+    "passage": "Most people, from those who are fond of living alone to the rich and famous, probably have experienced feelings of shyness at various times in their lives. Physiological symptoms may include blushing, increased heart rate, sweating, and shaking. Just as these outward manifestations vary in type and intensity from person to person, so do the inner feelings. Anxious thoughts and worries, low self-esteem, self-criticism, and concern over a lack of social skills, real or imagined, are common. Nevertheless, the causes of shyness are not known. Some researchers believe it results from a genetic predisposition. Others theorize that uncommunicative parents restrict a child’s development of the social skills that compensate for discomfort caused by new experiences and people, resulting in shyness. Variously, it has been considered a symptom of social phobia or a simple characteristic of introversion. Psychological research that follows large numbers of children from very early childhood to adulthood has found that a tendency to be shy with others is one of the most stable traits that is preserved from the first three or four years of life through young adulthood. Learning or improving social skills through self-help courses or formal training in assertiveness and public speaking are some of the methods used to diminish the effects of shyness.",
+    "stem": "It could be inferred from the passage that ----.",
+    "options": [
+      "shyness is most likely to be seen among children whose parents were shy in their childhood",
+      "it can be the parents who are responsible for shyness due to their parenting style or the genetic characteristics they pass on to their children",
+      "shyness could be considered a form of social phobia, so medical help should be sought to eliminate it",
+      "the psychological effects of shyness can be intense if physiological symptoms are accompanied by inner thoughts",
+      "although we do not know the causes of shyness for sure, it is easy to get rid of this condition"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q46",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2020-1-g43-46",
+    "passage": "Most people, from those who are fond of living alone to the rich and famous, probably have experienced feelings of shyness at various times in their lives. Physiological symptoms may include blushing, increased heart rate, sweating, and shaking. Just as these outward manifestations vary in type and intensity from person to person, so do the inner feelings. Anxious thoughts and worries, low self-esteem, self-criticism, and concern over a lack of social skills, real or imagined, are common. Nevertheless, the causes of shyness are not known. Some researchers believe it results from a genetic predisposition. Others theorize that uncommunicative parents restrict a child’s development of the social skills that compensate for discomfort caused by new experiences and people, resulting in shyness. Variously, it has been considered a symptom of social phobia or a simple characteristic of introversion. Psychological research that follows large numbers of children from very early childhood to adulthood has found that a tendency to be shy with others is one of the most stable traits that is preserved from the first three or four years of life through young adulthood. Learning or improving social skills through self-help courses or formal training in assertiveness and public speaking are some of the methods used to diminish the effects of shyness.",
+    "stem": "What is the purpose of the author of this passage?",
+    "options": [
+      "To elaborate on the impact of genetic factors on shyness",
+      "To report the findings of recent research into the effects and triggers of shyness",
+      "To give the reader some advice on how to overcome shyness",
+      "To give brief information about the symptoms and possible causes of shyness",
+      "To discuss whether shyness is a challenging psychological problem"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q47",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2020-1-g47-50",
+    "passage": "During the 19th century, in most of Central and South America, a large majority of the population was of African origin. Most were slaves working on plantations, producing crops such as sugar and coffee for European consumers. Slavery was abolished gradually in varying degrees in Central and South America starting in the early 1800s, with Brazil being the last country to outlaw slavery in 1888. After abolition, freed slaves often joined the lower strata of hierarchical societies in which poverty and inequality were made worse by unfair land redistribution. In Latin America, independence did not lead to widespread prosperity or good government, but merely to imbalance of power and economic inequality. Military dictatorships were common, as were wars and civil conflicts. Meanwhile, Brazil experienced a ‘rubber boom’ from the 1880s, which fuelled an unprecedented economic expansion in Latin America thanks to the extraction and commercialisation of wild rubber from the jungles of the Amazon. However, development was entirely based on investment from Europe and North America, and was largely designed to serve the needs of the industrialised countries, not the local people.",
+    "stem": "It is understood from the passage that during the 19th century, ----.",
+    "options": [
+      "most slaves in Latin American countries were able to become part of the ruling and wealthy classes once they gained independence",
+      "most of the crops produced by slaves were sold to local consumers in Latin America",
+      "the abolishment of slavery did not happen at the same time and rate in Central and South America",
+      "many Latin American countries began to abolish slavery after Brazil outlawed it",
+      "there had been no serious attempts to outlaw slavery in Latin America until 1888"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q48",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2020-1-g47-50",
+    "passage": "During the 19th century, in most of Central and South America, a large majority of the population was of African origin. Most were slaves working on plantations, producing crops such as sugar and coffee for European consumers. Slavery was abolished gradually in varying degrees in Central and South America starting in the early 1800s, with Brazil being the last country to outlaw slavery in 1888. After abolition, freed slaves often joined the lower strata of hierarchical societies in which poverty and inequality were made worse by unfair land redistribution. In Latin America, independence did not lead to widespread prosperity or good government, but merely to imbalance of power and economic inequality. Military dictatorships were common, as were wars and civil conflicts. Meanwhile, Brazil experienced a ‘rubber boom’ from the 1880s, which fuelled an unprecedented economic expansion in Latin America thanks to the extraction and commercialisation of wild rubber from the jungles of the Amazon. However, development was entirely based on investment from Europe and North America, and was largely designed to serve the needs of the industrialised countries, not the local people.",
+    "stem": "It can be inferred from the passage that in Latin America, ----.",
+    "options": [
+      "the abolishment of slavery aroused such problems as social inequality and political instability",
+      "military dictatorships were a big obstacle to the economic development of most countries",
+      "rapid growth was mainly due to political achievements and successful management of social conflicts",
+      "the welfare of citizens greatly improved in most countries after the abolishment of slavery",
+      "freed slaves were not allowed to purchase land for a long time even after the abolishment of slavery"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q49",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2020-1-g47-50",
+    "passage": "During the 19th century, in most of Central and South America, a large majority of the population was of African origin. Most were slaves working on plantations, producing crops such as sugar and coffee for European consumers. Slavery was abolished gradually in varying degrees in Central and South America starting in the early 1800s, with Brazil being the last country to outlaw slavery in 1888. After abolition, freed slaves often joined the lower strata of hierarchical societies in which poverty and inequality were made worse by unfair land redistribution. In Latin America, independence did not lead to widespread prosperity or good government, but merely to imbalance of power and economic inequality. Military dictatorships were common, as were wars and civil conflicts. Meanwhile, Brazil experienced a ‘rubber boom’ from the 1880s, which fuelled an unprecedented economic expansion in Latin America thanks to the extraction and commercialisation of wild rubber from the jungles of the Amazon. However, development was entirely based on investment from Europe and North America, and was largely designed to serve the needs of the industrialised countries, not the local people.",
+    "stem": "According to the passage, which of the following is true about Brazil’s rubber boom?",
+    "options": [
+      "The needs of Brazilian people were secondary to those of industrialised countries.",
+      "Local people played a more dominant role in the boom when compared to European and American investors.",
+      "It was developed for the local people of Brazil to help them escape poverty.",
+      "It was not as successful as European and American investors had estimated.",
+      "It was the underlying cause of many wars and civil conflicts in the area."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q50",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2020-1-g47-50",
+    "passage": "During the 19th century, in most of Central and South America, a large majority of the population was of African origin. Most were slaves working on plantations, producing crops such as sugar and coffee for European consumers. Slavery was abolished gradually in varying degrees in Central and South America starting in the early 1800s, with Brazil being the last country to outlaw slavery in 1888. After abolition, freed slaves often joined the lower strata of hierarchical societies in which poverty and inequality were made worse by unfair land redistribution. In Latin America, independence did not lead to widespread prosperity or good government, but merely to imbalance of power and economic inequality. Military dictatorships were common, as were wars and civil conflicts. Meanwhile, Brazil experienced a ‘rubber boom’ from the 1880s, which fuelled an unprecedented economic expansion in Latin America thanks to the extraction and commercialisation of wild rubber from the jungles of the Amazon. However, development was entirely based on investment from Europe and North America, and was largely designed to serve the needs of the industrialised countries, not the local people.",
+    "stem": "What is the primary purpose of the author?",
+    "options": [
+      "To explain why slavery was widely practised in Latin America during the 19th century",
+      "To clarify when slavery was completely ended in Latin America",
+      "To discuss some consequences of the abolishment of slavery in Latin America",
+      "To emphasise the considerable efforts of slaves to gain independence in Latin America",
+      "To justify that investment from Europe and North America helped to end slavery in Latin America"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q51",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2020-1-g51-54",
+    "passage": "Making food is one thing; keeping it is another. In their natural state, all the organic materials we eat are perishable. After a certain period of time, they go bad – smell bad, taste bad, look bad. Even if they do not become downright unappetising, foods lose nutritional value as vitamins degrade due to heat, strong light, air, or water. In preserving foods, the first order of business is to prevent yeasts, moulds, bacteria, and insects from devouring them before we do. Yeasts and moulds thrive on acidic fruits and convert their sugars to an acidic fizz. Bacteria prefer meat, dairy products, and low-acid vegetables; if allowed to proliferate, they create acid and other waste products that destroy food. Certain bacteria can overrun a person's gastrointestinal tract or release dangerous toxins, causing the misery of acute food poisoning. People have tried to prevent food spoilage since they first started cooking meat over a fire – smoking, salting, drying, and pickling have been around for millennia. The science of food preservation, however, advanced considerably in the 19th century with the advent of such processes as pasteurisation.",
+    "stem": "According to the passage, even if foods do not go bad quickly, ----.",
+    "options": [
+      "they may contribute less to our health after a period of exposure to certain factors",
+      "they could perish if they are exposed to direct sunlight",
+      "insects and bacteria detect them easily due to their bad smell",
+      "they may cause changes in a person's gastrointestinal tract",
+      "people do not wish to eat foods exposed to heat or water for a long time"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q52",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2020-1-g51-54",
+    "passage": "Making food is one thing; keeping it is another. In their natural state, all the organic materials we eat are perishable. After a certain period of time, they go bad – smell bad, taste bad, look bad. Even if they do not become downright unappetising, foods lose nutritional value as vitamins degrade due to heat, strong light, air, or water. In preserving foods, the first order of business is to prevent yeasts, moulds, bacteria, and insects from devouring them before we do. Yeasts and moulds thrive on acidic fruits and convert their sugars to an acidic fizz. Bacteria prefer meat, dairy products, and low-acid vegetables; if allowed to proliferate, they create acid and other waste products that destroy food. Certain bacteria can overrun a person's gastrointestinal tract or release dangerous toxins, causing the misery of acute food poisoning. People have tried to prevent food spoilage since they first started cooking meat over a fire – smoking, salting, drying, and pickling have been around for millennia. The science of food preservation, however, advanced considerably in the 19th century with the advent of such processes as pasteurisation.",
+    "stem": "Which of the following is true according to the passage?",
+    "options": [
+      "Yeasts and moulds turn acid into sugar before people consume fruits.",
+      "Yeasts and moulds may colonise bacteria and insects in warm and low-acid conditions.",
+      "Efforts to avoid food spoilage have been around since people began cooking meat over a fire.",
+      "Food preservation started in the 19th century with the advent of pasteurisation.",
+      "All types of bacteria release toxins, causing acute food poisoning."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q53",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2020-1-g51-54",
+    "passage": "Making food is one thing; keeping it is another. In their natural state, all the organic materials we eat are perishable. After a certain period of time, they go bad – smell bad, taste bad, look bad. Even if they do not become downright unappetising, foods lose nutritional value as vitamins degrade due to heat, strong light, air, or water. In preserving foods, the first order of business is to prevent yeasts, moulds, bacteria, and insects from devouring them before we do. Yeasts and moulds thrive on acidic fruits and convert their sugars to an acidic fizz. Bacteria prefer meat, dairy products, and low-acid vegetables; if allowed to proliferate, they create acid and other waste products that destroy food. Certain bacteria can overrun a person's gastrointestinal tract or release dangerous toxins, causing the misery of acute food poisoning. People have tried to prevent food spoilage since they first started cooking meat over a fire – smoking, salting, drying, and pickling have been around for millennia. The science of food preservation, however, advanced considerably in the 19th century with the advent of such processes as pasteurisation.",
+    "stem": "Which of the following is true according to the passage?",
+    "options": [
+      "Cooking meat over a fire could cause bacteria to proliferate easily on it.",
+      "The 19th century is the period in which the science of food preservation bloomed.",
+      "Drying and salting prevent food spoilage as they reduce acidity of the food.",
+      "Pasteurisation has reduced the practice of other food preservation techniques.",
+      "Problems in the gastrointestinal tract are usually the result of food poisoning."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q54",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2020-1-g51-54",
+    "passage": "Making food is one thing; keeping it is another. In their natural state, all the organic materials we eat are perishable. After a certain period of time, they go bad – smell bad, taste bad, look bad. Even if they do not become downright unappetising, foods lose nutritional value as vitamins degrade due to heat, strong light, air, or water. In preserving foods, the first order of business is to prevent yeasts, moulds, bacteria, and insects from devouring them before we do. Yeasts and moulds thrive on acidic fruits and convert their sugars to an acidic fizz. Bacteria prefer meat, dairy products, and low-acid vegetables; if allowed to proliferate, they create acid and other waste products that destroy food. Certain bacteria can overrun a person's gastrointestinal tract or release dangerous toxins, causing the misery of acute food poisoning. People have tried to prevent food spoilage since they first started cooking meat over a fire – smoking, salting, drying, and pickling have been around for millennia. The science of food preservation, however, advanced considerably in the 19th century with the advent of such processes as pasteurisation.",
+    "stem": "What can be said about foods according to the passage?",
+    "options": [
+      "Meat, dairy products and low-acid vegetables are the only foods bacteria proliferate.",
+      "If it is still appetising, consumption of food is harmless even if it is affected by any bacteria.",
+      "Food spoilage is inevitable unless foods are preserved through specific processes.",
+      "People tend to keep their spoiled foods even if they look unappetising.",
+      "Pasteurisation is accepted as the most efficient way to prevent foods from going bad."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q55",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2020-1-g55-58",
+    "passage": "A lie detector is a device intended to detect an involuntary physiological response that all persons exhibit when lying but never when telling the truth. However, the lie detector of popular fancy is mythological. In actual ‘lie protector’ tests, breathing movements, blood pressure changes and electrodermal responses are recorded on a polygraph while the respondent answers “yes” or “no” to a series of 8 to 12 questions. From the polygraph recordings, one can determine whether ‘relevant’ questions had a greater impact on the respondent than did the interpolated ‘control’ questions. In the standard lie test used in specific issue investigations, the relevant questions ask whether the respondent committed the act in question; for example, “On April 12, did you take $2000 from the office safe?” A typical control question might be, “Have you ever stolen anything?” If the examinee reacts more strongly to the relevant than to the control questions, it is inferred that his/her answers to the relevant questions are deceptive. Because an innocent accused also may be disturbed by the relevant questions and react more strongly to them than to the controls, the lie test is biased against the truthful respondent. Research has shown that as many as 50 percent of innocent criminal suspects may ‘fail’ lie protector tests.",
+    "stem": "Which of the following is true about lie detectors?",
+    "options": [
+      "The number of the control questions surpasses that of the relevant questions in actual lie protector tests.",
+      "A lie detector device actually works differently from what is usually imagined.",
+      "One can monitor extraordinary differences in a person’s psychology during a lie protector test.",
+      "They record bodily responses evoked particularly by control questions.",
+      "The respondent’s bodily reactions are examined before the questions are asked."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q56",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2020-1-g55-58",
+    "passage": "A lie detector is a device intended to detect an involuntary physiological response that all persons exhibit when lying but never when telling the truth. However, the lie detector of popular fancy is mythological. In actual ‘lie protector’ tests, breathing movements, blood pressure changes and electrodermal responses are recorded on a polygraph while the respondent answers “yes” or “no” to a series of 8 to 12 questions. From the polygraph recordings, one can determine whether ‘relevant’ questions had a greater impact on the respondent than did the interpolated ‘control’ questions. In the standard lie test used in specific issue investigations, the relevant questions ask whether the respondent committed the act in question; for example, “On April 12, did you take $2000 from the office safe?” A typical control question might be, “Have you ever stolen anything?” If the examinee reacts more strongly to the relevant than to the control questions, it is inferred that his/her answers to the relevant questions are deceptive. Because an innocent accused also may be disturbed by the relevant questions and react more strongly to them than to the controls, the lie test is biased against the truthful respondent. Research has shown that as many as 50 percent of innocent criminal suspects may ‘fail’ lie protector tests.",
+    "stem": "It can be inferred from the passage that the relevant questions asked in a standard lie test ----.",
+    "options": [
+      "are expected to induce standard bodily responses from the respondent",
+      "are used to disguise the control questions, which yield typical reactions",
+      "would not be of much use without the control questions",
+      "indicate that the respondent is lying if he or she reacts normally to them",
+      "consistently lead to similar bodily changes in innocent people"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q57",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2020-1-g55-58",
+    "passage": "A lie detector is a device intended to detect an involuntary physiological response that all persons exhibit when lying but never when telling the truth. However, the lie detector of popular fancy is mythological. In actual ‘lie protector’ tests, breathing movements, blood pressure changes and electrodermal responses are recorded on a polygraph while the respondent answers “yes” or “no” to a series of 8 to 12 questions. From the polygraph recordings, one can determine whether ‘relevant’ questions had a greater impact on the respondent than did the interpolated ‘control’ questions. In the standard lie test used in specific issue investigations, the relevant questions ask whether the respondent committed the act in question; for example, “On April 12, did you take $2000 from the office safe?” A typical control question might be, “Have you ever stolen anything?” If the examinee reacts more strongly to the relevant than to the control questions, it is inferred that his/her answers to the relevant questions are deceptive. Because an innocent accused also may be disturbed by the relevant questions and react more strongly to them than to the controls, the lie test is biased against the truthful respondent. Research has shown that as many as 50 percent of innocent criminal suspects may ‘fail’ lie protector tests.",
+    "stem": "What is the disadvantage of the test used in specific issue investigations?",
+    "options": [
+      "Some truthful test takers might be unwilling to answer the control questions because they do not seem relevant.",
+      "Honest people may overreact to the questions, which makes it hard to differentiate them from the liars.",
+      "The answers given to the control questions bear no relation to the answers to the relevant ones.",
+      "A majority of innocent people are falsely accused due to their unwillingness to react to the relevant questions.",
+      "Researchers usually find the test unreliable, which makes the test impractical for investigative purposes."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q58",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2020-1-g55-58",
+    "passage": "A lie detector is a device intended to detect an involuntary physiological response that all persons exhibit when lying but never when telling the truth. However, the lie detector of popular fancy is mythological. In actual ‘lie protector’ tests, breathing movements, blood pressure changes and electrodermal responses are recorded on a polygraph while the respondent answers “yes” or “no” to a series of 8 to 12 questions. From the polygraph recordings, one can determine whether ‘relevant’ questions had a greater impact on the respondent than did the interpolated ‘control’ questions. In the standard lie test used in specific issue investigations, the relevant questions ask whether the respondent committed the act in question; for example, “On April 12, did you take $2000 from the office safe?” A typical control question might be, “Have you ever stolen anything?” If the examinee reacts more strongly to the relevant than to the control questions, it is inferred that his/her answers to the relevant questions are deceptive. Because an innocent accused also may be disturbed by the relevant questions and react more strongly to them than to the controls, the lie test is biased against the truthful respondent. Research has shown that as many as 50 percent of innocent criminal suspects may ‘fail’ lie protector tests.",
+    "stem": "Which could be the best title for this passage?",
+    "options": [
+      "How to Deceive Lie Detectors",
+      "Question Types for Lie Protector Tests",
+      "The Basic Working Principle of Lie Detectors",
+      "The History and Development of Lie Detectors",
+      "Investigating Financial Crime through Lie Detectors"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q59",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2020-1-g59-62",
+    "passage": "We all start out as readers, don’t we? First, it is picture books read to us by mum or dad. Then we begin to recognise sounds, letters, and words, and to take the first steps towards becoming readers ourselves. Many of us got the reading bug when we were young, and books read in childhood can stay with us forever. Reading is often the first piece of advice any aspiring writer is given. If you want to become a published author, it is a pretty good idea to take a look at what has been published so far – and to see what is being published now. First, read the kind of stuff you yourself want to write. Whatever that is – romance, crime, sci-fi, thrillers, memoirs, sagas, fantasy, non-fiction, it is sensible to see what is already out there. Secondly, take a look at what is being written outside your own genre. The more widely you read, the more you will learn. See how others do it and find out what works for you – and what does not. Learn how successful authors keep their readers turning the pages. Finally, do not ignore the everyday stuff you cannot get away from: newspapers and magazines, TV advertisements, websites, social media and so on. Ultimately, as a writer, you need to use words effectively to make every word count.",
+    "stem": "Which of the following is true about the books people read in childhood according to the passage?",
+    "options": [
+      "People form their reading habits thanks to the pictures these books contain.",
+      "Children’s books are usually better than picture books in helping become a published writer.",
+      "Such books are written for the purpose of teaching sounds and letters.",
+      "We often remember them throughout the course of our lives.",
+      "It may not be possible to become a good writer without analysing them carefully."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q60",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2020-1-g59-62",
+    "passage": "We all start out as readers, don’t we? First, it is picture books read to us by mum or dad. Then we begin to recognise sounds, letters, and words, and to take the first steps towards becoming readers ourselves. Many of us got the reading bug when we were young, and books read in childhood can stay with us forever. Reading is often the first piece of advice any aspiring writer is given. If you want to become a published author, it is a pretty good idea to take a look at what has been published so far – and to see what is being published now. First, read the kind of stuff you yourself want to write. Whatever that is – romance, crime, sci-fi, thrillers, memoirs, sagas, fantasy, non-fiction, it is sensible to see what is already out there. Secondly, take a look at what is being written outside your own genre. The more widely you read, the more you will learn. See how others do it and find out what works for you – and what does not. Learn how successful authors keep their readers turning the pages. Finally, do not ignore the everyday stuff you cannot get away from: newspapers and magazines, TV advertisements, websites, social media and so on. Ultimately, as a writer, you need to use words effectively to make every word count.",
+    "stem": "Why is it important to read outside your favourite genre?",
+    "options": [
+      "To imitate the great writers who have written before you",
+      "To learn about different styles and structures available",
+      "To see which of the genres are making the biggest profits",
+      "To decide what genre is the best for your target group of readers",
+      "To get inspired by the popular themes of the great writers"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q61",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2020-1-g59-62",
+    "passage": "We all start out as readers, don’t we? First, it is picture books read to us by mum or dad. Then we begin to recognise sounds, letters, and words, and to take the first steps towards becoming readers ourselves. Many of us got the reading bug when we were young, and books read in childhood can stay with us forever. Reading is often the first piece of advice any aspiring writer is given. If you want to become a published author, it is a pretty good idea to take a look at what has been published so far – and to see what is being published now. First, read the kind of stuff you yourself want to write. Whatever that is – romance, crime, sci-fi, thrillers, memoirs, sagas, fantasy, non-fiction, it is sensible to see what is already out there. Secondly, take a look at what is being written outside your own genre. The more widely you read, the more you will learn. See how others do it and find out what works for you – and what does not. Learn how successful authors keep their readers turning the pages. Finally, do not ignore the everyday stuff you cannot get away from: newspapers and magazines, TV advertisements, websites, social media and so on. Ultimately, as a writer, you need to use words effectively to make every word count.",
+    "stem": "Which of the following can replace the underlined verb ‘count’ in the passage?",
+    "options": [
+      "stimulate",
+      "imply",
+      "matter",
+      "occur",
+      "necessitate"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q62",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2020-1-g59-62",
+    "passage": "We all start out as readers, don’t we? First, it is picture books read to us by mum or dad. Then we begin to recognise sounds, letters, and words, and to take the first steps towards becoming readers ourselves. Many of us got the reading bug when we were young, and books read in childhood can stay with us forever. Reading is often the first piece of advice any aspiring writer is given. If you want to become a published author, it is a pretty good idea to take a look at what has been published so far – and to see what is being published now. First, read the kind of stuff you yourself want to write. Whatever that is – romance, crime, sci-fi, thrillers, memoirs, sagas, fantasy, non-fiction, it is sensible to see what is already out there. Secondly, take a look at what is being written outside your own genre. The more widely you read, the more you will learn. See how others do it and find out what works for you – and what does not. Learn how successful authors keep their readers turning the pages. Finally, do not ignore the everyday stuff you cannot get away from: newspapers and magazines, TV advertisements, websites, social media and so on. Ultimately, as a writer, you need to use words effectively to make every word count.",
+    "stem": "What is the main purpose of the author?",
+    "options": [
+      "To give information on how to read more effectively",
+      "To explain briefly what the great authors do and do not do",
+      "To describe the similarities and differences between reading and writing",
+      "To offer some guidelines to people wanting to become writers",
+      "To compare and contrast a variety of literary genres for the enthusiasts"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q63",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Mary: - So, I’ve decided to participate in the Citizen Science movement. Hilda: - And what exactly are you expected to do as part of this movement? Mary: - Nothing special, in fact. Science volunteers can contribute to global science studies by simply monitoring whales offshore or hawks and stars in the sky. Hilda: - ---- Mary: - Not really! It’s simple to do with basic technology, like smartphone apps. So, you can easily collect data and share it with other members of the movement.",
+    "options": [
+      "That’s interesting. So they invite you to be an amateur researcher who offers help for free?",
+      "Sounds impressive. Would you need to use special equipment in order to record these things?",
+      "That’s exciting. But don’t you think you should be able to earn money for this kind of work?",
+      "Hmm, I see. Doesn’t this benefit the research team more than it benefits the volunteers?",
+      "Wow. Is accuracy one of the top priorities for these types of observations?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q64",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Molly: - So, I really liked the film. Actually, it really went way beyond my expectations. James: - Yeah, the special effects were pretty cool but I didn’t like how long the film was. I mean, seriously, why would any film need to be nearly three hours long? Molly: - Well, with this kind of film it takes a lot of time to develop the plot and the characters. Don’t you think so? James: - ---- Molly: - I get what you’re saying, but I still think most of them were needed in the film so that it could convey its message to the audience in a meaningful way.",
+    "options": [
+      "Not really. But since this was a sequel it must have taken longer to develop some of the themes of the story for people who haven’t seen the first one.",
+      "I agree that it must be a challenge for the writers to take such a complex plot and develop it into a shorter film, but I still got really bored.",
+      "Nope, but I think the problem is actually with the cinema itself rather than the film. In some countries, a break is given partway through the film. We need that, too.",
+      "Well, you have a point there. It does take time. Maybe the problem was with the story itself. I believe many critics would just agree with me.",
+      "Actually, I don’t. Some of the scenes were unnecessary because they didn’t stick to the central theme of the story."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q65",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Maggie: - Last week you said you didn’t feel so well and you’d join a gym. Lucy: - That’s true, but I have so much work to do that I can hardly find the time to even call up for information on how to best get fit. Maggie: - ---- Lucy: - It’s definitely better than nothing. Maybe I can try to discipline myself and start doing some stretching at my office.",
+    "options": [
+      "You keep finding excuses, and I think the problem is your tendency to delay. If you really want to create some time, I’m sure you can find a way.",
+      "Actually, you don’t really need a gym. Most professionals say even five minutes of light exercise can be beneficial for your health.",
+      "You’d better get some advice from a doctor rather than hit the gym. Using prescribed medicines can help you lose weight in a controlled way.",
+      "You shouldn’t worry so much about trivial things. Going to the gym can make you feel happy, as the key to a happy life is to be able to find pleasure in small things.",
+      "I think you should reorganise your weekly schedule. There are various techniques for planning your day so that you can have some time for yourself."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q66",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Alan: - We are all told to exercise more, but for those with physical disabilities, the benefits of aerobic exercise have always been out of reach. I think scientists need to find a solution for this. Chelsea: - In fact, I have read about a recent study which aims to develop a kind of drug that will create the effect of exercise for those with physical disabilities. Alan: - ---- Chelsea: - Thanks to the medication, the genes which prove resistant to weight gain can be activated without any physical training.",
+    "options": [
+      "How can that drug compensate for the lack of physical activity?",
+      "How interested would you be in taking the drug yourself?",
+      "How often is the drug taken to activate fat burning mechanisms?",
+      "How do disabled people feel after taking this kind of drug?",
+      "How much do they agree on the impact of the drug on people?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q67",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Patient: - I have a sore throat and this is the third in the last six months. My tonsils will probably need to be removed. Doctor: - It used to be a common practice a few decades ago, but today we approach tonsil removal with much more caution. Patient: - ---- Doctor: - We take little notice of our palatine tonsils, except when they are sore, but they activate our immune system, recognising pathogens entering through the mouth and nose. Patient: - So I should take better care of them instead of having them removed.",
+    "options": [
+      "I can’t see why patients are driven to such risks. There must be a good side that may be less obvious to us.",
+      "But when inflamed, they are extremely painful. Why should I tolerate them if I can easily get rid of them?",
+      "So vaccination can provide protection against specific diseases? Is it possible to prevent infection this way?",
+      "Oh! I would have had medical treatment instead of having them removed through surgery if I had known that.",
+      "Does it really make sense? Surgery is supposed to be the last option in such cases regarding the immune system."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q68",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Recent studies have suggested that underground water does not freeze despite temperatures being as low as -70ºC, as it is prevented by salt present in the water.",
+    "options": [
+      "It has been suggested by recent studies that because the salt in the water prevents freezing, water underground stays liquid even when the temperature is as low as -70ºC.",
+      "As recent studies have suggested, underground water freezes when the temperature reaches -70ºC, despite the fact that salt in water generally prevents freezing.",
+      "Recent studies have suggested that water remains liquid under the ground until the temperature reaches -70ºC and enough salt is present.",
+      "According to some recent studies, as underground water remains liquid even at temperatures as low as -70ºC, the salt stops the water from freezing at higher temperatures.",
+      "Recent studies have maintained that as soon as the temperature reaches -70ºC, the salt in underground water prevents its freezing."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q69",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Thinking about 'what-ifs' is commonly thought to be a futile exercise; however, it helps individuals make sense of their past experiences and prepare for the future.",
+    "options": [
+      "Thinking about 'what-ifs' is thought to be helpful in taking lessons from past experiences and being more cautious about the future, even though it is actually an exercise that has no meaning.",
+      "Although it is widely believed to be an unnecessary exercise, making sense of past experiences lets individuals think about 'what-ifs', teaching them life lessons in the long run.",
+      "People should think about their 'what-ifs' because it is not a pointless exercise; it is something that is useful and effective for both the past and future.",
+      "Thinking about 'what-ifs' is not only a popular activity exercised by many, but also a sensible tool to make meanings of the past and get ready for future experiences in advance.",
+      "Contrary to popular belief, thinking about 'what-ifs' is not a useless exercise; it is rather something that lets people make meaningful inferences about the past and be ready for the future."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q70",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The only time that an analysis procedure can help is when the user is fully aware not only of its strong points, but its shortcomings as well.",
+    "options": [
+      "The user is to be fully aware of both the strengths and weaknesses of an analysis procedure to be able to benefit from it.",
+      "An analysis procedure should have more strong points than shortcomings in order for the user to be aware of its benefits.",
+      "Both the strengths and weaknesses of an analysis procedure should be fully evaluated before the user becomes aware of its benefits.",
+      "An analysis procedure can help the user only if the user acknowledges the strong points rather than its shortcomings.",
+      "The shortcomings of an analysis procedure can reduce its benefits only when the user is not fully aware of its strong points."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q71",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the household technological products are interesting to users from all age groups, they are particularly significant to older people with sensory or motor limitations, due to the high degree of operational comfort and safety they offer.",
+    "options": [
+      "Household technological products offer a high level of operational comfort and safety to people of all ages; nevertheless, it is the elderly who find them the most useful, especially if they have sensory and motor limitations.",
+      "Household technological products attract the attention of consumers of all ages, but they are especially important to the elderly who have sensory and motor limitations as these devices provide a great degree of operational comfort and safety.",
+      "Despite the fact that people from various age groups are interested in household technology, the biggest group who needs them is the elderly since they seek a high degree of operational comfort and safety because of their sensory and motor limitations.",
+      "Household technological devices are significant for people of all ages, but they are especially important to those with sensory and motor limitations, such as old people, because these devices are comfortable and safe to operate.",
+      "Though many people find household technological devices important owing to their high level of operational comfort and safety, these devices are particularly aimed at people with sensory and motor limitations, regardless of their age."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q72",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "With few exceptions, the Austronesian languages are closely interrelated. In spite of their very large number and the enormous expanse of the territories occupied by them, it is very easy to recognise their genetic interrelationship. ---- As a result of this, the total number of Austronesian languages is a contentious issue. Taking this into account, the approximate number of Austronesian languages of given areas, and the number of their speakers in these areas could be detected only if a wide-scale scientific study is conducted.",
+    "options": [
+      "Because of their great similarity to each other, it is often difficult to establish whether certain varieties are different languages, or dialects of one language.",
+      "Phonologically, Austronesian languages are, with a few exceptions, fairly simple.",
+      "Like other language groups, the Austronesian languages are thought to have originated thousands of years ago.",
+      "The recognition of the genetic interrelationship and initial classification of Austronesian languages had its beginnings in the nineteenth century.",
+      "There are four types of indigenous languages in the Australasia and the Pacific area."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q73",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "At the very least, the egocentric bias causes us to misunderstand others. It undermines empathy and tolerance. It also traps us in a bubble and we waste vast amount of psychic energy recovering from insults that were never targeted at us in the first place. To live a life that is less reactive, more directed, it is necessary to put the ego in its place. ---- We can then see situations with clarity and approach them effectively. We may even see the wisdom in others’ point of view, and learn from them.",
+    "options": [
+      "We can cognitively prompt ourselves to recognise that our own point of view is not the only one, or necessarily the best one.",
+      "Social psychologists say our tilt to egocentricity is deeply ingrained as it helps us maintain a coherent narrative of the events in our lives.",
+      "Even so, it is essential for all of us to recognise the egocentric bias for what it is: an adaptive illusion.",
+      "There are some situations in which such ego-shifts occur naturally, with little effort ─ sublime experiences that defy comprehension.",
+      "Some studies also find that memento mori, reminders of the impermanence of life, also displace the self from centre stage."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q74",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The mind is a problem-solving organ that allows us to deal with events in imagination before they are faced in reality. That amazing skill has, over the last 10,000 years, allowed us, a weak, slow, and poorly defended species, to take over the planet. ---- We are living longer, even in the poorest countries. Violence is down, despite how things appear on our screens. We have made human progress.",
+    "options": [
+      "Some of the real-world difficulties a person faced centuries ago have been taken care of or at least diminished.",
+      "Still, choosing values takes a certain amount of psychological sophistication to rein in the problem-solving mind.",
+      "When we engage the capacity to choose and to embrace the values that inform our actions, we are humanising ourselves.",
+      "Our mental capacity can serve as an ever-present compass, letting us know we are straying from our true purpose.",
+      "Sometimes we get so caught up in our own thinking that we risk turning our values into a pros-and-cons list."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q75",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "A tendency to sleep at a set time each day defines an individual’s ‘chronotype’. Although strongly influenced by genetics and light exposure, age-related body changes play a key role. Puberty heralds a notable shift as bedtimes and wake-up times get later. ---- By 55 we wake at around the time we did as young children, approximately two hours earlier than as adolescents. Thus, a 7 am alarm for a teenager feels like a 5 am start for a person in their 50s.",
+    "options": [
+      "Teenagers need about 9 hours for best academic performance; however, many of them get far less.",
+      "This trend continues until 19.5 years in women and nearly 21 in men, then gradually reverses.",
+      "A Canadian study compared cognitive performance mid-morning and mid-afternoon in teenagers and adults.",
+      "Not surprisingly, teachers in their 50s will generally be at their best in the morning, unlike their teenage students.",
+      "More relaxed attitudes to bedtimes, ignorance about sleep and the near addictive use of social media make this worse."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q76",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Wagner was a musical innovator who revolutionised opera by creating vast music-dramas for which he wrote both the music and the words – previously composers had used stories written by librettists. (II) He wanted to create a combination of all the arts – music, poetry, drama, and painting – which he called a Gesamtkunstwerk. (III) In addition, each major character, symbol, or place in his dramas had its individual musical theme, or leitmotif, that accompanied it throughout the opera. (IV) The greatest use of this technique came in his Ring Cycle, an epic story told over four operas. (V) In his essay On Conducting, he proposed that a creative conductor should actively interpret music, rather than just control an orchestra like a traffic cop.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q77",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) In the late 15th century, when Europeans first travelled into the Western Hemisphere, Mesoamerica was dominated by the vast empire of the Aztecs. (II) Today, many people in both Mesoamerica and along the Caribbean are of mixed background. (III) But within decades of the European arrival, Spanish conquerors had overwhelmed those powerful people and all other major groups. (IV) Native Aztec, Zapotec, Mixtec, and others were congregated into European-style villages and towns and forcibly converted to Roman Catholicism. (V) However, Europeans also introduced them to new sources of income, making them no longer dependent on traditionally practiced agriculture.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q78",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Some of the most common reasons for early childhood hearing loss are genetic. (II) Inner ear hair cells are responsible for detecting sound signals and sending them to the brain, but gene mutations within those cells lead to poorly functioning anatomy. (III) Researchers working with mice have devised a method for replacing those flawed genes with healthy versions: they put the healthy genes into a modified virus and inject it into the inner ear. (IV) The main test of restored ear function involves exposing the rodents to a sudden, startling noise to see if they jump. (V) When the virus infects the ear hair cells, it delivers the healthy genes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q79",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) It is well documented in the literature that anxiety disorders often co-occur with other diagnoses, including depression and other anxiety disorders. (II) However, it is important to examine whether this is true for the elderly as well. (III) Unlike anxiety or depression, the incidence of cognitive impairment increases with age. (IV) Research is beginning to shed light on the co-occurrence of depression and other psychiatric disorders in older adults (V) There is evidence suggesting that as with younger adults, depression most frequently co-occurs with anxiety disorders among elderly patients.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q80",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) In 2002, the Department of Experimental Psychology at Oxford University took a group of 50 insomniacs and got them to try different ways to fall asleep. (II) Those using the traditional sheep-counting method took slightly longer than the average. (III) Some sleep research seems to suggest that punctuating long working hours with brief ‘power naps’ of just a few minutes may be good for health. (IV) What worked best was imagining a tranquil scene such as a beach or a waterfall: this relaxes people and engages their imagination. (V) On the other hand, counting sheep is too boring or irritating to take your mind off whatever is keeping you awake.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

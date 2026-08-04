@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2014-ilkbahar-q01",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Alzheimer’s disease is the major form of mental impairment in older people and is characterized by the ---- of brain tissue over an extended period of time.",
+    "options": [
+      "clarification",
+      "examination",
+      "deterioration",
+      "realisation",
+      "prevention"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q02",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "As video-gaming has become a ---- industry that attracts huge investment and intense competition, there are numerous ideas concerning its characteristics.",
+    "options": [
+      "massive",
+      "constant",
+      "challenging",
+      "repetitive",
+      "complementary"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q03",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "When compared with petrol, hydrogen is ---- clean and does not produce carbon emissions when it is burned.",
+    "options": [
+      "severely",
+      "fundamentally",
+      "promptly",
+      "gradually",
+      "relatively LİZCE"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q04",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "People seem to forget that an e-mail says so much about them, but it can even ---- personality characteristics.",
+    "options": [
+      "receive",
+      "eliminate",
+      "overcome",
+      "convey",
+      "abandon"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q05",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Children’s power to understand and reflect on their experiences ---- their ability to use verbal symbols.",
+    "options": [
+      "depends on",
+      "looks into",
+      "complies with",
+      "brings about",
+      "sends out"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q06",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Famous Brazilian photographer Sebastião Salgado ---- photography after a brief career as an economist in the 1970s.",
+    "options": [
+      "gave off",
+      "took up",
+      "called for",
+      "pulled over",
+      "handed in"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q07",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "You ---- good about helping others when you see how it ---- a difference for someone else.",
+    "options": [
+      "feel / will have made",
+      "are feeling / had made",
+      "will feel / has made",
+      "felt / is making",
+      "had felt / will make"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q08",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "In September 2003, the National Book Foundation ---- that Stephen King ---- the recipient of a ‘lifetime award’.",
+    "options": [
+      "would be announcing / is to be",
+      "announces / has to be",
+      "had announced / used to be",
+      "had been announcing / has been",
+      "announced / would be"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q09",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- by the Romans first and then by Arabs, Crete ---- by the Ottomans in the 17thcentury.",
+    "options": [
+      "Taking over / had been conquered",
+      "Having been taken over / had conquered",
+      "Having taken over / conquered",
+      "Taken over / was conquered",
+      "To be taken over / was being conquered"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q10",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Diseases and injuries that result from alcohol consumption are usually attributed ---- lower socio-economic status, and this seems to be true ---- individuals, countries and regions.",
+    "options": [
+      "to / for",
+      "at / with",
+      "into / across",
+      "by / in",
+      "upon / along"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q11",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- all the roles of the state ---- the modern world, none should be underestimated or ignored.",
+    "options": [
+      "At / by",
+      "To / across",
+      "Of / in",
+      "From / upon",
+      "Within / for"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q12",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- the role of calcium has received an enormous amount of attention, very few people realise that without its partner, magnesium, calcium does not serve the body nearly as well as it should.",
+    "options": [
+      "If",
+      "Whereas",
+      "Whenever",
+      "Since",
+      "Once"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q13",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Whether in the countryside or in city, a hotel should not be built ---- there is a proven need for it.",
+    "options": [
+      "in case",
+      "unless",
+      "though",
+      "because",
+      "after"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q14",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "For centuries, people have thought that we have two brains ---- we have two lungs or two kidneys.",
+    "options": [
+      "until",
+      "even though",
+      "whether",
+      "so long as",
+      "just as"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q15",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "As with other chronic illnesses, asthma affects ---- patients ---- their families.",
+    "options": [
+      "not only / but also",
+      "the more / the more",
+      "neither / nor",
+      "such / that",
+      "less / than"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q16",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- children and older people, who suffer most of their unintentional injuries at home, young and middle-aged adults are often injured in the workplace.",
+    "options": [
+      "In contrast to",
+      "Instead of",
+      "Due to",
+      "Thanks to",
+      "In case of"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q17",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2014-ilkbahar-g17-21",
+    "passage": "Most scholars agree that Attention-Deficit Hyperactivity Disorder (ADHD) is overdiagnosed today. To them, such overdiagnosis leads to relying too heavily on pills (17)---- skills, such as teaching children better ways of coping with stress. The American Psychiatric Association’s diagnostic manual of the past 20 years outlines three sets of (18)---- for ADHD: inattention, hyperactivity and impulsivity – the child (19)---- answers too quickly. For accurate diagnosis, a child must display at least six of the nine listed symptoms for at least half a year across these categories. (20)----, at least some problems must be present before the age of seven and produce impairment (21)---- at least two different settings such as school or home.",
+    "stem": null,
+    "options": [
+      "by means of",
+      "owing to",
+      "rather than",
+      "with regard to",
+      "in terms of"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q18",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2014-ilkbahar-g17-21",
+    "passage": "Most scholars agree that Attention-Deficit Hyperactivity Disorder (ADHD) is overdiagnosed today. To them, such overdiagnosis leads to relying too heavily on pills (17)---- skills, such as teaching children better ways of coping with stress. The American Psychiatric Association’s diagnostic manual of the past 20 years outlines three sets of (18)---- for ADHD: inattention, hyperactivity and impulsivity – the child (19)---- answers too quickly. For accurate diagnosis, a child must display at least six of the nine listed symptoms for at least half a year across these categories. (20)----, at least some problems must be present before the age of seven and produce impairment (21)---- at least two different settings such as school or home.",
+    "stem": null,
+    "options": [
+      "assessments",
+      "prescriptions",
+      "adoptions",
+      "treatments",
+      "indicators"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q19",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2014-ilkbahar-g17-21",
+    "passage": "Most scholars agree that Attention-Deficit Hyperactivity Disorder (ADHD) is overdiagnosed today. To them, such overdiagnosis leads to relying too heavily on pills (17)---- skills, such as teaching children better ways of coping with stress. The American Psychiatric Association’s diagnostic manual of the past 20 years outlines three sets of (18)---- for ADHD: inattention, hyperactivity and impulsivity – the child (19)---- answers too quickly. For accurate diagnosis, a child must display at least six of the nine listed symptoms for at least half a year across these categories. (20)----, at least some problems must be present before the age of seven and produce impairment (21)---- at least two different settings such as school or home.",
+    "stem": null,
+    "options": [
+      "should have given",
+      "could have given",
+      "used to give",
+      "may give",
+      "ought to give"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q20",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2014-ilkbahar-g17-21",
+    "passage": "Most scholars agree that Attention-Deficit Hyperactivity Disorder (ADHD) is overdiagnosed today. To them, such overdiagnosis leads to relying too heavily on pills (17)---- skills, such as teaching children better ways of coping with stress. The American Psychiatric Association’s diagnostic manual of the past 20 years outlines three sets of (18)---- for ADHD: inattention, hyperactivity and impulsivity – the child (19)---- answers too quickly. For accurate diagnosis, a child must display at least six of the nine listed symptoms for at least half a year across these categories. (20)----, at least some problems must be present before the age of seven and produce impairment (21)---- at least two different settings such as school or home.",
+    "stem": null,
+    "options": [
+      "In addition",
+      "Therefore",
+      "Nonetheless",
+      "Otherwise",
+      "Still"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q21",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2014-ilkbahar-g17-21",
+    "passage": "Most scholars agree that Attention-Deficit Hyperactivity Disorder (ADHD) is overdiagnosed today. To them, such overdiagnosis leads to relying too heavily on pills (17)---- skills, such as teaching children better ways of coping with stress. The American Psychiatric Association’s diagnostic manual of the past 20 years outlines three sets of (18)---- for ADHD: inattention, hyperactivity and impulsivity – the child (19)---- answers too quickly. For accurate diagnosis, a child must display at least six of the nine listed symptoms for at least half a year across these categories. (20)----, at least some problems must be present before the age of seven and produce impairment (21)---- at least two different settings such as school or home.",
+    "stem": null,
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to",
+      "from"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q22",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2014-ilkbahar-g22-26",
+    "passage": "Most people sum up Florida in just one word: vacation. That is not a new (22)----. A century ago, steamboats and then railroads brought northerners to the land of sunshine. (23)---- there is one individual’s name that often appears on road names as well as the front or back covers of history books, it is that of Henry Flagler. His determination (24)---- his vision transformed Florida from a wilderness into a 20th-century state in a matter of years. (25)---- constructing a railroad down the eastern coast of the state, he provided thousands with easy access to areas where many people had previously struggled (26)---- in isolated communities.",
+    "stem": null,
+    "options": [
+      "achievement",
+      "invention",
+      "application",
+      "experiment",
+      "association"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q23",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2014-ilkbahar-g22-26",
+    "passage": "Most people sum up Florida in just one word: vacation. That is not a new (22)----. A century ago, steamboats and then railroads brought northerners to the land of sunshine. (23)---- there is one individual’s name that often appears on road names as well as the front or back covers of history books, it is that of Henry Flagler. His determination (24)---- his vision transformed Florida from a wilderness into a 20th-century state in a matter of years. (25)---- constructing a railroad down the eastern coast of the state, he provided thousands with easy access to areas where many people had previously struggled (26)---- in isolated communities.",
+    "stem": null,
+    "options": [
+      "Although",
+      "Whereas",
+      "If",
+      "Whether",
+      "Unless"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q24",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2014-ilkbahar-g22-26",
+    "passage": "Most people sum up Florida in just one word: vacation. That is not a new (22)----. A century ago, steamboats and then railroads brought northerners to the land of sunshine. (23)---- there is one individual’s name that often appears on road names as well as the front or back covers of history books, it is that of Henry Flagler. His determination (24)---- his vision transformed Florida from a wilderness into a 20th-century state in a matter of years. (25)---- constructing a railroad down the eastern coast of the state, he provided thousands with easy access to areas where many people had previously struggled (26)---- in isolated communities.",
+    "stem": null,
+    "options": [
+      "together with",
+      "in terms of",
+      "owing to",
+      "despite",
+      "as opposed to"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q25",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2014-ilkbahar-g22-26",
+    "passage": "Most people sum up Florida in just one word: vacation. That is not a new (22)----. A century ago, steamboats and then railroads brought northerners to the land of sunshine. (23)---- there is one individual’s name that often appears on road names as well as the front or back covers of history books, it is that of Henry Flagler. His determination (24)---- his vision transformed Florida from a wilderness into a 20th-century state in a matter of years. (25)---- constructing a railroad down the eastern coast of the state, he provided thousands with easy access to areas where many people had previously struggled (26)---- in isolated communities.",
+    "stem": null,
+    "options": [
+      "About",
+      "From",
+      "Behind",
+      "At",
+      "By"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q26",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2014-ilkbahar-g22-26",
+    "passage": "Most people sum up Florida in just one word: vacation. That is not a new (22)----. A century ago, steamboats and then railroads brought northerners to the land of sunshine. (23)---- there is one individual’s name that often appears on road names as well as the front or back covers of history books, it is that of Henry Flagler. His determination (24)---- his vision transformed Florida from a wilderness into a 20th-century state in a matter of years. (25)---- constructing a railroad down the eastern coast of the state, he provided thousands with easy access to areas where many people had previously struggled (26)---- in isolated communities.",
+    "stem": null,
+    "options": [
+      "to have lived",
+      "to live",
+      "living",
+      "having lived",
+      "lived"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q27",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "If you own a property in Turkey but do not want to live in it all year round, ----.",
+    "options": [
+      "you can always rent it as a holiday home",
+      "you should remember that the Turkish holiday season is very short",
+      "some people hope to make a quick return on their investment",
+      "you should try and get used to the local culture",
+      "it is possible that it will lose its value dramatically"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q28",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When a radically new form of the flu virus evolves, ----.",
+    "options": [
+      "the experts have decided which three strains of the virus are likely to be most prevalent next year",
+      "we have been using vaccines to protect against seasonal flu for over 60 years",
+      "it can rapidly spread across the globe, claiming lives along the way",
+      "around the world, labs are working towards such a universal flu vaccine",
+      "a universal flu vaccine fails to provide any protection against catching a cold"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q29",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even if you learn only a few Turkish words as a tourist, ----.",
+    "options": [
+      "Turkey is as safe to visit as anywhere else in Europe",
+      "you should check opening times before setting out on any sightseeing expedition",
+      "Turks will respect any attempt at their difficult language",
+      "many English language publications are available in major cities in Turkey",
+      "public telephones will prompt you to select the language of your choice"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q30",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since they have a tendency to have chronic illnesses, ----.",
+    "options": [
+      "health care professionals build interdisciplinary teams to develop innovative strategies",
+      "some people can benefit from increases in healthy life expectancy",
+      "wealthy people have a longer life span compared to poor people",
+      "the majority of people in the West make group rather than individual physician appointments",
+      "older people use health care service more heavily than younger people"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q31",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As contradictory health advice appears in tabloid newspapers on an almost daily basis, ----.",
+    "options": [
+      "people argue whether sunlight is beneficial or harmful to human health",
+      "sunlight does not just affect your state of mind but your body",
+      "the ultraviolet B radiation in sunlight encourages your body to make vitamin D",
+      "children in sunny Australia have been found to be more prone to egg allergy",
+      "it is too much sunshine that poses the problem when skin cancer is concerned"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q32",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Some species become extinct every year due to hunting, ----.",
+    "options": [
+      "as animals like foxes and racoons have adapted to increased urbanization and now live in parks",
+      "yet, in some parts of the world, animals such as zebras and rhinos are protected in wildlife reserves",
+      "so pollution of oceans kills animals and plants and poisons their habitats",
+      "though cultivating more and more land has led to the loss of habitats like rainforests",
+      "and ecology explains how individual species fit into the natural world"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q33",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, coffee is surely known to stimulate the nervous system, acting on both mental and physical functioning.",
+    "options": [
+      "Because it is recommended for some digestive problems",
+      "If the properties of caffeine need to be more scientifically evaluated",
+      "Given that excessive coffee consumption leads to insomnia and anxiety",
+      "While its effects on sleep may vary from one individual to another",
+      "As many women suffering from bladder pain agree that caffeine drinks irritate a sensitive bladder"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q34",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "A growing body of research shows that being bad can actually be good, ----.",
+    "options": [
+      "but the trick is knowing exactly when and where to show your dark side",
+      "whereas lying and cheating are regarded by some people as positive traits that can make us stronger",
+      "because groups that behave nicely do better than groups that fight",
+      "though you may think your greatest threat is still your fellow men",
+      "as a result, we have developed polite behaviour, morality and law"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q35",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Anger and sadness are an important part of life, ----.",
+    "options": [
+      "so you may not want to express how you feel to another person",
+      "as positive thoughts and emotions can boost self-esteem",
+      "while unpleasant feelings are as crucial as enjoyable ones",
+      "although many people find it helpful to breathe slowly while learning to tolerate strong feelings",
+      "and new research shows that experiencing such emotions are vital to our mental health"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q36",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, many of the main tourist attractions in London are fairly close to one another.",
+    "options": [
+      "Although the city is much more spread out than other European capitals",
+      "Now that hotel prices tend to stay high all year round",
+      "As the city is facing an increasing migration problem",
+      "Given that the routes for many places will take you to the past",
+      "Despite the fact that it is an excellent city for walkers with its parks"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q37",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "How advertisements affect both the audience and those who rely on advertising for their income is one of the most important debates on the media.",
+    "options": [
+      "Medyayla ilgili en önemli tartışmalardan biri de reklamların hem izleyiciyi hem de reklamlardan kazanç sağlayanları nasıl etkilediği olmuştur.",
+      "Medyayla ilgili en önemli tartışmalardan biri reklamların hem izleyiciyi hem de gelirleri için reklamlara bel bağlayanları nasıl etkilediğidir.",
+      "Reklamların hem izleyiciyi hem de gelirleri için reklamlara bel bağlayanları nasıl etkilediği medyayla ilgili en önemli tartışmalardan biridir.",
+      "Reklamların hem izleyiciyi hem de reklamlardan gelir elde edenleri nasıl etkilediği medya hakkındaki en önemli tartışmalardan birini oluşturmaktadır.",
+      "Reklamlardan gelir elde edenlerin ve izleyicilerin reklamlardan nasıl etkilendikleri medyayla ilgili en önemli tartışmalardan birinin konusudur."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q38",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Advanced data analysis is now on the verge of breaking free of its confines in hospitals and computer labs and making its way into our daily lives.",
+    "options": [
+      "Gelişmiş veri analizi artık sınırlarından kurtulup hastanelerde ve bilgisayar laboratuvarlarında olduğu gibi günlük hayatımıza girmek üzere.",
+      "Hastanelerdeki ve bilgisayar laboratuvarlarındaki sınırlarından kurtuluyor olması, gelişmiş veri analizinin artık günlük hayatımıza gireceğini göstermekte.",
+      "Gelişmiş veri analizi artık hastanelerdeki ve bilgisayar laboratuvarlarındaki sınırlarından kurtulup günlük hayatımıza girmek üzere.",
+      "Hastanelerdeki ve bilgisayar laboratuvarlarındaki sınırlarından kurtulan gelişmiş veri analizi artık günlük hayatımıza girmek üzere.",
+      "Günlük hayatımıza girmek üzere olan gelişmiş veri analizi artık hastanelerdeki ve bilgisayar laboratuvarlarındaki sınırlarından kurtuluyor."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q39",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "It is difficult to find the most suitable dose of drugs to be used to treat illnesses, and virtually all drugs will produce undesirable side effects if too high a dose is given.",
+    "options": [
+      "Hastalıkları tedavi etmede kullanılacak ilaçların en uygun dozunu bulmak zordur ve aşırı yüksek doz verilirse neredeyse bütün ilaçlar istenmeyen yan etkiler doğuracaktır.",
+      "Hastalıkları tedavi ederken kullanılacak ilaçların en uygun dozunu bulmak zordur çünkü aşırı yüksek dozda verildiğinde neredeyse bütün ilaçlar istenmeyen yan etkilere sebep olmaktadır.",
+      "Hastalıkları tedavi ederken kullanılacak ilaçların en uygun dozunu bulmak zordur çünkü aşırı yüksek doz verilirse neredeyse bütün ilaçlar istenmeyen yan etkiler ortaya çıkarmaktadır.",
+      "Hastalıkları tedavi etmede kullanılacak ilaçların en uygun dozunu bulmak zordur ve aşırı yüksek doz kullanımında istenmeyen yan etkilerin ortaya çıkması kaçınılmazdır.",
+      "İstenmeyen yan etkiler neredeyse bütün ilaçlar aşırı yüksek dozda kullanıldığında ortaya çıkar, bu yüzden hastalıkları tedavi etmede kullanılacak ilaçların en uygun dozunu bulmak zordur."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q40",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Zaman Virginia Woolf’un eserlerinde sadece kaybetmenin bir sembolü olarak ortaya çıkmaz, aynı zamanda farklı şekillerde de kendisini gösterir.",
+    "options": [
+      "Time in Virginia Woolf’s works mostly appears as a symbol of loss, but it reveals itself in various forms as well.",
+      "Time appears in Virginia Woolf’s works as a symbol of loss, as well as in various other forms.",
+      "In Virginia Woolf’s works, time is not only a symbol of loss but also of various other things.",
+      "In Virginia Woolf’s works, time appears as various forms, not only as a symbol of loss.",
+      "In Virginia Woolf’s works, time not only appears as a symbol of loss, but it also reveals itself in various forms."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q41",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Her ne kadar hiç kimse kadınların neden doğum sonrası depresyonuna girdiklerini kesin olarak bilmese de birkaç açıklama makul görünmektedir.",
+    "options": [
+      "The reasons for postnatal depression of some women are totally unknown, but there are some plausible explanations.",
+      "Even though very little is known why women experience postnatal depression, some explanations seem plausible.",
+      "Nobody knows the reasons for postnatal depression experienced by women, but there are some explanations that seem plausible.",
+      "Although no one knows for sure why women suffer from postnatal depression, a few explanations seem plausible.",
+      "In spite of some plausible explanations, nobody knows for sure why some women experience postnatal depression."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q42",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Toplumda bilime yönelik artan hayal kırıklığının temel sebebi, bilim insanlarının birbirleriyle sürekli tartıştıkları algısıdır.",
+    "options": [
+      "There has been considerable disappointment with science in the public, as people think that scientists are always arguing with each other.",
+      "The main reason for growing disappointment with science in the public is the perception that scientists are always arguing with one another.",
+      "The fact that scientists are always arguing with one another causes profound disappointment with science in the public.",
+      "The perception that scientists are always arguing with each other can be a good reason for growing disappointment with science in the public.",
+      "Increasing disappointment with science in the public has been mainly resulting from the thought that scientists are always arguing with one another."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q43",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g43-46",
+    "passage": "For fifty years, scientists have been trying to create tiny gadgets that travel around a patient’s bloodstream, detecting and even fixing diseases. But how to power them has been a problem. Formerly-used batteries have shrunk over the years but have not been miniaturized sufficiently to fit into a medical device small enough to travel through veins and arteries. So instead of using them, engineers at Stanford University have developed tiny implants that can be powered by radio waves beamed from a transmitter outside the body. The idea of using electromagnetic waves to transfer power to implantable medical devices is not new, and in principle, it sounds simple. A transmitter outside the body emits radio waves travelling through the tissues. They are then picked up by an antenna on the internal device where they induce a voltage. The trouble is, scientists previously thought that radio waves would struggle to get through human tissue. But a researcher at Stanford University found strong evidence that they do pass through. He used a chunk of beef as a stand-in for human flesh and found that sufficient energy moved through it to make electromagnetic power transfer feasible. Already, working prototypes that can propel themselves have been developed, but the distance through which power can be transferred inside the body still needs improvement.",
+    "stem": "It is clear from the passage that inserting a gadget into a patient’s bloodstream ----.",
+    "options": [
+      "has depended on the size of the radio transmitters",
+      "has challenged scientists for half a century",
+      "will be widely used in many hospitals in Stanford",
+      "showed promising results in people with narrow arteries",
+      "has led to quite a dramatic reduction in the size of batteries"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q44",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g43-46",
+    "passage": "For fifty years, scientists have been trying to create tiny gadgets that travel around a patient’s bloodstream, detecting and even fixing diseases. But how to power them has been a problem. Formerly-used batteries have shrunk over the years but have not been miniaturized sufficiently to fit into a medical device small enough to travel through veins and arteries. So instead of using them, engineers at Stanford University have developed tiny implants that can be powered by radio waves beamed from a transmitter outside the body. The idea of using electromagnetic waves to transfer power to implantable medical devices is not new, and in principle, it sounds simple. A transmitter outside the body emits radio waves travelling through the tissues. They are then picked up by an antenna on the internal device where they induce a voltage. The trouble is, scientists previously thought that radio waves would struggle to get through human tissue. But a researcher at Stanford University found strong evidence that they do pass through. He used a chunk of beef as a stand-in for human flesh and found that sufficient energy moved through it to make electromagnetic power transfer feasible. Already, working prototypes that can propel themselves have been developed, but the distance through which power can be transferred inside the body still needs improvement.",
+    "stem": "It is pointed out in the passage that radio waves ----.",
+    "options": [
+      "are transferred to a transmitter in the body",
+      "have long been used to transfer power to move gadgets in veins",
+      "have been found to be capable of penetrating the tissues",
+      "are created by expanding the implants’ mechanical component",
+      "have been proven to be effective without the assistance of a secondary unit"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q45",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g43-46",
+    "passage": "For fifty years, scientists have been trying to create tiny gadgets that travel around a patient’s bloodstream, detecting and even fixing diseases. But how to power them has been a problem. Formerly-used batteries have shrunk over the years but have not been miniaturized sufficiently to fit into a medical device small enough to travel through veins and arteries. So instead of using them, engineers at Stanford University have developed tiny implants that can be powered by radio waves beamed from a transmitter outside the body. The idea of using electromagnetic waves to transfer power to implantable medical devices is not new, and in principle, it sounds simple. A transmitter outside the body emits radio waves travelling through the tissues. They are then picked up by an antenna on the internal device where they induce a voltage. The trouble is, scientists previously thought that radio waves would struggle to get through human tissue. But a researcher at Stanford University found strong evidence that they do pass through. He used a chunk of beef as a stand-in for human flesh and found that sufficient energy moved through it to make electromagnetic power transfer feasible. Already, working prototypes that can propel themselves have been developed, but the distance through which power can be transferred inside the body still needs improvement.",
+    "stem": "It is stated in the passage that ----.",
+    "options": [
+      "implantable gadgets have been on trial for some patients before actual experiments can be conducted",
+      "the size of the implants used within the body affected the level of the transmission",
+      "shrinking the batteries has helped scientists to insert the device more comfortably into the arteries",
+      "the self-moving devices recently developed need additional power-transfer improvement",
+      "using batteries instead of implants provides more productive results"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q46",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g43-46",
+    "passage": "For fifty years, scientists have been trying to create tiny gadgets that travel around a patient’s bloodstream, detecting and even fixing diseases. But how to power them has been a problem. Formerly-used batteries have shrunk over the years but have not been miniaturized sufficiently to fit into a medical device small enough to travel through veins and arteries. So instead of using them, engineers at Stanford University have developed tiny implants that can be powered by radio waves beamed from a transmitter outside the body. The idea of using electromagnetic waves to transfer power to implantable medical devices is not new, and in principle, it sounds simple. A transmitter outside the body emits radio waves travelling through the tissues. They are then picked up by an antenna on the internal device where they induce a voltage. The trouble is, scientists previously thought that radio waves would struggle to get through human tissue. But a researcher at Stanford University found strong evidence that they do pass through. He used a chunk of beef as a stand-in for human flesh and found that sufficient energy moved through it to make electromagnetic power transfer feasible. Already, working prototypes that can propel themselves have been developed, but the distance through which power can be transferred inside the body still needs improvement.",
+    "stem": "It can be inferred from the passage that ----.",
+    "options": [
+      "removing the medical device from the body has been the scientists’ main concern",
+      "inserting medical devices into the body may have harmful effects on people",
+      "prototypes should first be tested on people for a period of time",
+      "diagnosis and treatment of some diseases may be easier in the long run",
+      "attempts to discover new methods of powering the implants will probably fail"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q47",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g47-50",
+    "passage": "The realization that we must protect nature from the effects of human activity is not a modern innovation. However, a definite environmental consciousness has arisen in Western industrialized nations only since the 1960s. In recent decades, coastlines contaminated by spilled oil, declining fish populations, the destructions of the ozone layer, increasing desertification and dying forests have all pointed to the tolerance limits of ecological systems. The supporters of most environmental protection efforts include individuals, civic alliances and political associations such as environmental and nature groups, as well as governments, businesses and the scientific community. All of them face the challenge of maintaining the balance of nature. However, since the environment as a whole cannot be fully protected or restored to its original condition, environmental protection efforts always require compromises between economic, political and social interests. Not every measure made possible by technology is truly feasible, given the various costs and trade-offs involved. Many proposals that are strongly advocated in scientific circles cannot be implemented due to economic concerns or a lack of political will. Similarly, many initiatives set in motion by governments meet with only hesitant acceptance in society.",
+    "stem": "It is clearly stated in the passage that ----.",
+    "options": [
+      "organized attempts to protect the environment are a relatively recent issue",
+      "humankind was not involved in environmental protection in the distant past",
+      "contamination is the most dangerous man-made threat to the environment",
+      "environmental damage started in Western countries in the last century",
+      "ecological systems in the nature have recently been spoilt irreversibly"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q48",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g47-50",
+    "passage": "The realization that we must protect nature from the effects of human activity is not a modern innovation. However, a definite environmental consciousness has arisen in Western industrialized nations only since the 1960s. In recent decades, coastlines contaminated by spilled oil, declining fish populations, the destructions of the ozone layer, increasing desertification and dying forests have all pointed to the tolerance limits of ecological systems. The supporters of most environmental protection efforts include individuals, civic alliances and political associations such as environmental and nature groups, as well as governments, businesses and the scientific community. All of them face the challenge of maintaining the balance of nature. However, since the environment as a whole cannot be fully protected or restored to its original condition, environmental protection efforts always require compromises between economic, political and social interests. Not every measure made possible by technology is truly feasible, given the various costs and trade-offs involved. Many proposals that are strongly advocated in scientific circles cannot be implemented due to economic concerns or a lack of political will. Similarly, many initiatives set in motion by governments meet with only hesitant acceptance in society.",
+    "stem": "One can clearly understand from the passage that ----.",
+    "options": [
+      "politicians often seem to provide support for advanced protection efforts at all costs",
+      "Western countries were not involved in environmental protection before the 1960s",
+      "environmental protection is a matter of institutionalized concern rather than individual",
+      "in order for the environmental protection projects to be successful, they should ignore financial interests",
+      "individuals and institutions involved in environmental protection come from all walks of life"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q49",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g47-50",
+    "passage": "The realization that we must protect nature from the effects of human activity is not a modern innovation. However, a definite environmental consciousness has arisen in Western industrialized nations only since the 1960s. In recent decades, coastlines contaminated by spilled oil, declining fish populations, the destructions of the ozone layer, increasing desertification and dying forests have all pointed to the tolerance limits of ecological systems. The supporters of most environmental protection efforts include individuals, civic alliances and political associations such as environmental and nature groups, as well as governments, businesses and the scientific community. All of them face the challenge of maintaining the balance of nature. However, since the environment as a whole cannot be fully protected or restored to its original condition, environmental protection efforts always require compromises between economic, political and social interests. Not every measure made possible by technology is truly feasible, given the various costs and trade-offs involved. Many proposals that are strongly advocated in scientific circles cannot be implemented due to economic concerns or a lack of political will. Similarly, many initiatives set in motion by governments meet with only hesitant acceptance in society.",
+    "stem": "According to the passage, ----.",
+    "options": [
+      "damages given to the environment should be stopped completely so that the environment can repair itself",
+      "technological solutions to environmental damage are often cost-effective, but other conditions might make them difficult to put into practice",
+      "an environmental precaution that can technologically be put into practice receives support from most sections of the society",
+      "governments usually have hard time proceeding with their proposals since most citizens find them overtly political",
+      "the public might have some suspicion about environmental protection projects although governments regard them applicable"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q50",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g47-50",
+    "passage": "The realization that we must protect nature from the effects of human activity is not a modern innovation. However, a definite environmental consciousness has arisen in Western industrialized nations only since the 1960s. In recent decades, coastlines contaminated by spilled oil, declining fish populations, the destructions of the ozone layer, increasing desertification and dying forests have all pointed to the tolerance limits of ecological systems. The supporters of most environmental protection efforts include individuals, civic alliances and political associations such as environmental and nature groups, as well as governments, businesses and the scientific community. All of them face the challenge of maintaining the balance of nature. However, since the environment as a whole cannot be fully protected or restored to its original condition, environmental protection efforts always require compromises between economic, political and social interests. Not every measure made possible by technology is truly feasible, given the various costs and trade-offs involved. Many proposals that are strongly advocated in scientific circles cannot be implemented due to economic concerns or a lack of political will. Similarly, many initiatives set in motion by governments meet with only hesitant acceptance in society.",
+    "stem": "One can infer from the passage that ----.",
+    "options": [
+      "scientific protection projects often fail because scientists take into account financial interests",
+      "it is the clash of interests that results in extensive environmental damage in most parts of the world",
+      "it is highly challenging to take action to protect the nature due to various intervening conditions",
+      "the nature can be protected even if governments, scientists and the public do not reach a compromise",
+      "organized attempts to protect the environment have proved fruitful despite the challenges involved"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q51",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g51-54",
+    "passage": "Africa has the fastest growing and most youthful population in the world. Over 40% are under the age of 15 and 20% are between the ages of 15 and 24, which can be said to be the definition of youth all over the world. These statistics present a serious challenge. Can Africa seize the opportunities being presented, or do Africa’s youth constitute a ticking, demographic time-bomb? Despite sub-Saharan Africa recording an average annual economic growth rate of 6%, this remarkable and rapid growth has often been non-inclusive, and it has become increasingly clear that insufficient attention has been paid to the creation of employment opportunities for young people. The current demographic trend only worsens the problem as the pressure to create new jobs will increase markedly over the coming decades, if what is known as the ‘demographic dividend’ is not realized. One definition of the demographic dividend is a large workforce that creates a window of opportunity to invest in the education and health of their children, increase economic outputs and invest more in technology and skills to strengthen the economy. It is a stage that the most successful developing economies experience. Indeed, as much as one third of East Asia’s economic miracle was closely associated with demographic change.",
+    "stem": "It is clearly stated in the passage that ----.",
+    "options": [
+      "the definition of youth in Africa is controversial when statistical data are considered",
+      "African countries are expected to have the most developed economies in the world, as they have a high percentage of young people",
+      "African countries have a lot in common with East Asian countries in terms of economic success",
+      "changes in population were an important factor in the economic success of countries in East Asia",
+      "young people, in particular, have the power and ability to make an economy successful in East Asian countries"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q52",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g51-54",
+    "passage": "Africa has the fastest growing and most youthful population in the world. Over 40% are under the age of 15 and 20% are between the ages of 15 and 24, which can be said to be the definition of youth all over the world. These statistics present a serious challenge. Can Africa seize the opportunities being presented, or do Africa’s youth constitute a ticking, demographic time-bomb? Despite sub-Saharan Africa recording an average annual economic growth rate of 6%, this remarkable and rapid growth has often been non-inclusive, and it has become increasingly clear that insufficient attention has been paid to the creation of employment opportunities for young people. The current demographic trend only worsens the problem as the pressure to create new jobs will increase markedly over the coming decades, if what is known as the ‘demographic dividend’ is not realized. One definition of the demographic dividend is a large workforce that creates a window of opportunity to invest in the education and health of their children, increase economic outputs and invest more in technology and skills to strengthen the economy. It is a stage that the most successful developing economies experience. Indeed, as much as one third of East Asia’s economic miracle was closely associated with demographic change.",
+    "stem": "One can infer from the passage that Africa ----.",
+    "options": [
+      "needs to explore employment opportunties for the youth for economic growth",
+      "is experiencing demographic problems resulting from lack of governmental support all over the continent",
+      "is more likely to be the most populated continent in the near future",
+      "has a very high percentage of young people, which prevents employment for everybody",
+      "will have great difficulty in shaping its economy unless young people have a key role in such areas as education and technology"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q53",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g51-54",
+    "passage": "Africa has the fastest growing and most youthful population in the world. Over 40% are under the age of 15 and 20% are between the ages of 15 and 24, which can be said to be the definition of youth all over the world. These statistics present a serious challenge. Can Africa seize the opportunities being presented, or do Africa’s youth constitute a ticking, demographic time-bomb? Despite sub-Saharan Africa recording an average annual economic growth rate of 6%, this remarkable and rapid growth has often been non-inclusive, and it has become increasingly clear that insufficient attention has been paid to the creation of employment opportunities for young people. The current demographic trend only worsens the problem as the pressure to create new jobs will increase markedly over the coming decades, if what is known as the ‘demographic dividend’ is not realized. One definition of the demographic dividend is a large workforce that creates a window of opportunity to invest in the education and health of their children, increase economic outputs and invest more in technology and skills to strengthen the economy. It is a stage that the most successful developing economies experience. Indeed, as much as one third of East Asia’s economic miracle was closely associated with demographic change.",
+    "stem": "According to the passage, the economic growth ----.",
+    "options": [
+      "cannot be permanent even if new job opportunities are provided for young population",
+      "in African countries is not very rapid when compared to that of East Asian countries",
+      "is a result of the current demographic trend that integrates workpower into the economy",
+      "of sub-Saharan African countries helps them to invest in the education and health of children",
+      "in African countries is significant but not perfect in terms of employment of young population"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q54",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g51-54",
+    "passage": "Africa has the fastest growing and most youthful population in the world. Over 40% are under the age of 15 and 20% are between the ages of 15 and 24, which can be said to be the definition of youth all over the world. These statistics present a serious challenge. Can Africa seize the opportunities being presented, or do Africa’s youth constitute a ticking, demographic time-bomb? Despite sub-Saharan Africa recording an average annual economic growth rate of 6%, this remarkable and rapid growth has often been non-inclusive, and it has become increasingly clear that insufficient attention has been paid to the creation of employment opportunities for young people. The current demographic trend only worsens the problem as the pressure to create new jobs will increase markedly over the coming decades, if what is known as the ‘demographic dividend’ is not realized. One definition of the demographic dividend is a large workforce that creates a window of opportunity to invest in the education and health of their children, increase economic outputs and invest more in technology and skills to strengthen the economy. It is a stage that the most successful developing economies experience. Indeed, as much as one third of East Asia’s economic miracle was closely associated with demographic change.",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+      "Young population constitutes an opportunity for as well as a threat to the economic development of African countries.",
+      "Having young population can mean achieving economic prosperity in the future as seen in Africa.",
+      "The realization of demographic dividend accounts for the rapid economic growth in African countries.",
+      "Although what East Asian countries did so as to boost their economies affected African politicians, they have not made any attempts to do the same.",
+      "African countries should follow the example of East Asia, as they have similar demographic profile."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q55",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g55-58",
+    "passage": "Arguably the most influential figure in the history of Indian politics, Gandhi became the symbol of Indian nationalism and was given the status of the Father of the Nation after India achieved independence in 1947. Gandhi’s most significant contribution to Indian politics was perhaps his belief in the strength of ordinary people. Gandhi was able to mobilize the Indian people primarily because the demands his politics made upon the individual were not extraordinary. His insistence on non-violence which characterized his campaigns of civil disobedience allowed people to participate in national politics in many different ways, none of which necessarily required a break with people’s daily lives. Gandhi was able to create a national mood, which cut across castes, classes, religions and regional loyalties by rejecting the boundaries that these created as irrelevant to the moral truth that he made central to his discourse. This at times led him to limit the more radical aspects of nationalist aspirations of some within his Congress Party. Another distinguishing feature of Gandhi’s philosophy was his opposition to Western modernization as a model for India’s development.",
+    "stem": "It is clear from the passage that ----.",
+    "options": [
+      "Gandhi had already received a national title even before India's independence",
+      "Gandhi believed that ordinary people are strong enough to make great political changes in the society",
+      "the political views of Gandhi demanded a high level of political involvement of ordinary people",
+      "Gandhi’s political views strengthened the Indian people’s belief in independence",
+      "the political discourse of Gandhi incorporated elements from Indian caste structure"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q56",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g55-58",
+    "passage": "Arguably the most influential figure in the history of Indian politics, Gandhi became the symbol of Indian nationalism and was given the status of the Father of the Nation after India achieved independence in 1947. Gandhi’s most significant contribution to Indian politics was perhaps his belief in the strength of ordinary people. Gandhi was able to mobilize the Indian people primarily because the demands his politics made upon the individual were not extraordinary. His insistence on non-violence which characterized his campaigns of civil disobedience allowed people to participate in national politics in many different ways, none of which necessarily required a break with people’s daily lives. Gandhi was able to create a national mood, which cut across castes, classes, religions and regional loyalties by rejecting the boundaries that these created as irrelevant to the moral truth that he made central to his discourse. This at times led him to limit the more radical aspects of nationalist aspirations of some within his Congress Party. Another distinguishing feature of Gandhi’s philosophy was his opposition to Western modernization as a model for India’s development.",
+    "stem": "According to the passage, ----.",
+    "options": [
+      "nationalism constituted the central point of Gandhi’s political campaigns",
+      "Gandhi was not always interested in controlling the actions of politicians",
+      "Gandhi’s political understanding introduced politics into the daily lives of people",
+      "the ultimate contribution of Gandhi to politics was his alternative to Western democracy",
+      "Gandhi limited the power of the Indian people by getting them to become non-violent"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q57",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g55-58",
+    "passage": "Arguably the most influential figure in the history of Indian politics, Gandhi became the symbol of Indian nationalism and was given the status of the Father of the Nation after India achieved independence in 1947. Gandhi’s most significant contribution to Indian politics was perhaps his belief in the strength of ordinary people. Gandhi was able to mobilize the Indian people primarily because the demands his politics made upon the individual were not extraordinary. His insistence on non-violence which characterized his campaigns of civil disobedience allowed people to participate in national politics in many different ways, none of which necessarily required a break with people’s daily lives. Gandhi was able to create a national mood, which cut across castes, classes, religions and regional loyalties by rejecting the boundaries that these created as irrelevant to the moral truth that he made central to his discourse. This at times led him to limit the more radical aspects of nationalist aspirations of some within his Congress Party. Another distinguishing feature of Gandhi’s philosophy was his opposition to Western modernization as a model for India’s development.",
+    "stem": "The author of the passage states that ----.",
+    "options": [
+      "Gandhi managed to bring together all parts of the Indian society irrespective of their social background",
+      "Gandhi was in favour of following the developed world to achieve national development",
+      "Indian people failed to appreciate the contributions of Gandhi to Indian political life",
+      "Gandhi was able to abolish the caste system in India by creating a national unity",
+      "the bases of Gandhi’s political views were in line with existing systems"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q58",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g55-58",
+    "passage": "Arguably the most influential figure in the history of Indian politics, Gandhi became the symbol of Indian nationalism and was given the status of the Father of the Nation after India achieved independence in 1947. Gandhi’s most significant contribution to Indian politics was perhaps his belief in the strength of ordinary people. Gandhi was able to mobilize the Indian people primarily because the demands his politics made upon the individual were not extraordinary. His insistence on non-violence which characterized his campaigns of civil disobedience allowed people to participate in national politics in many different ways, none of which necessarily required a break with people’s daily lives. Gandhi was able to create a national mood, which cut across castes, classes, religions and regional loyalties by rejecting the boundaries that these created as irrelevant to the moral truth that he made central to his discourse. This at times led him to limit the more radical aspects of nationalist aspirations of some within his Congress Party. Another distinguishing feature of Gandhi’s philosophy was his opposition to Western modernization as a model for India’s development.",
+    "stem": "One can understand from the passage that ----.",
+    "options": [
+      "Gandhi owes his political influence mainly to his extraordinary aspirations",
+      "Indian people were fascinated by the developments in the West",
+      "Gandhi taught important lessons to other political figures of his time",
+      "whatever Gandhi proposed was accepted without being questioned",
+      "relying on the participation of ordinary people in politics can lead to productive results"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q59",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g59-62",
+    "passage": "French manicures and finding the end of the sticky tape; if this is all you thought fingernails were good for, think again. A new study explains why our nails are crucial to our natural ability to grow back lost finger, and even provides clues as to how we might enhance our limited powers of regeneration. Although we might not be able to grow whole fingers, we can regrow the ends of amputated fingers. For years, scientists have wondered why this only happens when some of the nail is left behind. But now the answer has been discovered. Studying mice, the biologists found stem cells – cells that can change into any other kind – in a layer just below the nail on mice toes. When the very tip of a toe is amputated, a chain reaction is initiated that draws nerves to the area. This in turn prompts the stem cells to form new bone tendons and muscle. If a finger is amputated too far back and there is no nail, this chain reaction does not get started. It is thought that the same mechanism is behind the regeneration of human fingertips. “If we could identify all the molecules that have this special ability to induce this kind of regeneration, a pharmacological approach to treat amputees might become available,” says the researcher who led the study.",
+    "stem": "It can be understood from the passage that human nails ----.",
+    "options": [
+      "are not of very much use in terms of regenerating fingers unless a substantial amount of them does not remain on the finger",
+      "might be key to growing or regenerating full fingers in the near future",
+      "will not be used for growing back the tips of lost fingers for another decade",
+      "have some valuable health functions other than simply looking aesthetic or helping us with some simple tasks",
+      "have recently been known as a potential means of producing new organs in the human body"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q60",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g59-62",
+    "passage": "French manicures and finding the end of the sticky tape; if this is all you thought fingernails were good for, think again. A new study explains why our nails are crucial to our natural ability to grow back lost finger, and even provides clues as to how we might enhance our limited powers of regeneration. Although we might not be able to grow whole fingers, we can regrow the ends of amputated fingers. For years, scientists have wondered why this only happens when some of the nail is left behind. But now the answer has been discovered. Studying mice, the biologists found stem cells – cells that can change into any other kind – in a layer just below the nail on mice toes. When the very tip of a toe is amputated, a chain reaction is initiated that draws nerves to the area. This in turn prompts the stem cells to form new bone tendons and muscle. If a finger is amputated too far back and there is no nail, this chain reaction does not get started. It is thought that the same mechanism is behind the regeneration of human fingertips. “If we could identify all the molecules that have this special ability to induce this kind of regeneration, a pharmacological approach to treat amputees might become available,” says the researcher who led the study.",
+    "stem": "According to the passage, the research carried out on mice ----.",
+    "options": [
+      "provided scientists with a deep insight into the regenerative ability of stem cells",
+      "confirmed the absolute location of stem cells on a mouse’s body",
+      "was not successful as it was expected since it did not initiate any chain reactions",
+      "ended up being insignificant as it succeeded in growing ends of fingers instead of whole fingers",
+      "failed to produce results that make scientists believe that it is practical with humans as well"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q61",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g59-62",
+    "passage": "French manicures and finding the end of the sticky tape; if this is all you thought fingernails were good for, think again. A new study explains why our nails are crucial to our natural ability to grow back lost finger, and even provides clues as to how we might enhance our limited powers of regeneration. Although we might not be able to grow whole fingers, we can regrow the ends of amputated fingers. For years, scientists have wondered why this only happens when some of the nail is left behind. But now the answer has been discovered. Studying mice, the biologists found stem cells – cells that can change into any other kind – in a layer just below the nail on mice toes. When the very tip of a toe is amputated, a chain reaction is initiated that draws nerves to the area. This in turn prompts the stem cells to form new bone tendons and muscle. If a finger is amputated too far back and there is no nail, this chain reaction does not get started. It is thought that the same mechanism is behind the regeneration of human fingertips. “If we could identify all the molecules that have this special ability to induce this kind of regeneration, a pharmacological approach to treat amputees might become available,” says the researcher who led the study.",
+    "stem": "The attitude displayed by the leader of the team studying mice is ----.",
+    "options": [
+      "hopeful",
+      "sceptical",
+      "criticizing",
+      "pessimistic",
+      "unrealistic"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q62",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2014-ilkbahar-g59-62",
+    "passage": "French manicures and finding the end of the sticky tape; if this is all you thought fingernails were good for, think again. A new study explains why our nails are crucial to our natural ability to grow back lost finger, and even provides clues as to how we might enhance our limited powers of regeneration. Although we might not be able to grow whole fingers, we can regrow the ends of amputated fingers. For years, scientists have wondered why this only happens when some of the nail is left behind. But now the answer has been discovered. Studying mice, the biologists found stem cells – cells that can change into any other kind – in a layer just below the nail on mice toes. When the very tip of a toe is amputated, a chain reaction is initiated that draws nerves to the area. This in turn prompts the stem cells to form new bone tendons and muscle. If a finger is amputated too far back and there is no nail, this chain reaction does not get started. It is thought that the same mechanism is behind the regeneration of human fingertips. “If we could identify all the molecules that have this special ability to induce this kind of regeneration, a pharmacological approach to treat amputees might become available,” says the researcher who led the study.",
+    "stem": "What could be the best title for the passage?",
+    "options": [
+      "Working with Stem Cells of Mice",
+      "How to Grow Fingers",
+      "Innovations in Biology and Medicine",
+      "Stem Cells are Answer to Many Diseases",
+      "Fingernails Point the Way to Regeneration"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q63",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Job Applicant: - I’ve applied for this position mainly because I like interacting with people. Interviewer: - ---- Job Applicant: - I don’t have much experience about financial problems. I’d like to learn about them while I’m doing it. Interviewer: - Alright. Thanks for showing up. We’ll contact you soon about the result of your application.",
+    "options": [
+      "That’s interesting. You’ve come to the right place if you’re interested in dealing with various people.",
+      "I’m trying to understand what traits you have to distinguish you from other candidates.",
+      "Looking over your CV, I assume that you can contribute a lot to our company by using your high skills in financial problem solving.",
+      "We’re looking for a candidate with plenty of experience in public relations.",
+      "Our company has many skilful and intellectual employees. Are you ready to work with them?"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q64",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Fahri: - The use of chemicals poses serious hazards to the environment. It’s often the main cause of habitat destruction. Aydın: - ---- Fahri: - Could you give me an example to support your claim? Aydın: - Sure. Following World War II, chemicals were used to control agricultural pests, which increased productivity and farmers' income.",
+    "options": [
+      "Significant fish kills have resulted from the legal application of chemicals, such as the 1991 death of more than one million fish in the US.",
+      "Yes, I agree, but people have long been using a variety of chemicals in a wide range of areas for some benefits.",
+      "While some ecological changes due to heavy use of chemicals have been documented, others remain poorly researched and understood.",
+      "More and more chemicals have been pressed into use in industry, but pollution arising from industrial sources can now be effectively prevented.",
+      "When chemicals like insecticides reduce the insect populations that comprise the diet of birds, this leads to dramatic population reductions."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q65",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Dilek: - I'm rather disturbed by the sound of incoming mails and messages on your mobile phone. I can hardly concentrate on what I'm doing. Salih: - Sorry, but I need to see the messages from customers instantly to answer. Dilek: - ---- Salih: - Yes, that may be a good way, but I think I'm a bit obsessed with responding to messages right away. But I can try it anyway.",
+    "options": [
+      "I think you're a hard-working employee, so you can respond to the messages coming from customers at any time you like.",
+      "Customers might perhaps reach you during the day through the company’s telephone line to talk about your projects.",
+      "It must be really stressful for you to deal with all those incoming messages all day, so I can help you with your work if you like.",
+      "Visiting your customers in person could also be an option for you to build up your profits.",
+      "That’s right, but why don’t you disable the message sound and try answering them at regular intervals by checking your inbox?"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q66",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Hakan: - Do you think new technologies can have additional benefits for us? Gizem: - ---- Hakan: - Does this mean we can react more quickly to what we read and improve our attention? Gizem: - Exactly. If we develop a better ability to scan large amounts of information rapidly, we can distinguish between what’s important and what isn’t.",
+    "options": [
+      "Some activities, such as sending e-mail or playing video games, are said to sharpen some cognitive abilities.",
+      "We should take advantage of their efficiencies, but we also need to maintain our skills unique to humankind.",
+      "Disadvantages can actually outweigh advantages, so we have to cope with negative aspects all the time.",
+      "It's proven that many people who have been working on the Internet for several hours without a break report making frequent errors.",
+      "Well, in my opinion, our brains are not built to sustain monitoring for extended periods, and mental stress is threatening to become an epidemic."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q67",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Nancy: - In your article, you explain the relationships between culture and our perception of advice. Am I right? Dr. Watson: - Yes, you are. This is actually the main point I make in my paper. Nancy: - ---- Dr. Watson: - Though we don’t know much about the prevalence, we do know very well that it exists everywhere and in every culture.",
+    "options": [
+      "Do you think your paper will receive interest from the scientific world?",
+      "How do people from different cultures perceive autism then?",
+      "Can you come up with any satisfactory solution to this problem?",
+      "You also say autism is universal. What do you mean by that?",
+      "Will you continue to search for a relationship between culture and autism?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q68",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "There is some evidence that the way we handle stress and the way we are affected by it change with age.",
+    "options": [
+      "As we age, evidence can be found related to the way we deal with and manage our stress levels.",
+      "Evidence regarding age-related stress shows that our ability to deal with stress and its effects change over time.",
+      "How we handle stress and how we deal with it change according to the evidence related to age.",
+      "As we get older, evidence suggests that how stress affects us and how we deal with it change.",
+      "There is evidence to suggest that our ability to manage stress and its effects worsens as we get older."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q69",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "It may be tempting to seek relief in sleep after a traumatic event, but a recent study found that sleeping after trauma might lead to increased post-traumatic stress disorder.",
+    "options": [
+      "Although it may seem comforting to use sleep as a means of dealing with a traumatic event, a recent study has shown that doing this could actually result in more post-traumatic stress disorder symptoms.",
+      "Seeking relief through sleep after a traumatic event seems to be the natural thing to do; however, a recent study has found that the symptoms of post-traumatic stress disorder might not be best handled in this way.",
+      "Traumatic events are often relieved by sleeping immediately after such experiences, and according to a recent study, this might be the best way of dealing with post-traumatic stress disorder symptoms.",
+      "A recently published study has shown the connection between increased post-traumatic stress disorder symptoms and the body’s natural ability to seek relief after experiencing a traumatic event.",
+      "Finding comfort through sleep after a traumatic event is what most people tend to do, and this is the main focus of a recent study that looked into the increase of post-traumatic stress disorder symptoms."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q70",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "If we were to go into recession, the government would no longer be allowed to spend its way out.",
+    "options": [
+      "The government would have to cut down on public expenditure in case of a recession.",
+      "If we went into recession, the government would not be allowed to increase taxes.",
+      "In case of a recession, government spending would no longer be a permissible way out.",
+      "The government would now be allowed to spend its way out if a recession occurred.",
+      "The government should be allowed to spend more just in case a recession occurs."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q71",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Bird migration is similar to an extreme endurance sport, but even the most impressive human athletic efforts lose significance in comparison to it.",
+    "options": [
+      "No matter how excellent a human athlete can be in his attempts in an extreme endurance sport, it cannot be likened in any way to bird migration.",
+      "Even though migrating birds can be likened to human athletes in extreme endurance sports, the best athletes prove to be far superior to birds.",
+      "Both bird migration and human athletic activities are similar in that the best examples in both cases are very impressive.",
+      "An extreme endurance sport endeavour is comparable to bird migration; however, its most extraordinary instances go beyond it in comparison.",
+      "Bird migration is akin to an extreme endurance sport; nevertheless, no matter how remarkable they are, human sports activities fall behind when compared to it."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q72",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many psychologists reject Freud’s view that dreams typically represent unconscious wishes and particular objects, and events in a dream are symbolic. Instead, they believe that the direct, overt action of a dream is the local point of its meaning. For example, a dream in which we have not studied for an exam does not relate to unconscious, unacceptable wishes. ---- Even more complex dreams can often be interpreted in terms of everyday concerns and stress.",
+    "options": [
+      "Instead, it simply may mean that we are concerned about a hard test that we will take soon.",
+      "Dreams can reflect events occurring in a dreamer’s environment.",
+      "It was important to pierce the armour of a dream’s clear content to understand its true meaning.",
+      "Moreover, it can be tested in an experiment whether this is true or not.",
+      "Although dreams are the rehearsal of a real event, they are not actually related with real actions."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q73",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- Many of these expectations have been demonstrated by social anthropologists. Margaret Mead, for example, showed that in some societies, women are expected to be subordinate, gentle and submissive, while in others, they are expected to be aggressive and competitive.",
+    "options": [
+      "Gender refers to differences in the way that men and women in a particular society are expected to feel.",
+      "We have long known that there are big differences between societies in the way women are expected to behave.",
+      "Women today have a number of expectations from the study of female relations.",
+      "People may debate how different men and women are in their expectations.",
+      "The relationships of power and inequality between men and women have changed over the centuries as expected."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q74",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many jargon terms pass into the standard language. Jargon spreads from a narrow group until it is used by a large segment of the population, similar to slang. ---- This is true of the now ordinary French word meaning ‘head’ tête, which was once a slang word derived from the Latin testa, which meant ‘earthen pot’.",
+    "options": [
+      "Two words can have the identical linguistic meaning, and one can be acceptable for use, and the other might be strictly forbidden.",
+      "Every conceivable science, profession, trade and occupation has its own set of words, some of which are considered to be ‘slang’ and others ‘technical’.",
+      "Shakespeare used the expression ‘beat it’ to mean ‘scram’, and ‘beat it’ would be considered by most English speakers to still be a slang expression.",
+      "Eventually, it may lose its special status as either jargon or slang and gain entrance into the respectable circle of formal usage.",
+      "The use of slang varies from region to region, as one would expect, so slang in New York and Los Angeles is not the same."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q75",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Caring for the young may delay ageing in the brain. Gro Amdam, who studies ageing in bees at Arizona State University, observed improvements in cognition among older bees that turn their attention back to nursing. ---- Amdam’s theory is that when older individuals participate in tasks typically handled by a younger generation – whether in a hive or in our own society – antioxidant levels increase in the brain, which slows the ageing process.",
+    "options": [
+      "This change in social behaviour could help the human brain as well.",
+      "In a bee colony, there is a perfect distribution of duties, leaving no room for any delay in ageing.",
+      "However, changing social roles can have negative impact on both the young and the old.",
+      "It is essential that we try and keep our brain young at any cost.",
+      "The study is subject to serious criticism, as bees and humans are very different species."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q76",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Bowling is an indoor sport with an ancient history. (II) It is played by delivering a ball at pins as opposed to a target. (III) If you learn to bowl, you will enjoy a popular sport. (IV) The game of nine pins was taken to the US by Dutch and German immigrants. (V) When the sport was outlawed, a 10thpin was added as a way around the legislation.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q77",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Cloning is a technique for creating genetically identical copies of an animal. (II) It works by taking genetic material from an adult animal and inserting it into the nucleus of an egg cell taken from a female animal. (III) The cell is then treated with electricity to stimulate it to grow and then implanted into the female and brought to full term. (IV) For this reason, it is unlikely that the production of human clones by this technique will be approved for many years. (V) In 1996, it was used to produce Dolly the sheep, the world’s first ever cloned mammal.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q78",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) San Francisco was founded by the Spanish in 1776, but only a handful of historic buildings survived the catastrophic fire of 1906. (II) It broke out following the most violent earthquake in the history of Northern California. (III) Thus, the city’s oldest building is the Mission Dolores, which was built in the late 18th century. (IV) This is also the name of one of the city’s most bohemian neighbourhoods. (V) Every neighbourhood in San Francisco has its own distinctive features.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q79",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) State firms, whether big or small, have undergone several changes since they were established. (II) Not until a very long time ago, they were nothing more than parts of the government machine. (III) Also, there was a widespread doubt about whether they could succeed. (IV) They can be a huge financial burden on the state if not managed carefully for sustainable development. (V) Today, however, they include some of the world’s biggest companies, playing a key role in global trade.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q80",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Though social psychology might sometimes be misunderstood, it still preserves its popularity among prospective university students. (II) Whether we want to understand ourselves or the social world around us, social psychology offers valuable insights. (III) Social psychologists study our sense of personal identity, our impressions of other people and our beliefs about world events. (IV) Social psychology also helps us understand the stories behind today’s news headlines such as the impact of the Internet on social life, changing roles for women and men, or eyewitness identification in criminal trials. (V) Today, social psychology is more useful than ever before since a society becomes more diverse and multicultural.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V TEST BİTTİ. CEVAPLARINIZI KONTROL EDİNİZ. SINAVDA UYULA 1. Sınav salonları kamera ile kayıt altına alınacaktır. Kam rına uymadığı tespit edilen adayların sınavları ÖSYM 2. Cep telefonu ile sınava girmek kesinlikle yasaktır. Ça sayarı, kol ya da cep saati gibi her türlü bilgisayar özelliğ de kâğıdı, defter, kitap, sözlük, sözlük işlevi olan elektron cetvel vb. araçlarla sınava girmek kesinlikle yasaktır. Bu Tutanağına yazılacak, bu adayların sınavı geçersiz sayıl ve kulaklık, küpe, broş vb. takı, herhangi bir metal eşy tüketim malzemeleri de sınava getirilemez. Adaylar sı 3. Bu sınav için verilen toplam cevaplama süresi 150 dakikad adayın sınavdan çıkmasına kesinlikle izin verilmeyecekti mamlarsanız cevap kâğıdınızı ve soru kitapçığınızı sal Bildirilen sürelere aykırı davranışlardan adayın kendis 4. Sınav salonundan ayrılan aday, her ne sebeple olursa 5. Sınav süresince görevlilerle konuşmak, görevlilere soru s kından ve alçak sesle konuşmaları ayrıca adayların birbir 6. Sınav sırasında, görevlilerin her türlü uyarısına uymak zor sınav kurallarına uymanıza bağlıdır. Kurallara aykırı dav kimlik bilgileri Salon Sınav Tutanağına yazılacak ve sınav 7. Sınav sırasında kopya çeken, çekmeye kalkışan, kopya Salon Sınav Tutanağına yazılacak ve bu adayların sınavl Adayların test sorularına verdikleri cevapların dağılımları bi edilen bulgular bireysel ya da toplu olarak kopya çekildiğin geçersiz sayılacak ayrıca 2 yıl boyunca ÖSYM tarafından Sınav görevlileri bir salondaki sınavın, kurallara uygun biç nu raporlarında bildirdiği takdirde, ÖSYM bu salonda sına 8. Cevap kâğıdında doldurmanız gereken alanlar bulunmak tarafından görülmeyecek şekilde tutmanız gerekmektedir bütün işaretlemelerde kurşun kalem kullanılacaktır. Sına olması gerekir. Soru kitapçığına işaretlenen cevaplar geç 9. Soru kitapçığınızı alır almaz kapağında bulunan ilgili ala olup olmadığını, kitapçıkta basım hatalarının bulunup bulu nan soru kitapçık numarasının, kitapçığın ön kapağında ba ediniz. Soru kitapçığınızın sayfası eksik ya da basımı hat Size verilen soru kitapçığının numarasını cevap kâğıd kodlayınız. Cevap kâğıdınızdaki “Soru kitapçık numara Soru kitapçığı üzerinde yer alan Soru Kitapçık Numara 10. Sınav sonunda soru kitapçıkları toplanacak ve ÖSYM’de nız. Soru kitapçığının bir sayfası bile eksik çıkarsa sınavın 11. Cevap kâğıdına ve soru kitapçığına yazılması ve işaretle ması hâlinde sınavınızın değerlendirilmesi mümkün olam size aittir. 12. Soru kitapçığının sayfalarındaki boş yerleri müsvedde için 13. Soruları ve/veya bu sorulara verdiğiniz cevapları ayrı bir k 14. Sınav salonundan ayrılmadan önce, soru kitapçığınızı, lerine eksiksiz olarak teslim etmeyi unutmayınız. Bu testlerin her hakkı saklıdır. Hangi amaçla olursa olsun, testlerin tamamın fotoğrafının çekilmesi, herhangi bir yolla çoğaltılması, yayımlanması ya da ku doğacak tüm mali külfeti peşinen kabullenmiş sayılır. ACAK KURALLAR mera kayıtlarının incelenmesinden sonra sınav kurallaYönetim Kurulunca geçersiz sayılacaktır. ağrı cihazı, telsiz, fotoğraf makinesi vb. araçlarla; cep bilgiği bulunan cihazlarla; silah ve benzeri teçhizatla; müsvednik aygıt, hesap cetveli, hesap makinesi, pergel, açıölçer, araçlarla sınava girmiş adayların adı mutlaka Salon Sınav lacaktır. Sınava kalem, silgi, kalemtıraş, saat vb. araçla ya ile girmek de kesinlikle yasaktır. Yiyecek, içecek vb. ınava şeffaf şişe içerisinde su getirebilecektir. dır. Sınav başladıktan sonra ilk 110 ve son 15 dakika içinde ir. Bu süreler dışında, cevaplamayı sınav bitmeden talon görevlilerine teslim ederek salonu terk edebilirsiniz. si sorumludur. a olsun, tekrar sınava alınmayacaktır. sormak yasaktır. Aynı şekilde görevlilerin de adaylarla yarinden kalem, silgi vb. şeyleri istemeleri kesinlikle yasaktır. rundasınız. Sınavınızın geçerli sayılması, her şeyden önce, vranışta bulunanların ve yapılacak uyarılara uymayanların vları geçersiz sayılacaktır. veren, kopya çekilmesine yardım edenlerin kimlik bilgileri ları geçersiz sayılacaktır. ilgi işlem yöntemleriyle incelenecek, bu incelemelerden elde ni gösterirse kopya eylemine katılan adayın/adayların sınavı düzenlenen tüm sınavlara başvurusu yasaklanabilecektir. çimde yapılmadığını, toplu kopya girişiminde bulunulduğuava giren tüm adayların sınavını geçersiz sayabilir. ktadır. Bu alanları doldurunuz. Cevap kâğıdınızı başkaları r. Cevap kâğıdına yazılacak her türlü yazıda ve yapılacak av süresi bittiğinde cevapların cevap kâğıdına işaretlenmiş çerli değildir. anları doldurunuz. Size söylendiği zaman, sayfaların eksik unmadığını ve soru kitapçığının her sayfasında basılı buluasılı soru kitapçık numarasıyla aynı olup olmadığını kontrol talıysa değiştirilmesi için salon başkanına başvurunuz. dınızdaki “Soru Kitapçık Numarası” alanına yazınız ve amı doğru kodladım.” kutucuğunu işaretleyiniz. asını doğru kodladığınızı beyan eden alanı imzalayınız. e incelenecektir. Soru kitapçığınızın sayfalarını koparmayınız geçersiz sayılacaktır. enmesi gereken bilgilerde bir eksiklik ve/veya yanlışlık olmamaktadır, bu husustaki özen yükümlülüğü ve sorumluluk n kullanabilirsiniz. kâğıda yazıp bu kâğıdı dışarı çıkarmanız kesinlikle yasaktır. cevap kâğıdınızı ve sınava giriş belgenizi salon görevlinın veya bir kısmının Merkezimizin yazılı izni olmadan kopya edilmesi, ullanılması yasaktır. Bu yasağa uymayanlar gerekli cezai sorumluluğu ve"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

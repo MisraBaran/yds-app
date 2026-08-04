@@ -1,0 +1,2467 @@
+[
+  {
+    "id": "2013-sonbahar-q63",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Doruk: - A recent study shows that many young people today just don’t have a clear vision for their future. Ender: - ---- Doruk: - Yes, but besides planning, luck plays the greater part. Ender: - I disagree. For instance, I don’t owe my success to luck.",
+    "options": [
+      "I think there’s too much emphasis placed on setting and achieving goals. Sometimes things happen spontaneously.",
+      "In that case, they’re probably not going to expect much from their future career.",
+      "It’s their parents to blame for this fact. They should provide much greater support.",
+      "Do you think it’s only young people? What about the middle-aged, shouldn’t they also have a vision?",
+      "I can understand that. They just don’t seem to be able to set clear goals for themselves."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q64",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Tarık: - I believe global warming will define the political and cultural landscape of the 21st century. Uğur: - Critics say it has been invented to scare us into thinking we’re part of the problem when, in fact, we can’t really do anything. Tarık: - ---- Uğur: - No, not really. I guess I should be better informed, so I can have a more balanced opinion.",
+    "options": [
+      "I agree. Records of temperatures in some parts of the world cannot be regarded as representative on a global scale, can they?",
+      "I think the claims that global warming is nonsense are unfounded and can be disputed by scientific evidence. Haven’t you read anything about it?",
+      "Well, the melting polar ice-caps is one of the indicators of global warming. Do you think there are other reasons for this?",
+      "It may be dangerous to dismiss the threat of global warming. Don’t you think we should avoid using products that harm theenvironment?",
+      "International organizations are trying to find solutions to stop greenhouse gas emissions. Will all those efforts stop global warming?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q65",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Interviewer: - What role does health psychology play in contributing to the goals of healthy people? Health Psychologist: - It will raise their awareness of pain management, fitness, substance abuse and eating disorders. Interviewer: - ---- Health Psychologist: - It will play an important role in both the management and prevention of chronic illnesses.",
+    "options": [
+      "Isn’t health psychology an area young people are interested in?",
+      "Nowadays, there are many attempts to fight against deadly diseases, aren’t there?",
+      "What is the outlook for the future of health psychology?",
+      "How do you treat those who have just started working in your clinic?",
+      "Does the training of health psychologists include public management?"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q66",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Hakan: - Do you think we should accept everything modern science comes up with? Serap: - That’s quite difficult to answer. But I guess, not always. Hakan: - ---- Serap: - Remember; researchers are not always objectively motivated.",
+    "options": [
+      "I tend to think we don’t have any choice other than relying on researchers’ findings.",
+      "So, you say the scientific process hardly allows flawed research to be published.",
+      "However, the notion of trust has largely been ignored by lab scientists.",
+      "I agree. The scientific establishment has matured enough to distinguish facts from fiction.",
+      "You might have a point; I’ve heard of researchers plagiarizing."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q67",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Lecturer: - Before I finish the lecture, let’s just go over the main points again. Is there anywhere you would like to start? Student: - Well, we examined the importance of hospital gardens, particularly in the treatment of young children. Lecturer: - ---- Student: - You mentioned a 3-year-old who had a heart transplant and who loved to go out and feed the birds. He recovered really quickly.",
+    "options": [
+      "That’s right, and what makes them attractive?",
+      "Yes, and what about hospitals that don’t have a garden?",
+      "And what conclusions did we reach?",
+      "Good. Now can you give me a specific example?",
+      "OK, and do such gardens only contain plants?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q63",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Job Applicant: - I’ve applied for this position mainly because I like interacting with people. Interviewer: - ---- Job Applicant: - I don’t have much experience about financial problems. I’d like to learn about them while I’m doing it. Interviewer: - Alright. Thanks for showing up. We’ll contact you soon about the result of your application.",
+    "options": [
+      "That’s interesting. You’ve come to the right place if you’re interested in dealing with various people.",
+      "I’m trying to understand what traits you have to distinguish you from other candidates.",
+      "Looking over your CV, I assume that you can contribute a lot to our company by using your high skills in financial problem solving.",
+      "We’re looking for a candidate with plenty of experience in public relations.",
+      "Our company has many skilful and intellectual employees. Are you ready to work with them?"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q64",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Fahri: - The use of chemicals poses serious hazards to the environment. It’s often the main cause of habitat destruction. Aydın: - ---- Fahri: - Could you give me an example to support your claim? Aydın: - Sure. Following World War II, chemicals were used to control agricultural pests, which increased productivity and farmers' income.",
+    "options": [
+      "Significant fish kills have resulted from the legal application of chemicals, such as the 1991 death of more than one million fish in the US.",
+      "Yes, I agree, but people have long been using a variety of chemicals in a wide range of areas for some benefits.",
+      "While some ecological changes due to heavy use of chemicals have been documented, others remain poorly researched and understood.",
+      "More and more chemicals have been pressed into use in industry, but pollution arising from industrial sources can now be effectively prevented.",
+      "When chemicals like insecticides reduce the insect populations that comprise the diet of birds, this leads to dramatic population reductions."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q65",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Dilek: - I'm rather disturbed by the sound of incoming mails and messages on your mobile phone. I can hardly concentrate on what I'm doing. Salih: - Sorry, but I need to see the messages from customers instantly to answer. Dilek: - ---- Salih: - Yes, that may be a good way, but I think I'm a bit obsessed with responding to messages right away. But I can try it anyway.",
+    "options": [
+      "I think you're a hard-working employee, so you can respond to the messages coming from customers at any time you like.",
+      "Customers might perhaps reach you during the day through the company’s telephone line to talk about your projects.",
+      "It must be really stressful for you to deal with all those incoming messages all day, so I can help you with your work if you like.",
+      "Visiting your customers in person could also be an option for you to build up your profits.",
+      "That’s right, but why don’t you disable the message sound and try answering them at regular intervals by checking your inbox?"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q66",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Hakan: - Do you think new technologies can have additional benefits for us? Gizem: - ---- Hakan: - Does this mean we can react more quickly to what we read and improve our attention? Gizem: - Exactly. If we develop a better ability to scan large amounts of information rapidly, we can distinguish between what’s important and what isn’t.",
+    "options": [
+      "Some activities, such as sending e-mail or playing video games, are said to sharpen some cognitive abilities.",
+      "We should take advantage of their efficiencies, but we also need to maintain our skills unique to humankind.",
+      "Disadvantages can actually outweigh advantages, so we have to cope with negative aspects all the time.",
+      "It's proven that many people who have been working on the Internet for several hours without a break report making frequent errors.",
+      "Well, in my opinion, our brains are not built to sustain monitoring for extended periods, and mental stress is threatening to become an epidemic."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q67",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Nancy: - In your article, you explain the relationships between culture and our perception of advice. Am I right? Dr. Watson: - Yes, you are. This is actually the main point I make in my paper. Nancy: - ---- Dr. Watson: - Though we don’t know much about the prevalence, we do know very well that it exists everywhere and in every culture.",
+    "options": [
+      "Do you think your paper will receive interest from the scientific world?",
+      "How do people from different cultures perceive autism then?",
+      "Can you come up with any satisfactory solution to this problem?",
+      "You also say autism is universal. What do you mean by that?",
+      "Will you continue to search for a relationship between culture and autism?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q63",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Martin: - I read Tom Jenkinson has built his entire career out of doing the unexpected. Jack: - ---- Martin: - No, not necessarily. I think he doesn’t want to repeat himself or imitate his predecessors. Jack: - It must be really interesting and challenging for him.",
+    "options": [
+      "I’m sure teenage girls are passionate fans of him.",
+      "That sounds disappointing. Why bother to please others?",
+      "It is just the atmosphere of the scenes that makes him so amazing.",
+      "Does it mean that his all life is based on surprising the others?",
+      "Then, he must be really proud of himself."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q64",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Ceyhun: - I haven’t been feeling very well for a long time. I’ve tried hard but cannot help feeling less and less happy. Kemal: - It sounds like depression. Maybe you need some changes in your life. Experts believe that living in the country may be relaxing for your mind. Ceyhun: - ---- Kemal: - I quite agree with you. I hope you’ll be alright soon.",
+    "options": [
+      "Interesting, that makes sense. Perhaps I should now focus more on my retirement and settling down in a village.",
+      "Do you really think I’m going to suffer from depression? I wonder whether you know any psychologists I can see.",
+      "So that means living in the countryside will refresh me, as it may provide wonderful views. Yet, I can’t decide what to do.",
+      "I’m not ready to give up my urban living. I suspect those experts haven’t made an evidence-based comparison of urban living and country living.",
+      "It must be due to plenty of stress factors in cities. I’ve heard of many studies confirming the link between social strain and mental illness."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q65",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Allison: - ---- Jill: - I’d recommend you to study the latter since it is a language spoken worldwide, with official status in a great number of countries, holding the second place only after English. Allison: - Wow, I didn’t know that it had that many speakers around the world. Jill: - Yes, and besides, I think you will find it much easier considering you can also speak French, having an extensive amount of vocabulary in common.",
+    "options": [
+      "I am so much interested in languages and linguistics that I want to learn about the evolution of languages but don’t know with what to start.",
+      "My parents are going to support me if I plan to pursue an academic career abroad. But I can’t decide where to go to study.",
+      "Do you have any idea which of the two is a more appropriate place for an international student: Brazil or Argentina?",
+      "I was considering how it would be if I settled down in a totally new country once I am done with the work and get retired.",
+      "I have decided to take up learning a new foreign language but I’m finding it a bit confusing to choose between German and Spanish."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q66",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Yavuz: - Did you ever think about how huge the Universe really is? We’re merely one small part of an enormous system. Ebru: - No, I haven’t really given any thought to it. Yavuz: - ---- Ebru: - Oh, wow! That’s really fantastic. Tell me more. Yavuz: - I can’t remember much now, but soon I'll share with you any information I learn.",
+    "options": [
+      "You probably haven’t thought about it before because you’ve never read much about this topic.",
+      "Well, you really should think about it. Don’t you care about the Universe?",
+      "I don’t want to think about it anymore because it confuses me a lot.",
+      "Are you even listening to me? Please try to pay more attention.",
+      "Me neither, until I started taking this astronomy course. We’re learning a lot of interesting facts about outer space."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q67",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Dilek: - Do you think the digital age will bring an end to libraries? Selin: - ---- Dilek: - I never thought about it like that. So, you mean libraries actually encourage the digital age. Selin: - Exactly, the future offers hope by placing libraries in a broader context as key parts of the information society rather than just rooms full of books.",
+    "options": [
+      "I don’t know, but to my mind, using a mouse to control a cursor is as important as learning to understand letters on a page.",
+      "I am not certain whether tomorrow’s libraries will be able to offer access to the shared space of the network.",
+      "Today, some libraries are being handed over to voluntary groups or charities, so the answer of your questions depends on their steps.",
+      "Sooner or later, we’ll find ourselves at a point in time where the library will either become extinct or evolve into something fitter for the modern age.",
+      "Definitely not. For me, they offer a lot more than just books; they are information centres and the Internet access points for a wide community."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q63",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Cavit: - I sometimes have difficulty in understanding what genre means in the literary world. Nuray: - It depends on where you’re positioned in the book world. For a bookseller, it’s a shelving and location issue. Cavit: - ---- Nuray: - With fiction, for example, there will be classics, romance or horror sections.",
+    "options": [
+      "So it’s a pragmatic question of what to put where.",
+      "I think fiction is always the best-selling line.",
+      "But even in small bookstores, I get confused.",
+      "Bookstores say Westerns mostly attract male customers.",
+      "Then, a genre can have large number of dedicated readers."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q64",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sami: - I’ve always been fascinated by the idea of the discovery of an Earth-like planet for humans to live on. Feridun: - ---- Sami: - I didn’t know about that. Do you think they will be successful in doing so? Feridun: - Yes, but more research is needed. Even if they find an Earth-like planet with water, food might still be an issue if life on that planet were based on a different biochemistry.",
+    "options": [
+      "Me too, but only a few scientists think it’s possible. They’re trying to develop alternative life-support systems.",
+      "So have I, considering how exciting and interesting it would be to be visited by aliens from other planets.",
+      "I totally agree with you. I think we aren’t alone in such thinking as I’ve read articles by scientists writing on Earth-like planets.",
+      "I don’t understand why you’re so interested in this subject while even some astronomers don’t believe Earth-like planets exist.",
+      "I also like dreaming about living on a new planet, as scientists now say the Earth is running out of its resources."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q65",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Fevzi: - I’ve always fancied being a writer and now my dream is coming true thanks to a home-study creative writing course. Recep: - ---- Fevzi: - Why not? I’m going to receive individual, personal tuition from a professional writer. Recep: - I’m not really convinced though. He or she may teach you the rules of the publishing world, but not provide the inspiration to produce.",
+    "options": [
+      "Do you really think you can become a writer through an online course?",
+      "Congratulations! Have you finally had the opportunity to realize your goal?",
+      "Do you know if there is an age limit for attending the course?",
+      "Can’t it be also quite rewarding if you’re determined to learn everything in detail?",
+      "Don’t misunderstand me, but shouldn’t you be looking for a different career?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q66",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Zeliha: - How do you think our media consumption has changed over the last ten years? Hayri: - I feel that we’ve become more reliant on technological tools such as mobile phones and tablets in addition to TV. Zeliha: - ---- Hayri: - Yet, we shouldn’t miss the point that we’re also becoming enslaved since there’s more and more to discover now.",
+    "options": [
+      "So you mean people should decrease their TV viewing hours.",
+      "Yes, we’ve become so extravagant. Even children have smart phones.",
+      "That’s why I don’t allow my kids to play computer games for long hours.",
+      "In fact, it’s not completely true for the older generation.",
+      "That’s right. They give us the freedom to access information anywhere and anytime we want."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q67",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Emrullah: - We sometimes use certain polite expressions instead of offensive and unpleasant ones in order to show respect to others. Cemil: - Do you mean it’s like asking “Would you mind if I opened the window?” instead of saying “I’ll open the window.”? Emrullah: - ---- Cemil: - Oh, I see. Politicians often do the same thing. For example, ‘user fees’ is the term they use for ‘taxes’.",
+    "options": [
+      "However, this all depends on whom you’re talking to. We often try to be more polite while communicating with authority figures or our supervisors.",
+      "Actually, we use them to refer to taboo topics like disability and death. Do you understand what I mean?",
+      "Sure, but over-politeness can also disturb people and make them feel like you want to put a safe distance between you and them.",
+      "I especially want to emphasize language change. Some words lose their original meanings and gain new ones depending on the context or tone.",
+      "No, it’s more related to word choice and the connotations behind language. I’d rather use the term ‘government officer’ than ‘civil servant’."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q63",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Defne: - Why have you been stirring your tea for so long? You've cooled it off faster. Beren: - ---- Defne: - When you stir it, the molecules move faster. So, you quicken the heat loss. Beren: - Okay, next time I won't stir my tea a lot.",
+    "options": [
+      "What do you think can be done to reduce the heat loss?",
+      "What are you trying to say? I can't see any relation between them.",
+      "As far as I know, the purpose of stirring drinks is to help the sugar dissolve in it.",
+      "I agree that it's much more related to evaporation than to stirring.",
+      "Do you say the spoon takes away some of the heat during the stirring?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q64",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Cahit: - It says here in the newspaper that although a woman's core body temperature is generally higher than a man's, her hands are usually a few degrees colder. Ayşe: - ---- Cahit: - It must be about women's hormone levels and relatively smaller muscle mass. Ayşe: - That's interesting! I'd never have thought of it that way.",
+    "options": [
+      "Does this happen even in mildly cold situations?",
+      "What's the explanation for this?",
+      "Are there any situations where a man's hands get colder?",
+      "Don't the blood vessels constrict when temperatures drop?",
+      "Have you also read anything about the contribution of blood circulation?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q65",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Okan: - Recently, I've been sleeping far less than I normally do. Do you think this could be related to stress? Sinan: - Well, we all have stress but how it affects us differs from one person to another. Okan: - ---- Sinan: - Probably. But I also know people who suffer from eating disorders due to their stress levels.",
+    "options": [
+      "I think I'm one of those whose sleeping patterns are dramatically disturbed.",
+      "However, my body needs more sleep than many people because I work at night.",
+      "These days, I also have poor appetite since I can't get sufficient sleep.",
+      "Do you mean lack of sleep has both biological and psychological reasons?",
+      "I agree. People who are self-employed tend to have less stress-related problems."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q66",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Pınar: - I'm just back from the hospital. The doctor changed my medication and suggested more rest. Hazal: - OK. But why do you look so depressed? It's probably a good thing, right? Pınar: - ---- Hazal: - So, you're worried that your manager won't be very happy with the news.",
+    "options": [
+      "I guess so, but every type of medication has its side effects along with benefits.",
+      "No, it's bad news because the new medication is not covered by my health insurance.",
+      "I don't think so because I'm supposed to exercise more after work in the evenings.",
+      "I'm not sure. That means I'll have to take more days off, so I'll fall behind with my work.",
+      "It might work better, but I'm afraid it's going to provide temporary relief."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q67",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Student: - ---- Professor: - They're fixed three months before you're born. You can leave a mark on them with a cut, abrasion or acid, but they'll grow back within a month. Student: - What about aging? Professor: - It doesn't have such an effect, but it gets harder to scan your fingers or take a print from them.",
+    "options": [
+      "Do all people throughout the world have different fingerprints?",
+      "How do they treat finger injuries withoutdamaging one's fingerprints?",
+      "Are fingerprints utilized in any fields other than forensics?",
+      "What's the role of fingerprints in upcoming technological advances?",
+      "Do fingerprints change during our lifetime?"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q63",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Radio Presenter: - So, here we have Dr. Henstridge from the University of Edinburgh who analyses people's brains in his lab. How do you persuade people to agree to donate their brain after death? Dr. Henstridge: - These are people who participated in a project 70 years ago in which they had their IQ tested. We then sent them a letter so they had the opportunity to think about it with their family without any pressure. Radio Presenter: - ---- Dr. Henstridge: - It is the only one where we have a good idea about their intelligence levels when they were young.",
+    "options": [
+      "What kind of information is gained in your project by analysing donated brains?",
+      "Can you tell us a bit about the profile of those people who donated their brain?",
+      "What's the difference between IQ in the childhood and in the old age?",
+      "How long are you planning to pursue this research?",
+      "There are several other brain banks, why is yours different?"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q64",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Journalist: - Can you tell us briefly what accounting is? Accountant: - Basically, accounting is a body of principles for recording financial information related to a company's resources and its use in meeting the company's goals. Journalist: - ---- Accountant: - Preparation for the field is provided by secondary schools, business schools, or universities.",
+    "options": [
+      "Why is accounting critical to the functioning of companies?",
+      "Why did you choose to be an accountant?",
+      "What makes a successful accountant?",
+      "What does it take to be an accountant?",
+      "What are the generally-accepted accounting principles?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q65",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Erkan: - According to the psychology magazine I was reading yesterday, people love betting on the World Cup, but making predictions about uncertain events actually reduces the enjoyment in them. Nergis: - Why is that? I believe that when you bet in favor of a team, you support that team during the game, and it makes the experience more meaningful and fun for you. Erkan: - ---- Nergis: - It really doesn't make any sense to me. I think the satisfaction one can get from making the right choice can balance that out.",
+    "options": [
+      "Some people focus on potential gains in life and play to win, while others try to prevent negative outcomes and just want to avoid losing.",
+      "Psychologists say the opposite. They say the possibility of being wrong in your prediction hangs over your head, so you can't enjoy the game.",
+      "Well, it was mentioned in an article that people's anxiety level increases when they watch sports events and that people with heart problems should stay away from going to stadiums.",
+      "You may have a point there, but remember that betting on football matches puts even more pressure on the players in the field.",
+      "The authors of the article acknowledge that betting on sports events like football can make a person win huge sums of money as well."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q66",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Bilge: - I can't believe there are still some people who think the wealthy have limitless leisure time. Kerem: - ---- Bilge: - Yes, I do. The well-off people I know work 80 hours per week inventing and producing things. Kerem: - It seems they don't really have so much free time after all.",
+    "options": [
+      "Do you think they'd like to have a lot of leisure time?",
+      "Do you feel it is unfair for us to have limited leisure time unlike them?",
+      "Do you think they are rich because they have wealthy families?",
+      "I don't think having a lot of free time means resting a lot, do you?",
+      "I see you disagree with what they say, don't you?"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q67",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Kemal: - Can you have a look at this headline? It says ear genes are linked to musical talent. What does that mean? Onur: - Well, it suggests musical talent may partly be due to genes determining the structure of the inner ear. Kemal: - ---- Onur: - OK. If you have an excellent inner ear structure, you can play the tunes you hear without looking at the notes.",
+    "options": [
+      "What do you mean in layman's terms?",
+      "Do you think this can change later with new research?",
+      "Are you interested in the link between genes and talent?",
+      "Do you really believe that genes can have an impact on musical talent?",
+      "Doesn't it sound incredible that genes can be that important?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q63",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Christopher: - I like the idea of Formula E, which is a new racing championship for single-seater cars powered only by electricity. Albert: - ---- Christopher: - Well, it is a platform for research to improve electric powerstations and charging systems to make electric cars more feasible and hopefully more popular. Albert: - I see, this seems to be a good way to encourage the use of energy-efficient and sustainable transportation.",
+    "options": [
+      "Why do we need this when there are other races such as Formula 1?",
+      "What kind of power do Formula E race cars use?",
+      "How do they plan to attract sponsors for such an event?",
+      "Where do they plan to have these races?",
+      "How frequently will the Formula E races be held?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q64",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Reporter: - Antibiotic resistance is on the rise, and we are potentially facing a time when standard antibiotics simply won't work anymore. Why is antibiotic resistance becoming more widespread? Chemist: - One reason could be that a type of bacteria has developed molecular mechanisms that actually make an antibiotic drug ineffective. Reporter: - Why is the increase in bacterial resistance considered a threatening issue? Chemist: - ---- Reporter: - This sounds horrible!",
+    "options": [
+      "The misuse of antibiotics has certainly contributed to the resistance phenomena. A lot of antibiotics are used in farming, which is practised without complete control.",
+      "We should prevent them from producing toxins that lead to illness rather than kill them. That kind of intervention can reduce the chances that the bacteria will develop resistance.",
+      "Whenever any pressure is put on bacteria, it will resist. If such pressure is not created, there will be no evolutionary pressure for the bacteria to develop resistance.",
+      "If new drugs are not developed against these resistant bacteria, by the year 2050, death from antimicrobial resistant bacteria could actually even surpass death from cancer.",
+      "I'm encouraged by the fact that there are more than 200 different bacteria species that live in our guts, and the majority of them are actually beneficial to us."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q65",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Daisy: - I want to take up gardening as a hobby and grow vegetables, but I don't have a garden to plant them in. Caroline: - ---- Daisy: - But they may not grow successfully if they don't get a sufficient amount of sunlight. Caroline: - You can grow some vegetables without any sun at all. For example, lettuce and parsley will grow beautifully under artificial light.",
+    "options": [
+      "It's not only the space you should take into account, but sunlight is also important when growing vegetables.",
+      "Vegetables need to be watered very frequently, and they tend to grow more nicely in sunny areas.",
+      "Have you ever heard about indoor gardening? You can use your attic, basement, or balcony to grow vegetables.",
+      "Near a bright window that takes sunlight at high intensity, you can grow cherry tomatoes and cucumbers.",
+      "I suggest you install a greenhouse. Greenhouses are the most convenient places to grow vegetables, and they vary vastly in size and price."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q66",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Defne: - I read that remembering the past in a positive way could make us happy in times of crisis. Beren: - ---- Defne: - Can you give me an example? Beren: - During a divorce, I'm not sure that it's helpful for a person to focus on all the good times in the marriage. They're likely to experience an even greater sense of loss.",
+    "options": [
+      "Actually, when I'm in a bad mood, I find it more beneficial to think about a prosperous future rather than the better past.",
+      "Most people believe that looking at old photos showing the good times in the past has a positive influence on mood.",
+      "I don't agree. Recalling better times when a person is depressed will worsen their problems rather than solve them.",
+      "I don't think so. Instead of being nostalgic to feel happy, I generally try to find possible ways to overcome my crisis.",
+      "In such situations, seeking professional help or receiving support from close friends may bring a deep relief."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q67",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Edward: - What do you think the difference between the words 'inequality' and 'disparity' is? William: - Well, both have negative connotations. And they both imply a lack of something. I guess they are basically synonyms. Edward: - ---- William: - Oh, I see. So, if I say that there is a disparity between you and me, it might not be a bad thing, but inequality would be negative.",
+    "options": [
+      "That's sort of correct, but we use 'disparity' when we talk about scientific topics and 'inequality' for social issues.",
+      "That's basically correct, though 'disparity' tells us that something is unfair, while 'inequality' means some groups have more advantages than others.",
+      "They're more or less the same, but in academic circles, the term 'disparity' is an out-of-date expression; the current term is 'inequality'.",
+      "They're essentially synonymous, but we can use 'inequality' to express minor differences and 'disparity' for significant levels of difference.",
+      "You're right, they're very similar, but 'disparity' can be used to talk about differences neutrally, while 'inequality' suggests a value judgement."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q63",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Journalist: - Could you tell us about your research on heroic Egyptian kings? Anthropologist: - We found a skeleton that showed extensive battle trauma. After examining his injuries, we discovered that he had died due to the injuries he got while on a horse. Journalist: - ---- Anthropologist: - Previously, the Egyptian kings riding into battle could only be seen in paintings and were thought to be just aggressive depictions of the ruling class. This is the first real evidence that points to the kings actually joining their armies in battle.",
+    "options": [
+      "How does this discovery impact our traditional perceptions of the Egyptian kings?",
+      "How often did the Egyptian kings fight in battle and get injured?",
+      "Why is it significant that all the Egyptian kings were on horseback in battle?",
+      "Why did you focus on the injuries the Egyptian kings had?",
+      "Do you think that old paintings portray the Egyptian kings in detail?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q64",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Patient: - I don’t know if I’ll ever overcome this fear. Can you tell me again about this new memory therapy you want to try? Psychologist: - Well,I’m going to show you a series of pictures of the thing you’re afraid of at 10-minute intervals. Patient: - ---- Psychologist: - Time is crucial to disrupting the brain’s ability to remember your fear. If we increase the time intervals between the pictures, your brain has more time to remember, and that’s exactly what we don’t want.",
+    "options": [
+      "Are the lengths of the intervals important?",
+      "Is there a particular order of pictures?",
+      "How many times will you show me these pictures?",
+      "What does memory have to do with my fear?",
+      "What happens if my fear doesn’t go away?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q65",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Ann: - There's a very interesting article in this magazine about a scientist, Ella Al-Shamahi, who’s a palaeontologist and also performs stand-up comedy about her field. Jane: - Science and comedy, how does that work? Ann: - ---- Jane: - I get it now. She's using comedy to increase interest in her scientific research. Well, she might be on the right path, maybe comedy is the next stage in the evolution of how we present science.",
+    "options": [
+      "I guess she's using palaeontology to add variety to the topics she's talking about in her performance to be different from the other stand-up performers.",
+      "I'm not sure, but I can assume that she might have really good time management skills to be able to do research and fulfill other responsibilities as a palaeontologist.",
+      "Well, when you think about it, we seem to have a communication problem in science, so she might be using comedy to get to people with no enthusiasm about science.",
+      "The rest of the article says it's an incredible therapy for her as some of the places she researches are quite dark and it's nice to find the funny side in them.",
+      "If she's really good at it, these shows might even make her famous meaning that she can also continue doing research in her field if she wants to."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q66",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Journalist: - You always highlight the importance of keeping a checklist during complex operations. You’ve also written a book on how to create such checklists. Why do we need them? Surgeon: - Well, they're memory aids. They can help you perform well when you're working with many people on a complex procedure which eventually will save lives during surgery. Journalist: - ---- Surgeon: - A checklist was used during surgical procedures for 8,000 patients in eight hospitals around the world. In every hospital, major complications were reduced by 36 percent and the death rate was lowered by half.",
+    "options": [
+      "How did you come to the decision that checklists are really beneficial?",
+      "How did you manage to create a common checklist to be used in various complications?",
+      "How exactly can a checklist be used during a surgical procedure?",
+      "How could you spare enough time to write a book on checklists while working as a surgeon?",
+      "How did you convince your medical staff to start using a checklist?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q67",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Robert: - Can perfectionism or stress be a reason for nail-biting? Carl: - This might be true, but I'm not sure one can find reliable research as to why nail-biting is so addictive. Robert: - ---- Carl: - Anyway, I think it'd be better not to form an opinion on the causes of nail-biting without knowing all the details and scientific facts.",
+    "options": [
+      "Some experts say childhood nail-biters are less prone to allergies, presumably because they're exposed to more germs.",
+      "The most common treatment of this addiction, which is also cheap and widely available, is to apply a bitter-tasting nail polish to the nails.",
+      "I know some other body-focused repetitive behaviours like skin-picking and the urge to pull out hair, and they sometimes coexist with nail-biting.",
+      "Doctors state that nail-biting does not only lead to harmful effects in fingers, but also mouth and more generally the digestive system.",
+      "We can speculate that it's to do with experiencing high levels of anxiety and fear, or being too passionate or impatient about things and events."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q63",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Rebecca: - Did you know that the Sun had a 'mother'? Adam: - The Sun had a mother? No, I thought the Sun was an unremarkable star. Rebecca: - ---- Adam: - Then maybe the Sun had siblings, too? Rebecca: - Yes, it had aunts and uncles as well. Scientists have reported that it may have stolen a planet from one of its relatives.",
+    "options": [
+      "Researchers have recently identified a candidate for at least one of the Sun’s siblings.",
+      "In the beginning, there was nothing but cold and dark between the atoms that became the solar system.",
+      "Astronomers know that in about five billion years, the Sun will also burn through its hydrogen supply and begin to cool.",
+      "Astronomers have recently found that when sun-like stars die, they have a chance to give birth to future stars.",
+      "An upcoming project will orbit a research satellite more closely to the Sun than any satellite before."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q64",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Jane: - I’m trying to revise for the exam next week, but I can’t remember what was so important about Francis Bacon. Maybe your notes are clearer than mine. John: - Bacon? Well, I wrote that he was responsible for creating the scientific method as we know it today. Jane: - ---- John: - Yes, but he was the first to explain methods of inductive reasoning. Jane: - Ok, now I remember! Thanks!",
+    "options": [
+      "I think he said, “Whether or not anything can be known, can be settled not by arguing, but by trying.”.",
+      "But weren’t there some Arab scientists conducting experiments 600 years before he came around?",
+      "In his book, Novum Organum, he sets out three fundamentals for the scientific method: observation, deduction, and experiment.",
+      "Wasn’t he also responsible for contributions that helped found the Royal Society in London in 1660?",
+      "Didn’t he think like Plato that if something was discussed for long enough, the truth would result?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q65",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Tracy: - I read a magazine article last night which says that the number of people with obesity is increasing day by day and we should do something to stop this. Laura: - ---- Tracy: - What do you mean by that? Laura: - For example, making junk food less prominent in supermarkets can make us less likely to want it. Or, if governments increase the taxes on foods and drinks that put people at risk of obesity, we may buy them less.",
+    "options": [
+      "I suppose some pharmaceutical companies are trying to make use of this situation by producing quick fixes that always fail to work.",
+      "In my opinion, tackling obesity is not an individual but a social thing. We can only achieve this by working collectively.",
+      "Somehow, we’ve already normalised obesity, I guess. Not many people think obesity is really a health problem.",
+      "I think people with obesity should be determined to overcome the condition through a healthy diet and regular exercise.",
+      "As far as I know, it’s not only cardiovascular diseases, but diabetes and certain mental disorders may also be linked to our dietary habits."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q66",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Career coach: - So, can you try to describe how you feel about your job? Sue: - Currently I’m editing and rewriting other people’s words, and managing all of our deadlines. But I feel I’ve done all I can with my job. I think I need a new challenge. Career coach: - ---- Sue: - I guess I want to do something more creative, where I can develop and work on my own ideas. Career coach: - Then you can start by trying to understand your strengths, skills and talents.",
+    "options": [
+      "Many people usually talk about what they’d really like to do, but they rarely take action and do what’s needed.",
+      "Whether we admit it or not, many of us have a tendency to label people and put them in boxes, and this is especially true at work.",
+      "Getting out of your comfort zone and into the growth zone is scary, and there’s a chance of failure and humiliation.",
+      "It’s really important to identify what type of change you’re looking for and what you’ll get out of this change.",
+      "To be successful, happy and resilient, one needs to practise being open-minded, resourceful and brave enough to take some risks."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q67",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Instructor: - This year, you’re going to apply to universities. You know, it’s quite a challenging task. Have you decided what to study? Sandy: - Yes, actually I’m really nervous about it, but I’m sure that I want to study philosophy. I’ve already read many works by seminal figures in this field. Instructor: - ---- Sandy: - That’s great! Then we’ll have a lot to talk about.",
+    "options": [
+      "Studying philosophy is not that hard as most people think, and it contributes to your intellectual development.",
+      "Oh, you seem really enthusiastic about it! I’m sure you’ll reflect this during the application process as well.",
+      "How inspiring! I can imagine that you’ll be one of the prominent philosophers of our age.",
+      "So, it’s an informed decision. If you’re going to study abroad, you should start looking for some grants that will support you financially.",
+      "Oh, really? I’m glad that you like philosophy. You know, I’m a teacher of history, but I also minored in philosophy."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q63",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Reporter: - Kids love to eat hamburgers, but they're not very healthy. Tell us about the public school initiative to make lunches healthier for students. Dietician: - With some help from food engineers, we've created a mushroom-beef blend that's being used in schools across the country to help students eat healthier. Reporter: - ---- Dietician: - True. In addition to fewer calories and saturated fats than regular hamburgers, this blend is also a greener alternative to meat since mushrooms are more sustainable than beef. Reporter: - That makes sense as they require fewer resources than livestock to produce.",
+    "options": [
+      "I think there are more than just health benefits to using this vegetable and meat blend.",
+      "It seems that the health benefits are the most positive thing about this vegetable and meat blend.",
+      "As far as I understand, blending mushrooms with beef requires some careful procedures.",
+      "I don't think this is a more sustainable alternative to traditional meat hamburgers.",
+      "Great! I think students will like eating this vegetable and meat blend at lunch."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q64",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Researcher: - From your documentary, we learned that Princess Diana secretly collaborated with journalist Andrew Morton to write a book about her life, in which he discloses details of her troubled relations with the royal family. Documentarist: - Well, when the book was published in 1992, Diana’s cooperation was a secret. But, when Morton republished the book after her death in 1997, he exposed the fact that Diana herself was the direct source for many revelations in the book. Reporter: - ---- Documentarist: - He wanted to bring an important fact to light; the Princess herself wanted the public to know she was not living a fairy tale, but a life of misery.",
+    "options": [
+      "Why did Morton’s book change the way the world looked at the royal family?",
+      "Do you think the public was as deeply affected as Morton by Diana’s death?",
+      "How could Morton convince people that his book was based on Diana’s own words?",
+      "What may have prompted Morton to reveal Diana’s involvement in the publication?",
+      "How did Morton deal with the criticism from the royal family and the British media? 2018-Y DS Spring/English"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q65",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Journalist: - You’re the co-leader of an international project to drill for rock samples in the South China Sea. Why is that sea bed of such interest? Geophysicist: - We want to answer questions about when it was formed to better understand continental movements. Journalist: - ---- Geophysicist: - We also plan to study the microbiology of the ocean crust to see if there are new organisms at these great depths.",
+    "options": [
+      "What key questions do you hope to answer?",
+      "What kind of rocks do you expect to find?",
+      "How will you determine how old the rocks are?",
+      "What methods are you going to use to collect all these samples?",
+      "What other things may this study help us understand?"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q66",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Professor: - And here you see a picture of a littledevil frog. The male produces noisy sounds in pursuit of a partner. Student: - ---- Professor: - Well, he's a poisonous frog and has bright colours which warn predators that he's unsafe to eat. Student: - How significant characteristics it has!",
+    "options": [
+      "Do the sounds he makes differ or does he use the same kind of sounds?",
+      "How do the partners react to these sounds when they hear them?",
+      "Is it really difficult for the little devil frog to find a partner?",
+      "But doesn't it make him noticeable and vulnerable to being attacked?",
+      "Is it only males, or do females also produce such sounds before mating? 2018-Y DS Spring/English"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q67",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Matthew: - A friend of mine plays in an orchestra and has invited me to their concert. I’m really nervous because I don’t know anything about orchestras. Judy: - Actually, most people don’t know much about orchestras. Just pay attention to the instrument categories, and then you’ll be less worried. Matthew: - ---- Judy: - Well, each group sits together. First, you have the strings. Woodwinds are in the following section. Behind them are the brass instruments, and at the back is the percussion section.",
+    "options": [
+      "How do you know the features of all these categories? Have you ever taken a course about orchestras?",
+      "How exactly is a typical orchestra organised? If I learn that at least, maybe I can relax and enjoy the performance.",
+      "As far as I know, you’ve attended several concerts before. Can you predict what will attract me most at the concert?",
+      "What do you know about the percussion section? I think that’s the section my friend plays in. So, please tell me about it.",
+      "I don’t even know the name of instruments played in an orchestra. Are there many different instruments?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q63",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Robert: - You've persuaded me to volunteer for that organ donation team, but I can’t figure out what exactly we’re supposed to do. Lee: - The team is trying to encourage families to consider how they would feel about donation if they needed an organ transplant when not enough people give their consent. Robert: - ---- Lee: - Exactly. Surveys show that 30% of people have never discussed organ donation with their friends and relatives.",
+    "options": [
+      "So, as far as I understand, the team is basically trying to raise people’s awareness about the issue.",
+      "I see. People are aware of the importance of organ transplantation but most are unwilling to be donors.",
+      "OK, so non-profit organisations try to ensure that the ethical considerations are understood.",
+      "Yeah, everybody knows that organ transplantation is a must for those who desperately need organs.",
+      "I think more and more people are now well-informed about the challenges of the procedure."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q64",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Journalist: - So, your company has set up a system that offers online clinical-counselling, and you’re the chief operating officer. Do you think e-therapy is more effective for certain people? Psychologist: - Of course, for any therapy to be effective, it has to meet the individual needs of patients. E-therapy may appeal to people looking for convenience, flexibility and privacy, in particular. College students and workers with not much time usually opt for our online services. Journalist: - ---- Psychologist: - People have a tendency to think that because you’re using an online service, it must be impersonal and can’t have the same effect. But it’s not true. The difference in results between e-therapy and a face-to-face one is quite minimal.",
+    "options": [
+      "How do you talk tech-challenged people into e-therapy?",
+      "Why do you think e-therapy will overtake face-to-face therapy?",
+      "What is the biggest myth about e-therapy?",
+      "How does an e-therapy session work?",
+      "How does e-therapy help people with a serious mental illness?"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q65",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Richard: - I saw a video the other day on the Internet about a polyglot. Lucy: - A polyglot? What’s that? Richard: - A polyglot is a person who speaks several different languages. The person in the video I saw speaks eight languages including Portuguese and Chinese. Lucy: - ---- Richard: - There are some methods used. For example, allocating a few hours a day for a language until mastering it, including intense listening and speaking activities.",
+    "options": [
+      "Why aren’t there more people who can speak many languages like this?",
+      "What’s the minimum number of languages needed to describe someone as a polyglot?",
+      "Do you think he’s completely fluent in all eight of those languages?",
+      "How do you think such people manage to learn so many languages?",
+      "How many more languages do you think he can add to his repertoire?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q66",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sarah: - Recently, I’ve read a magazine article, and it says over the first four years of marriage, spouses report a gradual increase in their willingness to forgive each other. Francis: - So, it means they learn to forgive each other as they spend more time together. Sarah: - ---- Francis: - What do you mean? Sarah: - The article says forgiving benefits both partners only if the forgiven partner is agreeable and cooperative. If not, he or she tends to offend again.",
+    "options": [
+      "I think anyone who is in a close relationship will, at some point, have to decide whether or not to forgive.",
+      "Well, I believe the most important thing in relations is mutual trust. If you have it, you don’t experience such forgiveness problems.",
+      "It’s also possible that even if someone wants to forgive, they might not think that the wrongdoer or offender really deserves it.",
+      "One needs to be cautious, though, as forgiveness could backfire, depending on the offending partner’s personality.",
+      "Maybe the reason is that being exposed to situations where forgiveness is required helps one improve that skill."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q67",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Stacy: - I’m so bored with my never-ending to-do list. But I can’t say I’ve been able to cross a single item off the list so far. Carole: - Maybe you should stop procrastinating and just start working on your list. Stacy: - What do you mean? Carole: - ---- Stacy: - I think you’re right, finding another person with the same aspirations will help me take action.",
+    "options": [
+      "I don’t get why you’ve been feeling so desperate about your life plans. You’re one of the most ambitious and motivated people I know.",
+      "Well, I’ve been seeing a psychologist to deal with the same type of issue. Maybe that’s something you can look into as well.",
+      "Life seems to be getting busier for us modern working women. Maybe keeping a diary of goals you’ve achieved will help you stay focused.",
+      "Maybe one way to deal with your problem is just making a habit out of it. I mean you should make a habit of taking action to fulfil your plans.",
+      "You don’t have to keep waiting for the perfect moment. Plus sharing your goals and plans with someone else could be a good idea."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q63",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Johanna: - Today, our psychology professor talked about a biological process called 'neuroplasticity'. He said that even the adult brain can grow new brain cells in response to new experiences. Stan: - ---- Johanna: - Yeah, he said the exact same thing. I’d never thought of them as being beneficial at all. I used to think they only cause aggressive behaviour and addiction. Stan: - Well, apparently some scientists still have those fears, but it all depends on how effectively you use them.",
+    "options": [
+      "Such as playing action video games? I remember reading that they help the brain and improve cognitive skills.",
+      "That's really interesting. I’ve always thought that the human brain couldn’t grow new cells after a certain age.",
+      "Did he say what kind of experiences? I’ve been playing chess for years hoping that it’ll give me a cognitive advantage at school.",
+      "I’ve seen scientists trying it with patients suffering from Alzheimer's disease to prevent them from losing cognitive skills.",
+      "But, don’t forget that outdoor games are more useful and educational than indoor games, no matter how entertaining they are."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q64",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Debby: - I was recently offered a job at a different firm with a higher salary. I feel as if I’m at a crossroads in my career. I’ll have to make a decision soon. Lucy: - ---- Debby: - I love my job and the team, but I feel the company is asking too much of me. Lucy: - I think you’ll easily get used to working with a new team. And this change will be to your advantage. You know it’s much easier to set your limits at the beginning. If you do so, I’m sure you'll manage your professional life more easily.",
+    "options": [
+      "What stops you from negotiating a better deal with your current employer?",
+      "Until now you seemed really happy with your current job. What’s the problem?",
+      "I know it’s quite challenging. What’s attractive about the new offer?",
+      "You’ve always dreamed of working in a big company. Why would you let yourself miss such an opportunity?",
+      "Do you think you’ve practised building appropriate boundaries in your professional life?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q65",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Daisy: - Last week, I was in a situation where things went from bad to worse. I failed to meet my end-of-year targets at work, the central heating system in my apartment broke, and my car was hit by an unknown car. All these happened in the same week! Sally: - Terrible! How do you keep calm in such situations? Daisy: - ---- Sally: - What do you do with that information? Daisy: - I look at the list and focus on the ones I can do something about. Then I think about the actions I can take, including asking for help if necessary.",
+    "options": [
+      "I can think and worry about many things at the same time, but when I’m in the action phase, I try to avoid that.",
+      "The truth is, it’s hard not to lose it in these moments. I may end up giving up because of the never-ending list of problems.",
+      "I write everything down. I draw a line, and on the left I put down all the problems, and on the right what to do about those problems.",
+      "In my experience, the easiest way to keep calm is to regain control of the situation by collecting information from as many people as possible.",
+      "No matter how bad things are, keeping my calm always helps me come up with a possible solution. I keep saying “This too shall pass”."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q66",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Kelsey: - Now, more and more experts are complaining about modern parenting styles. They say parents try to create an image of success that has little to do with their childen’s desires, talents or needs. Jill: - ---- Kelsey: - Actually, this makes children less independent. They always feel the need to meet their parents’ wishes and ask them what to do in their lives. Jill: - So, overparenting may prevent children from building self-confidence and gaining the ability to adapt to an unpredictable world.",
+    "options": [
+      "Parents tend to bring up their children as they were raised in the past, but it’s really difficult in this ever-changing world.",
+      "I think every child has a special talent, but it may remain undiscovered unless their parents help them recognise themselves.",
+      "That’s true. They want to sculpt their kids into a particular kind of adult, stressing them with endless schedules and heavy expectations.",
+      "I agree that parents should offer advice to their kids about their future plans, but they shouldn’t forget to understand their wishes too.",
+      "In today’s world, parents are bombarded with information from books and experts, so they can’t often decide how to contribute to their children’s success."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q67",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Robert: - The article I read this morning says whales stop singing when ships are nearby. Leonie: - ---- Robert: - It said that they used two underwater recorders to capture their singing in a remote area where a cargo liner was the only large ship around, and they found that whales within 500 metres of the ship when it passed tended to stop singing. Leonie: - So, it’s obvious that for some reason shipping interferes with whale songs.",
+    "options": [
+      "Does the article say which kind of whales were examined in their research?",
+      "How did researchers observe the whales’ response to shipping noise?",
+      "Do researchers think that whales feel threatened and try to remain undetected?",
+      "Then, how do whales communicate with each other when they don’t sing?",
+      "Why does shipping noise have a considerable impact on whale behaviour?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q63",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Student: - How do leaves know that it’s autumn? Teacher: - During the autumn, every day is four minutes shorter than the one before it. This means leaves have four minutes less sunlight. Student: - ---- Teacher: - Exactly! And, at some point, when it’s simply not worth the effort, trees shed their leaves.",
+    "options": [
+      "In other words, they have a relatively smaller amount of time to change light and water into energy.",
+      "Does this mean some trees closest to streetlights keep their leaves later into autumn?",
+      "But the decrease in the amount of sunlight is not the sole reason, is it?",
+      "So, trees are very strong and in winter even produce their own anti-freeze in their cells.",
+      "That’s because leaves can’t distinguish between sunlight and artificial light, right?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q64",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Doctor: - Most people don’t worry about their eye health, but we often say that all of us need an eye test, even if we can see fine. Reporter: - You’re right, but people generally don’t see a doctor unless they have a problem with their vision. So, could you tell us why you highlight the importance of eye examinations? Doctor: - ---- Reporter: - It seems early diagnosis is crucial in fighting some eye diseases.",
+    "options": [
+      "If people would make a conscious effort to try to understand their visual health through personal research, many eye diseases would be less problematic.",
+      "Eye tests not only help us treat visual impairment, but they can also reveal the presence of some non-eye diseases like diabetes and high blood pressure.",
+      "Many eye conditions show no symptoms, and if people put off eye tests until they experience symptoms like blurry vision, the damage could already be irreversible.",
+      "The frequency of eye tests differs with age and the health of the person, but we often recommend an eye test every two years between ages 19 and 40.",
+      "Visual problems are not the single cause. People should also have an eye test when they experience redness, pain, discharge or flashes of light."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q65",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Daisy: - Look at the lighthouse over there. It’s on a very steep hill. Do you think there is someone in it? Kate: - ---- Daisy: - Perhaps the huge antenna on the roof can explain that. Kate: - So, the lighthouse-keeper just goes there for periodic maintenance of the equipment.",
+    "options": [
+      "I’m not certain. Some modern installations are controlled remotely from a convenient location.",
+      "I can’t say for sure, but it seems there is no one there. Otherwise, the lights would be on.",
+      "Probably! Lighthouses usually overlook the sea from a coastal hill and provide a safe shelter for the residents.",
+      "Yes, and I’m really curious about daily routines of a lighthouse-keeper. Watching the ships must be entertaining.",
+      "I don’t think so. Lighthouses guide ships with a strong light, so why should they be attended?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q66",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Amanda: - Don't you think people attach too much of their personal happiness to their weight? Jane: - Definitely! They're even willing to spend huge sums of money for the slightest chance of being thinner, especially overweight people and the ones who suffer from obesity. Amanda: - Yeah, but so many of them get frustrated in the process because it's more complicated than it looks. Jane: - What do you mean? Amanda: - ---- Jane: - Oh, so dietary advice won't work in the same way for everybody.",
+    "options": [
+      "The vast majority of people place such a high value on being thin that overweight people face prejudice and discrimination.",
+      "The view that undisciplined eating habits are the major cause of weight gain has been widespread for a long time.",
+      "Fortunately, dieticians have been coming up with a variety of new treatments to fight unhealthy weight gain.",
+      "The reality is weight-gain has many causes and there can be various combinations of these causes in different people.",
+      "Permanent lifestyle changes like making healthy food choices can promote long-term weight loss."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q67",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Chris: - A group of scientists tried to develop drones that could fly through the hoops or gates used in drone racing, and prepared a track with gates laid out in a circuit. Luke: - Really? Were their drones able to stay on course? Chris: - ---- Luke: - That’s a key development. A drone that can autonomously escape from things in its way could be useful in a number of contexts.",
+    "options": [
+      "The on-board camera in each device gathered images of the gates and the pictures allowed a neural network controlling drones to learn how to pass through them.",
+      "If they were smarter, they could be relied on to deliver packages in complex environments like cities.",
+      "The study revealed that they had to come up with better ways for drones to learn to avoid obstacles as they fly.",
+      "Drones have a habit of crashing, so they planned to alter the position of these obstacles after each lap.",
+      "Their performance in simulated experiments does not guarantee success in real life. It’s early to say that a drone can pilot itself in environments with lots of obstacles like disaster zones."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q63",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Daisy: - Thank you for your presentation about the differences between the flu and cold, but I missed the part about how their symptoms differ. Presenter: - Well, when you have a cold, the symptoms show up primarily above your neck, but if it is the flu, you have the symptoms both above and below your neck. Daisy: - ---- Presenter: - Yes!When you have a cold, things get worse slowly, but the flu hits you like a high-speed train.",
+    "options": [
+      "I see. Then, the best thing to do is to rest up when you have a cold.",
+      "Alright, and you also mentioned some facts about their severity.",
+      "So, we can say that the flu and cold have similar impacts.",
+      "I believe you also said that when we have the flu, we have a terrible headache.",
+      "It’s not hard to imagine why so many people confuse cold and the flu."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q64",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Adam: - So anyway, I heard that the registration deadline for summer school is fast approaching. You’d better hurry up and register if you want to take that physics class you’ve been going on and on about. Lara: - ---- Adam: - Wow, that sounds like a fantastic holiday, something I can only dream of. Lara: - Well, if you keep up your good grades like you always have, I’m sure you’ll land a good job after graduation and be able to travel wherever you want someday.",
+    "options": [
+      "Thanks for keeping me on track, but I wish I could go on holiday instead of going to summer school.",
+      "Yeah, I will. Speaking of summer, did I tell you that after summer school I’ve got a trip to China booked? I’m finally going to climb The Great Wall.",
+      "Sure thing. I’m ready to get this physics class out of the way. By the way, did I mention my summer holiday plans?",
+      "I need to get on that soon since I’ve wanted to take this class for ages. So I will have some time to go on holiday this summer.",
+      "Yep, it’s on my to-do list, but there are always so many things keeping me busy that I feel it’s high time for a bit of rest and relaxation."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q65",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Rob: - How lucky that they’ve found over 80 fossilised dinosaur footprints that have survived for over 100 million years in England! Sherry: - ---- Rob: - Well, the animal has to step in a sediment that is pliable enough to record their footprint, but not so pliable that it gets washed away before being protected by another layer of fresh sediment. Sherry: - Is that so? Seems like a lot of luck is involved then.",
+    "options": [
+      "Yes, that’s an incredibly rare find!",
+      "What’s luck got to do with fossilisation?",
+      "What’s the significance of these footprints though?",
+      "Wow! I wish I were lucky enough to discover them.",
+      "I didn’t know England has the type of sediment required for fossilisation."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q66",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Kim: - Hey! Look at what I’ve just read. Did you know that the game darts evolved in the 20th century from military training? Hailey: - Well, I don’t think that’s correct. Darts were in use as early as the Middle Ages. Archers used these heavily weighted hand arrows in close combat. Kim: - How could you possibly know so much about darts? I didn’t know you were a fan! Hailey: - ---- Kim: - Oh, now I know where that interest comes from.",
+    "options": [
+      "Everyone in England knows how darts became a big pub sport about a hundred years ago.",
+      "I was reading a book about Anne Boleyn which has a long part explaining the origins of darts.",
+      "The traditional setting of darts are pubs and bars and this has created several misconceptions about it, concealing its origins in military training.",
+      "You need to read more history so you can know how almost everything we modern people do already existed in this or that form thousands of years ago.",
+      "The National Darts Association is planning to start a campaign to educate the public about darts."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q67",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Mr. Jackson: - The price of the innocent mistakes allowed by our current software-based security is simply too high. Mrs. Swanson: - ---- Mr. Jackson: - Exactly. That’s why our networked world needs better approaches to cybersecurity. Mrs. Swanson: - Yeah. Just patching the software after a cyberattack, and hoping for the best is not good enough.",
+    "options": [
+      "Right. This sort of restructuring is likely to be a sensible solution to our cybersecurity problems.",
+      "I couldn’t agree more. As critical infrastructure becomes more and more interconnected, we create more points of vulnerability that can be exploited.",
+      "Data fraud and cyberattacks, however, are listed in its top five most likely global risks by the World Economic Forum.",
+      "To be honest, software programmers who have many effective ways of protecting a networked society are the best way of dealing with this problem.",
+      "Fortunately, the risk of exposing sensitive personal data has dramatically decreased recently thanks to software innovations."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q63",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Mary: - So, I’ve decided to participate in the Citizen Science movement. Hilda: - And what exactly are you expected to do as part of this movement? Mary: - Nothing special, in fact. Science volunteers can contribute to global science studies by simply monitoring whales offshore or hawks and stars in the sky. Hilda: - ---- Mary: - Not really! It’s simple to do with basic technology, like smartphone apps. So, you can easily collect data and share it with other members of the movement.",
+    "options": [
+      "That’s interesting. So they invite you to be an amateur researcher who offers help for free?",
+      "Sounds impressive. Would you need to use special equipment in order to record these things?",
+      "That’s exciting. But don’t you think you should be able to earn money for this kind of work?",
+      "Hmm, I see. Doesn’t this benefit the research team more than it benefits the volunteers?",
+      "Wow. Is accuracy one of the top priorities for these types of observations?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q64",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Molly: - So, I really liked the film. Actually, it really went way beyond my expectations. James: - Yeah, the special effects were pretty cool but I didn’t like how long the film was. I mean, seriously, why would any film need to be nearly three hours long? Molly: - Well, with this kind of film it takes a lot of time to develop the plot and the characters. Don’t you think so? James: - ---- Molly: - I get what you’re saying, but I still think most of them were needed in the film so that it could convey its message to the audience in a meaningful way.",
+    "options": [
+      "Not really. But since this was a sequel it must have taken longer to develop some of the themes of the story for people who haven’t seen the first one.",
+      "I agree that it must be a challenge for the writers to take such a complex plot and develop it into a shorter film, but I still got really bored.",
+      "Nope, but I think the problem is actually with the cinema itself rather than the film. In some countries, a break is given partway through the film. We need that, too.",
+      "Well, you have a point there. It does take time. Maybe the problem was with the story itself. I believe many critics would just agree with me.",
+      "Actually, I don’t. Some of the scenes were unnecessary because they didn’t stick to the central theme of the story."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q65",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Maggie: - Last week you said you didn’t feel so well and you’d join a gym. Lucy: - That’s true, but I have so much work to do that I can hardly find the time to even call up for information on how to best get fit. Maggie: - ---- Lucy: - It’s definitely better than nothing. Maybe I can try to discipline myself and start doing some stretching at my office.",
+    "options": [
+      "You keep finding excuses, and I think the problem is your tendency to delay. If you really want to create some time, I’m sure you can find a way.",
+      "Actually, you don’t really need a gym. Most professionals say even five minutes of light exercise can be beneficial for your health.",
+      "You’d better get some advice from a doctor rather than hit the gym. Using prescribed medicines can help you lose weight in a controlled way.",
+      "You shouldn’t worry so much about trivial things. Going to the gym can make you feel happy, as the key to a happy life is to be able to find pleasure in small things.",
+      "I think you should reorganise your weekly schedule. There are various techniques for planning your day so that you can have some time for yourself."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q66",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Alan: - We are all told to exercise more, but for those with physical disabilities, the benefits of aerobic exercise have always been out of reach. I think scientists need to find a solution for this. Chelsea: - In fact, I have read about a recent study which aims to develop a kind of drug that will create the effect of exercise for those with physical disabilities. Alan: - ---- Chelsea: - Thanks to the medication, the genes which prove resistant to weight gain can be activated without any physical training.",
+    "options": [
+      "How can that drug compensate for the lack of physical activity?",
+      "How interested would you be in taking the drug yourself?",
+      "How often is the drug taken to activate fat burning mechanisms?",
+      "How do disabled people feel after taking this kind of drug?",
+      "How much do they agree on the impact of the drug on people?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q67",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Patient: - I have a sore throat and this is the third in the last six months. My tonsils will probably need to be removed. Doctor: - It used to be a common practice a few decades ago, but today we approach tonsil removal with much more caution. Patient: - ---- Doctor: - We take little notice of our palatine tonsils, except when they are sore, but they activate our immune system, recognising pathogens entering through the mouth and nose. Patient: - So I should take better care of them instead of having them removed.",
+    "options": [
+      "I can’t see why patients are driven to such risks. There must be a good side that may be less obvious to us.",
+      "But when inflamed, they are extremely painful. Why should I tolerate them if I can easily get rid of them?",
+      "So vaccination can provide protection against specific diseases? Is it possible to prevent infection this way?",
+      "Oh! I would have had medical treatment instead of having them removed through surgery if I had known that.",
+      "Does it really make sense? Surgery is supposed to be the last option in such cases regarding the immune system."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q63",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Daniel: - In my Humanities course this week, we’re learning about common American hobbies. One such hobby is coin collecting. Beth: - That sounds strange and uncommon. Why would someone have a hobby such as coin collecting? Daniel: - ---- Beth: - Well, it’s true that coins represent changes in trade as well as in international relations. However, it still seems like a strange hobby to me.",
+    "options": [
+      "I’m not sure why someone would have a hobby like this. Perhaps people with large collections feel more powerful than those without.",
+      "Some would argue that coin collecting is related to history and economics. Therefore, this hobby covers a wide range of interests.",
+      "My father grew up in America and he collected coins because he wanted to learn about metals.",
+      "The reasons behind our hobbies are sometimes unexplainable. I do know that people appreciate money, so that could be why.",
+      "Our professor asked us that same question. I’m going to think about possible reasons this week."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q64",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Jeff: - The scale of natural catastrophes in the world reveals that something must be done as soon as possible. Just consider the fire in Australia in 2019. Amy: - ---- Jeff: - Neither. Actually, a more viable solution would be better. Amy: - Well, I completely agree that urgent precautions are needed.",
+    "options": [
+      "Can you please be more specific or at least give some clear examples as to how?",
+      "What are the two major actions you consider should be taken on this matter at hand?",
+      "Governments have neither action nor contingency plans for such a gravely important issue, don’t you think?",
+      "Do you mean harsh penalties or increasing ecological taxes?",
+      "I believe that more efforts should be made to increase public awareness of natural catastrophes. Would you agree?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q65",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Hannah: - The weather has finally warmed up! Time to bring out the spring wardrobe! Michael: - You’re right, but for many of us that means the onset of allergies with sniffles and watery eyes. Hannah: - ---- Michael: - Actually a healthy diet is said to be the key. What we eat has the potential to prevent allergic reactions, like sneezing, from happening in the first place. Hannah: - That’s great! Then everybody can find a way to enjoy outdoors in spring.",
+    "options": [
+      "What other symptoms do people have when their spring allergy starts?",
+      "Which allergens should people watch out for during spring time?",
+      "Why don’t people prefer to stay indoors to deal with spring allergies?",
+      "How can people avoid allergies especially throughout spring?",
+      "How long are allergic people allowed to stay out when it is spring?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q66",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Elizabeth: - Did you know that the rise of drug-resistant bacteria due to overprescription of antibiotics kills nearly one million people a year around the world? Philip: - ---- Elizabeth: - To address this, the UK government offered local health bodies an extra £5 in funding per patient if they cut prescribing antibiotics. Philip: - Did it really work? Elizabeth: - Well, one study has found that general practitioners began writing 3% fewer antibiotic prescriptions for respiratory infections.",
+    "options": [
+      "Some family doctors in Australia and the UK use tests before they prescribe antibiotics.",
+      "Yeah that’s right, and many doctors unnecessarily prescribe the drugs for viral infections as well.",
+      "Fortunately, doctors have been successfully nudged to cut antibiotic use in recent years.",
+      "To be honest, governments should try raising patients´ awareness rather than interfering with the doctor’s business.",
+      "I heard that an initiative to curb the overuse of antibiotics was introduced, which dramatically lowered the rates."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q67",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Student: - I think for my final presentation I'm going to focus on culture and the characteristics of cultured people. Teacher: - ---- Student: - Well I like the topic because how people interpret it may vary greatly. To some, being cultured means being cultured in arts while for others it only refers to a good education. Teacher: - I see your point now. Then, you will also need to address how complementary these two views are to each other.",
+    "options": [
+      "Wouldn’t it be better if you also mention the mainstream culture in different societies to illustrate the common features of cultured people?",
+      "Why do you consider it as an issue worth discussing in detail? Isn’t it clear what we expect to find in these people?",
+      "Are you also interested in the definition of cultural events since it may provide clues about who to include as cultured or not?",
+      "Do you find cultured people who attend talks, exhibitions and music concerts more intriguing than ordinary ones?",
+      "What about also comparing the description of cultured people with those of intellectuals, artists, and literary figures?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q63",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sebastian: - Preparing tasty meals in the woods is a wonderful thought. But somehow it’s easy to go overboard with backpacking menus. You think you must pack this in order to eat that and you need all the other items to prepare it properly. Graham: - That’s silly. What the body needs is simple. It needs water more than anything else. In fact, you can survive without food for at least a week. Sebastian: - ---- Graham: - Almost anything you eat out there is going to taste great because you will be very hungry and, after all, you’re outdoors!",
+    "options": [
+      "I don’t think I’m alone on this one, but energy bars, fruit and trail mix will keep you going.",
+      "Think about it: No cooking, no clean up and less to carry on your back.",
+      "Well then, what do you suggest I put into my backpack so as not to starve out there?",
+      "You think so? Don’t you think I should try something less risky then?",
+      "Needless to say, you must have water on a regular basis or the body breaks down."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q64",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Eleanor: - I wonder what might happen if human beings disappeared. Chidi: - Well, I was reading an article about it and it said plant and animal species that have formed close bonds with humanity are the most likely to suffer. Eleanor: - How is that? Chidi: - ---- Eleanor: - I see. So, this probably means they will be outcompeted by other plants and the animals that feed on them will probably vanish too.",
+    "options": [
+      "To be honest, I’m not sure, but one theory holds that intelligent life developed because it helped our ancestors to survive the environmental shocks that they had experienced.",
+      "You know the crops that feed the world are reliant on fertilisers that we use. When we are gone, fertilisers will not be used, and those plants might be replaced by their wild forebears.",
+      "The animals that were closer to us helped individuals and themselves to reproduce in large social groups. This was proof enough that they had good genes.",
+      "The decades following human extinction will be of devastating oil spills, chemical leaks and explosions of varying sizes. I mean all the ticking bombs that humanity has left behind.",
+      "I can say traces of humankind will remain, even millions of years after our end. For instance, microbes will need lots of time to consume all the plastics we've left behind."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q65",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Scott: - On my geography course, we are learning about capital cities of Europe. Can you name any of these cities? Debbie: - The one I’m thinking of is Budapest, the capital of Hungary. Where did the name 'Budapest' come from, by the way? Scott: - ---- Debbie: - Wow! I didn’t know that. So the history of the name 'Budapest' is much simpler than I had expected it would be.",
+    "options": [
+      "I’m not sure where the name comes from, but we can search it on the Internet to find out.",
+      "The name of the capital city has always been Budapest. If you study the history of Hungary, this is one fact you will learn.",
+      "Budapest is made up of two cities separated by the Danube River. One town was Buda and the other Pest; when the cities were merged, so were their names.",
+      "Good question! When I asked my Hungarian friends about it, they told me there are some myths about its origin but they're all just myths anyway.",
+      "Well, someone with a sense of humour claimed it had something to do with the Buddha, but just because they sound the same doesn’t mean they are related!"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q66",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Alison: - Did you know that oysters are used to mitigate coastal erosion and flooding due to the rise in sea levels? Kyle: - ---- Alison: - But those efforts have detrimental effects on near-shore habitats. Constructing breakwater reefs from oysters has been found to support a higher abundance and different communities of fishes. Kyle: - To be honest, I’d never have imagined that oysters could be used to protect shorelines.",
+    "options": [
+      "I know it’s forcing many to migrate to higher ground and leaving millions at risk of demise.",
+      "There are breakwaters and seawalls already in use to prevent such incidences.",
+      "I think certain measures have to be implemented to control oyster harvesting.",
+      "I don’t think oysters would be resilient enough to withstand major changes in sea levels.",
+      "To protect the oyster reefs, there must be a system to ensure their sustainability."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q67",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Paul: - We’ll need to be careful about not getting Dengue Fever on our Central American tour. Sarah: - What’s Dengue Fever? I’ve never heard of that. Paul: - It’s some sort of viral infection spread by mosquitoes. Sarah: - Well, that’s definitely not something I want to get. How about we just stay in larger cities so that we avoid mosquito-infested areas? Paul: - ---- Sarah: - Then let’s read up on how to prevent mosquito bites to avoid getting bitten in the first place.",
+    "options": [
+      "In truth, mosquitoes usually bite during the daytime and are often found indoors.",
+      "Well, Dengue Fever usually causes flu-like symptoms, including fever, muscle and joint pains, nausea and vomiting.",
+      "In fact, the guide book says there are some amazing cities along our tour so I’m absolutely on board with that idea.",
+      "Actually, since mosquitoes breed in artificial water containers like thrown away jars and cans, it’s common in populated urban areas.",
+      "Apparently, treatment involves pain killers, plenty of fluids and even hospitalisation if it’s severe."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

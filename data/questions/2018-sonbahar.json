@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2018-sonbahar-q01",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "For smokers who are under increased pressure to give up smoking, one of the easiest ---- is that quitting smoking makes people more likely to put on weight.",
+    "options": [
+      "incentives",
+      "attempts",
+      "purposes",
+      "excuses",
+      "features"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q02",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The primary ---- of an organisation’s accounting department are to process financial information and to prepare financial statements at the end of the accounting period.",
+    "options": [
+      "advancements",
+      "compensations",
+      "obstacles",
+      "objectives",
+      "classifications"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q03",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Scholars and historians have offered possible locations for the mythical island Atlantis, even in the face of ---- scientific evidence that it does not exist.",
+    "options": [
+      "compelling",
+      "doubtful",
+      "erroneous",
+      "refutable",
+      "ambiguous ENGLISH"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q04",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The Big Bang theory is the explanation most commonly ---- by astronomers for the origin of the universe.",
+    "options": [
+      "discovered",
+      "accepted",
+      "regulated",
+      "conducted",
+      "influenced"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q05",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The relationship between sport and aggression has been studied ---- for decades, yet researchers still have a limited understanding of the link between the two.",
+    "options": [
+      "severely",
+      "suspiciously",
+      "uniquely",
+      "extensively",
+      "instantly"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q06",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sense of control refers to the degree to which people believe that they can deliberately ---- desired outcomes and avoid undesirable ones in their environment.",
+    "options": [
+      "fill out",
+      "bring about",
+      "switch off",
+      "turn down",
+      "hand over"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q07",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "For a long time, scientists ---- aware that the Earth’s atmosphere is not static, but is in constant motion, producing areas of ever-changing pressure around the globe, but from 1700 onward, scientists ---- to discover how and why large-scale atmospheric movements occur.",
+    "options": [
+      "had been / have begun",
+      "would have been / had begun",
+      "have been / began",
+      "would be / were beginning",
+      "were / would have begun"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q08",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Science ---- our every question, but it ---- humanity’s best tool yet for tackling our greatest challenges.",
+    "options": [
+      "may not answer / had remained",
+      "must not answer / has remained",
+      "should not answer / will remain",
+      "cannot answer / remained",
+      "might not answer / remains"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q09",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Five of the Solomon Islands ---- whole by rising sea levels, ---- a glimpse into the future of other low-lying nations, such as the Netherlands and Italy.",
+    "options": [
+      "are being swallowed / having offered",
+      "had been swallowed / being offered",
+      "will be swallowed / having been offered",
+      "were swallowed / offered",
+      "have been swallowed / offering"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q10",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Research ---- media has primarily examined the effects of media on children ---- a developmental perspective with a psychological focus on the correlation or causal variables between the media and children’s behaviour.",
+    "options": [
+      "against / under",
+      "on / from",
+      "through / across",
+      "in / beyond",
+      "at / over"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q11",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Identifying the specific effects of beneficial microbes that thrive ---- the surface of our bodies and deep ---- our tissues, researchers are gaining a new view of how our bodies function.",
+    "options": [
+      "at / over",
+      "in / along",
+      "by / down",
+      "on / within",
+      "from / through"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q12",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Most cheesemakers believe that the brilliant nuances of flavour found in raw milk, with its naturally present ‘good’ bacteria, simply cannot be duplicated in a pasteurised milk cheese ---- some well-respected cheeses, including British Stilton, are made only from pasteurised milk.",
+    "options": [
+      "now that",
+      "after",
+      "although",
+      "because",
+      "only if"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q13",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Surprisingly, the symbol for zero emerged later than the concepts for other numbers, and ---- the Babylonians used a symbol for zero, it was merely a placeholder and not used for computational purposes.",
+    "options": [
+      "just as",
+      "as if",
+      "in case",
+      "because",
+      "even though"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q14",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Studies have found that the effects of a cup of coffee or a glass of cola are noticeable after just 10 minutes ---- the peak caffeine concentration in the blood occurs after 45 minutes.",
+    "options": [
+      "since",
+      "but",
+      "provided that",
+      "as long as",
+      "unless"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q15",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Animals are hunted by humans ---- for their meat ---- for parts of their bodies that are used to create medicines, clothes, and jewellery.",
+    "options": [
+      "neither / nor",
+      "such / that",
+      "not only / but also",
+      "the more / the more",
+      "as / as"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q16",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- its notoriety as a naval weapon, the first modern torpedo was developed in landlocked Austria, or rather in what was then the Austrian Empire stretching down to the Adriatic.",
+    "options": [
+      "Along with",
+      "In terms of",
+      "Despite",
+      "Due to",
+      "Instead of"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q17",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2018-sonbahar-g17-21",
+    "passage": "Sometimes when people assert that a language has no grammar, what they really mean is that there is no grammar book for that particular language. But the rules of a language (17)----in the heads of speakers of that language. We know the rules are there (18)---- the way the speakers behave. They use similar structures (19)---- similar events. If you hear the sentence for “Give me some water.” in a rarely spoken language such as Spelitzian, you can be pretty sure you can use the same pattern for “Give me some food.”, (20)---- there are other possible patterns as well. If there were not any patterns, people would not be able to communicate because they would have no way of knowing what other people meant (21)----.",
+    "stem": null,
+    "options": [
+      "alter",
+      "recover",
+      "endure",
+      "apply",
+      "exist"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q18",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2018-sonbahar-g17-21",
+    "passage": "Sometimes when people assert that a language has no grammar, what they really mean is that there is no grammar book for that particular language. But the rules of a language (17)----in the heads of speakers of that language. We know the rules are there (18)---- the way the speakers behave. They use similar structures (19)---- similar events. If you hear the sentence for “Give me some water.” in a rarely spoken language such as Spelitzian, you can be pretty sure you can use the same pattern for “Give me some food.”, (20)---- there are other possible patterns as well. If there were not any patterns, people would not be able to communicate because they would have no way of knowing what other people meant (21)----.",
+    "stem": null,
+    "options": [
+      "because of",
+      "despite",
+      "contrary to",
+      "instead of",
+      "similar to"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q19",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2018-sonbahar-g17-21",
+    "passage": "Sometimes when people assert that a language has no grammar, what they really mean is that there is no grammar book for that particular language. But the rules of a language (17)----in the heads of speakers of that language. We know the rules are there (18)---- the way the speakers behave. They use similar structures (19)---- similar events. If you hear the sentence for “Give me some water.” in a rarely spoken language such as Spelitzian, you can be pretty sure you can use the same pattern for “Give me some food.”, (20)---- there are other possible patterns as well. If there were not any patterns, people would not be able to communicate because they would have no way of knowing what other people meant (21)----.",
+    "stem": null,
+    "options": [
+      "against",
+      "on",
+      "from",
+      "for",
+      "into"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q20",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2018-sonbahar-g17-21",
+    "passage": "Sometimes when people assert that a language has no grammar, what they really mean is that there is no grammar book for that particular language. But the rules of a language (17)----in the heads of speakers of that language. We know the rules are there (18)---- the way the speakers behave. They use similar structures (19)---- similar events. If you hear the sentence for “Give me some water.” in a rarely spoken language such as Spelitzian, you can be pretty sure you can use the same pattern for “Give me some food.”, (20)---- there are other possible patterns as well. If there were not any patterns, people would not be able to communicate because they would have no way of knowing what other people meant (21)----.",
+    "stem": null,
+    "options": [
+      "provided",
+      "once",
+      "in case",
+      "because",
+      "even if"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q21",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2018-sonbahar-g17-21",
+    "passage": "Sometimes when people assert that a language has no grammar, what they really mean is that there is no grammar book for that particular language. But the rules of a language (17)----in the heads of speakers of that language. We know the rules are there (18)---- the way the speakers behave. They use similar structures (19)---- similar events. If you hear the sentence for “Give me some water.” in a rarely spoken language such as Spelitzian, you can be pretty sure you can use the same pattern for “Give me some food.”, (20)---- there are other possible patterns as well. If there were not any patterns, people would not be able to communicate because they would have no way of knowing what other people meant (21)----.",
+    "stem": null,
+    "options": [
+      "saying",
+      "to say",
+      "having said",
+      "being said",
+      "to have been said"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q22",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2018-sonbahar-g22-26",
+    "passage": "An electric car future is speeding closer – economic analysts project that a third of all automobiles could be battery-powered by 2040. Most of these vehicles (22)----large lithium batteries, which prompts worries about whether the world’s lithium supply can keep up. (23)----, another element, cobalt, is a bigger concern. The best lithium battery cathodes (negative electrodes) all contain cobalt, and its production is limited. Even with a very conservative estimate of 10 million electric vehicles (EVs) in 2025, the demand (24)----cobalt that year could reach 330,000 metric tons, whereas the available supply at that time would be at most 290,000 metric tons. Recycling lithium batteries is complicated and rarely done. Even with higher rates and cheaper processes, recycling (25)---- the use oflithium batteries until 10 or more years after mass-market penetration of EVs. But newer cathode chemistries offer hope. (26)----recently developed nickel-rich and cobalt-free formulations, cobalt demand may decline.",
+    "stem": null,
+    "options": [
+      "call off",
+      "rely on",
+      "take in",
+      "go through",
+      "cut down"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q23",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2018-sonbahar-g22-26",
+    "passage": "An electric car future is speeding closer – economic analysts project that a third of all automobiles could be battery-powered by 2040. Most of these vehicles (22)----large lithium batteries, which prompts worries about whether the world’s lithium supply can keep up. (23)----, another element, cobalt, is a bigger concern. The best lithium battery cathodes (negative electrodes) all contain cobalt, and its production is limited. Even with a very conservative estimate of 10 million electric vehicles (EVs) in 2025, the demand (24)----cobalt that year could reach 330,000 metric tons, whereas the available supply at that time would be at most 290,000 metric tons. Recycling lithium batteries is complicated and rarely done. Even with higher rates and cheaper processes, recycling (25)---- the use oflithium batteries until 10 or more years after mass-market penetration of EVs. But newer cathode chemistries offer hope. (26)----recently developed nickel-rich and cobalt-free formulations, cobalt demand may decline.",
+    "stem": null,
+    "options": [
+      "Consequently",
+      "In conclusion",
+      "At least",
+      "However",
+      "Otherwise"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q24",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2018-sonbahar-g22-26",
+    "passage": "An electric car future is speeding closer – economic analysts project that a third of all automobiles could be battery-powered by 2040. Most of these vehicles (22)----large lithium batteries, which prompts worries about whether the world’s lithium supply can keep up. (23)----, another element, cobalt, is a bigger concern. The best lithium battery cathodes (negative electrodes) all contain cobalt, and its production is limited. Even with a very conservative estimate of 10 million electric vehicles (EVs) in 2025, the demand (24)----cobalt that year could reach 330,000 metric tons, whereas the available supply at that time would be at most 290,000 metric tons. Recycling lithium batteries is complicated and rarely done. Even with higher rates and cheaper processes, recycling (25)---- the use oflithium batteries until 10 or more years after mass-market penetration of EVs. But newer cathode chemistries offer hope. (26)----recently developed nickel-rich and cobalt-free formulations, cobalt demand may decline.",
+    "stem": null,
+    "options": [
+      "for",
+      "into",
+      "about",
+      "from",
+      "to"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q25",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2018-sonbahar-g22-26",
+    "passage": "An electric car future is speeding closer – economic analysts project that a third of all automobiles could be battery-powered by 2040. Most of these vehicles (22)----large lithium batteries, which prompts worries about whether the world’s lithium supply can keep up. (23)----, another element, cobalt, is a bigger concern. The best lithium battery cathodes (negative electrodes) all contain cobalt, and its production is limited. Even with a very conservative estimate of 10 million electric vehicles (EVs) in 2025, the demand (24)----cobalt that year could reach 330,000 metric tons, whereas the available supply at that time would be at most 290,000 metric tons. Recycling lithium batteries is complicated and rarely done. Even with higher rates and cheaper processes, recycling (25)---- the use oflithium batteries until 10 or more years after mass-market penetration of EVs. But newer cathode chemistries offer hope. (26)----recently developed nickel-rich and cobalt-free formulations, cobalt demand may decline.",
+    "stem": null,
+    "options": [
+      "has not reduced",
+      "will not reduce",
+      "does not reduce",
+      "did not reduce",
+      "is not reducing"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q26",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2018-sonbahar-g22-26",
+    "passage": "An electric car future is speeding closer – economic analysts project that a third of all automobiles could be battery-powered by 2040. Most of these vehicles (22)----large lithium batteries, which prompts worries about whether the world’s lithium supply can keep up. (23)----, another element, cobalt, is a bigger concern. The best lithium battery cathodes (negative electrodes) all contain cobalt, and its production is limited. Even with a very conservative estimate of 10 million electric vehicles (EVs) in 2025, the demand (24)----cobalt that year could reach 330,000 metric tons, whereas the available supply at that time would be at most 290,000 metric tons. Recycling lithium batteries is complicated and rarely done. Even with higher rates and cheaper processes, recycling (25)---- the use oflithium batteries until 10 or more years after mass-market penetration of EVs. But newer cathode chemistries offer hope. (26)----recently developed nickel-rich and cobalt-free formulations, cobalt demand may decline.",
+    "stem": null,
+    "options": [
+      "Rather than",
+      "Similar to",
+      "In comparison with",
+      "As opposed to",
+      "Thanks to"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q27",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, but the creation of genetic techniques to safely halt or reverse age-related conditions in humans has so far proven improbable.",
+    "options": [
+      "Some researchers have doubts whether a new genetic technique could be developed as a first step towards the medical world’s fabled ‘elixir of youth’",
+      "It has long been known that manipulating certain genes in an organism can slow ageing and extend its lifespan",
+      "More proof will be needed before new genetic treatments using stem cells can be promoted as the key to turning back the clock on old age",
+      "Ageing of the body is a dynamic process, as often reported by a number of researchers",
+      "The efficacy of new methods utilised to prevent ageing is still questionable"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q28",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because bodybuilders exert large amounts of energy, ----.",
+    "options": [
+      "they are judged on the physical appearance of their muscles and encouraged to focus on body image",
+      "they try to achieve the body type that will help them be effective competitors in their sport",
+      "bodybuilding is the development of the physique through exercise, often for competitive exhibition",
+      "their metabolism generally requires more calories per day than the average person",
+      "bodybuilding is an activity that includes weight training in order to build muscle mass"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q29",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While people can generally cough voluntarily, ----.",
+    "options": [
+      "infectious viruses can be easily transmitted between individuals through coughing",
+      "most people cough once or twice an hour during the day to clear irritants off the airway",
+      "environmental pollutants, such as cigarette smoke and dust, can also cause a cough",
+      "the cough that accompanies a cold usually lasts one to two weeks",
+      "vitamins and minerals may be helpful in treating conditions that lead to coughs"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q30",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When mental disorders, physical conditions, and functional decline co-occur, ----.",
+    "options": [
+      "older adults face a greatly increased risk of hospitalisation and placement in long-term care facilities",
+      "some older adults have been found to be relatively active well into their 80s and 90s",
+      "it is important to note that older adults vary substantially in terms of their physical and mental health",
+      "physical decline is associated with causing a number of mental disorders among older adults",
+      "mental health problems such as depression are not a natural consequence of growing older"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q31",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Unless there are substantial changes in the ways that humans affect ecosystems, ----.",
+    "options": [
+      "we have already caused permanent losses in global biodiversity",
+      "our knowledge of Earth’s species is still incomplete",
+      "there could be as many as 30-50 million species on Earth",
+      "there will be much larger losses of biodiversity in the near future",
+      "the scale by which we consider biodiversity ranges from local to global"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q32",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, our very lives depend on it to sustain agriculture and to keep our bodies healthy.",
+    "options": [
+      "Since scientists have long struggled to comprehend the complexities of the weather",
+      "Just as the Earth’s atmosphere would remain stagnant without weather",
+      "While cold weather might cause us discomfort or even more severe health conditions",
+      "Given that humanity has, indeed, changed the weather",
+      "If predicting the weather is still, in many ways, a haphazard occupation"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q33",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, the nations of Europe raced to colonise the continent.",
+    "options": [
+      "Given that almost all European interaction with Africa took place along the coasts until the 18th century",
+      "Because African responses to the challenge of European imperialism were complex",
+      "Even if colonial administrations enticed or coerced Africans into producing goods for export",
+      "When technological advances made Africa’s interior readily accessible in the late 19th century",
+      "Despite several factors that drove the European scramble for Africa in the 18thcentury"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q34",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, the Romans became the first major society to wear seasonal clothing.",
+    "options": [
+      "Although Romans were very careful about the way they dressed",
+      "As most of what we know about Roman clothing comes from written sources",
+      "Because their empire grew so great and took them into very different climates",
+      "Even if Romans made warm winter boots and the first known raincoat",
+      "Whereas wealthy Romans had slaves to help choose their clothing"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q35",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, the ethnic characteristics and traditions of the Balkan Peninsula’s food culture have been well preserved.",
+    "options": [
+      "Provided that it displays both Asian and western European influences",
+      "Even if meat might not have played a central role in the past",
+      "Even though the eastern influence has been very strong in the last several centuries",
+      "As long as its food culture is shaped by the historic, social and climatic elements",
+      "While the use of numerous spices constitutes the basics of its cuisine"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q36",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The Sung dynasty Chinese (AD 960-1279) had the technology to make rockets, ----.",
+    "options": [
+      "so the first European picture of a rocket was made in 1400",
+      "thus it was occasionally used as a weapon by Europeans",
+      "because the earliest European recipe for black powder appeared in 1265",
+      "but there is no definitive evidence that they did so",
+      "as the origin of the rocket is shrouded in mystery"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q37",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Intelligence, which has been open to a range of definitions due to its abstract nature and thus has become a controversial topic, is usually regarded as a measure of cognitive skills and the ability to solve problems.",
+    "options": [
+      "Çoğunlukla bilişsel becerilerin ve problem çözme yeteneğinin bir ölçütü olarak görülen zekâ, soyut doğasından ötürü bir dizi tanıma açık olduğu için tartışmalı bir konu hâline gelmiştir.",
+      "Zekâ, soyut doğası gereği bir dizi tanıma açık olup tartışmalı bir konu hâline gelse de genellikle bilişsel becerilerin ve problem çözme yeteneğinin bir ölçütü olarak görülmektedir.",
+      "Genellikle bilişsel becerilerin ve problem çözme yeteneğinin bir ölçütü olarak görülen zekânın soyut doğası nedeniyle bir dizi tanıma açık olması, onu tartışılan bir konu hâline getirmiştir.",
+      "Soyut doğasından ötürü bir dizi tanıma açık olan ve bu yüzden tartışmalı bir konu hâline gelen zekâ, genellikle bilişsel becerilerin ve problem çözme yeteneğinin bir ölçütü olarak görülmektedir.",
+      "Zekâ çoğu zaman bilişsel becerilerin ve problem çözme yeteneğinin bir ölçütü olarak görülmüş, soyut doğası gereği bir dizi tanıma açık olmuş ve bundan dolayı tartışmalı bir konu hâline gelmiştir."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q38",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "World War I was supposed to be the war to end all wars, but defeated countries were faced with harsh peace terms, which led to the outbreak of World War II.",
+    "options": [
+      "I. Dünya Savaşı’nın tüm savaşlara son verecek savaş olacağı düşünülüyordu, fakat yenilen ülkelerin ağır barış koşullarıyla karşı karşıya kalması sonucunda II. Dünya Savaşı gerçekleşti.",
+      "Tüm savaşlara son verecek savaş olacağı zannedilen I. Dünya Savaşı’nda yenilen ülkeler ağır barış koşullarıyla karşı karşıya kaldı ve bu durum II. Dünya Savaşı’nın ortaya çıkmasına neden oldu.",
+      "I. Dünya Savaşı’nın tüm savaşları sona erdirecek savaş olacağı zannediliyordu, ancak yenilen ülkeler ağır barış koşullarıyla karşı karşıya kaldı, ki bu da II. Dünya Savaşı’nın ortaya çıkmasına neden oldu.",
+      "II. Dünya Savaşı’nın gerçekleşmesine neden olan şey, I. Dünya Savaşı’nın tüm savaşlara son verecek savaş olacağının düşünülmesine rağmen yenilen ülkelerin ağır barış koşullarıyla karşı karşıya kalmasıydı.",
+      "I. Dünya Savaşı’nın tüm savaşları sona erdirecek savaş olacağına inanılsa da yenilen ülkelerin ağır barış koşullarıyla karşı karşıya kalması, II. Dünya Savaşı’nın ortaya çıkmasına neden oldu."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q39",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Today’s urban developments, coupled with an increasing population, threaten many archaeological sites in Egypt.",
+    "options": [
+      "Günümüzdeki kentsel gelişmeler, nüfus artışının da etkisiyle birlikte, Mısır’daki birçok arkeolojik alan için tehdit oluşturmaktadır.",
+      "Mısır’daki birçok arkeolojik alan, günümüzdeki kentsel gelişmeler ve artmakta olan nüfus yüzünden tehdit altındadır.",
+      "Günümüzdeki kentsel gelişmeler, artmakta olan nüfusla birlikte, Mısır’daki birçok arkeolojik alanı tehdit etmektedir.",
+      "Günümüzdeki kentsel gelişmeler, nüfus artışını beraberinde getirerek Mısır’daki birçok arkeolojik alan için tehdit oluşturmaktadır.",
+      "Günümüzdeki kentsel gelişmelerin artmakta olan nüfusla desteklenmesi, Mısırda'ki birçok arkeolojik alanı tehdit etmektedir."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q40",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Makro fotoğrafçılığın en önemli tekniklerini keşfetmek için, fotoğrafçılar bir bahçede ışık ve konumla çalışmalı ve ufak hareketlerle arka planın nasıl değiştiğini fark etmelidir.",
+    "options": [
+      "The key techniques of macro photography include working with light and position in a garden, through which photographers can notice how the background changes with slight moves.",
+      "Discovering the key techniques of macro photography requires photographers to work with light and position in a garden and to notice how the background changes with their slight moves.",
+      "To notice the key techniques of macro photography, photographers may work with light and position in a garden and discover how the background changes in accordance with slight moves.",
+      "To discover the key techniques in macro photography, photographers need to work with different ranges of light and position in a garden and notice the changes in the background caused by slight moves.",
+      "To discover the key techniques of macro photography, photographers should work with light and position in a garden and notice how the background changes with slight moves."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q41",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Hastalığın biyolojik doğası kültürden kültüre değişmese de hastalıkların nasıl algılandığının ciddi bir biçimde değişiklik gösterdiğine dair net kanıtlar vardır.",
+    "options": [
+      "The biological nature of disease does not change from one culture to another, though we have clear evidence showing that how diseases are understood is dramatically different.",
+      "While the biological nature of disease differs slightly from one culture to another, there is dramatic variation in how diseases are understood, as shown by clear evidence.",
+      "Even if there is clear evidence suggesting that how diseases are understood varies dramatically from one culture to another, the biological nature of disease remains constant.",
+      "Although the biological nature of disease does not change from one culture to another, there is clear evidence that how diseases are understood varies dramatically.",
+      "There is clear evidence suggesting that the biological nature of disease does not change, but how diseases are understood varies to a great extent from one culture to another."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q42",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Akademik başarısızlığın önlenmesi ciddi bir konudur çünkü akademik başarısızlığa uğrayan çocuklar yaşamları boyunca önemli sosyal ve ekonomik problemler yaşarlar.",
+    "options": [
+      "It is important that academic failure is prevented since children who fail academically are likely to suffer from significant social and economic problems throughout their lives.",
+      "Should academic failure not be avoided, which is a serious subject, children who fail academically face important social and economic problems throughout their lives.",
+      "Prevention of academic failure is a serious subject because children who fail academically experience significant social and economic problems throughout their lives.",
+      "As a subject, prevention of academic failure is serious because children who fail at school go through significant social and economic problems throughout their lives.",
+      "What makes prevention of academic failure a serious subject is that children who fail academically have significant social and economic problems throughout their lives."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q43",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g43-46",
+    "passage": "Video games are likely to affect the way we behave in a number of ways. For instance, there is concern about whether violence in games makes young people more violent. This is controversial even within the scientific community. Numerous studies about the effects of games on the brain have come up with conflicting results. A team of scientists gathered all scientific articles to date and compared results. In total they found 116 experiments, the first from the 1980s. Many compared regular video game players with people who had never played. Changes in the brain were measured using techniques which detect whether brain regions increase or reduce in size and how these changes affect the brain’s activity. The study found that the clearest negative impact is the risk of addiction, which could affect other brain functions. Games that heavily rely on online multiplayer modes are the most associated with addiction, due to social interactions being more rewarding than just playing against the computer. However, since video games usually display increasing levels of difficulty, they are continually challenging our skills, making the brain perform at 100% of its capacity, resulting in effective cognitive training. Video games also contribute to the proper functioning of the brain, and can even improve it.",
+    "stem": "There is a controversy about video games even among scientists because ----.",
+    "options": [
+      "not many scientists have developed the suitable research design to investigate the issue",
+      "video games affect our brains in a number of ways",
+      "scientists are still waiting for convincing findings from clinical testing",
+      "different studies have produced contradictory findings",
+      "there are not many changes in the brains of video game players"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q44",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g43-46",
+    "passage": "Video games are likely to affect the way we behave in a number of ways. For instance, there is concern about whether violence in games makes young people more violent. This is controversial even within the scientific community. Numerous studies about the effects of games on the brain have come up with conflicting results. A team of scientists gathered all scientific articles to date and compared results. In total they found 116 experiments, the first from the 1980s. Many compared regular video game players with people who had never played. Changes in the brain were measured using techniques which detect whether brain regions increase or reduce in size and how these changes affect the brain’s activity. The study found that the clearest negative impact is the risk of addiction, which could affect other brain functions. Games that heavily rely on online multiplayer modes are the most associated with addiction, due to social interactions being more rewarding than just playing against the computer. However, since video games usually display increasing levels of difficulty, they are continually challenging our skills, making the brain perform at 100% of its capacity, resulting in effective cognitive training. Video games also contribute to the proper functioning of the brain, and can even improve it.",
+    "stem": "Why do online multiplayer games tend to be more addictive than others?",
+    "options": [
+      "They display more violence than other games.",
+      "They lead to more conflicting behaviours.",
+      "They help some regions of the brain get bigger.",
+      "They involve communication between players.",
+      "They contribute more to the functioning of the brain."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q45",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g43-46",
+    "passage": "Video games are likely to affect the way we behave in a number of ways. For instance, there is concern about whether violence in games makes young people more violent. This is controversial even within the scientific community. Numerous studies about the effects of games on the brain have come up with conflicting results. A team of scientists gathered all scientific articles to date and compared results. In total they found 116 experiments, the first from the 1980s. Many compared regular video game players with people who had never played. Changes in the brain were measured using techniques which detect whether brain regions increase or reduce in size and how these changes affect the brain’s activity. The study found that the clearest negative impact is the risk of addiction, which could affect other brain functions. Games that heavily rely on online multiplayer modes are the most associated with addiction, due to social interactions being more rewarding than just playing against the computer. However, since video games usually display increasing levels of difficulty, they are continually challenging our skills, making the brain perform at 100% of its capacity, resulting in effective cognitive training. Video games also contribute to the proper functioning of the brain, and can even improve it.",
+    "stem": "Which of the following questions cannot be answered according to the passage?",
+    "options": [
+      "Is there a way to avoid the risk of addiction to video games?",
+      "Is there any research on the effects of video games on the brain?",
+      "Can video games help people socialise with others?",
+      "Can video games better brain functioning?",
+      "Are there any disadvantages associated with video games?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q46",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g43-46",
+    "passage": "Video games are likely to affect the way we behave in a number of ways. For instance, there is concern about whether violence in games makes young people more violent. This is controversial even within the scientific community. Numerous studies about the effects of games on the brain have come up with conflicting results. A team of scientists gathered all scientific articles to date and compared results. In total they found 116 experiments, the first from the 1980s. Many compared regular video game players with people who had never played. Changes in the brain were measured using techniques which detect whether brain regions increase or reduce in size and how these changes affect the brain’s activity. The study found that the clearest negative impact is the risk of addiction, which could affect other brain functions. Games that heavily rely on online multiplayer modes are the most associated with addiction, due to social interactions being more rewarding than just playing against the computer. However, since video games usually display increasing levels of difficulty, they are continually challenging our skills, making the brain perform at 100% of its capacity, resulting in effective cognitive training. Video games also contribute to the proper functioning of the brain, and can even improve it.",
+    "stem": "What is the author’s attitude towards video games?",
+    "options": [
+      "Sarcastic",
+      "Indifferent",
+      "Sceptical",
+      "Objective",
+      "Pessimistic"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q47",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g47-50",
+    "passage": "Nearly 20 US states have started to implement former president Barack Obama’s Clean Power Plan, which places limits on carbon dioxide emissions from power plants in an effort to reduce the impacts of climate change. The plan has been in legal limbo for the past year, yet scientists have now calculated another outcome of the policy: harm to crop yields if the plan is stopped. Along with carbon pollution, coal-fired power plants spew pollutants that form smog, which was already known to contribute to increased rates of asthma and premature deaths. The new research estimates the extent to which smog, under air-pollution policies in place before the Clean Power Plan, would limit production in 2020 of four major crops: corn, cotton, potatoes, and soybeans. Led by environmental engineer Shannon Capps, the research team also estimated the extent to which those crop production losses would shrink under three nationwide counter scenarios. One improved the efficiency of individual power plants. Another modelled a policy similar to the Obama plan, setting state carbon dioxideemission goals for the electricity sector. And the third established a tax on carbon emissions, under which emissions decreased the most. But the greatest drop in smog-forming pollutants – and the greatest gains in crop yields – came from policies such as the Clean Power Plan.",
+    "stem": "Which of the following is true about crop production according to the passage?",
+    "options": [
+      "The losses are insignificant since only four crops are affected.",
+      "Smog has no significant effect on crop production in the US.",
+      "If coal-fired power plant efficiency is improved, crop yields will increase dramatically.",
+      "Coal-fired power plants produce smog, thereby negatively impacting crop yields.",
+      "The losses will continue at the same pace even after implementing the Clean Power Plan."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q48",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g47-50",
+    "passage": "Nearly 20 US states have started to implement former president Barack Obama’s Clean Power Plan, which places limits on carbon dioxide emissions from power plants in an effort to reduce the impacts of climate change. The plan has been in legal limbo for the past year, yet scientists have now calculated another outcome of the policy: harm to crop yields if the plan is stopped. Along with carbon pollution, coal-fired power plants spew pollutants that form smog, which was already known to contribute to increased rates of asthma and premature deaths. The new research estimates the extent to which smog, under air-pollution policies in place before the Clean Power Plan, would limit production in 2020 of four major crops: corn, cotton, potatoes, and soybeans. Led by environmental engineer Shannon Capps, the research team also estimated the extent to which those crop production losses would shrink under three nationwide counter scenarios. One improved the efficiency of individual power plants. Another modelled a policy similar to the Obama plan, setting state carbon dioxideemission goals for the electricity sector. And the third established a tax on carbon emissions, under which emissions decreased the most. But the greatest drop in smog-forming pollutants – and the greatest gains in crop yields – came from policies such as the Clean Power Plan.",
+    "stem": "According to the passage, in order to estimate crop production losses, the new research ----.",
+    "options": [
+      "analysed alternate models using Obama’s Clean Power Plan as a point of reference",
+      "relied upon asthma and premature death statistics",
+      "targeted all crops including corn, cotton, potatoes, and soybeans",
+      "adopted models that were different from the Clean Power Plan",
+      "excluded models based on policies in place before the Clean Power Plan"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q49",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g47-50",
+    "passage": "Nearly 20 US states have started to implement former president Barack Obama’s Clean Power Plan, which places limits on carbon dioxide emissions from power plants in an effort to reduce the impacts of climate change. The plan has been in legal limbo for the past year, yet scientists have now calculated another outcome of the policy: harm to crop yields if the plan is stopped. Along with carbon pollution, coal-fired power plants spew pollutants that form smog, which was already known to contribute to increased rates of asthma and premature deaths. The new research estimates the extent to which smog, under air-pollution policies in place before the Clean Power Plan, would limit production in 2020 of four major crops: corn, cotton, potatoes, and soybeans. Led by environmental engineer Shannon Capps, the research team also estimated the extent to which those crop production losses would shrink under three nationwide counter scenarios. One improved the efficiency of individual power plants. Another modelled a policy similar to the Obama plan, setting state carbon dioxideemission goals for the electricity sector. And the third established a tax on carbon emissions, under which emissions decreased the most. But the greatest drop in smog-forming pollutants – and the greatest gains in crop yields – came from policies such as the Clean Power Plan.",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+      "There is no difference between the Obama plan and other similar plans in terms of reducing emissions.",
+      "Crop production will continue to shrink under all three plans proposed by the researchers.",
+      "Reducing carbon dioxide emissions from power plants will not necessarily increase crop production.",
+      "Policies like the Clean Power Plan are needed to reduce smog rates and increase crop yields.",
+      "Improving the efficiency of power plants is necessary to control crop production losses."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q50",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g47-50",
+    "passage": "Nearly 20 US states have started to implement former president Barack Obama’s Clean Power Plan, which places limits on carbon dioxide emissions from power plants in an effort to reduce the impacts of climate change. The plan has been in legal limbo for the past year, yet scientists have now calculated another outcome of the policy: harm to crop yields if the plan is stopped. Along with carbon pollution, coal-fired power plants spew pollutants that form smog, which was already known to contribute to increased rates of asthma and premature deaths. The new research estimates the extent to which smog, under air-pollution policies in place before the Clean Power Plan, would limit production in 2020 of four major crops: corn, cotton, potatoes, and soybeans. Led by environmental engineer Shannon Capps, the research team also estimated the extent to which those crop production losses would shrink under three nationwide counter scenarios. One improved the efficiency of individual power plants. Another modelled a policy similar to the Obama plan, setting state carbon dioxideemission goals for the electricity sector. And the third established a tax on carbon emissions, under which emissions decreased the most. But the greatest drop in smog-forming pollutants – and the greatest gains in crop yields – came from policies such as the Clean Power Plan.",
+    "stem": "Which of the following would be the best title for the passage?",
+    "options": [
+      "The Importance of the Clean Power Plan",
+      "Three Plans for Crop Production",
+      "Pollution from Power Plants",
+      "Smog: How Harmful Can It Be?",
+      "Why is the Obama Plan in Legal Limbo?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q51",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g51-54",
+    "passage": "Fasting could boost your brainpower. A stomach hormone that stimulates appetite seems to promote the growth of new brain cells and protect them from the effects of ageing ─ and may explain why some people say that fasting makes them feel sharper. Ghrelin is known as the hunger hormone, as it is made by the stomach when it gets empty. If we go a few hours without food, its levels rise in our blood. But there is also evidence that ghrelin can enhance cognition. Animals fed reduced-calorie diets have better mental abilities. Injecting ghrelin into mice improves their performance in learning and memory tests, and seems to boost the number of connections in their brains. Now Jeffrey Davies at Swansea University, UK, and his team have found further evidence that ghrelin can stimulate brain cells to divide and multiply, a process called neurogenesis. When they added the hormone to mouse brain cells grown in a dish, it switched on a gene known to trigger neurogenesis. ‘’If the same happens in animals, this could be how ghrelin affects memory,’’ says Davies, whose work was presented at the British Neuroscience Association conference in 2017. The work may have implications for treating neurodegenerative conditions. Davies’s team have found that ghrelin, or chemicals that act the same way, could help treat some conditions like Parkinson’s disease.",
+    "stem": "According to the passage, the hormone ghrelin ----.",
+    "options": [
+      "is called the hunger hormone because it prevents one from feeling hungry for long hours",
+      "is produced by the body in higher amounts when there are more brain cell connections in the brain",
+      "slows down the neurogenesis process when produced in considerably low amounts",
+      "plays a role in a number of functions from the production of new brain cells to enhanced mental abilities",
+      "affects our appetite in a negative way and causes us to consume more food than we actually need"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q52",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g51-54",
+    "passage": "Fasting could boost your brainpower. A stomach hormone that stimulates appetite seems to promote the growth of new brain cells and protect them from the effects of ageing ─ and may explain why some people say that fasting makes them feel sharper. Ghrelin is known as the hunger hormone, as it is made by the stomach when it gets empty. If we go a few hours without food, its levels rise in our blood. But there is also evidence that ghrelin can enhance cognition. Animals fed reduced-calorie diets have better mental abilities. Injecting ghrelin into mice improves their performance in learning and memory tests, and seems to boost the number of connections in their brains. Now Jeffrey Davies at Swansea University, UK, and his team have found further evidence that ghrelin can stimulate brain cells to divide and multiply, a process called neurogenesis. When they added the hormone to mouse brain cells grown in a dish, it switched on a gene known to trigger neurogenesis. ‘’If the same happens in animals, this could be how ghrelin affects memory,’’ says Davies, whose work was presented at the British Neuroscience Association conference in 2017. The work may have implications for treating neurodegenerative conditions. Davies’s team have found that ghrelin, or chemicals that act the same way, could help treat some conditions like Parkinson’s disease.",
+    "stem": "According to the passage, Jeffrey Davies ----.",
+    "options": [
+      "ended up working on the neurogenesis process by chance when he was working on Parkinson’s disease",
+      "discovered that ghrelin contributes to neurogenesis, which might be the reason why it improves memory",
+      "presented his study at the British Neuroscience Association conference in order to increase awareness of Parkinson’s disease",
+      "thinks that more research on ghrelin is needed in order to understand its effects on Parkinson’s disease",
+      "believes that ghrelin affects memory in mice differently from humans"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q53",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g51-54",
+    "passage": "Fasting could boost your brainpower. A stomach hormone that stimulates appetite seems to promote the growth of new brain cells and protect them from the effects of ageing ─ and may explain why some people say that fasting makes them feel sharper. Ghrelin is known as the hunger hormone, as it is made by the stomach when it gets empty. If we go a few hours without food, its levels rise in our blood. But there is also evidence that ghrelin can enhance cognition. Animals fed reduced-calorie diets have better mental abilities. Injecting ghrelin into mice improves their performance in learning and memory tests, and seems to boost the number of connections in their brains. Now Jeffrey Davies at Swansea University, UK, and his team have found further evidence that ghrelin can stimulate brain cells to divide and multiply, a process called neurogenesis. When they added the hormone to mouse brain cells grown in a dish, it switched on a gene known to trigger neurogenesis. ‘’If the same happens in animals, this could be how ghrelin affects memory,’’ says Davies, whose work was presented at the British Neuroscience Association conference in 2017. The work may have implications for treating neurodegenerative conditions. Davies’s team have found that ghrelin, or chemicals that act the same way, could help treat some conditions like Parkinson’s disease.",
+    "stem": "The underlined phrase in the passage ‘switched on’ is closest in meaning to ----.",
+    "options": [
+      "protected",
+      "covered",
+      "maintained",
+      "transferred",
+      "activated"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q54",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g51-54",
+    "passage": "Fasting could boost your brainpower. A stomach hormone that stimulates appetite seems to promote the growth of new brain cells and protect them from the effects of ageing ─ and may explain why some people say that fasting makes them feel sharper. Ghrelin is known as the hunger hormone, as it is made by the stomach when it gets empty. If we go a few hours without food, its levels rise in our blood. But there is also evidence that ghrelin can enhance cognition. Animals fed reduced-calorie diets have better mental abilities. Injecting ghrelin into mice improves their performance in learning and memory tests, and seems to boost the number of connections in their brains. Now Jeffrey Davies at Swansea University, UK, and his team have found further evidence that ghrelin can stimulate brain cells to divide and multiply, a process called neurogenesis. When they added the hormone to mouse brain cells grown in a dish, it switched on a gene known to trigger neurogenesis. ‘’If the same happens in animals, this could be how ghrelin affects memory,’’ says Davies, whose work was presented at the British Neuroscience Association conference in 2017. The work may have implications for treating neurodegenerative conditions. Davies’s team have found that ghrelin, or chemicals that act the same way, could help treat some conditions like Parkinson’s disease.",
+    "stem": "What is the primary purpose of the author?",
+    "options": [
+      "To describe how the neurogenesis process takes place in human brain",
+      "To highlight that the brain can gain substantial benefits from increased levels of ghrelin",
+      "To discuss whether ghrelin could be used as a treatment for Parkinson’s disease",
+      "To emphasise the importance of Davies’s study on mice and their mental abilities",
+      "To draw particular attention to the 2017 conference held by the British Neuroscience Association"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q55",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g55-58",
+    "passage": "First impressions can affect your life course – how you manage job interviews, whether you gain friends at social gatherings, etc. A study by Harvard psychologist Mahzarin Banaji showed that first impressions can strike us even after we think we have abandoned them. Still, however quickly and unintentionally these impressions form themselves in us, we are not mindless robots. “People have some flexibility,” says psychologist Melissa Ferguson from Cornell University, who is interested in how people form, and change, their impressions of others. She has a guy named Bob to thank for her findings. For her studies, Ferguson introduces test subjects to a fictional character named Bob. Sometimes Bob is portrayed as good, with a list of a hundred nice behaviours. When subjects find out he is convicted of an immoral act involving a child, the good impression of Bob completely flips. Other times, Bob does a hundred things making study subjects see him as a moderately nasty guy. Then it is revealed that Bob donated a kidney to a stranger. Here too, Ferguson's subjects adjusted their opinion; they thought better of him, but still did not think well of him. “They did not flip,” she says. “A single piece of extremely negative information undoes a positive first impression, but it does not work the same way in the opposite direction. It takes more to overcome a negative first impression.”",
+    "stem": "It is understood from the passage that first impressions ----.",
+    "options": [
+      "do not shape our lives profoundly when formed quickly and unintentionally",
+      "might not be as easy to get rid of as we may think",
+      "may be misleading in job interviews or at social gatherings",
+      "lose their effectiveness after a certain amount of time has passed",
+      "have such a strong impact on our lives that it is impossible to change them"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q56",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g55-58",
+    "passage": "First impressions can affect your life course – how you manage job interviews, whether you gain friends at social gatherings, etc. A study by Harvard psychologist Mahzarin Banaji showed that first impressions can strike us even after we think we have abandoned them. Still, however quickly and unintentionally these impressions form themselves in us, we are not mindless robots. “People have some flexibility,” says psychologist Melissa Ferguson from Cornell University, who is interested in how people form, and change, their impressions of others. She has a guy named Bob to thank for her findings. For her studies, Ferguson introduces test subjects to a fictional character named Bob. Sometimes Bob is portrayed as good, with a list of a hundred nice behaviours. When subjects find out he is convicted of an immoral act involving a child, the good impression of Bob completely flips. Other times, Bob does a hundred things making study subjects see him as a moderately nasty guy. Then it is revealed that Bob donated a kidney to a stranger. Here too, Ferguson's subjects adjusted their opinion; they thought better of him, but still did not think well of him. “They did not flip,” she says. “A single piece of extremely negative information undoes a positive first impression, but it does not work the same way in the opposite direction. It takes more to overcome a negative first impression.”",
+    "stem": "What could be concluded from the passage about first impressions?",
+    "options": [
+      "First impressions about people hardly ever change, positively or negatively, even with lots of effort.",
+      "We do not have any control over our first impressions and cannot change them later.",
+      "The effects of positive first impressions last much longer than those of negative first impressions.",
+      "People may sometimes act like mindless robots when it comes to first impressions.",
+      "We can change our first impressions of others later although they are formed unintentionally."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q57",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g55-58",
+    "passage": "First impressions can affect your life course – how you manage job interviews, whether you gain friends at social gatherings, etc. A study by Harvard psychologist Mahzarin Banaji showed that first impressions can strike us even after we think we have abandoned them. Still, however quickly and unintentionally these impressions form themselves in us, we are not mindless robots. “People have some flexibility,” says psychologist Melissa Ferguson from Cornell University, who is interested in how people form, and change, their impressions of others. She has a guy named Bob to thank for her findings. For her studies, Ferguson introduces test subjects to a fictional character named Bob. Sometimes Bob is portrayed as good, with a list of a hundred nice behaviours. When subjects find out he is convicted of an immoral act involving a child, the good impression of Bob completely flips. Other times, Bob does a hundred things making study subjects see him as a moderately nasty guy. Then it is revealed that Bob donated a kidney to a stranger. Here too, Ferguson's subjects adjusted their opinion; they thought better of him, but still did not think well of him. “They did not flip,” she says. “A single piece of extremely negative information undoes a positive first impression, but it does not work the same way in the opposite direction. It takes more to overcome a negative first impression.”",
+    "stem": "What can be concluded from the study conducted by Ferguson?",
+    "options": [
+      "Positive information changes the negative first impressions of people to a great extent even though it is about something trivial.",
+      "Positive first impressions about someone are more likely to turn into negative opinions when a bit of negative information is provided.",
+      "Negative first impressions are more likely to change quickly and easily than positive first impressions.",
+      "When nasty people do something really good, people adopt a positive attitude towards them, ignoring their unpleasant background.",
+      "People tend to have positive first impressions about others most of the time, but later they may change their mind."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q58",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g55-58",
+    "passage": "First impressions can affect your life course – how you manage job interviews, whether you gain friends at social gatherings, etc. A study by Harvard psychologist Mahzarin Banaji showed that first impressions can strike us even after we think we have abandoned them. Still, however quickly and unintentionally these impressions form themselves in us, we are not mindless robots. “People have some flexibility,” says psychologist Melissa Ferguson from Cornell University, who is interested in how people form, and change, their impressions of others. She has a guy named Bob to thank for her findings. For her studies, Ferguson introduces test subjects to a fictional character named Bob. Sometimes Bob is portrayed as good, with a list of a hundred nice behaviours. When subjects find out he is convicted of an immoral act involving a child, the good impression of Bob completely flips. Other times, Bob does a hundred things making study subjects see him as a moderately nasty guy. Then it is revealed that Bob donated a kidney to a stranger. Here too, Ferguson's subjects adjusted their opinion; they thought better of him, but still did not think well of him. “They did not flip,” she says. “A single piece of extremely negative information undoes a positive first impression, but it does not work the same way in the opposite direction. It takes more to overcome a negative first impression.”",
+    "stem": "Which could be the best title for this passage?",
+    "options": [
+      "The Lack of Control over First Impressions",
+      "How to Ward Off Negative First Impressions",
+      "Different Perspectives on First Impressions",
+      "Constructing and Adjusting First Impressions",
+      "Forming Reliable First Impressions"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q59",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g59-62",
+    "passage": "Dating from 1513, a map drawn by Turkish mariner Piri Reis is one of the earliest cartographic depictions of the Americas. Historians have long been fascinated by many aspects of his map, such as its level of accuracy. The route to the New World, the Americas, was at first a secret closely guarded by the Spanish and Portuguese navigators who were exploring the Atlantic – for example, Christopher Columbus, who was working for the Spanish monarchy. Reis surprisingly placed the New World on the correct longitudinal meridian in relation to the African continent. His was the earliest known map to do so. However, similar to other maps of the time, the scale of this map is inconsistent, with the Americas drawn much larger than Africa or Asia. Piri Reis wrote on the map itself that he had consulted other maps in Arabic, including some classical sources. He also referred to four contemporary Portuguese maps, as well as one by Columbus. The mystery remains, however, as to how Piri Reis gained access to Columbus’s discoveries.",
+    "stem": "It can be understood from the passage that Piri Reis’s map ----.",
+    "options": [
+      "was the first one to include depictions of the Americas",
+      "was preceded by others that include Africa",
+      "was not the only map showing the Americas",
+      "is the first example of a marine map",
+      "is more accurate than once believed"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q60",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g59-62",
+    "passage": "Dating from 1513, a map drawn by Turkish mariner Piri Reis is one of the earliest cartographic depictions of the Americas. Historians have long been fascinated by many aspects of his map, such as its level of accuracy. The route to the New World, the Americas, was at first a secret closely guarded by the Spanish and Portuguese navigators who were exploring the Atlantic – for example, Christopher Columbus, who was working for the Spanish monarchy. Reis surprisingly placed the New World on the correct longitudinal meridian in relation to the African continent. His was the earliest known map to do so. However, similar to other maps of the time, the scale of this map is inconsistent, with the Americas drawn much larger than Africa or Asia. Piri Reis wrote on the map itself that he had consulted other maps in Arabic, including some classical sources. He also referred to four contemporary Portuguese maps, as well as one by Columbus. The mystery remains, however, as to how Piri Reis gained access to Columbus’s discoveries.",
+    "stem": "It can be understood from the passage that Spanish and Portuguese explorers ----.",
+    "options": [
+      "were initially very open to providing Piri Reis with information",
+      "wanted to ensure that no others could find their way to the Americas",
+      "were the only ones exploring the Atlantic",
+      "were in direct competition with Christopher Columbus",
+      "worked very closely with monarchies to establish the New World"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q61",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g59-62",
+    "passage": "Dating from 1513, a map drawn by Turkish mariner Piri Reis is one of the earliest cartographic depictions of the Americas. Historians have long been fascinated by many aspects of his map, such as its level of accuracy. The route to the New World, the Americas, was at first a secret closely guarded by the Spanish and Portuguese navigators who were exploring the Atlantic – for example, Christopher Columbus, who was working for the Spanish monarchy. Reis surprisingly placed the New World on the correct longitudinal meridian in relation to the African continent. His was the earliest known map to do so. However, similar to other maps of the time, the scale of this map is inconsistent, with the Americas drawn much larger than Africa or Asia. Piri Reis wrote on the map itself that he had consulted other maps in Arabic, including some classical sources. He also referred to four contemporary Portuguese maps, as well as one by Columbus. The mystery remains, however, as to how Piri Reis gained access to Columbus’s discoveries.",
+    "stem": "The most surprising aspect of Piri Reis’s map is that ----.",
+    "options": [
+      "it was the most complete map of the time",
+      "the scale was consistent with the previous ones",
+      "the locations of Africa and Asia were correctly noted",
+      "his placement of the New World was accurate",
+      "it was the first to include longitudinal meridians"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q62",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2018-sonbahar-g59-62",
+    "passage": "Dating from 1513, a map drawn by Turkish mariner Piri Reis is one of the earliest cartographic depictions of the Americas. Historians have long been fascinated by many aspects of his map, such as its level of accuracy. The route to the New World, the Americas, was at first a secret closely guarded by the Spanish and Portuguese navigators who were exploring the Atlantic – for example, Christopher Columbus, who was working for the Spanish monarchy. Reis surprisingly placed the New World on the correct longitudinal meridian in relation to the African continent. His was the earliest known map to do so. However, similar to other maps of the time, the scale of this map is inconsistent, with the Americas drawn much larger than Africa or Asia. Piri Reis wrote on the map itself that he had consulted other maps in Arabic, including some classical sources. He also referred to four contemporary Portuguese maps, as well as one by Columbus. The mystery remains, however, as to how Piri Reis gained access to Columbus’s discoveries.",
+    "stem": "Which of the following is true about Piri Reis and his map?",
+    "options": [
+      "The Americas appeared much larger than Africa and Asia on Piri Reis's map because he basically relied upon Arabic maps.",
+      "It was impossible that he could have had the same knowledge as Christopher Columbus.",
+      "There is some doubt about how Piri Reis made use of the discoveries of previous explorers and their maps.",
+      "Due to the similarity in scale inconsistencies, it is often considered that Piri Reis essentially copied his classical sources.",
+      "How Piri Reis managed to learn about the discoveries of Columbus is still unknown today."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q63",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Robert: - You've persuaded me to volunteer for that organ donation team, but I can’t figure out what exactly we’re supposed to do. Lee: - The team is trying to encourage families to consider how they would feel about donation if they needed an organ transplant when not enough people give their consent. Robert: - ---- Lee: - Exactly. Surveys show that 30% of people have never discussed organ donation with their friends and relatives.",
+    "options": [
+      "So, as far as I understand, the team is basically trying to raise people’s awareness about the issue.",
+      "I see. People are aware of the importance of organ transplantation but most are unwilling to be donors.",
+      "OK, so non-profit organisations try to ensure that the ethical considerations are understood.",
+      "Yeah, everybody knows that organ transplantation is a must for those who desperately need organs.",
+      "I think more and more people are now well-informed about the challenges of the procedure."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q64",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Journalist: - So, your company has set up a system that offers online clinical-counselling, and you’re the chief operating officer. Do you think e-therapy is more effective for certain people? Psychologist: - Of course, for any therapy to be effective, it has to meet the individual needs of patients. E-therapy may appeal to people looking for convenience, flexibility and privacy, in particular. College students and workers with not much time usually opt for our online services. Journalist: - ---- Psychologist: - People have a tendency to think that because you’re using an online service, it must be impersonal and can’t have the same effect. But it’s not true. The difference in results between e-therapy and a face-to-face one is quite minimal.",
+    "options": [
+      "How do you talk tech-challenged people into e-therapy?",
+      "Why do you think e-therapy will overtake face-to-face therapy?",
+      "What is the biggest myth about e-therapy?",
+      "How does an e-therapy session work?",
+      "How does e-therapy help people with a serious mental illness?"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q65",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Richard: - I saw a video the other day on the Internet about a polyglot. Lucy: - A polyglot? What’s that? Richard: - A polyglot is a person who speaks several different languages. The person in the video I saw speaks eight languages including Portuguese and Chinese. Lucy: - ---- Richard: - There are some methods used. For example, allocating a few hours a day for a language until mastering it, including intense listening and speaking activities.",
+    "options": [
+      "Why aren’t there more people who can speak many languages like this?",
+      "What’s the minimum number of languages needed to describe someone as a polyglot?",
+      "Do you think he’s completely fluent in all eight of those languages?",
+      "How do you think such people manage to learn so many languages?",
+      "How many more languages do you think he can add to his repertoire?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q66",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sarah: - Recently, I’ve read a magazine article, and it says over the first four years of marriage, spouses report a gradual increase in their willingness to forgive each other. Francis: - So, it means they learn to forgive each other as they spend more time together. Sarah: - ---- Francis: - What do you mean? Sarah: - The article says forgiving benefits both partners only if the forgiven partner is agreeable and cooperative. If not, he or she tends to offend again.",
+    "options": [
+      "I think anyone who is in a close relationship will, at some point, have to decide whether or not to forgive.",
+      "Well, I believe the most important thing in relations is mutual trust. If you have it, you don’t experience such forgiveness problems.",
+      "It’s also possible that even if someone wants to forgive, they might not think that the wrongdoer or offender really deserves it.",
+      "One needs to be cautious, though, as forgiveness could backfire, depending on the offending partner’s personality.",
+      "Maybe the reason is that being exposed to situations where forgiveness is required helps one improve that skill."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q67",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Stacy: - I’m so bored with my never-ending to-do list. But I can’t say I’ve been able to cross a single item off the list so far. Carole: - Maybe you should stop procrastinating and just start working on your list. Stacy: - What do you mean? Carole: - ---- Stacy: - I think you’re right, finding another person with the same aspirations will help me take action.",
+    "options": [
+      "I don’t get why you’ve been feeling so desperate about your life plans. You’re one of the most ambitious and motivated people I know.",
+      "Well, I’ve been seeing a psychologist to deal with the same type of issue. Maybe that’s something you can look into as well.",
+      "Life seems to be getting busier for us modern working women. Maybe keeping a diary of goals you’ve achieved will help you stay focused.",
+      "Maybe one way to deal with your problem is just making a habit out of it. I mean you should make a habit of taking action to fulfil your plans.",
+      "You don’t have to keep waiting for the perfect moment. Plus sharing your goals and plans with someone else could be a good idea."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q68",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Mentally healthy adults have a right to refuse medical intervention even if this is likely to result in fatal consequences.",
+    "options": [
+      "No matter how deadly the results of medical intervention are, mentally healthy adults are choosing to reject it.",
+      "If they are mentally healthy, adults could reject medical intervention without considering whether or not such an intervention could lead to some tragic outcomes.",
+      "Regardless of possible deadly results of rejecting medical intervention, adults who are mentally healthy have an entitlement to do it.",
+      "It is a right for mentally healthy adults to oppose medical intervention even though they may be aware of possible deadly results.",
+      "It is possible for mentally healthy adults to consider refusing medical intervention when they are aware of serious implications of this."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q69",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "While some people believe that video games are a waste of time, certain games can be a good vehicle for training specific skills, such as enhancing short-term memory, agility or reaction time.",
+    "options": [
+      "Although some people are convinced that video games are useful in teaching specific skills like improving short-term memory, agility or reaction time, some of them are futile activities, according to some others.",
+      "Certain video games can be good means for practising some specific skills like improving short-term memory, agility or reaction time, but there are some people who believe that video games are of no use.",
+      "Some people assume that video games are time-consuming, although they know that certain video games are efficient tools in teaching specific skills like improving short-term memory, agility or reaction time.",
+      "Video games are thought to be time-consuming; however, they may be beneficial for some people practising certain skills like improving short-term memory, agility or reaction time.",
+      "There are some people who presume that video games are beneficial in specific skills like improving short-term memory, agility or reaction time; however, those games could be a waste of time indeed."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q70",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since December 2014, the Breathe Project in the US has been making use of high definition cameras that let residents monitor the air pollution in their cities online.",
+    "options": [
+      "US residents have been contributing to the Breathe Project since December 2014 by monitoring the air pollution in their cities with online use of high definition cameras.",
+      "In the US, air pollution has been monitored online by the Breathe Project with high definition cameras since December 2014 in order to inform residents about the rates in their cities.",
+      "Residents can reduce air pollution in their cities by using online high definition cameras of the Breathe Project, which was launched by the US in December 2014.",
+      "High definition cameras used by the Breathe Project in the US since December 2014 help residents combat air pollution in their cities through online monitoring.",
+      "High definition cameras that have been utilised by the Breathe Project in the US since December 2014 enable residents to monitor the air pollution in their cities online."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q71",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The growing awareness of the impact of job stress is best illustrated by the sheer increase in the volume of job stress research in recent years.",
+    "options": [
+      "The past few years have witnessed a dramatic rise in the amount of job stress research, which best demonstrates the increasing recognition of the impact of job stress.",
+      "The influence of job stress has increased recently, which is best shown by the awareness that has been substantially enhanced by the growth in the amount of job stress research.",
+      "People are becoming increasingly aware of the volume of job stress research, which has been best illustrated by the recent increase in the influence of job stress.",
+      "Lately, there has been more research in the field of job stress, which means that it may lead to a higher level of consciousness about the influence of job stress.",
+      "Although there has been a considerable increase in the number of studies on job stress recently, there is still a need for greater understanding of the influence of job stress."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q72",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "According to a study in Usenge, Kenya, near the town of Kisimu, most families in the village do not value formal Western schooling. There is no reason they should, as their children will for the most part spend their lives farming or engaged in other occupations that make little or no use of Western schooling. These families emphasise teaching their children the indigenous, informal knowledge that will lead to successful adaptation in the environments in which they will really live. ---- They hope that their children may be able to leave the village and to go to a university. These families tend to emphasise the value of Western education and to devalue indigenous informal knowledge. Thus, the families typically value and emphasise one or the other kind of knowledge, but not both.",
+    "options": [
+      "At the same time, there are some, perhaps not many, families in the village that have different expectations for their children.",
+      "They believe that investing a lot of time in the development of academic skills needed for school success is a poor investment.",
+      "Furthermore, they see the learning of informal knowledge as relevant to their everyday adaptation as a better use of their time.",
+      "Some wealthy and educated parents living in the village share the same opinion with such families and do not favour formal Western schooling.",
+      "In formal Western schooling, however, children typically study a variety of subjects, including maths, foreign languages, etc., from an early age."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q73",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As children move into adolesence, they seek much more autonomy. At this stage, parents must achieve a delicate balance between granting autonomy and making sure their children do not get into situations where problematic or even dangerous behaviour could occur. ---- This makes it likely that their children will be involved with other teens who are enthusiastic about school and not into risk-taking.",
+    "options": [
+      "However, some parents may find it difficult to develop clear rules to ensure the teenager engages in appropriate activities when not under adult supervision.",
+      "It could be helpul if parents establish effective communication with their children with regard to what they are doing each day and foster their academic interests.",
+      "Children who are not regularly monitored by their parents are more likely to adopt destructive habits, suffer from depression, and obtain poor grades.",
+      "The most important issues to consider are the time teens need to be home, where they can go when they are out, and whom they can be with.",
+      "On the contrary, offering numerous opportunities for young people to play a greater role in civic life and governance is another way to prevent problems."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q74",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Medieval Islam became the principal heir to ancient Greek science, and Islamic civilisation remained the world leader in virtually every field of science between 800-1300 AD. The sheer level of scientific activity underlines this point, as the number of Islamic scientists during the four centuries after the Prophet matched the number of Greek scientists during the four centuries following Thales. Islamic scientists established the first truly international scientific community, stretching from Iberia to Central Asia. ---- A moment’s thought, however, shows how unreasonable it is to evaluate the history of Islamic science only or even largely as a link to European science, or even to subsume Islamic science into the ‘Western tradition’. Medieval Islam and its science must be judged on their own terms, and those terms are as much Eastern as Western.",
+    "options": [
+      "Early Islamic rulers encouraged the mastery of foreign cultural traditions, including notably Greek philosophy and science.",
+      "Yet, medieval Islamic science is sometimes dismissed as a conduit passively transmitting ancient Greek science to the European Middle Ages.",
+      "Islam was and is based on literacy and the holy book of the Quran, and contrary to the popular view, Islam showed itself tolerant toward others.",
+      "The result was another hybrid society, the cultural ‘Hellenisation’ of Islam and its typically bureaucratised institutions.",
+      "The institutional aspects of Islamic science are only beginning to be studied with scholarly rigour, and nothing like a full historical survey exists for the Islamic case."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q75",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though there are a number of teaching approaches, the literature indicates that teachers have two primary orientations to teaching: an orientation toward conveying knowledge and an orientation toward facilitating learning. ---- On the other hand, if the teacher wants to maximise students’ understanding, he or she will probably focus on the integration and elaboration of information in ways that could facilitate meaningful learning and critical thinking.",
+    "options": [
+      "Interestingly, teachers’ approaches to teaching are also mediated by situational and contextual factors in addition to a number of other factors.",
+      "Hence, the various characteristics of students in these classrooms will influence the approach to teaching as well as its outcomes.",
+      "For example, a teacher whose goal of teaching is to transmit and increase knowledge will likely focus on the content and provide structured learning experiences.",
+      "Moreover, it is generally known that the values and beliefs of teachers influence their perceptions and judgements and also affect their behaviour in the classroom.",
+      "Furthermore, this teacher might believe that students should be rewarded for good work and penalised for lack of effort and poor work."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q76",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) In ancient time-measurement systems, including those of both Egypt and China, daylight and night-time were each given 12 hours. (II) This was convenient for use with sundials, which are known from Egypt as early as 1500 BC, although telling the time 'by the Sun' probably predates the first humans. (III) However, because the length of daylight and night-time varies with the season, so did the length of the sundials. (IV) When water clocks came into use, shortly after them, a conflict between the two forms of measurement became apparent. (V) In the 8th century AD, the Chinese began to add primitive but a bit more sophisticated equipment to water clocks.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q77",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Early world history focuses on agricultural civilisations, but it must also pay attention to regions that developed different kinds of economies and different organisational structures. (II)The development of agriculture was a radical change in humans' way of life.(III) By providing a dependable source of food, it allowed people to live in larger groups. (IV)Later on, toolmaking technology advanced with the discovery of metalworking, which in turn further increased agricultural production.(V) Increased production freed some members of the society to perform other kinds of work and this in turn encouraged a further series of organisational changes we call civilisation.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q78",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Most non-marine food chains depend on insects. (II) Almost all birds eat insects, and even those that eat seeds as adults still feed insects to their young. (III) If there were no longer any insects, we would not need the 430,000 tonnes of insecticides that are sprayed onto crops every year. (IV) Insects also break down plant matter and help recycle nutrients into the soil. (V) Without any insects at all, most bird and amphibian species would be extinct in two months.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q79",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) In its earlier days, people treated the experience of watching television rather like that of the cinema, but in many ways, television is nothing like cinema. (II)While film is designed to be a public event and its characteristic mode is a complete performance, television is a procession of segments arranged as a series and watched privately or domestically. (III) Communal watching of programmes provides opportunities for displays of family warmth and affection, so television watching may promote strong emotional connections among families and friends. (IV)Contrary to the intense quality of film that receives sustained attention from the audience, television watching is more casual and episodic. (V)Another obvious distinction is that films typically start with a disordered narrative and move through a series of ups and downs to a resolution, but television presents itself as a set of repeated segments which do not always form a unity of any kind.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q80",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Martin Luther King Jr. was born in 1929 and grew up in the Deep South, a region of America with a history scarred by slavery and racial segregation. (II) An intelligent and deeply religious man, he attended college at the early age of 15 and went on to study theology, receiving his doctorate in 1955. (III) King was inspired by early civil right leaders, such as Howard Thurman, who knew his father and was a trusted mentor. (IV)In 1963, King led the ‘March on Washington’, a huge event where thousands gathered on the National Mall to hear him speak. (V) He also looked up to Mahatma Gandhi, and was to adopt his teachings of non-violent resistance in his own struggle for equality in the US.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

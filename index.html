@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="YDS" />
+<meta name="theme-color" content="#12131a" />
+<link rel="apple-touch-icon" href="icons/icon-180.png" />
+<link rel="icon" href="icons/icon-192.png" />
+<link rel="manifest" href="manifest.webmanifest" />
+<link rel="stylesheet" href="css/styles.css" />
+<title>YDS Calisma</title>
+</head>
+<body>
+
+<div id="app">
+
+  <!-- ===================== ANA EKRAN ===================== -->
+  <section id="screen-home" class="screen is-active">
+    <header class="app-header">
+      <h1 class="app-title">YDS</h1>
+      <p class="app-subtitle">Calisma araci</p>
+    </header>
+
+    <div id="continue-banner" class="continue-banner" hidden>
+      <div>
+        <strong>Devam eden test var</strong>
+        <span id="continue-info"></span>
+      </div>
+      <button id="continue-btn" class="btn-small">Devam et</button>
+    </div>
+
+    <div class="due-badge" id="due-badge">
+      Bugun tekrar: <strong id="due-count">0</strong> soru
+    </div>
+
+    <div class="mode-grid">
+      <button class="mode-card" data-mode="mock">
+        <span class="mode-title">Tam Deneme</span>
+        <span class="mode-desc">80 soru &middot; 180 dakika</span>
+      </button>
+      <button class="mode-card" data-mode="type">
+        <span class="mode-title">Tek Tip Calisma</span>
+        <span class="mode-desc">Bir soru turu sec</span>
+      </button>
+      <button class="mode-card" data-mode="wrong">
+        <span class="mode-title">Yanlislarim</span>
+        <span class="mode-desc" id="wrong-count-label">-</span>
+      </button>
+      <button class="mode-card" data-mode="due">
+        <span class="mode-title">Bugunun Tekrari</span>
+        <span class="mode-desc" id="due-count-label">-</span>
+      </button>
+      <button class="mode-card" data-mode="weak">
+        <span class="mode-title">Zayif Yonum</span>
+        <span class="mode-desc" id="weak-type-label">Henuz veri yok</span>
+      </button>
+      <button class="mode-card" data-mode="vocab">
+        <span class="mode-title">Kelime Modu</span>
+        <span class="mode-desc">Frekansa gore calis</span>
+      </button>
+    </div>
+  </section>
+
+  <!-- ===================== TIP SECIM PANELI ===================== -->
+  <section id="screen-type-select" class="screen">
+    <header class="sub-header">
+      <button class="icon-btn" data-back>&#8592;</button>
+      <h2>Soru turu sec</h2>
+    </header>
+    <div id="type-list" class="type-list"></div>
+  </section>
+
+  <!-- ===================== TEST EKRANI ===================== -->
+  <section id="screen-quiz" class="screen">
+    <header class="quiz-header">
+      <button id="quiz-exit" class="icon-btn" aria-label="Cik">&times;</button>
+      <div class="quiz-progress"><div id="quiz-progress-bar" class="quiz-progress-bar"></div></div>
+      <div id="quiz-counter" class="quiz-counter">1/80</div>
+    </header>
+    <div id="quiz-timer" class="quiz-timer" hidden></div>
+
+    <div id="quiz-body" class="quiz-body">
+      <p id="quiz-passage" class="passage" hidden></p>
+      <p id="quiz-stem" class="stem"></p>
+      <div id="quiz-options" class="options"></div>
+    </div>
+
+    <div id="quiz-explanation" class="explanation-card" hidden>
+      <div class="explanation-badge" id="explanation-badge"></div>
+      <p id="explanation-correct"></p>
+      <p id="explanation-distractor"></p>
+      <p id="explanation-takeaway"></p>
+    </div>
+
+    <footer class="quiz-footer">
+      <button id="quiz-next" class="btn-primary" hidden>Sonraki soru</button>
+    </footer>
+  </section>
+
+  <!-- ===================== SONUC EKRANI ===================== -->
+  <section id="screen-result" class="screen">
+    <header class="sub-header">
+      <h2>Sonuc</h2>
+    </header>
+    <div id="result-body" class="result-body"></div>
+    <div class="result-actions">
+      <button id="result-review-btn" class="btn-secondary">Yanlislari gozden gecir</button>
+      <button id="result-home-btn" class="btn-primary">Ana sayfa</button>
+    </div>
+  </section>
+
+  <!-- ===================== ISTATISTIK ===================== -->
+  <section id="screen-stats" class="screen">
+    <header class="sub-header">
+      <button class="icon-btn" data-back>&#8592;</button>
+      <h2>Istatistik</h2>
+    </header>
+    <div id="stats-body" class="stats-body"></div>
+  </section>
+
+  <!-- ===================== KELIME MODU ===================== -->
+  <section id="screen-vocab" class="screen">
+    <header class="sub-header">
+      <button class="icon-btn" data-back>&#8592;</button>
+      <h2>Kelime modu</h2>
+      <span id="vocab-progress" class="vocab-progress"></span>
+    </header>
+    <div id="vocab-card" class="vocab-card">
+      <div class="vocab-word" id="vocab-word"></div>
+      <div class="vocab-exam-count" id="vocab-exam-count"></div>
+      <div class="vocab-reveal" id="vocab-reveal" hidden>
+        <div class="vocab-translation" id="vocab-translation"></div>
+        <div class="vocab-pos" id="vocab-pos"></div>
+        <div class="vocab-example" id="vocab-example"></div>
+        <div class="vocab-links" id="vocab-links"></div>
+      </div>
+      <button id="vocab-show-btn" class="btn-secondary">Cevabi goster</button>
+      <div id="vocab-answer-buttons" class="vocab-answer-buttons" hidden>
+        <button id="vocab-dont-know" class="btn-wrong">Bilmiyorum</button>
+        <button id="vocab-know" class="btn-correct">Biliyorum</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== AYARLAR ===================== -->
+  <section id="screen-settings" class="screen">
+    <header class="sub-header">
+      <button class="icon-btn" data-back>&#8592;</button>
+      <h2>Ayarlar</h2>
+    </header>
+    <div class="settings-body">
+      <button id="export-btn" class="btn-secondary full">Ilerlemeyi disa aktar (JSON)</button>
+      <label class="btn-secondary full file-label">
+        Ilerlemeyi ice aktar (JSON)
+        <input type="file" id="import-input" accept="application/json" hidden />
+      </label>
+      <button id="reset-btn" class="btn-danger full">Tum ilerlemeyi sifirla</button>
+      <p class="settings-note">Ilerleme sadece bu cihazdaki taraycida (localStorage) tutulur. iOS zaman zaman site verisini temizleyebilir; duzenli disa aktarma onerilir.</p>
+    </div>
+  </section>
+
+  <!-- alt gezinme cubugu (ana ekranlarda gorunur) -->
+  <nav class="bottom-nav" id="bottom-nav">
+    <button data-nav="home" class="nav-btn is-active">Ana Sayfa</button>
+    <button data-nav="stats" class="nav-btn">Istatistik</button>
+    <button data-nav="settings" class="nav-btn">Ayarlar</button>
+  </nav>
+
+</div>
+
+<!-- ===================== KELIME BOTTOM SHEET ===================== -->
+<div id="word-sheet" class="word-sheet">
+  <div id="word-sheet-backdrop" class="word-sheet-backdrop"></div>
+  <div id="word-sheet-inner" class="word-sheet-inner">
+    <div id="word-sheet-handle" class="word-sheet-handle"></div>
+    <div class="word-sheet-content">
+      <div class="word-sheet-title-row">
+        <span id="word-sheet-word" class="word-sheet-word"></span>
+        <span id="word-sheet-pos" class="word-sheet-pos"></span>
+      </div>
+      <p id="word-sheet-translation" class="word-sheet-translation"></p>
+      <p id="word-sheet-example" class="word-sheet-example"></p>
+      <p id="word-sheet-exam-count" class="word-sheet-exam-count"></p>
+      <div id="word-sheet-links" class="word-sheet-links"></div>
+      <button id="word-sheet-save" class="btn-secondary full">Kelimelerime ekle</button>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

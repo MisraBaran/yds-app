@@ -1,0 +1,4932 @@
+[
+  {
+    "id": "2013-sonbahar-q27",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, but the remains they recovered early on held little information about the birds they came from.",
+    "options": [
+      "The fossil record of penguins began to improve in the late 1970s",
+      "Geographic distribution of penguins reflects a single point of origin near South America",
+      "The very first penguin fossil to be identified was a single bone found in New Zealand",
+      "Scientists have known about fossil penguins for more than 150 years",
+      "Penguins are weird birds in that they cannot fly and are instead proficient swimmers"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q28",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even if we were to stabilize greenhouse gas emissions today, ----.",
+    "options": [
+      "the rising temperature trend that we are witnessing today might destabilize automobile emissions",
+      "this problem can be attributed to the variations in the output of the Sun",
+      "both temperatures and sea levels would continue to rise for many hundred years",
+      "some environmental problems are the results of centuries of pollution",
+      "we cannot immediately stop various global cultural phenomena that are in action"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q29",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, diets that include a variety of healthy food are more likely to produce long-term results.",
+    "options": [
+      "Now that there has been a recent decline in fat consumption in Turkey over the short term",
+      "Unless we develop reasonable and healthy eating patterns",
+      "Although restricting or eliminating a food category is nutritionally unwise",
+      "Due to the fact that a vegetarian diet is a good choice for some people but not for others",
+      "Whether they are part of a formal weight-loss program or a personal attempt"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q30",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In trying to understand the development of language, ----.",
+    "options": [
+      "human language utilizes a fairly small number of sounds",
+      "the grammar of a language represents the linguistic knowledge or capacity of its speakers",
+      "our curiosity about ourselves has also led to numerous theories about language origin",
+      "language is a part of our essential human nature and was never invented",
+      "scholars, for ages, have been debating the role played by the vocal tract and the ear"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q31",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Thanks to vaccinations, antibiotics, sanitation and better parental care, ----.",
+    "options": [
+      "age is the biggest risk factor for common deadly illnesses",
+      "today, we are much more likely to die in old age than in our youth",
+      "a high childhood death rate is still a fact in most of the African states",
+      "an infant born today is not luckier than their grandparents",
+      "it would not be reasonable to have high expectations to live longer and healthier"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q32",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Some sorts of music strike us with their perfection, ----.",
+    "options": [
+      "as everyone cannot get the same pleasure from a certain kind of music",
+      "though we may have difficulty identifying what emotion they express",
+      "while reggae is a music style which is completely responsibility-free for the society",
+      "but artists can organize their work in such a way that only a group of people enjoy it",
+      "thus there is no reason to think that things stand differently with artwork"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q33",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, few realize how changes to their sleep pattern can have a significant effect as well.",
+    "options": [
+      "When a bad night’s sleep ruins the whole day of a person",
+      "Once sleepless people seek a solution by taking drugs to overcome insomnia",
+      "Because doctors prescribe medicine to regulate sleeping patterns of the elderly",
+      "Though many insomniacs have been seriously advised to cut out drinks containing caffeine",
+      "While most people appreciate how their health is tied to their diet and exercise"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q34",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because the relationship between government and business is complex, where so much changes so rapidly, ----.",
+    "options": [
+      "newsletters were produced for smooth exchanges of information between the two",
+      "highly specialized publications serve such industries as petroleum, aerospace and electronics",
+      "some modest-looking newsletters may carry a subscription price tag of hundreds of dollars",
+      "the subscriber pays for the information, not necessarily the literary style or production values",
+      "further need arises for swift, expert and specialized media to explain the latest developments"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q35",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, they develop non-verbal communication with others.",
+    "options": [
+      "If some people have serious problems due to psychological disorders",
+      "As deaf people are actually slightly more prone to auditory hallucinations",
+      "Unless people can successfully internalize their thoughts",
+      "Before children acquire language as infants and produce their first words",
+      "As long as extremely shy personalities lack interaction even with their family members"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q36",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "How responsibilities are planned and handled is changing in many companies ----.",
+    "options": [
+      "due to the latest technological tools that are available",
+      "although starting a new job may offer great opportunities",
+      "whereas telemarketing is rapidly growing its sales force",
+      "as opposed to buyers who demand technological innovation",
+      "when some salespeople are expected to be marketing managers"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q27",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "If you own a property in Turkey but do not want to live in it all year round, ----.",
+    "options": [
+      "you can always rent it as a holiday home",
+      "you should remember that the Turkish holiday season is very short",
+      "some people hope to make a quick return on their investment",
+      "you should try and get used to the local culture",
+      "it is possible that it will lose its value dramatically"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q28",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When a radically new form of the flu virus evolves, ----.",
+    "options": [
+      "the experts have decided which three strains of the virus are likely to be most prevalent next year",
+      "we have been using vaccines to protect against seasonal flu for over 60 years",
+      "it can rapidly spread across the globe, claiming lives along the way",
+      "around the world, labs are working towards such a universal flu vaccine",
+      "a universal flu vaccine fails to provide any protection against catching a cold"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q29",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even if you learn only a few Turkish words as a tourist, ----.",
+    "options": [
+      "Turkey is as safe to visit as anywhere else in Europe",
+      "you should check opening times before setting out on any sightseeing expedition",
+      "Turks will respect any attempt at their difficult language",
+      "many English language publications are available in major cities in Turkey",
+      "public telephones will prompt you to select the language of your choice"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q30",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since they have a tendency to have chronic illnesses, ----.",
+    "options": [
+      "health care professionals build interdisciplinary teams to develop innovative strategies",
+      "some people can benefit from increases in healthy life expectancy",
+      "wealthy people have a longer life span compared to poor people",
+      "the majority of people in the West make group rather than individual physician appointments",
+      "older people use health care service more heavily than younger people"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q31",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As contradictory health advice appears in tabloid newspapers on an almost daily basis, ----.",
+    "options": [
+      "people argue whether sunlight is beneficial or harmful to human health",
+      "sunlight does not just affect your state of mind but your body",
+      "the ultraviolet B radiation in sunlight encourages your body to make vitamin D",
+      "children in sunny Australia have been found to be more prone to egg allergy",
+      "it is too much sunshine that poses the problem when skin cancer is concerned"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q32",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Some species become extinct every year due to hunting, ----.",
+    "options": [
+      "as animals like foxes and racoons have adapted to increased urbanization and now live in parks",
+      "yet, in some parts of the world, animals such as zebras and rhinos are protected in wildlife reserves",
+      "so pollution of oceans kills animals and plants and poisons their habitats",
+      "though cultivating more and more land has led to the loss of habitats like rainforests",
+      "and ecology explains how individual species fit into the natural world"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q33",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, coffee is surely known to stimulate the nervous system, acting on both mental and physical functioning.",
+    "options": [
+      "Because it is recommended for some digestive problems",
+      "If the properties of caffeine need to be more scientifically evaluated",
+      "Given that excessive coffee consumption leads to insomnia and anxiety",
+      "While its effects on sleep may vary from one individual to another",
+      "As many women suffering from bladder pain agree that caffeine drinks irritate a sensitive bladder"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q34",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "A growing body of research shows that being bad can actually be good, ----.",
+    "options": [
+      "but the trick is knowing exactly when and where to show your dark side",
+      "whereas lying and cheating are regarded by some people as positive traits that can make us stronger",
+      "because groups that behave nicely do better than groups that fight",
+      "though you may think your greatest threat is still your fellow men",
+      "as a result, we have developed polite behaviour, morality and law"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q35",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Anger and sadness are an important part of life, ----.",
+    "options": [
+      "so you may not want to express how you feel to another person",
+      "as positive thoughts and emotions can boost self-esteem",
+      "while unpleasant feelings are as crucial as enjoyable ones",
+      "although many people find it helpful to breathe slowly while learning to tolerate strong feelings",
+      "and new research shows that experiencing such emotions are vital to our mental health"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q36",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, many of the main tourist attractions in London are fairly close to one another.",
+    "options": [
+      "Although the city is much more spread out than other European capitals",
+      "Now that hotel prices tend to stay high all year round",
+      "As the city is facing an increasing migration problem",
+      "Given that the routes for many places will take you to the past",
+      "Despite the fact that it is an excellent city for walkers with its parks"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q27",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the Internet can present threats ----.",
+    "options": [
+      "psychological research suggests that most people use the Internet in ways to enhance their social relationships and personal well-being",
+      "growing numbers of people are reluctant to rely on e-mail both for business and keeping in touch with friends and relatives",
+      "critics worry that the Internet typically offers more than superficial contact with strangers",
+      "the fact that young people often know more about computers than their parents do can add to concerns",
+      "computer use can account for the low academic achievement of students"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q28",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even if DNA may have influence on our moral character ----.",
+    "options": [
+      "it is widely believed that we are products of our social and cultural environment",
+      "such moral understandings are often regulated by religious and legal taboos of various kinds",
+      "thinking of ethics often begins with assumptions about human nature",
+      "people debate whether being moral is simply a matter of obeying social norms",
+      "the story of ethics is to some extent a description of attempts to legalize morality"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q29",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As long as there are sufficiently large volumes of information ----.",
+    "options": [
+      "it is easy to get a machine to learn to do complicated things",
+      "the complexity arises from the vast numbers of connections within the system",
+      "human-like machines have begun to influence every realm of life",
+      "people would need to change their ideas about what artificial intelligence means",
+      "people have expressed their concerns about privacy in an age of computerised systems"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q30",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As the age of children rises, needing less care ----.",
+    "options": [
+      "mothers pay more attention to the quality of pre-school education",
+      "mothers who have more than two children tend to have some psychological problems",
+      "part-time work has developed because of women’s preference to work more",
+      "mothers can gradually shift from part-time to full-time work",
+      "the low level of care provided by governments becomes an important factor"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q31",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In spite of the current Japanese dominance of the region ----.",
+    "options": [
+      "the importance of regional economic blocs is likely to continue to increase in Tokyo",
+      "the China-based economy of Asia is rapidly emerging as a new centre for industry and commerce",
+      "Japan is one of the world’s most unstable geological zones, and Japan experiences more than 1,000 earthquakes per year",
+      "culture and religion can also form different types of national sub-groups",
+      "Japan has had an enviable record for growth and prosperity"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q32",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Spending money on others can provide happiness ----.",
+    "options": [
+      "even when you use your own hard-earned cash",
+      "once people in poor countries have tried to meet their own basic needs",
+      "although the tendency to experience joy from helping is part of human nature",
+      "after children can get pleasure from helping others",
+      "whereas charities make it easy for donors to see how their contributions are used"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q33",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "All parents struggle to find the right balance between encouragement and discipline ----.",
+    "options": [
+      "when it comes to raising their kids",
+      "although they already know the causes",
+      "since they have accomplished this important duty",
+      "because neighbours always complain about their children",
+      "as children need to be loved by their parents"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q34",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- your body will be supplied with higher levels of energy and become more resistant to diseases.",
+    "options": [
+      "Just as a number of supplements can be used to make up for calcium deficiency",
+      "Even if you change your eating habits and avoid living a stressful life",
+      "Although you have routine blood-pressure or cholesterol level checks",
+      "Once you get used to consuming vitamin-rich vegetables like broccoli and cabbage",
+      "Unless you strengthen your muscles and bones through regular exercise"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q35",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Parasites live on or inside other living beings ----.",
+    "options": [
+      "and there are more than 1,000 types that can live inside humans",
+      "so some animals prefer to spend most of their time alone",
+      "although animals are the only living things with muscles and nerves for movement and sensation",
+      "because defensive animals have avoidance methods such as speed and colour",
+      "but the heat of cold-blooded animals comes from outside the body"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q36",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "We often forget the value of things surrounding us ----.",
+    "options": [
+      "for some aspects of life inspire pride in our cultural heritage",
+      "even if people avoid paying attention to old crafts and skills that were once crucial",
+      "and only when seen through the eyes of tourists do we revalue our culture",
+      "since some rituals and ceremonies have been so common in some civilizations",
+      "so we learn to appreciate more fully the importance of culture"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q27",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Established originally in the 18thcentury to make medicinal chocolates, ----.",
+    "options": [
+      "chocolate factories were to remain small-scale and conventional small industries for two centuries",
+      "other inventive methods were busily engaged in revolutionizing the chocolate industry",
+      "chocolate was introduced to Switzerland by Italian merchants in 1750",
+      "milk chocolate was born in Switzerland, earning worldwide fame for the country",
+      "fashionable beverage consumption was the latest trend in the chocolate houses of London"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q28",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While you can easily rent a car and drive around Morocco, ----.",
+    "options": [
+      "the road regulations can be quite confusing",
+      "the local drivers are often courteous",
+      "even the exploration of cities on foot is easier",
+      "the land and culture offer exciting experiences",
+      "they charge a fixed rate and a small commission"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q29",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- unless they are heading back to their birthplace.",
+    "options": [
+      "Money is an important aspect when migrants decide to leave their home country",
+      "There are now more humanitarian groups providing assistance around the world",
+      "People usually do not move to lower-income countries",
+      "Governments should do something to stop massive immigration",
+      "Highly-skilled people are always in great demand and attract foreign aid"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q30",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though reason is insufficient for being the source of morality, ----.",
+    "options": [
+      "morality consists solely in the relation of actions to the rule of right",
+      "it plays an essential role in justifying moral decisions",
+      "what exists in the nature of things is the equality of our judgement",
+      "no one reasons concerning another’s beauty, but the justice or injustice of his actions",
+      "moral relations are determined by the comparison of an action to a rule"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q31",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the pearl collection industry collapsed as a result of the economic change in the early 1930s, ----.",
+    "options": [
+      "the natural resources lost their attraction centre",
+      "many of its characteristic features and practices survive",
+      "pearl is still found in many oyster beds in open seas",
+      "other developments worsened this change",
+      "the unknown pearl areas may just be discovered by underwater historians"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q32",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Malaria, a mosquito-borne disease, is one of the greatest threats to human health, ----.",
+    "options": [
+      "so mosquitoes find their victims easily thanks to their excellent sense of smell",
+      "although there is hardly any chance of surviving a severe attack of malaria without drugs",
+      "as deaths from malaria have fallen more than 25 percent over the last decade",
+      "but a mosquito can transfer hundreds of parasites with a bite",
+      "and scientists are struggling to defeat it by finding new ways to fight mosquitoes"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q33",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Within the following years, satellites capable of monitoring what people are doing will be coming online ----.",
+    "options": [
+      "so that polluters will easily be spotted from space and penalized",
+      "because it is vital to come up with big ideas about small satellites",
+      "in spite of the fact that there is a team of researchers working on detecting carbon dioxide levels from space",
+      "although penalties for adding pollution to the atmosphere have become more strict",
+      "even if the goal of developing a better understanding of what causes pollution most is achieved"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q34",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Aristophanes, who is a popular ancient Greek comic playwright, is believed to have written thirty plays, ----.",
+    "options": [
+      "though his work is still very influential in the development of Western comedy",
+      "but only less than half of them survive, of which Lysistrata, written in 411 BC, is the most famous",
+      "given that his plays generally deal with an antiwar theme",
+      "even though many of his plays took their name from different themes",
+      "because comic authors in general do not have a high status in society"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q35",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, other changes such as habitat destruction and hunting threaten individual species.",
+    "options": [
+      "Although volcanoes erupt and meteorites hit the Earth",
+      "While global warming, acid rain and holes in the ozone layer can affect the entire life on the planet",
+      "Because life first appeared on the Earth more than 3,5 billion years ago",
+      "As soon as atmospheric gases become part of the water cycle and are carried by the wind",
+      "Though it is difficult to adapt to the harmful materials released into the environment"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q36",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In academic fields such as literature, music and art, the emphasis is frequently on individual tests, personal opinions and other subjective judgments ----.",
+    "options": [
+      "whereas the emphasis is on objectivity in psychology and other natural sciences",
+      "only if natural sciences focus on objectivity and social interaction",
+      "unless the target of academic inquiry necessitates the researcher to repeat the experiment",
+      "so that professors spend more time on testing hypotheses",
+      "as though natural sciences involve neither subjectivity nor objectivity"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q27",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "We will soon have to find new ways of living that do not harm the environment ----.",
+    "options": [
+      "because researchers aim to make waste products less damaging to the environment",
+      "when humans waste an enormous amount of the Earth's resources",
+      "if we continue using the Earth's resources at current rate",
+      "while the habitats of some species have been largely destroyed by humans",
+      "although environmental organizations are trying to conserve the wildlife"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q28",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many vitamins and minerals are necessary components of our diet ----.",
+    "options": [
+      "unless they are consumed excessively",
+      "although they are basic fuels of life",
+      "but lack of vitamin E can cause skin diseases",
+      "while moderate levels will be beneficial",
+      "even if they help us stay healthy"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q29",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Cosmetics companies have started to remove parabens and other harmful chemicals from their products ----.",
+    "options": [
+      "even though there is not much pressure from regulatory bodies to do so",
+      "when they experience no adverse effects on humans",
+      "even if a link between parabens and breast cancer exists",
+      "because most underarm deodorants do not contain parabens",
+      "although there is a long-running debate about the safety of parabens"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q30",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- he is well known to future generations mostly because of his treasure-filled tomb, which was discovered intact in 1922.",
+    "options": [
+      "After King Tutankhamun's body was mummified and placed in a series of coffins",
+      "Although the grave goods accompanying King Tutankhamun to the afterlife tell much about daily life then",
+      "While King Tutankhamun had little opportunity to achieve greatness in his short life of 18 years",
+      "Because King Tutankhamun died from a fracture in his left leg that became infected with gangrene",
+      "When King Tutankhamun was still a child and under the influence of advisers"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q31",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "NASA's Kepler space telescope was launched in 2009 and stopped gathering data in 2013 after a mechanical failure ----.",
+    "options": [
+      "whereas no input has been detected from it since it broke down",
+      "because during its construction the engineers worked meticulously to maximize its lifespan",
+      "so it searched for planets by measuring the levels in a star's brightness",
+      "yet in its relatively short lifetime it has provided a wealth of discovery",
+      "since it has discovered a group of stars where each star has planets of its own"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q32",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Whereas the aeroplanes of the future were expected to cross oceans and continents as fast as possible in the 1980s ----.",
+    "options": [
+      "we now focus on noise reduction, lighter and stronger materials, and lower fuel consumption",
+      "the race to develop new aircraft technologies is at least as intense now as it was 30 years ago",
+      "the first heavier-than-air machines to fly were kites, invented by the Chinese in about 1000 BC",
+      "the needs of aircraft travellers are very well-matched with the technological development of airlines",
+      "designers have improved the conditions of both the terminals and the neighbourhoods of airports all over the world"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q33",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "To cope with the increasing number of tourists visiting Saudi Arabia ----.",
+    "options": [
+      "investment in the tourism sector is not among the top priorities of the government",
+      "hotel managers say that the average stay for a tourist is between two and seven days",
+      "the government has outlined a plan to invest more money in its airports and transportation",
+      "officials have been concerned about the potential oversupply of hotels in the country",
+      "the country's four main international airports handle most of the domestic air travel"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q34",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- since scholars and researchers have an unrivalled understanding of potential drug targets in the development procedures of new medicines.",
+    "options": [
+      "There is an increasing recognition from scientists that they need to work closely with companies that provide complementary expertise",
+      "The reason for the failure of alternative drugs in the market is their limited efficacy for their targets rather than purely safety",
+      "It is sometimes ignored by authorities that brilliant experts need to be chosen earlier in the development process by the companies",
+      "Academic institutions are falling short of engaging with leading drug companies at an earlier stage of a pharmaceutical development",
+      "Pharmaceutical companies are increasingly turning to collaboration with the academicians at the top ranking universities"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q35",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- so as to maximise the amount of accurate information in hand.",
+    "options": [
+      "The police often have the option of closing an investigation file",
+      "It is highly crucial for the police to interview eyewitnesses",
+      "It would be easy to identify someone with the help of closed-circuit television",
+      "One must realise how important it is to avoid identifying an innocent person as the criminal",
+      "The cognitive interview has proved itself to be more effective than other interview techniques"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q36",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the story of humankind and the peopling of the planet still holds many mysteries ----.",
+    "options": [
+      "receding oceans are likely to expose ancient land bridges between continents",
+      "the most widely accepted theory states that modern humans came out of Africa",
+      "efforts to trace the diversification of animal forms by analyzing the change in DNA are premature",
+      "one of the earliest pieces of art found in Europe can be dated to 24,000 BC",
+      "no one knows where exactly the first agricultural villages appeared"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q27",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Some estimates indicate that sea levels could rise globally by at least one metre by 2080 ----.",
+    "options": [
+      "if municipalities immediately take preventive measures",
+      "though this anticipation is uniform around the world",
+      "unless a sudden rise in sea levels threatens most cities",
+      "since glaciers melt and warmer seas expand",
+      "as coastal areas at extremely low elevations are the most prone to disaster"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q28",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The world's cities are home to more than half of the global population ----.",
+    "options": [
+      "so they are facing unprecedented pressure and demand for investment in infrastructure and urban development",
+      "until they gain recognition as one of the fastest developing regional players in the local sector",
+      "since firms around the world are trying hard to sign a contract to get involved in cities' recreation process",
+      "so that new industrial projects can be designed to deal with the problems resulting from overpopulation",
+      "but governments hope that public transportation systems will encourage people to get out of their cars"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q29",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When someone feels upset about a life event, telling them to cheer up actually makes them feel worse, ----.",
+    "options": [
+      "although pain and sadness are complicated and unpredictable emotions",
+      "since emotional support in stressful situations has positive consequences",
+      "because it simply reminds them that their emotions do not conform to societal expectations",
+      "for it is not easy to get it right, but we should all try",
+      "but we all have unique coping strategies and individual preferences"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q30",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Parts of Antarctica are claimed by seven nations: Argentina, Australia, Chile, France, New Zealand, Norway, and the United Kingdom, ----.",
+    "options": [
+      "given that Antarctica is generally described as having two parts, West Antarctica and East Antarctica",
+      "but Antarctica is located in the far south, and is extremely cold, even during the summer",
+      "therefore, it ranks fifth in size among the world’s continents, being larger than Australia or Europe",
+      "for example, about 98 percent of the land area is permanently covered with ice",
+      "however, their territories are not recognized by the international community"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q31",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Children learn that some types of lying are permissible and encouraged; ----.",
+    "options": [
+      "for example, they can pretend to be happy with a gift they dislike to avoid hurting the giver's feelings",
+      "however, lying to protect oneself from punishment is a behaviour that appears in very young children",
+      "therefore, lying to others is most often seen as an interpersonal failure because it damages trust",
+      "on the contrary, it may seem reasonable to assume that the maintenance of social interaction can require lying",
+      "as a result, parents are generally upset about their children's lying since it is considered socially unacceptable"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q32",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although there is no standard definition for a smartphone, ----.",
+    "options": [
+      "it is a mobile phone with advanced functions in its basic sense",
+      "the first smartphone had a calendar, a calculator, and fax capabilities",
+      "its applications are not often included when you buy it",
+      "whether the smartphone will simply be a computer in the future is not certain",
+      "the number of people using smartphones is increasing day by day"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q33",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the first railroads date back to the mid-16th century used by horsedrawn mining vehicles, ----.",
+    "options": [
+      "in 1916, the world's longest continuous rail line was completed – the 5,600-mile Trans-Siberian railroad took 25 years to build",
+      "railroads continue to dominate as freight carriers in the US and in the rest of the industrialised world",
+      "it was in the early 1800s when they began to really proliferate and push the Industrial Revolution into high gear",
+      "trains still rank higher than most other means of transportation as efficient carriers of freight and passengers",
+      "rail lines crisscrossing South America in the late 1800s helped strengthen the Latin American economy"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q34",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While some hunter-gatherer communities exist even today ----.",
+    "options": [
+      "hunter-gatherer communities lived by searching out food and other things they needed rather than growing or manufacturing them",
+      "the era of hunter-gatherers ended about ten thousand years ago with the appearance of the first agricultural societies",
+      "all hunter-gatherers lived during what is called the 'Palaeolithic Era', which means the era of 'Old Stone Age'",
+      "many gathered the resources they needed for food, for shelter and clothing, and for ritual activities and other purposes",
+      "scholars usually study the physical remains from hunter-gatherer communities in the absence of written evidence"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q35",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "It is not an easy decision for company founders to sell their businesses ----.",
+    "options": [
+      "no matter how much wealth a good sales deal promises to bring to the owner",
+      "as long as successful entrepreneurs can build companies with great values",
+      "even though some employees feel betrayed after a company has been sold",
+      "thanks to being really optimistic about the bright future of their company",
+      "since whether to sell relies partly on the attitudes of their new customers"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q36",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "After securing political and economic stability and overcoming severe flooding, ----.",
+    "options": [
+      "about half of Thailand’s workforce is employed in the agriculture sector",
+      "the Thai economy depends mainly on automotive and electronics manufacturing",
+      "Thailand is now becoming attractive to foreign investors with its ability to recover",
+      "the majority of the population in Thailand are ethnic Thais besides a large ethnic Chinese minority",
+      "Thailand also exports processed foods like frozen shrimp and canned pineapple"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q27",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although buying energy-saving light bulbs and riding your bike to work are the correct choices to save the planet, ----.",
+    "options": [
+      "we cannot imagine these are going to eradicate the problem",
+      "we could save the world by relying on renewable energy sources",
+      "that is what we should already be doing to take action",
+      "small acts of consumption can be politically activating",
+      "it seems that people are in search for a complete solution"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q28",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since we now generate more data every year than the entire planet did up until 2003, ----.",
+    "options": [
+      "libraries continue to keep records of knowledge in the form of books",
+      "it is inconceivable to have effective database management systems",
+      "the way we store and preserve that data has to change",
+      "it is not possible for data stored on digital platforms to vanish",
+      "humanity's cumulative knowledge will not disappear if stored digitally"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q29",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though William Hamilton was not the first person to come up with the idea for a jet boat, ----.",
+    "options": [
+      "Greek scholar Archimedes had the concept of a jet boat when he devised his water screw",
+      "the maneuverability of the jet boat has long made its design highly marketable",
+      "he has been credited with revolutionising the conventional world of boating",
+      "Italian inventor Secondo Campani had devised a remarkably similar jet-powered boat",
+      "he lived in New Zealand, where his boat was able to power quickly through shallow waters"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q30",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although our bones stop growing in length in our late teens, ----.",
+    "options": [
+      "there is some evidence that too little or too much protein can reduce bone strength",
+      "it is crucial that we get necessary nutrients to keep them strong and healthy right through adulthood",
+      "from the first few weeks after pregnancy, our bones grow and develop healthy and strong bone tissues",
+      "sources of dairy and non-dairy calcium can help fight even hereditary bone conditions",
+      "low bone density disease is largely preventable at any age with the right diet and lifestyle"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q31",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Just as an accomplished writer must help us visualise events rather than plainly tell them, ----.",
+    "options": [
+      "storytellers are a significant voice of culture, and their storytelling takes many forms",
+      "a good storyteller is expected to provide not just a description but an experience",
+      "some people make a living as professional storytellers",
+      "the intellectual and emotional impacts of effective storytellers are undeniable",
+      "the words of storytellers may capture the minds and feelings of listeners"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q32",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The huge improvement in levels of readership in the 1960s largely coincided with the arrival of television, ----.",
+    "options": [
+      "but there was a dramatic increase in the number of people who spent their time watching TV",
+      "thus people began to pay more attention to the best-selling books, especially detective novels",
+      "because the production of cheaper pocket editions within reach of a wider range of the population fostered reading",
+      "so the habit of book reading came to occupy proportionately less of people's leisure time",
+      "while the readership of humour, biography, and history was decreasing among the younger generation"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q33",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In 19th-century Europe, women and children were used extensively in factories ----.",
+    "options": [
+      "although only about 20 percent of workers were employed in factories in 1850",
+      "when they became aware of the effects of factory work on their health",
+      "since they worked for lower wages and compensated for reluctant male labour",
+      "as the factory worker was not characteristic of European labour in the 19th century",
+      "while domestic industry and agriculture engaged most of the population"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q34",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "A recent study shows that workers tend to be more committed to their institution ----.",
+    "options": [
+      "when the managers express their gratitude and make them feel appreciated",
+      "even though payments are increased to resolve hot conflicts",
+      "until they are provided with little practical direction by their bosses",
+      "even if they engage in new, interesting activities together with their colleagues",
+      "while supporting each other's attempts to improve relationships is crucial"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q35",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "It is more energy efficient for small birds to move by hopping ----.",
+    "options": [
+      "but they cover much more distance in a single hop than with a step with their short legs",
+      "since birds spending most of their time in trees jump from branch to branch",
+      "so there is an extra load on the joints of heavier birds leaving one leg on the ground all the time",
+      "as almost all birds are capable of both hopping and walking at the same time",
+      "because of the fact that their light bodies easily bounce into the air"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q36",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many of us tend to overlook our mental well-being ----.",
+    "options": [
+      "so that mental health disorders can be correctly diagnosed through specialised tests",
+      "until a serious problem arises and we lose balance in our lives",
+      "because we should try to maintain good mental and physical health",
+      "now that we may have mental health problems when we experience too much stress",
+      "although there are many complex reasons why we develop mental health problems"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q27",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- until they are considered ready to switch to English.",
+    "options": [
+      "Around 2.6 million school-aged children throughout the US do not speak English at all",
+      "It is difficult for bilingual teachers to help their students improve their native language skills in some subjects",
+      "In transitional bilingual education, students are taught academic subjects in their native languages",
+      "The language rights of ethnic minorities in the US have been a source of public controversy for decades",
+      "Most people who are opposed to bilingualism are part of the English-only movement"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q28",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Though China began as a small empire centred on the Great Bend of the Yellow River, ----.",
+    "options": [
+      "almost all of what we know about its culture comes from the wealthy classes",
+      "the emperor of China, believed to have descended from the gods, was at the top of society",
+      "it was with the Shang dynasty that people began to keep written records of Chinese history",
+      "kings of local areas gained more power and sometimes fought among themselves",
+      "it expanded considerably over time to become quite a vast kingdom"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q29",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While scientists are pretty certain that black holes exist, ----.",
+    "options": [
+      "they have never observed one directly, let alone gotten in near proximity of one",
+      "they are defined as areas in space from which nothing can escape",
+      "it has been long known that the gravity there is intensely strong",
+      "they can be produced in supernova explosions, marking the death of a star",
+      "they use quantum rules to show that black holes must evaporate"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q30",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though parchment was more difficult to produce and more expensive than papyrus, ----.",
+    "options": [
+      "the king of Egypt stopped exporting papyrus to Pergamum, fearing that Pergamum's great library might overshadow that of Alexandria",
+      "the finest parchments, especially those made from the skins of very young animals, were called 'vellum'",
+      "parchment was made from the skins of sheep and goats while papyrus was made from the stems of the papyrus plant",
+      "it was Europe's favoured writing material until the 14th-century advances in paper making",
+      "among the most famous medieval manuscripts written on parchment is the stunning Très Riches Heures of the Duc de Berry"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q31",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the science of geology as we know it today is a relatively young field, ----.",
+    "options": [
+      "it basically refers to the scientific study of rocks and soil",
+      "it is a vast field, stretching from palaeontology to mineralogy",
+      "insightful observations of the Earth's processes dates back to the ancient Greeks",
+      "many geologists think there are some truths that work most of the time",
+      "many of the processes attached to geology cannot be used for measurement in all situations"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q32",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Preventing children's academic failure means developing individuals who are able to contribute to the common good; ----.",
+    "options": [
+      "yet, some types of academic failure prevention call for an increased emphasis on arithmetic skills",
+      "nevertheless, causes of academic failure include socioeconomic and cultural issues",
+      "accordingly, academic failure has recently come to mean a failure to acquire basic literacy skills",
+      "on the contrary, a positive family environment is very important in preventing academic failure",
+      "thus, the prevention of academic failure should be a primary concern for any society"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q33",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, we regularly leave digital traces of our economic standing when expressing ourselves through posts on social media.",
+    "options": [
+      "In order that people can stay away from the negative effects of the Internet",
+      "Unless we talk about business, politics and non-profit work with others",
+      "No matter we reveal our own personal information online",
+      "Although money is a topic that most of us avoid discussing publicly",
+      "Since more than half of the Internet users stay away from using social media actively"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q34",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Early humans had no explanation for the existence of a vast array of substances and their transformations, ----.",
+    "options": [
+      "so they could only attribute chemical phenomena to the acts of the gods",
+      "but the first step to modern chemistry was the recognition of the fact that atoms existed",
+      "as they were able to observe various materials on Earth and predict their future forms",
+      "because chemical researchers identified the building blocks of matter in modern times",
+      "for they could interpret chemical changes between substances in a small amount of time"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q35",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, the illness can present itself at any stage of life.",
+    "options": [
+      "As cultural pressures foster both unhealthy dieting and anorexia",
+      "Even though anorexia is often claimed to overlap with clinical depression",
+      "While there is certainly a prevalence of anorexia in teenagers",
+      "If a lack of serotonin has a causal effect on the existence of anorexia",
+      "Despite the common belief that anorexia is the result of an abnormality in the brain"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q36",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "World Space Week takes place every year in October, ----.",
+    "options": [
+      "so World Space Week 2016 has been, by far, the largest space celebration in history",
+      "because you do not have to be an astronaut to be part of the global celebration of World Space Week",
+      "and it has grown into the largest public space event on Earth since its declaration by the United Nations",
+      "but it can be a great framework for countries and agencies to foster space exploration",
+      "while the Mexican Space Agency has been an important promoter of World Space Week"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q27",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although airborne radar shares much in common with surface and naval sets, ----.",
+    "options": [
+      "there are many factors involved that set it apart from these",
+      "they were first developed and used during World War II",
+      "the radar set itself needs to fit in the limited space available within an airplane",
+      "home sets have a margin of error of around five kilometers and a visual range of 300 meters",
+      "their development was hindered by directives prohibiting external antennae on planes"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q28",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although we may think that we come to our opinions independently, ----.",
+    "options": [
+      "research shows that people are profoundly influenced by group norms at all levels of thought and behaviour",
+      "we might go against group norms and make a unique decision despite feelings of anxiety and fear",
+      "studies of the brain indicate increased activation of the amygdala region when making an independent decision",
+      "people are less swayed by group opinions when they are more knowledgeable or confident",
+      "most of us consider decisions about clothing or music to be personal and do not worry about group opinions"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q29",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While the percentage of North Americans practicing vegetarianism has remained rather consistent at about only one per cent of the total population, ----.",
+    "options": [
+      "social acceptance of this lifestyle has increased dramatically since the late 20th century",
+      "there is some controversy related to which dietary practices truly fall under the term 'vegetarianism'",
+      "such lifestyles have rarely been understood well by communities dependent on animal products",
+      "most of them believe that practicing vegetarianism will help them with their weight loss goals",
+      "the philosophy of vegetarianism dates back to the views of Pythagoras in the 5th century BC"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q30",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because obesity, linked to health problems like heart disease and diabetes, has become more prevalent, ----.",
+    "options": [
+      "the highest prevalence is in Polynesia and Micronesia, followed by Kuwait, and the US",
+      "a study has found that the number of obese adults has increased sevenfold since the 1900s",
+      "public health experts are expecting a very heavy burden on health systems and society",
+      "the same applies to kids, teenagers, young adults and adults alike around the world",
+      "cheap junk food, rural-to-urban migration and sedentary lifestyles all contribute to obesity"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q31",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As the human population continues to increase, ----.",
+    "options": [
+      "many engineers are unaware that noise pollution is a serious problem especially in developing countries",
+      "as many as 10 million people lost part of their hearing because of noise pollution",
+      "manufacturers in some states do not label the noise level of products such as chain saws and lawn mowers",
+      "the amount of noise in our world will also grow since we crowd together with gadgets, machines, and vehicles",
+      "laws force manufacturers to specify the noise levels of their products, which should not exceed the acceptable levels"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q32",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, all too frequently technological devices or particular features are not adequate for the needs and abilities of older people.",
+    "options": [
+      "As problems of access to technological devices experienced by older people emerge when they have to change their habitual behaviours",
+      "Even though developers and manufacturers of technical devices and systems attempt to make products as user-friendly as possible",
+      "As long as acceptance of technology becomes crucial for older people for the acquisition and use of technological appliances",
+      "Whereas elderly non-users of technological devices run the risk of being labelled technologically illiterate",
+      "In case older people who grew up with the electro-mechanical interaction style of technological devices experience more difficulties than the software generation"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q33",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "No accurate statistics for attention deficit hyperactivity disorder (ADH",
+    "options": [
+      "exist ----.",
+      "given that it is classified as a disability under federal laws and legislation in the United States",
+      "when 70% of true cases exhibit psychological problems such as depression and anxiety",
+      "because experts have grown alarmed by the increase in the number of individuals diagnosed with the disorder",
+      "as its symptoms come and go in almost every normal, healthy person and vanish in time E) unless many psychiatrists maintain that the disorder has become overdiagnosed"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q34",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Much of the ocean remains mysterious ----.",
+    "options": [
+      "unless they cover more of the Earth’s surface than land",
+      "even though animals that live in the deep ocean need unique characteristics to survive in those conditions",
+      "as sunlight, which is mandatory to investigate the deep waters, is important for sea creatures",
+      "because the dark, cold conditions make its deep waters difficult to explore",
+      "although life at the bottom of the deep ocean is difficult for the ones with lungs"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q35",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, one of the most ‘normal’ elements of many developing countries’ cultures is reliance on children in the later phases of life.",
+    "options": [
+      "Provided that autonomy means independent and effective functioning in a variety of life domains ranging from basic activities of daily living to complex decision processes",
+      "Although developmental researchers have primarily examined the dynamics between dependency and autonomy from childhood to adolescence",
+      "Because dependency means the ongoing need for external support in order to fulfil individual or societal expectations regarding what a ‘normal’ life is",
+      "Even if one of the interpretations of dependency encompasses human needs for affiliation, attachment, and bonding to significant others",
+      "While the developmental goal of maintaining autonomy in a wide variety of life domains over the life span is one of the highest values in most Western cultures"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q36",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, these birds must be physiologically capable of drinking seawater without harm.",
+    "options": [
+      "While albatrosses are remarkably graceful in the air",
+      "Even if the navigational powers of albatrosses are impressive",
+      "Because albatrosses remain out at sea for days or weeks while foraging",
+      "As long as albatrosses suffer extensive mortality due to fishing fleets",
+      "Despite the fact that albatrosses can live to a great age"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q27",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because of its power and potential for both harm and good, ----.",
+    "options": [
+      "modern meteorology has made notable improvements in the critical discipline of predicting severe weather",
+      "meteorologists are the only professionals who can keep their jobs and still be wrong half the time",
+      "scientists have studied cloud seeding with the goal of making it rain in places experiencing prolonged droughts",
+      "the weather has been a subject of intense interest and scrutiny by human beings since ancient times",
+      "it seems unlikely that we will ever get to the point of being able to predict the weather with 100 percent accuracy"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q28",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Forensic investigators must collect evidence while the crime scene is still fresh ----.",
+    "options": [
+      "because forensic science is the use of scientific methods to investigate crimes",
+      "since forensic scientists study evidence at the homes and workplaces of suspects",
+      "although it is the job of forensic scientists to provide evidence at a criminal trial",
+      "even if the area is unsafe and they have to work under armed guard",
+      "as many sciences, from chemistry to engineering, are used in an investigation"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q29",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although alchemy began as a way to turn other metals into gold, ----.",
+    "options": [
+      "it matured into a system of thinking about nature that contributed to the development of modern chemistry",
+      "alchemistic ideas and practices flourished in the ancient world within several cultural traditions",
+      "a number of spectacular failures eventually led to the disappearance of alchemy in China",
+      "alchemists continued in their relentless quest for gold well into the sixteenth century",
+      "its objectives were to find ways of accelerating the rates at which metals could be changed into gold"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q30",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the available evidence shows no use of colour or decoration on early footwear, ----.",
+    "options": [
+      "the existence of twenty-five-thousand-year-old clothing suggests that footwear may be older than is even presently known",
+      "the elaborate weaving on some shoes seems to indicate that prehistoric people would care about the appearance of the shoes",
+      "prehistoric shoes had to resist heavy usage, whether made from leather or from plant fibers",
+      "the oldest known shoes are ten-thousand-year-old sandals found in a desert area of eastern Oregon of the US",
+      "prehistoric humans would make their shoes shortly after killing animals, such as sheep and deer 2018-Y DS Spring/English"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q31",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While most research on the role of genetics and the heritability of aggression has ruled out the idea of an aggressive gene, ----.",
+    "options": [
+      "most definitions of aggression indicate that it represents behaviours that are intended to hurt or harm another",
+      "it is currently thought that one might inherit the biological susceptibility for being aggressive",
+      "one of the most widely discussed theories of aggressive behavior is Albert Bandura’s social learning theory",
+      "there are a number of different ways to conceptualise subtypes of aggressive behaviours",
+      "much of the research on aggression has focused primarily upon children who are physically aggressive"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q32",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, it will not be possible to turn a draft into a finished piece of work.",
+    "options": [
+      "Although an author may have a hard time evaluating what he or she has written",
+      "Even if an author thinks that characterisation is poor in his or her work",
+      "Unless an author knows the strengths and weaknesses of a manuscript",
+      "Because an author should realise that revision turns an amateur into a professional",
+      "When rewriting and polishing lead an author to produce a good novel"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q33",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Some birds build nests simply to protect their young ----.",
+    "options": [
+      "since many small animals that live above the ground make their homes in trees",
+      "until they have learned how to look after themselves and survive in the wild on their own",
+      "given that they make mud huts that are placed in all kinds of places, from undergrowth to fence posts",
+      "although sometimes a squirrel takes over an empty bird's nest and makes its home there",
+      "while colonies of wasps build their nests from the top downward"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q34",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Of the 20 amino acids that make up all proteins, 9 are considered essential ----.",
+    "options": [
+      "if thousands of proteins are assembled from some 20 different amino acids",
+      "as the best sources of complete protein are lean meats, fish, low-fat dairy products, and eggs",
+      "even if some foods are better sources of protein than others",
+      "because they cannot be made in our bodies and must be obtained from the foods we eat",
+      "although the proteins in the foods we eat are digested first into small peptides 2018-Y DS Spring/English"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q35",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Trans fat may be as harmful to your health as saturated fat ----.",
+    "options": [
+      "because it increases blood cholesterol levels, among other adverse effects",
+      "although major sources are hardened vegetable fat such as margarine",
+      "as long as foods high in saturated fat include red meats and dairy products",
+      "since a diet that has generous amounts of vegetables is naturally lower in fat",
+      "even if a diet high in fat can also be unnecessarily high in calories"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q36",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, he was foremost an inventor and more interested in attracting public interest in his work than advancing scientific knowledge.",
+    "options": [
+      "When the philosopher Alfred North Whitehead famously credited Thomas Edison with the discovery of a method of invention",
+      "While Thomas Edison saw himself as a member of the larger scientific community and presented papers before the National Academy of Sciences",
+      "As Thomas Edison began his inventive career by becoming a contract inventor in the telegraph industry after working as a telegraph operator in the mid-1860s",
+      "Because Thomas Edison depended more on the assistance of a large staff of experimenters and machinists who made important contributions to his inventive efforts",
+      "Although reputation was significant for Thomas Edison, particularly because of his popular image as the primary inventor of several new technologies"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q27",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, but the creation of genetic techniques to safely halt or reverse age-related conditions in humans has so far proven improbable.",
+    "options": [
+      "Some researchers have doubts whether a new genetic technique could be developed as a first step towards the medical world’s fabled ‘elixir of youth’",
+      "It has long been known that manipulating certain genes in an organism can slow ageing and extend its lifespan",
+      "More proof will be needed before new genetic treatments using stem cells can be promoted as the key to turning back the clock on old age",
+      "Ageing of the body is a dynamic process, as often reported by a number of researchers",
+      "The efficacy of new methods utilised to prevent ageing is still questionable"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q28",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because bodybuilders exert large amounts of energy, ----.",
+    "options": [
+      "they are judged on the physical appearance of their muscles and encouraged to focus on body image",
+      "they try to achieve the body type that will help them be effective competitors in their sport",
+      "bodybuilding is the development of the physique through exercise, often for competitive exhibition",
+      "their metabolism generally requires more calories per day than the average person",
+      "bodybuilding is an activity that includes weight training in order to build muscle mass"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q29",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While people can generally cough voluntarily, ----.",
+    "options": [
+      "infectious viruses can be easily transmitted between individuals through coughing",
+      "most people cough once or twice an hour during the day to clear irritants off the airway",
+      "environmental pollutants, such as cigarette smoke and dust, can also cause a cough",
+      "the cough that accompanies a cold usually lasts one to two weeks",
+      "vitamins and minerals may be helpful in treating conditions that lead to coughs"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q30",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When mental disorders, physical conditions, and functional decline co-occur, ----.",
+    "options": [
+      "older adults face a greatly increased risk of hospitalisation and placement in long-term care facilities",
+      "some older adults have been found to be relatively active well into their 80s and 90s",
+      "it is important to note that older adults vary substantially in terms of their physical and mental health",
+      "physical decline is associated with causing a number of mental disorders among older adults",
+      "mental health problems such as depression are not a natural consequence of growing older"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q31",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Unless there are substantial changes in the ways that humans affect ecosystems, ----.",
+    "options": [
+      "we have already caused permanent losses in global biodiversity",
+      "our knowledge of Earth’s species is still incomplete",
+      "there could be as many as 30-50 million species on Earth",
+      "there will be much larger losses of biodiversity in the near future",
+      "the scale by which we consider biodiversity ranges from local to global"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q32",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, our very lives depend on it to sustain agriculture and to keep our bodies healthy.",
+    "options": [
+      "Since scientists have long struggled to comprehend the complexities of the weather",
+      "Just as the Earth’s atmosphere would remain stagnant without weather",
+      "While cold weather might cause us discomfort or even more severe health conditions",
+      "Given that humanity has, indeed, changed the weather",
+      "If predicting the weather is still, in many ways, a haphazard occupation"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q33",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, the nations of Europe raced to colonise the continent.",
+    "options": [
+      "Given that almost all European interaction with Africa took place along the coasts until the 18th century",
+      "Because African responses to the challenge of European imperialism were complex",
+      "Even if colonial administrations enticed or coerced Africans into producing goods for export",
+      "When technological advances made Africa’s interior readily accessible in the late 19th century",
+      "Despite several factors that drove the European scramble for Africa in the 18thcentury"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q34",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, the Romans became the first major society to wear seasonal clothing.",
+    "options": [
+      "Although Romans were very careful about the way they dressed",
+      "As most of what we know about Roman clothing comes from written sources",
+      "Because their empire grew so great and took them into very different climates",
+      "Even if Romans made warm winter boots and the first known raincoat",
+      "Whereas wealthy Romans had slaves to help choose their clothing"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q35",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, the ethnic characteristics and traditions of the Balkan Peninsula’s food culture have been well preserved.",
+    "options": [
+      "Provided that it displays both Asian and western European influences",
+      "Even if meat might not have played a central role in the past",
+      "Even though the eastern influence has been very strong in the last several centuries",
+      "As long as its food culture is shaped by the historic, social and climatic elements",
+      "While the use of numerous spices constitutes the basics of its cuisine"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q36",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The Sung dynasty Chinese (AD 960-1279) had the technology to make rockets, ----.",
+    "options": [
+      "so the first European picture of a rocket was made in 1400",
+      "thus it was occasionally used as a weapon by Europeans",
+      "because the earliest European recipe for black powder appeared in 1265",
+      "but there is no definitive evidence that they did so",
+      "as the origin of the rocket is shrouded in mystery"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q27",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though some studies suggest that exposure to the blue light emitted by digital devices could be a risk factor for developing certain eye conditions, ----.",
+    "options": [
+      "it has also been revealed that long hours of screen time may trigger headaches",
+      "most parents worry that digital devices can ruin their children’s eyesight",
+      "many scientists think that the evidence to support this claim is not very strong",
+      "there are other eye issues that our screens can bring on, such as dry or tired eyes",
+      "some companies are marketing special glasses that protect our eyes from the blue light"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q28",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While Willis Carrier, who was among the most relentless researchers and promoters of air conditioning, is known as the father of air conditioning, ----.",
+    "options": [
+      "the range of processes and products involved in air conditioning cannot be attributed to a single person",
+      "for centuries, ice and water had been manipulated to cool air circulating in theatres, hospitals, and factories",
+      "air conditioning began to be marketed as a comfort device for domestic consumption during the 1930s",
+      "the development of industrial air conditioning dominated the newly created industry at the beginning of the 20th century",
+      "technologies were being developed in the refrigeration industry contemporaneously with Carrier’s work in humidification"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q29",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, the diseases which were also brought posed serious challenges to their way of life.",
+    "options": [
+      "Given that the Native Americans were initially hospitable to the European settlers",
+      "Although the Native Americans benefited from access to new technology and trade came with the early European settlers",
+      "Since the Native Americans had customs and culture which were totally different from those of the European immigrants",
+      "Because the Native Americans were aware of the early settlers’ thirst for land and wealth",
+      "Even though the Native Americans and European immigrants had difficulties in communication due to language problems"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q30",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although many people equate creativity with intelligence, ----.",
+    "options": [
+      "creativity is a critical aspect of a person’s life, starting from inside the womb onward through adulthood",
+      "a child’s creativity can be either strongly encouraged or discouraged by early experiences at home",
+      "the two terms are not synonymous, and it is not necessary to have a genius-level IQ to be creative",
+      "standard intelligence tests measure convergent thinking, which is the ability to come up with a single correct answer",
+      "creative individuals tend to share certain characteristics, including a tendency to be more impulsive or spontaneous"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q31",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since virtually all cultures on earth have some form of fortune-telling, ----.",
+    "options": [
+      "most people are no longer curious about what their future will bring to them",
+      "it is an incomprehensible temptation to get information about what awaits us in the future",
+      "it would be somewhat undesirable for a person to know what is ahead in the future",
+      "the desire to predict what will happen in the future can be a permanent feature of the human mind",
+      "it is considered to be a science by some, whereas others claim that it is nothing more than speculation"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q32",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Most people have experienced foodborne illness ----.",
+    "options": [
+      "given that those working in the field of food safety are most concerned about microbial foodborne illness",
+      "because ensuring the safety of food is a shared responsibility among producers, industry, government, and consumers",
+      "although current estimates of foodborne illness in the United States are 325,000 hospitalisations, and around 5,000 deaths per year",
+      "even though they might not recognise it as such, instead blaming it on the stomach flu or a 24-hour bug",
+      "when a person consciously thinks about food safety before, during or after eating a meal"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q33",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The literature on treatment for learning disabilities primarily discusses school-based treatments, ----.",
+    "options": [
+      "though individuals with learning disabilities experience challenges beyond such settings",
+      "because such endeavours do not guarantee that a specific treatment will be effective",
+      "so treatments without widespread research support may not turn out to be successful",
+      "if we treat individuals with learning disabilities through methods they prefer",
+      "while defining learning disabilities is as important as conducting research on treatments"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q34",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In our rapidly changing world, parents’ skills may easily become obsolete, ----.",
+    "options": [
+      "though children sometimes look to their peers rather than their parents for guidance and approval",
+      "as family-centred learning plays a key role in equipping children with social, cultural and moral values",
+      "while they might have difficulty in transmitting their accumulated knowledge to their children",
+      "but their children’s taste in diet, music, clothes and entertainment can significantly differ from their own taste",
+      "so they could have fewer opportunities for direct influence over their children’s development"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q35",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Hydroelectricity plants pose several threats to the environment ----.",
+    "options": [
+      "while flooding is an important indicator for the environmental impact they cause",
+      "even though the proliferation of mosquitoes may disturb those living close to them",
+      "because they could lead to the extinction of endemic species and block fish migration",
+      "although the loss of historical and archaeological heritage is a big concern",
+      "so that they help communities harness water resources for energy generation"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q36",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, they rely on each other for optimal performance, which is a sign of concern for interdependence in groups.",
+    "options": [
+      "Since some individuals are not attracted to group activities",
+      "Because it is possible for individuals to do something they find distasteful",
+      "Whenever members of a group come together to do a variety of tasks",
+      "Although group support depends on members’ willingness to take part",
+      "Whereas there is mutual interest between group members within social settings"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q27",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As the Dakota tribes along the Minnesota River in the US were fed up with settlers flooding into their territory, ----.",
+    "options": [
+      "they were less powerful and thus failed to defeat the settlers",
+      "the settlers were determined to fight against the Dakota tribes",
+      "they decided to respond with attacks to push the settlers off their reservation",
+      "the settlers reached an agreement on the territorial issues with the Dakota tribes",
+      "the new settlers of Dakota started a riot to rebel against the tribal chiefs"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q28",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because we are bombarded with so much information and misinformation about what might cause cancer, ----.",
+    "options": [
+      "it is often hard to separate myth from reality",
+      "it affects every one of us in the same way",
+      "the chance of being diagnosed is one in two",
+      "there are some things we can do to reduce our risk of getting cancer",
+      "the extent of public confusion was exposed in a survey last year"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q29",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "For a long time, punishment was viewed as a useful child-rearing tool, ----.",
+    "options": [
+      "since children seek role models who they can observe and imitate to learn complex social behaviours",
+      "furthermore, it evokes strong negative feelings in a child that he or she relates to the person applying it",
+      "therefore, punishment draws attention to the negative behaviour rather than the desired alternative",
+      "yet, it is now recognised that it generally does not lead to the desired behavioural outcome for children",
+      "hence, parents punishing their children for an inappropriate action are not providing an example of the correct behaviour"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q30",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While each researcher has their own way of analysing and interpreting animal remains, ----.",
+    "options": [
+      "it must be remembered that sample size and preservation quality ultimately influence the outcome",
+      "animal remains aid in the interpretation of ancient resource choices",
+      "it is fundamental to determine the locations and social complexity of archaeological sites",
+      "animal remains can be used to provide information about a variety of issues in the study of societies",
+      "some methods, terms and analytical tools are considered standard"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q31",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though animal behaviourists have traditionally avoided linking human emotions, such as grief, with responses by animals, ----.",
+    "options": [
+      "grief in animals may take forms that are difficult for humans to recognise as mourning",
+      "observations suggest that the ways in which we mourn might be uniquely human",
+      "a growing body of evidence shows that species ranging from dolphins to ducks mourn the passing of relatives",
+      "research on grief in wild monkeys that live in social units has been surprisingly limited so far",
+      "we think that humans are the only species that grieves over the loss of loved ones"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q32",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, language, as a complicated phenomenon of the human mind, does not seem to be restricted to a single region in the brain.",
+    "options": [
+      "If neurolinguists want to examine the functioning of the human brain in more detail",
+      "Even if certain tasks are fulfilled through coordination among neurons",
+      "Although it is localised mainly on the left side of the brain",
+      "As it is a concrete manifestation of the human mind",
+      "When the brain is overwhelmed with long and complex sentences"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q33",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, someone who is successful in several fields is often called a Renaissance man or Renaissance woman.",
+    "options": [
+      "In order to better understand the masterpieces of the brilliant Renaissance artists such as Michelangelo and Raphael",
+      "While the Renaissance affected every area of human activity and knowledge, from art to zoology",
+      "Because the Renaissance produced individuals with a wide range of interests who excelled in a number of different areas",
+      "Although most historians shared the view of the period as a rebirth after the darkness of the Middle Ages",
+      "After science advanced when Renaissance humanists discovered and spread ancient works on mathematics, medicine, and other topics"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q34",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Peer pressure is what causes people to do things that are popular in order to fit in with others, ----.",
+    "options": [
+      "while middle school students influence each other to a great extent",
+      "however, peers are the people who are of similar age, such as classmates",
+      "in other words, some individuals resist peer pressure and prioritise their own personal views",
+      "so it can be a very powerful driving force in the lives of adolescents",
+      "as psychologists use positive peer pressure as a method to change a child’s behaviour"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q35",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "According to skeletal therapists, it is vital that women strengthen their bodies in their 40s, ----.",
+    "options": [
+      "so a considerable number of women do not know very well how to maintain their bone health",
+      "as bone density starts to gradually decrease, leaving the bones fragile during this period",
+      "but hunched shoulders and poor posture can lead to a range of health issues in the old age",
+      "as long as muscles work optimally to support the skeleton and the body is positioned correctly",
+      "even though bad posture is known to give them an awkward look and might lead to serious ailments in time"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q36",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Fast food has emerged as one of the biggest enemies of health, especially for children, ----.",
+    "options": [
+      "thus its high consumption makes sense when the prices are considered",
+      "provided that the most common cause of obesity is the wide availability of fast food",
+      "while people are highly concerned about the nutritional deficiency of foods like burgers",
+      "so the fast food industry has received a lot of critical attention in recent years",
+      "as many fast food restaurants have started to provide healthier alternatives such as salads"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q27",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While being physically attractive seems to be a basic requirement for Internet celebrities, ----.",
+    "options": [
+      "they closely monitor the trends in youth culture that place special emphasis on beauty",
+      "their popularity will decline if they cannot create fresh ideas and engage in successful projects",
+      "they are chased by investors hoping to expand their business by associating their products with famous people",
+      "they are often characterised as having the ideal beauty standards",
+      "they earn huge amounts of money thanks to their collaboration with famous brands"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q28",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although Egypt was subject to outside influences, ----.",
+    "options": [
+      "the Egyptians settled on the fertile strip of land created by the Nile in the North African desert",
+      "the role played by the pharaoh, that of a link between men and gods, decreased with the disintegration of power",
+      "the principal characteristics of its culture remained homogenous throughout the course of its long history",
+      "the pyramids were built to testify to the pronounced hierarchical character of the Egyptian society",
+      "Ramses III, who undertook extensive social and administrative reforms, was forced to defend it against fierce attacks"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q29",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Owing to the increasing numbers of individuals and families who could no longer afford to purchase housing, ----.",
+    "options": [
+      "the American nation’s supply of low-cost rental housing was shrinking",
+      "an ample boom was observed in the investment of housing construction",
+      "after the mid-1970s, the poor became more numerous and they got poorer",
+      "homelessness became so visible in the early 1980s in the US",
+      "there was a lack of federal commitment to the production of public housing"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q30",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- unless it is integrated into a meaningful curricular and instructional framework.",
+    "options": [
+      "Technology is regarded to have the potential to improve education",
+      "Technology should be viewed as one tool among many",
+      "The use of technology requires teachers to confront their beliefs about learning",
+      "It is believed that technology has little influence on education",
+      "Technology provides an excellent platform for learning environments"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q31",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though the new methods of Samuel Christian Hahnemann– the creator and developer of the treatment called homeopathy– were initially met with ridicule, ----.",
+    "options": [
+      "the system was based on the idea that substances producing symptoms of sickness in healthy people would have a curative effect",
+      "homeopathic remedies used in holistic treatments were often a fraction of the cost of conventional drugs",
+      "by the time of his death, they were accepted over the world as a result of the great success he had with his new cure",
+      "he was disturbed by the medical system of his time, believing that its cures were crude and some of its strong drugs did more harm than good to patients",
+      "with the formation of the American Medical Association, which restricted alternative practices, homeopathy declined for half a century"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q32",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "A 2003 study of car-crash victims found that those with more fat were less likely to suffer abdominal injuries, ----.",
+    "options": [
+      "so you are more likely to experience some kind of trauma even months after the accident happened",
+      "and no matter what protective measures you may have taken before a possible accident, it may still happen in the end",
+      "since there is no correlation between total weight of passengers and the risk of getting injured",
+      "but the fat-as-airbag principle may not actually be so protective as some people might think it must be",
+      "although one’s body fat can, in fact, act as some sort of shock absorber in violent collisions"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q33",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "People do not have a problem with obsessive compulsive disorder ----.",
+    "options": [
+      "as compulsions are undesired actions that people find themselves forced into doing over and over to reduce anxiety",
+      "when the disorder causes considerable emotional discomfort and a high level of anxiety",
+      "while the approach for treating it is quite similar to the treatments for anxiety, fear, and intense anger",
+      "unless their repetitive thoughts and actions begin to seriously harm their relationships or their sense of freedom",
+      "because it could be very severe and require them to act in collaboration with a therapist or counsellor"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q34",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, Alsace's long history of political insecurity and the devastation caused by the two world wars have impoverished the region.",
+    "options": [
+      "Even though its heavy industry is not fully competitive with their more highly developed counterparts in other countries",
+      "While the region became the focus of territorial dispute between France and Germany in the mid-to-late 1800s",
+      "Although its lands are fertile, and the region's iron and coal mines have long constituted a source of wealth",
+      "Unless the region's general population participated heavily in the resistance to Germany’s invasion and conquests",
+      "As the new movements seek to gain greater control over economic and social development and to establish the preservation of Alsatian culture"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q35",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Some Roman baths might have been functioning, at least partially, into the fifth century, ----.",
+    "options": [
+      "so that it was the inability of later ancient administrations to maintain the vast and complicated water systems",
+      "but after many repairs, the Thermae of Agrippa was still open as a luxury establishment in the fifth century",
+      "while after the seventh and eighth centuries, there are signs of bath building greatly slowing",
+      "because as the great baths themselves disappeared, their memory lingered on in the public minds as myths and legends",
+      "thus, many of these baths could be described as charity baths, because they served the clergy as well as the poor"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q36",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Throughout the Tanzimat era, Ottoman statesmen believed that as long as the European powers respected their country’s sovereignty, ----.",
+    "options": [
+      "Ottoman citizens could not tolerate much of the trouble caused by dysfunctional institutions",
+      "they prevented the acquisition of immovable properties within the borders of the state by the citizens of neighbouring countries",
+      "it would be unfeasible to ensure the welfare and happiness of Ottoman citizens who dispersed across three continents",
+      "there was little or no danger in allowing Europeans ever greater access to their country’s economy",
+      "seeking or accepting aid from a foreign power would mean to people nothing more than years of exile in distant lands"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q27",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because there has been growing public awareness regarding cultural and ethnic differences around the world, ----.",
+    "options": [
+      "tourists, who search for unfamiliar environments and cultures, also search for familiar facilities available for them",
+      "the true cultural heritage of the host society maintains its integrity by keeping tourists on the other side of the curtain",
+      "culture is seen as a dynamic living concept and changes continually in order to embrace the needs of present-day society",
+      "it has been argued that so-called authenticity of culture is a fleeting movement in the development calendar",
+      "there has been increasing demand for tourism products that offer cultural authenticity rather than standard concepts"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q28",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although all archaeologists agree that keeping careful records of an excavation is essential to good practice, ----.",
+    "options": [
+      "there is a close relationship between their interpretation and that of archaeological museums",
+      "they are concerned with the activities of people and nature that create evidence of a cultural past",
+      "artefacts, sculptures and drawings found in caves help them learn about early humans",
+      "many mapping techniques developed for use on land have also been adapted for underwater archaeology",
+      "there is no certain consensus on what exactly constitutes archaeological data"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q29",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As more people suffer from insecure attachment styles in their relationships with others, ----.",
+    "options": [
+      "they feel that they do not need their belongings to survive anymore",
+      "seeing possessions as an extension of themselves starts to decrease",
+      "the needs for security are more complex than just the basics for physical survival",
+      "possessions do not make them feel secure by substituting for the loved ones",
+      "the behaviour of seeking emotional comfort from material objects is likely to rise"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q30",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While mainstream cultural artefacts (films, books, fashion, etc.) produced specifically for and about girls have been popular for more than two centuries, ----.",
+    "options": [
+      "academic research on girls and their complex relationship with girl culture is still fairly new to the communication discipline",
+      "early research on this topic tended to focus on girls as audiences and as vulnerable to the effects of mass culture",
+      "communication scholars examining girl culture today have been greatly influenced by girls’ or girlhood studies",
+      "a new area that is mainly interested in how girls actively negotiate and even resist these cultural artefacts is needed",
+      "many researchers have examined the Internet as a space fostering girls’ self-expression and community building"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q31",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When bacteria sense that their numbers have reached a critical threshold, ----.",
+    "options": [
+      "the drugs that will interrupt this process are still being researched",
+      "they switch on the production of substances that attack their human host",
+      "we are not still sure about how to prevent them from increasing in number",
+      "some are mostly resistant to many common antibiotics, making an infection hard to treat",
+      "plant products have been reported to have no significant effect on their growth"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q32",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "It may be a long time before scientists can confirm that biological life exists in places other than Earth, ----.",
+    "options": [
+      "but recent discovery of tiny life forms in some extreme conditions and inhospitable environments has raised hopes",
+      "as scientists have long known that amino acids and nucleotides, the main ingredients for building proteins and DNA, can be found in meteors and comets",
+      "while it takes a lot of intellectual effort on the part of ordinary people to understand the dynamics of life in outer space",
+      "though professional associations informing the public about microbial life in space have not been very successful",
+      "so the discovery of the bacteria in Antarctica, which live by extracting nutrition from the air, indicates that life can thrive without complex organic material"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q33",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, few realise that moderate to vigorous physical activity done regularly completely changes our bodies from the inside out.",
+    "options": [
+      "Since regular movement prevents certain cancers and lowers the risk of diabetes",
+      "As scientists have developed methods for measuring intensity of aerobic exercise",
+      "While most people inherently know that they are supposed to leave sedentary habits",
+      "Although many are not aware that being physically active expands lung capacity",
+      "Unless prolonged sitting denies people some of the health advantages of regular exercise"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q34",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, food shortages will be inevitable, leading to mass starvation and unrest.",
+    "options": [
+      "Because many governments are committed to avoiding a reduction in farming subsidies and financial speculation nowadays",
+      "Unless a solution to the dramatic increase in world population and the demand for food is found",
+      "While the growing population in some parts of the world increasingly demand a more varied diet",
+      "Since the increase in oil prices has appeared in many developing nations in the last several decades",
+      "If worldwide drought, which affects wide territories, is seen as the consequence of climate change"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q35",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The consequences of eating disorders need to be taken seriously, ----.",
+    "options": [
+      "whereas there is growing interest in and worry about their potential risks and treatment methods",
+      "while evidence is now emerging that they occur in a wide range of socioeconomic groups",
+      "given that they might increase one’s risk of developing conditions such as high blood pressure and diabetes",
+      "though clinical depression and anxiety disorders have been reported to commonly co-occur with eating disorders",
+      "so patients who engage in binge eating, which is highly associated with obesity, suffer from numerous health issues"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q36",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Most classic research indicates that it is extremely difficult to identify boys from girls on behavioural grounds when children are under two years of age ----.",
+    "options": [
+      "unless there are some external cultural indicators of gender such as clothing",
+      "so that the impact of gender in young children’s lives could be examined in great detail",
+      "if young children know about gender and acquire gendered ways of being and thinking from an early age",
+      "given that preschool children often actively maintain gender stereotypes in their own behaviours and that of their peers",
+      "because there has recently been a focus on how boys and girls play with the toys they choose"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q27",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Unless they regard the material they are taught as worth learning, ----.",
+    "options": [
+      "classrooms are rather intricate microcosms where students spend a great deal of their life and find out who they are",
+      "time pressure under which most teachers work prevents them from meeting their students’ needs",
+      "students will not be motivated to take part in classroom activities and interact with each other",
+      "subjects related to students’ everyday experiences stimulate their interest and induce them to study with vigour",
+      "making learning process more enjoyable and interesting encourages further student involvement"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q28",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While chronic stress can bring on significant mental health issues along with other problems, ----.",
+    "options": [
+      "stress can be prevented from becoming a problem in the first place by following a healthy diet",
+      "employees should be trained in stress management before they experience stress-related problems in the workplace",
+      "work-related stress often leads to depression or anxiety, causing a high rate of loss in employee productivity",
+      "short-term stress, such as working to meet an imminent deadline, can be beneficial",
+      "stress may trigger headaches, digestive disorders and cardiovascular disease"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q29",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, advertisers will quickly be discouraged from attempting to use such approaches because of public disapproval.",
+    "options": [
+      "Even if a successful return on investment is forthcoming from subliminal advertisements",
+      "Because companies desire high profits from their investments, including advertising",
+      "As a result of a rapid growth in online advertising in many sectors",
+      "Whereas there is no credible evidence that subliminal advertising will yield benefits",
+      "Although proponents provide no rationale to guide the use of subliminal adverts"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q30",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In addition to the obvious detrimental effects of sport injury on physical functioning, ----.",
+    "options": [
+      "athletes are mainly able to focus primary attention on their rehabilitation programs",
+      "any injury that occurs during a sports event is called a sport injury",
+      "most negative emotions tend to dissipate over the first month following the injuries",
+      "sport injury can have a harmful effect on various aspects of psychological functioning",
+      "injury appears to spur athletes’ use of coping strategies and seeking support from others"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q31",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though Egyptian medicine went into decline about 1200 BCE, ----.",
+    "options": [
+      "ancient Egyptians began to develop the world’s first sophisticated medical practice sometime before 2000 BCE",
+      "its reputation as the best in the ancient world continued for many centuries to follow",
+      "there is evidence suggesting that most treatments for disease were based on trial-and-error experimentation",
+      "it is assumed that Egyptian priests gained their understanding of the human body by preparing mummies",
+      "religion in ancient Egypt played an integral role in the treatment of all kinds of diseases"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q32",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Visiting buildings gives you the best chance to experience architecture in relation to the world of light, sound, setting, and people, ----.",
+    "options": [
+      "though visits to buildings are enjoyable and provide a chance to see how architecture changes the real world",
+      "but to understand the underlying architecture of buildings you need to study them through drawing",
+      "as many books on architecture and the history of architecture are rich in various kinds of visuals",
+      "and there is no readily-available prescription on how to become a good architect",
+      "even so, architecture is about changing the world, making it better, more comfortable, and more beautiful"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q33",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The many varieties of lime are nearly identical in shape and appearance, ----.",
+    "options": [
+      "while their primary use is to flavour foods like salads and cakes",
+      "although they are widely considered to have originated in Asia",
+      "given that they are high in vitamin C and contain antioxidants that promote health",
+      "but their degree of acidity ranges from nearly neutral to extremely sour",
+      "so they can also be utilised to produce perfumes and suntan products"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q34",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Consumers are less likely to adopt innovations that demand radical behaviour changes ----.",
+    "options": [
+      "as certain habits are more likely to be rapidly adopted",
+      "unless they are convinced that the effort will be worthwhile",
+      "although innovators represent about 2.5% of the population",
+      "whereas marketers are interested in identifying producers’ needs",
+      "since they tend to have more favourable attitudes toward taking risks"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q35",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Irish people fear that international populations of Ireland’s cities threaten the native culture, ----.",
+    "options": [
+      "as cultural education is mandatory for all permanent residents of Ireland",
+      "yet Irish artists are encouraged to focus on traditional rather than modern art projects",
+      "and thus foreigners seeking good job opportunities stay in big cities like Dublin and Belfast",
+      "but the survival of traditional music, dance, and storytelling proves otherwise",
+      "so Ireland’s popularity as a tourist destination is ensured by its profound cultural heritage"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q36",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Esperanto, an artificial language invented in 1887 for international use, is considered by many to be one of the easiest languages to master ----.",
+    "options": [
+      "but UNESCO has affirmed the value of establishing it as a universal second language",
+      "although the Polish linguist Ludwik L. Zamenhof hoped to bring all of the peoples of the Earth together by inventing such a language",
+      "in order that the number of speakers can reach several million in varying levels of proficiency",
+      "because it is known for its simplicity, beauty and flexibility as a medium for translation",
+      "even if Esperantists believe in the positive outcomes in learning and teaching this language"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q27",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though many people still remain unconvinced that global warming is a real phenomenon, ----.",
+    "options": [
+      "the evidence in support of man-made climate change is quite overwhelming",
+      "the consequences for our lives are still uncertain and absolutely way too complex",
+      "it is reassuring that everything around us changed simply through chance",
+      "some people reject the idea that it has been affecting the entire world",
+      "the lack of some solid proof makes it hard to accept the situation"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q28",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- if doing so helps them to pursue the goals that are aligned with their values.",
+    "options": [
+      "Meditative practices may not be beneficial for everyone with depression",
+      "The study of how people react to mind-altering practices like meditation is still in its infancy",
+      "Psychologically flexible people show willingness to welcome uncomfortable states",
+      "Psychologists call the ability to walk through bad experiences ‘resilience’",
+      "Those with lower than average signs of post-traumatic stress disorder have higher scores of psychological flexibility"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q29",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because of the health hazards that lead poses for humans and other animals, ----.",
+    "options": [
+      "tetraethyl lead, which releases free lead to the environment when broken down within an engine, has been banned for use as a gasoline additive",
+      "lead compounds were once widely used for paints as they covered surfaces well and were available in a number of vivid colours",
+      "lead has been popular as a covering for underground cables, such as buried cables that carry telephone messages",
+      "alloys of lead are quite popular for the manufacture of solders; for example, ordinary plumber’s solder contains about two parts of lead to one part of tin",
+      "today, physiologists understand that the human body is able to excrete about two milligrams of lead efficiently each day"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q30",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Unless rich countries help poor ones adopt greener technologies, ----.",
+    "options": [
+      "some projects that lie in the heart of environmental protection could come to a halt",
+      "it is in their interest to help establish a sustainable energy future for all the world’s inhabitants",
+      "they barely depend on fossil fuels, which are damaging to both human health and the environment",
+      "every country, regardless of their economic power, is expected to contribute to global welfare",
+      "energy consumption in the rich world would always dwarf that in poor countries"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q31",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Provided that loan programmes are properly designed, effectively managed and a high rate of recovery is achieved, ----.",
+    "options": [
+      "an important feature of student loan schemes is that they offer financial assistance and subsidies to individual students, rather than to institutions",
+      "there are important differences in the way different loan programmes are administered, particularly in terms of how they are operated",
+      "implications for student loans of what is variously described as international labour mobility or 'brain drain' have received limited attention",
+      "student loans can make a valuable contribution to relieving the financial pressures facing higher education",
+      "sound financial management is required to maintain the capital value of the loan fund and cover administrative costs"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q32",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many researchers and clinicians observe that the traditional Chinese medicine can hope to function in full partnership with Western medicine ----.",
+    "options": [
+      "even though some herbs are used routinely in therapy, including treatment of some common diseases",
+      "only if practitioners pay attention to the most recent discoveries made by immunological research studies",
+      "but Chinese doctors are well aware of the value of using traditional medicine to cure diseases",
+      "whenever there is a chance to get the medical professionals in the West to question medical practices",
+      "as if the immunological effects were due to the unknown or unrecognised substances in herbs"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q33",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Today, the sanitary landfill is the major method of disposing waste materials in North America and other developed countries, ----.",
+    "options": [
+      "while some older landfills are being mined for useful products such as methane gas that can be used as fuel",
+      "just as many tons of solid waste dumped in a landfill today will not decompose until 30 years from now",
+      "as composting and burning up require uniformity in the form and chemical properties of the waste for efficient operation",
+      "because about 70% of materials that are routinely disposed of in landfills could be recycled instead",
+      "though considerable efforts are being made to find alternative methods, such as recycling and composting"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q34",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The popularity of many flat-faced dog breeds such as French bulldogs has risen dramatically in recent years ----.",
+    "options": [
+      "because French bulldogs have short faces that can make breathing difficult",
+      "even though French bulldogs are not seen as dangerous as other dog breeds",
+      "although there are regular assertions that they are prone to many health issues",
+      "given that there is limited reliable evidence on the wider general health of flat-faced dogs",
+      "while it enables ongoing identification of breed health-related priorities"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q35",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The pleasures of chocolate, tea, and coffee drinking have been known to humans for centuries, ----.",
+    "options": [
+      "while caffeine is a member of the alkaloid family, a group of compounds obtained from numerous plants",
+      "because full characterisation of caffeine’s molecular structure was completed by a German chemist",
+      "since researchers identified the active agents in tea and chocolate and gave them various names",
+      "but the isolation of caffeine from these everyday treats was accomplished only in the early 1800s",
+      "although caffeine is one of the most widely used central nervous system stimulants worldwide"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q36",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Individuals with social phobia fear being humiliated while doing something in public, ----.",
+    "options": [
+      "because those who receive treatment can completely overcome their fears in social life",
+      "and therefore they will avoid any situation in which such participation may be required",
+      "as one of the most common manifestations of social phobia involves public speaking",
+      "although they have intense fears of social interactions, such as meeting others and dating",
+      "whereas it generally develops after puberty and peaks after the age of 30"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

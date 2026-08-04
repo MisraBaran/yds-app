@@ -1,0 +1,859 @@
+/* ==========================================================================
+   YDS Calisma - stil
+   Yon: koyu, sakin bir calisma araci. Okuma metni icin sicak bir serif
+   (Georgia), arayuz icin gecmetrik bir sans (Avenir Next). Vurgu rengi
+   SADECE dogru/yanlis geri bildiriminde harcanir; gerisi notrdur.
+   ========================================================================== */
+
+:root {
+  --bg: #16151a;
+  --bg-elevated: #1e1d24;
+  --bg-card: #24232b;
+  --border: #34333d;
+  --text: #ece8e0;
+  --text-dim: #a8a4b0;
+  --text-faint: #726f7a;
+  --accent: #d6a24e;      /* birincil eylem vurgusu (altin) */
+  --accent-ink: #1a1408;
+  --correct: #5aa876;     /* dogru geri bildirim */
+  --wrong: #d8695a;       /* yanlis geri bildirim */
+  --correct-bg: rgba(90, 168, 118, 0.16);
+  --wrong-bg: rgba(216, 105, 90, 0.16);
+
+  --font-ui: "Avenir Next", Avenir, "Segoe UI", -apple-system, sans-serif;
+  --font-read: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  height: 100%;
+  overscroll-behavior: none;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-ui);
+  touch-action: manipulation;
+  -webkit-text-size-adjust: 100%;
+  user-select: none;
+  overflow-x: hidden;
+}
+
+/* kelime dokunma hedefleri metin secimini serbest birakir gibi gorunse de
+   uygulama boyunca dokunma odakli kaldigimiz icin secimi kapali tutuyoruz;
+   kelimeye "dokunma" click event'i ile calisir, metin secimiyle degil. */
+
+#app {
+  min-height: 100vh;
+  min-height: 100dvh;
+  padding-top: var(--safe-top);
+  padding-left: var(--safe-left);
+  padding-right: var(--safe-right);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.screen {
+  display: none;
+  flex: 1;
+  flex-direction: column;
+  min-height: 0;
+  padding: 20px 20px calc(90px + var(--safe-bottom));
+  overflow-y: auto;
+}
+
+.screen.is-active {
+  display: flex;
+}
+
+/* ---------- Ana ekran ---------- */
+.app-header {
+  padding: 8px 0 18px;
+}
+
+.app-title {
+  font-size: 34px;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+.app-subtitle {
+  margin: 2px 0 0;
+  color: var(--text-dim);
+  font-size: 15px;
+}
+
+.continue-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin-bottom: 14px;
+}
+
+.continue-banner strong {
+  display: block;
+  font-size: 15px;
+}
+
+.continue-banner span {
+  display: block;
+  color: var(--text-dim);
+  font-size: 13px;
+  margin-top: 2px;
+}
+
+.due-badge {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin-bottom: 18px;
+  font-size: 15px;
+  color: var(--text-dim);
+}
+
+.due-badge strong {
+  color: var(--accent);
+  font-size: 17px;
+}
+
+.mode-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.mode-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 18px 14px;
+  text-align: left;
+  color: var(--text);
+  font-family: inherit;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 92px;
+  cursor: pointer;
+}
+
+.mode-card:active {
+  background: var(--bg-elevated);
+}
+
+.mode-title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.mode-desc {
+  font-size: 12.5px;
+  color: var(--text-dim);
+  line-height: 1.4;
+}
+
+/* ---------- Ust basliklar (alt sayfalar) ---------- */
+.sub-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 4px 0 18px;
+}
+
+.sub-header h2 {
+  margin: 0;
+  font-size: 21px;
+}
+
+.icon-btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  border: none;
+  background: var(--bg-elevated);
+  color: var(--text);
+  font-size: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.icon-btn:active {
+  background: var(--bg-card);
+}
+
+/* ---------- Tip secim listesi ---------- */
+.type-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.type-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--text);
+  font-family: inherit;
+  font-size: 15px;
+  min-height: 44px;
+  cursor: pointer;
+}
+
+.type-item span.count {
+  color: var(--text-dim);
+  font-size: 13px;
+}
+
+/* ---------- Test ekrani ---------- */
+.quiz-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 4px 0 4px;
+}
+
+.quiz-progress {
+  flex: 1;
+  height: 6px;
+  background: var(--bg-elevated);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.quiz-progress-bar {
+  height: 100%;
+  width: 0%;
+  background: var(--accent);
+  transition: width 0.25s ease;
+}
+
+.quiz-counter {
+  font-size: 13px;
+  color: var(--text-dim);
+  min-width: 44px;
+  text-align: right;
+}
+
+.quiz-timer {
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+  font-size: 14px;
+  color: var(--text-dim);
+  padding: 6px 0 0;
+}
+
+.quiz-timer.is-low {
+  color: var(--wrong);
+}
+
+.quiz-body {
+  flex: 1;
+  padding-top: 16px;
+}
+
+.passage {
+  font-family: var(--font-read);
+  font-size: 17px;
+  line-height: 1.75;
+  color: var(--text);
+  max-width: 68ch;
+  background: var(--bg-elevated);
+  border-radius: 14px;
+  padding: 16px;
+  margin: 0 0 18px;
+}
+
+.stem {
+  font-family: var(--font-read);
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 66ch;
+  margin: 0 0 20px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 10px;
+  background: var(--bg-card);
+}
+
+.option-letter {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1.5px solid var(--border);
+  background: var(--bg-elevated);
+  color: var(--text);
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.option-letter:active {
+  background: var(--bg);
+}
+
+.option-text {
+  flex: 1;
+  font-family: var(--font-read);
+  font-size: 16.5px;
+  line-height: 1.55;
+  padding-top: 10px;
+}
+
+.option.is-correct {
+  border-color: var(--correct);
+  background: var(--correct-bg);
+}
+
+.option.is-correct .option-letter {
+  background: var(--correct);
+  border-color: var(--correct);
+  color: #0d1f14;
+}
+
+.option.is-wrong {
+  border-color: var(--wrong);
+  background: var(--wrong-bg);
+}
+
+.option.is-wrong .option-letter {
+  background: var(--wrong);
+  border-color: var(--wrong);
+  color: #2a0d08;
+}
+
+.explanation-card {
+  margin-top: 18px;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px;
+  animation: rise-in 0.28s ease;
+}
+
+.explanation-badge {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-faint);
+  margin-bottom: 8px;
+}
+
+.explanation-card p {
+  font-size: 14.5px;
+  line-height: 1.55;
+  margin: 0 0 10px;
+}
+
+#explanation-takeaway {
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.quiz-footer {
+  padding-top: 14px;
+}
+
+/* ---------- Butonlar ---------- */
+.btn-primary, .btn-secondary, .btn-danger, .btn-small, .btn-correct, .btn-wrong {
+  font-family: inherit;
+  border: none;
+  border-radius: 14px;
+  min-height: 48px;
+  padding: 0 18px;
+  font-size: 15.5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: var(--accent-ink);
+  width: 100%;
+}
+
+.btn-secondary {
+  background: var(--bg-card);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+.btn-secondary.full, .btn-danger.full {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.btn-danger {
+  background: transparent;
+  color: var(--wrong);
+  border: 1px solid var(--wrong);
+}
+
+.btn-small {
+  min-height: 40px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-size: 14px;
+  padding: 0 14px;
+}
+
+.btn-correct {
+  background: var(--correct);
+  color: #0d1f14;
+  flex: 1;
+}
+
+.btn-wrong {
+  background: transparent;
+  border: 1px solid var(--wrong);
+  color: var(--wrong);
+  flex: 1;
+}
+
+.file-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+/* ---------- Sonuc ekrani ---------- */
+.result-body {
+  flex: 1;
+}
+
+.result-score {
+  text-align: center;
+  padding: 24px 0;
+}
+
+.result-score .big {
+  font-size: 48px;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.result-score .label {
+  color: var(--text-dim);
+  font-size: 14px;
+}
+
+.result-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 14.5px;
+}
+
+.result-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-top: 12px;
+}
+
+/* ---------- Istatistik ---------- */
+.stats-section {
+  margin-bottom: 26px;
+}
+
+.stats-section h3 {
+  font-size: 14px;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0 0 12px;
+}
+
+.stat-bar-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  font-size: 13.5px;
+}
+
+.stat-bar-row .stat-label {
+  width: 130px;
+  flex: none;
+  color: var(--text-dim);
+}
+
+.stat-bar-track {
+  flex: 1;
+  height: 10px;
+  background: var(--bg-elevated);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.stat-bar-fill {
+  height: 100%;
+  background: var(--accent);
+}
+
+.stat-bar-value {
+  width: 44px;
+  flex: none;
+  text-align: right;
+  color: var(--text-dim);
+}
+
+.score-hero {
+  text-align: center;
+  background: var(--bg-elevated);
+  border-radius: 16px;
+  padding: 22px;
+  margin-bottom: 24px;
+}
+
+.score-hero .big {
+  font-size: 40px;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.score-hero .label {
+  color: var(--text-dim);
+  font-size: 13.5px;
+  margin-top: 4px;
+}
+
+.takeaway-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px 14px;
+  margin-bottom: 8px;
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+
+.takeaway-item .count {
+  color: var(--accent);
+  font-weight: 700;
+  margin-right: 6px;
+}
+
+.timeline-bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
+  height: 80px;
+}
+
+.timeline-bar {
+  flex: 1;
+  background: var(--accent);
+  border-radius: 3px 3px 0 0;
+  min-height: 2px;
+}
+
+.empty-state {
+  color: var(--text-faint);
+  font-size: 14px;
+  padding: 24px 0;
+  text-align: center;
+}
+
+/* ---------- Kelime modu ---------- */
+.vocab-progress {
+  margin-left: auto;
+  color: var(--text-dim);
+  font-size: 13px;
+}
+
+.vocab-card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  text-align: center;
+}
+
+.vocab-word {
+  font-family: var(--font-read);
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.vocab-exam-count {
+  color: var(--text-dim);
+  font-size: 13.5px;
+}
+
+.vocab-reveal {
+  width: 100%;
+  animation: rise-in 0.25s ease;
+}
+
+.vocab-translation {
+  font-size: 22px;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.vocab-pos {
+  color: var(--text-faint);
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 12px;
+}
+
+.vocab-example {
+  font-family: var(--font-read);
+  font-size: 15.5px;
+  color: var(--text-dim);
+  line-height: 1.6;
+  max-width: 60ch;
+}
+
+.vocab-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+  margin-top: 12px;
+}
+
+.vocab-answer-buttons {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+}
+
+/* ---------- Ayarlar ---------- */
+.settings-body {
+  padding-top: 4px;
+}
+
+.settings-note {
+  color: var(--text-faint);
+  font-size: 13px;
+  line-height: 1.6;
+  margin-top: 8px;
+}
+
+/* ---------- Alt gezinme ---------- */
+.bottom-nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  background: var(--bg-elevated);
+  border-top: 1px solid var(--border);
+  padding-bottom: var(--safe-bottom);
+  z-index: 20;
+}
+
+.nav-btn {
+  flex: 1;
+  border: none;
+  background: transparent;
+  color: var(--text-faint);
+  font-family: inherit;
+  font-size: 12.5px;
+  padding: 12px 0 10px;
+  min-height: 48px;
+  cursor: pointer;
+}
+
+.nav-btn.is-active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* ---------- Kelime dokunma ---------- */
+.w {
+  border-bottom: 1px dotted transparent;
+  cursor: pointer;
+}
+
+.w:active {
+  border-bottom-color: var(--accent);
+}
+
+/* ---------- Kelime bottom sheet ---------- */
+.word-sheet {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.word-sheet.open {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+.word-sheet-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.word-sheet.open .word-sheet-backdrop {
+  opacity: 1;
+}
+
+.word-sheet-inner {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--bg-elevated);
+  border-radius: 20px 20px 0 0;
+  padding: 10px 20px calc(24px + var(--safe-bottom));
+  transform: translateY(100%);
+  transition: transform 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.word-sheet.open .word-sheet-inner {
+  transform: translateY(0);
+}
+
+.word-sheet-handle {
+  width: 36px;
+  height: 5px;
+  border-radius: 999px;
+  background: var(--border);
+  margin: 6px auto 14px;
+}
+
+.word-sheet-title-row {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.word-sheet-word {
+  font-family: var(--font-read);
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.word-sheet-pos {
+  color: var(--text-faint);
+  font-size: 12.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.word-sheet-translation {
+  font-size: 19px;
+  color: var(--accent);
+  margin: 0 0 10px;
+}
+
+.word-sheet-example {
+  font-family: var(--font-read);
+  font-size: 15px;
+  color: var(--text-dim);
+  line-height: 1.6;
+  margin: 0 0 10px;
+}
+
+.word-sheet-exam-count {
+  font-size: 13px;
+  color: var(--text-faint);
+  margin: 0 0 8px;
+}
+
+.word-sheet-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+
+.word-sheet-link {
+  font-family: inherit;
+  font-size: 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.word-sheet-save.is-saved {
+  background: var(--correct);
+  color: #0d1f14;
+  border-color: var(--correct);
+}
+
+body.sheet-open {
+  overflow: hidden;
+}
+
+/* ---------- Animasyonlar ---------- */
+@keyframes rise-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* ---------- Kucuk ekran / 390 genislik guvenligi ---------- */
+@media (max-width: 400px) {
+  .app-title { font-size: 30px; }
+  .mode-grid { gap: 10px; }
+  .stat-bar-row .stat-label { width: 108px; font-size: 12.5px; }
+}

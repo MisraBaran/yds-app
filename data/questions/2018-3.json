@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2018-3-q01",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Several different models of emotional intelligence have emerged since 1990, and such ---- has contributed to a certain amount of controversy.",
+    "options": [
+      "elimination",
+      "diversity",
+      "regulation",
+      "clarity",
+      "disruption"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q02",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since the beginning of the Industrial Age, humankind’s ---- of the natural environment has taken a turn for the worse.",
+    "options": [
+      "exploitation",
+      "contradiction",
+      "deprivation",
+      "termination",
+      "allocation"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q03",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although Thomas Edison was not the first to create the light bulb, his model was more commercially ---- because it was long-lasting and formed part of a whole lighting system.",
+    "options": [
+      "reactive",
+      "urgent",
+      "excessive",
+      "peculiar",
+      "viable ENGLISH"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q04",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Just as television and mass media had done before, the growth of the Internet in the 1990s and early 2000s ---- a new era for business.",
+    "options": [
+      "heralded",
+      "jeopardised",
+      "reversed",
+      "enforced",
+      "protected"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q05",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The revolutions and wars of the 20th century ---- affected people’s views of these times and the histories they wrote.",
+    "options": [
+      "decently",
+      "recklessly",
+      "offensively",
+      "arbitrarily",
+      "profoundly"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q06",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "As the distribution of radio and TV programming began migrating to a digital format in the late 1990s, broadcasters, over time, have had to ---- their old analogue frequencies for the new digital channels and invest hundreds of millions of dollars in new equipment.",
+    "options": [
+      "give up",
+      "take on",
+      "work out",
+      "turn down",
+      "go through"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q07",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "In recent years, linguists ---- whether the homogenising effects of TV, film, and the Internet ---- to eliminate many so-called regionalisms in the language in the US.",
+    "options": [
+      "ponder / were beginning",
+      "have pondered / have begun",
+      "have been pondering / will have begun",
+      "are pondering / will be beginning",
+      "pondered / will begin"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q08",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "From asteroid strike to nuclear war, humanity ---- all kinds of existential threats, yet, if humankind disappeared tomorrow, nobody knows what kind of planet we ---- behind.",
+    "options": [
+      "faced / should be leaving",
+      "has faced / would be leaving",
+      "had faced / may be leaving",
+      "is facing / have to be leaving",
+      "faces / must be leaving"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q09",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "After ---- victorious from World War I, structural problems and massive debt plunged Great Britain into an economic crisis that ---- into the middle of the 1930s.",
+    "options": [
+      "to emerge / was lasting",
+      "having been emerged / has lasted",
+      "having emerged / would have lasted",
+      "emerging / lasted",
+      "being emerged / had lasted"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q10",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The world’s first complex societies arose in the Near East ---- the fertile area, known as Mesopotamia, ---- the Tigris and Euphrates rivers.",
+    "options": [
+      "around / to",
+      "within / between",
+      "about / with",
+      "for / along",
+      "at / among"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q11",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- rapid advances in biotechnology, genetic manipulation of crops accelerated in the 1990s and is expected to have a significant impact ---- food production.",
+    "options": [
+      "Through / to",
+      "In / over",
+      "With / on",
+      "Within / from",
+      "For / behind"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q12",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Scientists have grown more aware of the social implications of their work ---- people have become more conscious of the ways in which science and technology affect their lives.",
+    "options": [
+      "but",
+      "in case",
+      "just as",
+      "only if",
+      "unless"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q13",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- the organic food industry is relatively small and new, it is important that consumers become aware of its claims, limitations, and potential benefits.",
+    "options": [
+      "Just as",
+      "Once",
+      "Unless",
+      "Even if",
+      "Until"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q14",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Early conceptualisations of acculturation described an interpersonal transformation that occurs ---- cultures come into sustained contact.",
+    "options": [
+      "whereas",
+      "when",
+      "as if",
+      "even though",
+      "in case"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q15",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Known as the ‘Lady with the Lamp’ during the Crimean War, Florence Nightingale, the most famous nurse in history, focused her efforts ---- on the prevention of diseases ---- the promotion of healthy living in a more positive way.",
+    "options": [
+      "the more / the more",
+      "not only / but also",
+      "whether / or",
+      "such / that",
+      "as / as"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q16",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- expansion west across the Mississippi River to the Pacific coast, settlers from Europe were brought into conflict with Native American tribes who lived in the area, upon whose lands the settlers were encroaching.",
+    "options": [
+      "Rather than",
+      "Along with",
+      "As opposed to",
+      "Unlike",
+      "Due to"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q17",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2018-3-g17-21",
+    "passage": "The humble plastic bottle is now one of the most commonly recycled objects. However, it was the cheapness and durability of the product that(17)---- its popularity over glass bottles. Nathaniel Wyeth, a US engineer, worked on the invention (18)---- almost a decade. When he asked a colleague if plastic might be used to store carbonated beverages (19)---- coke, he was told that they would explode. A series of early experiments proved that carbonated beverages caused the plastic to expand. Obviously, the plastic was too weak, but it (20)---- if the long strands of molecules that form plastic were made up together. Wyeth knew that nylon gets stronger when its molecules are stretched and aligned, and he developed a pre-formed mold. (21)---- initial results were far from successful and it took 10,000 attempts to solve that problem, he finally replaced the nylon with polyethylene-terphathalate (PET) – an artificial substance used to make materials for packaging food, including plastic drink bottles – and the bottle was quickly taken up by the booming soft drink industry.",
+    "stem": null,
+    "options": [
+      "led to",
+      "sold off",
+      "wore out",
+      "brought down",
+      "called back"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q18",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2018-3-g17-21",
+    "passage": "The humble plastic bottle is now one of the most commonly recycled objects. However, it was the cheapness and durability of the product that(17)---- its popularity over glass bottles. Nathaniel Wyeth, a US engineer, worked on the invention (18)---- almost a decade. When he asked a colleague if plastic might be used to store carbonated beverages (19)---- coke, he was told that they would explode. A series of early experiments proved that carbonated beverages caused the plastic to expand. Obviously, the plastic was too weak, but it (20)---- if the long strands of molecules that form plastic were made up together. Wyeth knew that nylon gets stronger when its molecules are stretched and aligned, and he developed a pre-formed mold. (21)---- initial results were far from successful and it took 10,000 attempts to solve that problem, he finally replaced the nylon with polyethylene-terphathalate (PET) – an artificial substance used to make materials for packaging food, including plastic drink bottles – and the bottle was quickly taken up by the booming soft drink industry.",
+    "stem": null,
+    "options": [
+      "with",
+      "for",
+      "at",
+      "to",
+      "by"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q19",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2018-3-g17-21",
+    "passage": "The humble plastic bottle is now one of the most commonly recycled objects. However, it was the cheapness and durability of the product that(17)---- its popularity over glass bottles. Nathaniel Wyeth, a US engineer, worked on the invention (18)---- almost a decade. When he asked a colleague if plastic might be used to store carbonated beverages (19)---- coke, he was told that they would explode. A series of early experiments proved that carbonated beverages caused the plastic to expand. Obviously, the plastic was too weak, but it (20)---- if the long strands of molecules that form plastic were made up together. Wyeth knew that nylon gets stronger when its molecules are stretched and aligned, and he developed a pre-formed mold. (21)---- initial results were far from successful and it took 10,000 attempts to solve that problem, he finally replaced the nylon with polyethylene-terphathalate (PET) – an artificial substance used to make materials for packaging food, including plastic drink bottles – and the bottle was quickly taken up by the booming soft drink industry.",
+    "stem": null,
+    "options": [
+      "contrary to",
+      "rather than",
+      "by means of",
+      "such as",
+      "in terms of"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q20",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2018-3-g17-21",
+    "passage": "The humble plastic bottle is now one of the most commonly recycled objects. However, it was the cheapness and durability of the product that(17)---- its popularity over glass bottles. Nathaniel Wyeth, a US engineer, worked on the invention (18)---- almost a decade. When he asked a colleague if plastic might be used to store carbonated beverages (19)---- coke, he was told that they would explode. A series of early experiments proved that carbonated beverages caused the plastic to expand. Obviously, the plastic was too weak, but it (20)---- if the long strands of molecules that form plastic were made up together. Wyeth knew that nylon gets stronger when its molecules are stretched and aligned, and he developed a pre-formed mold. (21)---- initial results were far from successful and it took 10,000 attempts to solve that problem, he finally replaced the nylon with polyethylene-terphathalate (PET) – an artificial substance used to make materials for packaging food, including plastic drink bottles – and the bottle was quickly taken up by the booming soft drink industry.",
+    "stem": null,
+    "options": [
+      "used to be strengthened",
+      "had to be strengthened",
+      "would have been strengthened",
+      "must have been strengthened",
+      "should be strengthened"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q21",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2018-3-g17-21",
+    "passage": "The humble plastic bottle is now one of the most commonly recycled objects. However, it was the cheapness and durability of the product that(17)---- its popularity over glass bottles. Nathaniel Wyeth, a US engineer, worked on the invention (18)---- almost a decade. When he asked a colleague if plastic might be used to store carbonated beverages (19)---- coke, he was told that they would explode. A series of early experiments proved that carbonated beverages caused the plastic to expand. Obviously, the plastic was too weak, but it (20)---- if the long strands of molecules that form plastic were made up together. Wyeth knew that nylon gets stronger when its molecules are stretched and aligned, and he developed a pre-formed mold. (21)---- initial results were far from successful and it took 10,000 attempts to solve that problem, he finally replaced the nylon with polyethylene-terphathalate (PET) – an artificial substance used to make materials for packaging food, including plastic drink bottles – and the bottle was quickly taken up by the booming soft drink industry.",
+    "stem": null,
+    "options": [
+      "Once",
+      "As long as",
+      "In order that",
+      "Although",
+      "In case"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q22",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2018-3-g22-26",
+    "passage": "Nothing brings a community together like the collective glow of its televisions. In the spring of 1948, American John Walson installed community antenna television, bringing the wonders of cable television to his customers. Walson and his wife Margaret, owners of the Service Electric Company of Mahanoy City, Pennsylvania, (22)----cable television as a way to help their customers pick up signals blocked by nearby mountains. Walson decided(23)---- his service literally to new heights by climbing to the top of a mountain and planting an antenna. (24)---- using cables and signal boosters, he connected the antenna to his appliance store. Along the way he dropped the signal directly off at his customers’ homes, (25)---- creating the first community antenna television system. Community antenna television, now known as cable TV, is found in nearly 60 per cent of US homes and (26)---- Europe.",
+    "stem": null,
+    "options": [
+      "lived up to",
+      "caught up with",
+      "came up with",
+      "grew out of",
+      "kept up with"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q23",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2018-3-g22-26",
+    "passage": "Nothing brings a community together like the collective glow of its televisions. In the spring of 1948, American John Walson installed community antenna television, bringing the wonders of cable television to his customers. Walson and his wife Margaret, owners of the Service Electric Company of Mahanoy City, Pennsylvania, (22)----cable television as a way to help their customers pick up signals blocked by nearby mountains. Walson decided(23)---- his service literally to new heights by climbing to the top of a mountain and planting an antenna. (24)---- using cables and signal boosters, he connected the antenna to his appliance store. Along the way he dropped the signal directly off at his customers’ homes, (25)---- creating the first community antenna television system. Community antenna television, now known as cable TV, is found in nearly 60 per cent of US homes and (26)---- Europe.",
+    "stem": null,
+    "options": [
+      "to take",
+      "to be taking",
+      "having taken",
+      "to have taken",
+      "taking"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q24",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2018-3-g22-26",
+    "passage": "Nothing brings a community together like the collective glow of its televisions. In the spring of 1948, American John Walson installed community antenna television, bringing the wonders of cable television to his customers. Walson and his wife Margaret, owners of the Service Electric Company of Mahanoy City, Pennsylvania, (22)----cable television as a way to help their customers pick up signals blocked by nearby mountains. Walson decided(23)---- his service literally to new heights by climbing to the top of a mountain and planting an antenna. (24)---- using cables and signal boosters, he connected the antenna to his appliance store. Along the way he dropped the signal directly off at his customers’ homes, (25)---- creating the first community antenna television system. Community antenna television, now known as cable TV, is found in nearly 60 per cent of US homes and (26)---- Europe.",
+    "stem": null,
+    "options": [
+      "Because of",
+      "As regards",
+      "By means of",
+      "In terms of",
+      "Similar to"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q25",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2018-3-g22-26",
+    "passage": "Nothing brings a community together like the collective glow of its televisions. In the spring of 1948, American John Walson installed community antenna television, bringing the wonders of cable television to his customers. Walson and his wife Margaret, owners of the Service Electric Company of Mahanoy City, Pennsylvania, (22)----cable television as a way to help their customers pick up signals blocked by nearby mountains. Walson decided(23)---- his service literally to new heights by climbing to the top of a mountain and planting an antenna. (24)---- using cables and signal boosters, he connected the antenna to his appliance store. Along the way he dropped the signal directly off at his customers’ homes, (25)---- creating the first community antenna television system. Community antenna television, now known as cable TV, is found in nearly 60 per cent of US homes and (26)---- Europe.",
+    "stem": null,
+    "options": [
+      "until",
+      "though",
+      "thus",
+      "after",
+      "but"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q26",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2018-3-g22-26",
+    "passage": "Nothing brings a community together like the collective glow of its televisions. In the spring of 1948, American John Walson installed community antenna television, bringing the wonders of cable television to his customers. Walson and his wife Margaret, owners of the Service Electric Company of Mahanoy City, Pennsylvania, (22)----cable television as a way to help their customers pick up signals blocked by nearby mountains. Walson decided(23)---- his service literally to new heights by climbing to the top of a mountain and planting an antenna. (24)---- using cables and signal boosters, he connected the antenna to his appliance store. Along the way he dropped the signal directly off at his customers’ homes, (25)---- creating the first community antenna television system. Community antenna television, now known as cable TV, is found in nearly 60 per cent of US homes and (26)---- Europe.",
+    "stem": null,
+    "options": [
+      "beneath",
+      "throughout",
+      "besides",
+      "between",
+      "opposite"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q27",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although airborne radar shares much in common with surface and naval sets, ----.",
+    "options": [
+      "there are many factors involved that set it apart from these",
+      "they were first developed and used during World War II",
+      "the radar set itself needs to fit in the limited space available within an airplane",
+      "home sets have a margin of error of around five kilometers and a visual range of 300 meters",
+      "their development was hindered by directives prohibiting external antennae on planes"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q28",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although we may think that we come to our opinions independently, ----.",
+    "options": [
+      "research shows that people are profoundly influenced by group norms at all levels of thought and behaviour",
+      "we might go against group norms and make a unique decision despite feelings of anxiety and fear",
+      "studies of the brain indicate increased activation of the amygdala region when making an independent decision",
+      "people are less swayed by group opinions when they are more knowledgeable or confident",
+      "most of us consider decisions about clothing or music to be personal and do not worry about group opinions"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q29",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While the percentage of North Americans practicing vegetarianism has remained rather consistent at about only one per cent of the total population, ----.",
+    "options": [
+      "social acceptance of this lifestyle has increased dramatically since the late 20th century",
+      "there is some controversy related to which dietary practices truly fall under the term 'vegetarianism'",
+      "such lifestyles have rarely been understood well by communities dependent on animal products",
+      "most of them believe that practicing vegetarianism will help them with their weight loss goals",
+      "the philosophy of vegetarianism dates back to the views of Pythagoras in the 5th century BC"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q30",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because obesity, linked to health problems like heart disease and diabetes, has become more prevalent, ----.",
+    "options": [
+      "the highest prevalence is in Polynesia and Micronesia, followed by Kuwait, and the US",
+      "a study has found that the number of obese adults has increased sevenfold since the 1900s",
+      "public health experts are expecting a very heavy burden on health systems and society",
+      "the same applies to kids, teenagers, young adults and adults alike around the world",
+      "cheap junk food, rural-to-urban migration and sedentary lifestyles all contribute to obesity"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q31",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As the human population continues to increase, ----.",
+    "options": [
+      "many engineers are unaware that noise pollution is a serious problem especially in developing countries",
+      "as many as 10 million people lost part of their hearing because of noise pollution",
+      "manufacturers in some states do not label the noise level of products such as chain saws and lawn mowers",
+      "the amount of noise in our world will also grow since we crowd together with gadgets, machines, and vehicles",
+      "laws force manufacturers to specify the noise levels of their products, which should not exceed the acceptable levels"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q32",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, all too frequently technological devices or particular features are not adequate for the needs and abilities of older people.",
+    "options": [
+      "As problems of access to technological devices experienced by older people emerge when they have to change their habitual behaviours",
+      "Even though developers and manufacturers of technical devices and systems attempt to make products as user-friendly as possible",
+      "As long as acceptance of technology becomes crucial for older people for the acquisition and use of technological appliances",
+      "Whereas elderly non-users of technological devices run the risk of being labelled technologically illiterate",
+      "In case older people who grew up with the electro-mechanical interaction style of technological devices experience more difficulties than the software generation"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q33",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "No accurate statistics for attention deficit hyperactivity disorder (ADH",
+    "options": [
+      "exist ----.",
+      "given that it is classified as a disability under federal laws and legislation in the United States",
+      "when 70% of true cases exhibit psychological problems such as depression and anxiety",
+      "because experts have grown alarmed by the increase in the number of individuals diagnosed with the disorder",
+      "as its symptoms come and go in almost every normal, healthy person and vanish in time E) unless many psychiatrists maintain that the disorder has become overdiagnosed"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q34",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Much of the ocean remains mysterious ----.",
+    "options": [
+      "unless they cover more of the Earth’s surface than land",
+      "even though animals that live in the deep ocean need unique characteristics to survive in those conditions",
+      "as sunlight, which is mandatory to investigate the deep waters, is important for sea creatures",
+      "because the dark, cold conditions make its deep waters difficult to explore",
+      "although life at the bottom of the deep ocean is difficult for the ones with lungs"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q35",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, one of the most ‘normal’ elements of many developing countries’ cultures is reliance on children in the later phases of life.",
+    "options": [
+      "Provided that autonomy means independent and effective functioning in a variety of life domains ranging from basic activities of daily living to complex decision processes",
+      "Although developmental researchers have primarily examined the dynamics between dependency and autonomy from childhood to adolescence",
+      "Because dependency means the ongoing need for external support in order to fulfil individual or societal expectations regarding what a ‘normal’ life is",
+      "Even if one of the interpretations of dependency encompasses human needs for affiliation, attachment, and bonding to significant others",
+      "While the developmental goal of maintaining autonomy in a wide variety of life domains over the life span is one of the highest values in most Western cultures"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q36",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, these birds must be physiologically capable of drinking seawater without harm.",
+    "options": [
+      "While albatrosses are remarkably graceful in the air",
+      "Even if the navigational powers of albatrosses are impressive",
+      "Because albatrosses remain out at sea for days or weeks while foraging",
+      "As long as albatrosses suffer extensive mortality due to fishing fleets",
+      "Despite the fact that albatrosses can live to a great age"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q37",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "As a result of dramatically increased communication between people in recent years, we live in a world that is increasingly multilingual, where languages we speak are no longer confined to a specific geographical area.",
+    "options": [
+      "İnsanlar arasındaki iletişim son yıllarda önemli ölçüde arttı ve bunun sonucunda konuştuğumuz dillerin artık belirli bir coğrafi bölgeyle sınırlandırılmadığı, giderek çok dilli olan bir dünyada yaşıyoruz.",
+      "Son yıllarda insanlar arasındaki iletişimin artması, konuştuğumuz dillerin artık belirli bir coğrafi bölgeye özgü olmadığı, giderek çok dilli hâle gelen bir dünyada yaşamamızın bir sonucudur.",
+      "Konuştuğumuz dillerin artık belirli bir coğrafi bölgeyle sınırlandırılmış olmaması sonucunda giderek çok dilli hâle gelen bir dünyada yaşadığımız için insanlar arasındaki iletişim son yıllarda önemli ölçüde arttı.",
+      "Son yıllarda insanlar arasındaki iletişimin büyük ölçüde artması sonucunda giderek çok dilli olan ve konuştuğumuz dillerin artık belirli bir coğrafi bölgeye özgü olmadığı bir dünyada yaşıyoruz.",
+      "Son yıllarda insanlar arasında önemli ölçüde artan iletişimin bir sonucu olarak, konuştuğumuz dillerin artık belirli bir coğrafi bölgeyle sınırlandırılmadığı, giderek çok dilli olan bir dünyada yaşıyoruz."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q38",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "In the West, meditation is regarded as a cure for depression, as a recipe for happiness, and it is even advised for pain relief when the drugs fail, yet in Asia, it represents a spiritual exploration of the mind.",
+    "options": [
+      "Meditasyon, her ne kadar Batı’da depresyon için bir tedavi, mutluluk için bir reçete olarak görülse ve hatta ilaçlar yetersiz kaldığında ağrıdan kurtulmak için tavsiye edilse de bu uygulama Asya’da, zihnin ruhani bir keşfini simgeler.",
+      "Asya’da zihnin ruhani bir keşfini temsil eden meditasyon, Batı'da depresyon için bir tedavi, mutluluk için bir reçete olarak görülür ve ilaçların ağrıyı gidermediği durumlarda bile tavsiye edilir.",
+      "Batı’da, depresyonun tedavisi, mutluluk için bir reçete olarak görülen ve ilaçların yetersiz kaldığı durumlarda ağrıdan kurtulmak için tavsiye edilen meditasyon, Asya’da zihnin ruhani bir keşfini temsil eder.",
+      "Batı’da meditasyonun depresyon için bir tedavi, mutluluk için bir reçete olarak görülmesine ve hatta ilaçların yetersiz kaldığı durumlarda ağrıdan kurtulmak için tavsiye edilmesine rağmen Asya’da zihnin ruhani bir keşfini simgeler.",
+      "Meditasyon, Batı’da depresyon için bir tedavi, mutluluk için bir reçete olarak görülür ve hatta ilaçlar yetersiz kaldığında ağrıdan kurtulmak için tavsiye edilir ancak Asya’da zihnin ruhani bir keşfini temsil eder."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q39",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Persuasive communication designed to arouse fear is usually effective; however, if the message arouses too much fear, the effects may be disruptive and lead people to ignore or reject the information.",
+    "options": [
+      "Korku uyandırmaya yönelik ikna edici iletişim genelde etkilidir ama çok fazla korku yaratan mesajın etkileri rahatsızlık verebilir ve kişiler tarafından bilginin göz ardı edilmesine veya reddedilmesine neden olabilir.",
+      "Korku uyandırmaya yönelik ikna edici iletişim genellikle etkilidir ancak mesaj çok fazla korku yaratırsa, etkileri rahatsız edici olabilir ve kişilerin bilgiyi göz ardı etmesine veya reddetmesine yol açabilir.",
+      "İkna edici iletişim korku uyandırmaya yönelik olursa genellikle etkilidir fakat mesaj gereğinden fazla korku yaratırsa, etkileri rahatsızlık verici olabilir ve bilginin kişiler tarafından göz ardı edilmesiyle veya reddedilmesiyle sonuçlanır.",
+      "İkna etmeye yönelik iletişim korku uyandırdığında genellikle etkilidir ancak mesaj fazla korku yaratırsa, etkileri rahatsızlık verebilir ve bilginin kişiler tarafından göz ardı edilmesine veya reddedilmesine neden olur.",
+      "İkna etmeye yönelik iletişim korku uyandırdığı taktirde genelde etkilidir fakat fazla korku uyandırdığı durumlarda mesajın etkileri rahatsız edici olabilir ve kişilerin bilgiyi göz ardı etmesine veya reddetmesine yol açabilir."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q40",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Kaslarımız, egzersizden sonra, stresin neden olduğu kynurenine adı verilen toksini etkisiz hâle getiren bir bileşen üretmektedir, ancak günlük yürüyüş bu bileşenin üretimini artırmak için yeterli değildir.",
+    "options": [
+      "Following a workout, our muscles neutralise a stress-induced toxin called kynurenine by producing a compound, though a daily walk will not be enough to boost the production of this compound.",
+      "A compound is produced by our muscles via workout to neutralise a stress-induced toxin called kynurenine, but a daily walk is not enough to boost the production of this compound.",
+      "A daily walk is not enough to boost the production of a compound, produced by our muscles after a workout, that neutralises a stress-induced toxin called kynurenine.",
+      "After a workout, our muscles produce a compound which neutralises a stress-induced toxin called kynurenine, but a daily walk is not enough to boost the production of this compound.",
+      "After a workout, our muscles produce a compound to neutralise a stress-induced toxin called kynurenine, because walking daily is not enough to boost the production of this compound."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q41",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Modern çocuk romanları, tüm bir hayat hikâyesinden ziyade çarpıcı bir dönüm noktasına odaklanarak, nispeten kısa bir zaman aralığını kapsama eğilimindedir; bu nedenle çocuk romanlarında daha az özet ve daha detaylı sahneler vardır.",
+    "options": [
+      "Modern children’s novels tend to concentrate on a dramatic turning point instead of a whole life story with more detailed scenes and fewer summaries; and thus there is a much shorter time span in children’s books.",
+      "Modern children’s novels tend to cover a relatively short time span, concentrating on a dramatic turning point rather than a whole life story; therefore, there are fewer summaries and more detailed scenes in children’s books.",
+      "There is a tendency in modern children’s novels to cover a relatively short time span, so they focus on a dramatic turning point instead of a whole life story and there are fewer summaries and more detailed scenes in children’s books.",
+      "Modern children’s novels tend to include fewer summaries and more detailed scenes so that they can focus on a dramatic turning point in a relatively short time span instead of a whole life story.",
+      "Modern children’s novels tend to focus on a comparatively short time span with a dramatic turning point instead of a whole life story, and consequently there are fewer summaries and more detailed scenes in children’s books."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q42",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Bağışıklık sistemi; zararlı bakteriler, virüsler ve parazitleri vücuttan uzak tutmaya ve istilacı ajanları yok etmeye çalışan bir sistemdir ve bu sistem vücutta sorun arayarak devriye gezen beyaz kan hücreleri ordusundan oluşmaktadır.",
+    "options": [
+      "The system that tries to keep harmful bacteria, viruses and parasites out of the body and to destroy invading agents is called the immune system, which consists of an army of white blood cells that patrols the body, looking for trouble.",
+      "Consisting of an army of white blood cells that patrols the body, the immune system is a system that looks for trouble trying to keep harmful bacteria, viruses and parasites out of the body and to fight with invading agents.",
+      "The immune system is a system that tries to keep harmful bacteria, viruses and parasites out of the body and to destroy invading agents, and this system consists of an army of white blood cells that patrols the body, looking for trouble.",
+      "The immune system, which consists of an army of white blood cells that patrols the body and looks for trouble, is a system that tries to keep harmful bacteria, viruses and parasites out of the body and to destroy invading agents.",
+      "The immune system tries to keep harmful bacteria, viruses and parasites out of the body and to fight with invading agents, and this system, which looks for trouble, consists of an army of white blood cells that patrols the body."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q43",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2018-3-g43-46",
+    "passage": "Aromatherapy is the therapeutic use of plant-derived, aromatic essential oils to promote physical and psychological well-being. Aromatic plants have been utilised for their healing, preservative, and pleasurable qualities throughout recorded history in both the East and West. As early as 1500 BC the ancient Egyptians used waters, oils, incense, resins, and ointments scented with botanicals for their religious ceremonies. There is evidence that the Chinese may have recognised the benefits of herbal and aromatic remedies much earlier than this. The oldest known herbal text, Shen Nung’s Pen Ts’ao (c. 2700-3000 BC) catalogues over 200 botanicals. Ayurveda, a practice of traditional Indian medicine that dates back more than 2,500 years, also used aromatic herbs for treatment. The Romans were well known for their use of fragrances. They bathed with botanicals and integrated them into their state and religious rituals. So did the Greeks, with a growing awareness of the medicinal properties of herbs. Greek physician and surgeon Pedanios Dioscorides, whose prominentherbal text De Materia Medica (60 AD) was the standard textbook for Western medicine for 1,500 years, wrote extensively on the medicinal value of botanical aromatics.",
+    "stem": "It is stated in the passage that aromatherapy ----.",
+    "options": [
+      "is still practised through the use of more than 200 plants listed in Pen Ts’ao",
+      "had been ignored for years until the ancient Egyptians made use of it",
+      "was more highly valued by the Indians than the Chinese and Egyptians",
+      "was possibly used for curative purposes by the Chinese long before the Egyptians",
+      "is described as a form of treatment usually for psychological disorders"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q44",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2018-3-g43-46",
+    "passage": "Aromatherapy is the therapeutic use of plant-derived, aromatic essential oils to promote physical and psychological well-being. Aromatic plants have been utilised for their healing, preservative, and pleasurable qualities throughout recorded history in both the East and West. As early as 1500 BC the ancient Egyptians used waters, oils, incense, resins, and ointments scented with botanicals for their religious ceremonies. There is evidence that the Chinese may have recognised the benefits of herbal and aromatic remedies much earlier than this. The oldest known herbal text, Shen Nung’s Pen Ts’ao (c. 2700-3000 BC) catalogues over 200 botanicals. Ayurveda, a practice of traditional Indian medicine that dates back more than 2,500 years, also used aromatic herbs for treatment. The Romans were well known for their use of fragrances. They bathed with botanicals and integrated them into their state and religious rituals. So did the Greeks, with a growing awareness of the medicinal properties of herbs. Greek physician and surgeon Pedanios Dioscorides, whose prominentherbal text De Materia Medica (60 AD) was the standard textbook for Western medicine for 1,500 years, wrote extensively on the medicinal value of botanical aromatics.",
+    "stem": "Greek physician and surgeon Pedanios Dioscorides ----.",
+    "options": [
+      "differed from Roman physicians and surgeons in that he recorded his knowledge of curative herbs",
+      "wrote a book on medicine which focused on herbs that could be used for medicinal purpose",
+      "insisted that botanicals had more value in medicine compared to religious ceremonies",
+      "was the first to fully understand and document the medicinal value of botanical aromatics",
+      "drew inspiration from the Romans in his efforts to improve Western medicine"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q45",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2018-3-g43-46",
+    "passage": "Aromatherapy is the therapeutic use of plant-derived, aromatic essential oils to promote physical and psychological well-being. Aromatic plants have been utilised for their healing, preservative, and pleasurable qualities throughout recorded history in both the East and West. As early as 1500 BC the ancient Egyptians used waters, oils, incense, resins, and ointments scented with botanicals for their religious ceremonies. There is evidence that the Chinese may have recognised the benefits of herbal and aromatic remedies much earlier than this. The oldest known herbal text, Shen Nung’s Pen Ts’ao (c. 2700-3000 BC) catalogues over 200 botanicals. Ayurveda, a practice of traditional Indian medicine that dates back more than 2,500 years, also used aromatic herbs for treatment. The Romans were well known for their use of fragrances. They bathed with botanicals and integrated them into their state and religious rituals. So did the Greeks, with a growing awareness of the medicinal properties of herbs. Greek physician and surgeon Pedanios Dioscorides, whose prominentherbal text De Materia Medica (60 AD) was the standard textbook for Western medicine for 1,500 years, wrote extensively on the medicinal value of botanical aromatics.",
+    "stem": "The underlined word ‘prominent’ in the passage is closest in meaning to ----.",
+    "options": [
+      "noteworthy",
+      "equivalent",
+      "prescriptive",
+      "confidential",
+      "consistent"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q46",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2018-3-g43-46",
+    "passage": "Aromatherapy is the therapeutic use of plant-derived, aromatic essential oils to promote physical and psychological well-being. Aromatic plants have been utilised for their healing, preservative, and pleasurable qualities throughout recorded history in both the East and West. As early as 1500 BC the ancient Egyptians used waters, oils, incense, resins, and ointments scented with botanicals for their religious ceremonies. There is evidence that the Chinese may have recognised the benefits of herbal and aromatic remedies much earlier than this. The oldest known herbal text, Shen Nung’s Pen Ts’ao (c. 2700-3000 BC) catalogues over 200 botanicals. Ayurveda, a practice of traditional Indian medicine that dates back more than 2,500 years, also used aromatic herbs for treatment. The Romans were well known for their use of fragrances. They bathed with botanicals and integrated them into their state and religious rituals. So did the Greeks, with a growing awareness of the medicinal properties of herbs. Greek physician and surgeon Pedanios Dioscorides, whose prominentherbal text De Materia Medica (60 AD) was the standard textbook for Western medicine for 1,500 years, wrote extensively on the medicinal value of botanical aromatics.",
+    "stem": "The passage is mainly about ----.",
+    "options": [
+      "the pleasurable quality of aromatic plants",
+      "the eminent physicians practising aromatherapy",
+      "the reasons why aromatherapy was used in ancient times",
+      "the medicinal value of aromatherapy",
+      "the civilisations that contributed to the growth of aromatherapy"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q47",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2018-3-g47-50",
+    "passage": "In 2015, it was discovered that liquid water forms on the surface of Mars during its warmest summer days. However, thanks to the low atmospheric pressure, it boils away almost instantly ─ the boiling point of water on Mars is just 20ºC. Water was, therefore, believed to play little or no role in shaping the Martian surface. However, an international team of scientists has shown that even this short-lived boiling water does have a significant geological impact. The researchers, led by Marion Massé from the Laboratory of Planetology and Geodynamics of Nantes, recreated two environments: one inside a former diving decompression chamber at Mars-like pressure, and the other in a cold chamber at terrestrial pressure. When a block of ice melted under 'Earth' conditions, water simply soaked into the sand. When a block of ice melted under Mars-like pressure, though, its boiling caused bubbles to be emitted which disturbed the sand, leaving a pattern of ridges like the ones seen on the surface of Mars. With saltwater, the effects were more obvious.",
+    "stem": "Which of the following is an effect of low atmospheric pressure on Mars?",
+    "options": [
+      "Water cannot be formed during the warm summer days of Mars.",
+      "The water formed on Mars boils and disappears immediately.",
+      "The temperatures fall and so water cannot boil.",
+      "The planet becomes too cold for any water to exist.",
+      "The summer period is affected less by this low pressure."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q48",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2018-3-g47-50",
+    "passage": "In 2015, it was discovered that liquid water forms on the surface of Mars during its warmest summer days. However, thanks to the low atmospheric pressure, it boils away almost instantly ─ the boiling point of water on Mars is just 20ºC. Water was, therefore, believed to play little or no role in shaping the Martian surface. However, an international team of scientists has shown that even this short-lived boiling water does have a significant geological impact. The researchers, led by Marion Massé from the Laboratory of Planetology and Geodynamics of Nantes, recreated two environments: one inside a former diving decompression chamber at Mars-like pressure, and the other in a cold chamber at terrestrial pressure. When a block of ice melted under 'Earth' conditions, water simply soaked into the sand. When a block of ice melted under Mars-like pressure, though, its boiling caused bubbles to be emitted which disturbed the sand, leaving a pattern of ridges like the ones seen on the surface of Mars. With saltwater, the effects were more obvious.",
+    "stem": "Why did the researchers recreate two environments?",
+    "options": [
+      "They wanted to compare the environment of Earth with the environment of Mars.",
+      "They wanted to see if it was possible to create Mars-like environments.",
+      "They wanted to find out if it would be possible to create Earth-like conditions on Mars.",
+      "They wanted to investigate if the fast boiling water had an effect on Mars.",
+      "They were trying to see if they could stop water from boiling away instantly."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q49",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2018-3-g47-50",
+    "passage": "In 2015, it was discovered that liquid water forms on the surface of Mars during its warmest summer days. However, thanks to the low atmospheric pressure, it boils away almost instantly ─ the boiling point of water on Mars is just 20ºC. Water was, therefore, believed to play little or no role in shaping the Martian surface. However, an international team of scientists has shown that even this short-lived boiling water does have a significant geological impact. The researchers, led by Marion Massé from the Laboratory of Planetology and Geodynamics of Nantes, recreated two environments: one inside a former diving decompression chamber at Mars-like pressure, and the other in a cold chamber at terrestrial pressure. When a block of ice melted under 'Earth' conditions, water simply soaked into the sand. When a block of ice melted under Mars-like pressure, though, its boiling caused bubbles to be emitted which disturbed the sand, leaving a pattern of ridges like the ones seen on the surface of Mars. With saltwater, the effects were more obvious.",
+    "stem": "It is stated in the passage that ice melting under Mars-like pressure ----.",
+    "options": [
+      "created bubbles that were absorbed into the sand and left salt on the surface",
+      "soaked into the sand immediately and left no patterns on the surface",
+      "was similar to ice melting under Earth conditions",
+      "resulted in ridge-like patterns similar to the ones on the surface of Mars",
+      "produced bubbles which had no visible effect on the sand"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q50",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2018-3-g47-50",
+    "passage": "In 2015, it was discovered that liquid water forms on the surface of Mars during its warmest summer days. However, thanks to the low atmospheric pressure, it boils away almost instantly ─ the boiling point of water on Mars is just 20ºC. Water was, therefore, believed to play little or no role in shaping the Martian surface. However, an international team of scientists has shown that even this short-lived boiling water does have a significant geological impact. The researchers, led by Marion Massé from the Laboratory of Planetology and Geodynamics of Nantes, recreated two environments: one inside a former diving decompression chamber at Mars-like pressure, and the other in a cold chamber at terrestrial pressure. When a block of ice melted under 'Earth' conditions, water simply soaked into the sand. When a block of ice melted under Mars-like pressure, though, its boiling caused bubbles to be emitted which disturbed the sand, leaving a pattern of ridges like the ones seen on the surface of Mars. With saltwater, the effects were more obvious.",
+    "stem": "It can be inferred from the passage that ----.",
+    "options": [
+      "the findings of the research make it clear that Mars could be a habitable planet for humans",
+      "scientists need to start working on how to balance the atmospheric pressure on Mars",
+      "Mars has a suitable environment for water to be formed, but is unable to preserve it",
+      "it is possible to create Earth-like environments on Mars",
+      "water formed on Mars towards the end of summer days does not vaporise easily"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q51",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2018-3-g51-54",
+    "passage": "The Galápagos are a fascinating group of volcanic islands lying on the equator in the eastern Pacific Ocean, close to South America. They were created by volcanoes that boiled up from the ocean floor less than 10 million years ago. These islands of bare rocks were gradually colonized by plants and animals – some of which have evolved into weird forms that are found nowhere else on Earth. The Galápagos were created by a hot spot of volcanic activity which now lies beneath the most western island of Fernandina. All the islands are being carried east by the gradual movement of the ocean floor. This means that in about 26 million years they will crash into South America. While the young islands of the western Galápagos are still volcanically active, the volcanoes on the eastern islands such as San Cristobal and Española are extinct. There, volcanic rock has formed fertile soils which support lush vegetation, which in turn provides food even for rare creatures such as giant tortoises. The volcanic landscape, exciting wildlife, and scientific importance of the Galápagos have made them a major tourist attraction. Each year, thousands of people travel to the islands, yet, despite this, most of the islands retain the magical quality of a place almost untouched by the contemporary world.",
+    "stem": "It can be understood from the passage that the Galápagos ----.",
+    "options": [
+      "are no longer volcanically active",
+      "hardly have fertile soils to feed creatures",
+      "are bare rocks with no indication of plant or animal life",
+      "will crash into South America in near future",
+      "came to be the home of unique animal species in the course of time"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q52",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2018-3-g51-54",
+    "passage": "The Galápagos are a fascinating group of volcanic islands lying on the equator in the eastern Pacific Ocean, close to South America. They were created by volcanoes that boiled up from the ocean floor less than 10 million years ago. These islands of bare rocks were gradually colonized by plants and animals – some of which have evolved into weird forms that are found nowhere else on Earth. The Galápagos were created by a hot spot of volcanic activity which now lies beneath the most western island of Fernandina. All the islands are being carried east by the gradual movement of the ocean floor. This means that in about 26 million years they will crash into South America. While the young islands of the western Galápagos are still volcanically active, the volcanoes on the eastern islands such as San Cristobal and Española are extinct. There, volcanic rock has formed fertile soils which support lush vegetation, which in turn provides food even for rare creatures such as giant tortoises. The volcanic landscape, exciting wildlife, and scientific importance of the Galápagos have made them a major tourist attraction. Each year, thousands of people travel to the islands, yet, despite this, most of the islands retain the magical quality of a place almost untouched by the contemporary world.",
+    "stem": "It is clearly stated in the passage that the Galápagos ----.",
+    "options": [
+      "have been a central tourist site for its peculiar culture",
+      "have been a very popular tourist destination especially for scientists",
+      "have been virtually unaffected by the modern world",
+      "attract thousands of tourists from South America every year",
+      "magically make people forget about the modern world"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q53",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2018-3-g51-54",
+    "passage": "The Galápagos are a fascinating group of volcanic islands lying on the equator in the eastern Pacific Ocean, close to South America. They were created by volcanoes that boiled up from the ocean floor less than 10 million years ago. These islands of bare rocks were gradually colonized by plants and animals – some of which have evolved into weird forms that are found nowhere else on Earth. The Galápagos were created by a hot spot of volcanic activity which now lies beneath the most western island of Fernandina. All the islands are being carried east by the gradual movement of the ocean floor. This means that in about 26 million years they will crash into South America. While the young islands of the western Galápagos are still volcanically active, the volcanoes on the eastern islands such as San Cristobal and Española are extinct. There, volcanic rock has formed fertile soils which support lush vegetation, which in turn provides food even for rare creatures such as giant tortoises. The volcanic landscape, exciting wildlife, and scientific importance of the Galápagos have made them a major tourist attraction. Each year, thousands of people travel to the islands, yet, despite this, most of the islands retain the magical quality of a place almost untouched by the contemporary world.",
+    "stem": "Which word is closest in meaning to the underlined word ‘lush’ in the passage?",
+    "options": [
+      "compact",
+      "barren",
+      "available",
+      "decaying",
+      "abundant"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q54",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2018-3-g51-54",
+    "passage": "The Galápagos are a fascinating group of volcanic islands lying on the equator in the eastern Pacific Ocean, close to South America. They were created by volcanoes that boiled up from the ocean floor less than 10 million years ago. These islands of bare rocks were gradually colonized by plants and animals – some of which have evolved into weird forms that are found nowhere else on Earth. The Galápagos were created by a hot spot of volcanic activity which now lies beneath the most western island of Fernandina. All the islands are being carried east by the gradual movement of the ocean floor. This means that in about 26 million years they will crash into South America. While the young islands of the western Galápagos are still volcanically active, the volcanoes on the eastern islands such as San Cristobal and Española are extinct. There, volcanic rock has formed fertile soils which support lush vegetation, which in turn provides food even for rare creatures such as giant tortoises. The volcanic landscape, exciting wildlife, and scientific importance of the Galápagos have made them a major tourist attraction. Each year, thousands of people travel to the islands, yet, despite this, most of the islands retain the magical quality of a place almost untouched by the contemporary world.",
+    "stem": "Which of the following questions does this passage mostly answer?",
+    "options": [
+      "What makes the Galápagos so interesting?",
+      "What is so wonderful about the volcanic landscape of the Galápagos?",
+      "Why do the Galápagos continuously move?",
+      "What plants and animals live on the most western island of Fernandina?",
+      "What is the scientific importance of the Galápagos?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q55",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2018-3-g55-58",
+    "passage": "Daydreams are a form of imagination. In daydreams, the person forms a mental image of a past experience or of a situation that he or she has never actually experienced. The daydreamer may use these mental pictures to escape from reality temporarily, to overcome a frustrating situation, or to satisfy hidden wishes. Although most psychologists view daydreams as generally healthy and natural, this was not always the case. In the 1960s, for example, textbooks used for training teachers provided strategies for combating daydreaming. Daydreams occur in frequencies set by biological cycles of temperature and hormone levels, or they can be triggerred by a sensory input such as sight, taste, smell, sound, and touch. Psychologists estimate that the average person daydreams about every 90 minutes, and daydreams peak around the lunch hour (noon to 2 p.m.). Daydreaming first occurs for most people during childhood, sometime before the age of three, and these early daydreams set the pattern for adult daydreaming. Children who have positive, happy daydreams of success and achievement usually continue these types of mental images into adulthood. Daydreams become the incentive for problem-solving, creativity, or accomplishment. On the other hand, children whose daydreams are negative or scary are more likely to experience anxiety and fear, and this pattern will carry over into adulthood as well. A child’s daydreams may take a visible or public form – the daydreamer talks about his or her mental images while he or she is experiencing them, and may even act out the scenario he or she is imagining. After the age of ten, however, the process of internalising daydreaming begins – the child no longer expresses but continues to form them.",
+    "stem": "Why are textbooks used for training teachers in the 1960s mentioned in the passage?",
+    "options": [
+      "To state that these textbooks explained the reasons why students tend to daydream",
+      "To show that teachers favoured psychologists’ view that daydreaming is healthy",
+      "To emphasise that teachers were advised not to criticise their students for daydreaming",
+      "To focus on strategies developed by psychologists to help teachers deal with daydreaming",
+      "To indicate that daydreaming was not seen as a normal phenomenon in the past"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q56",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2018-3-g55-58",
+    "passage": "Daydreams are a form of imagination. In daydreams, the person forms a mental image of a past experience or of a situation that he or she has never actually experienced. The daydreamer may use these mental pictures to escape from reality temporarily, to overcome a frustrating situation, or to satisfy hidden wishes. Although most psychologists view daydreams as generally healthy and natural, this was not always the case. In the 1960s, for example, textbooks used for training teachers provided strategies for combating daydreaming. Daydreams occur in frequencies set by biological cycles of temperature and hormone levels, or they can be triggerred by a sensory input such as sight, taste, smell, sound, and touch. Psychologists estimate that the average person daydreams about every 90 minutes, and daydreams peak around the lunch hour (noon to 2 p.m.). Daydreaming first occurs for most people during childhood, sometime before the age of three, and these early daydreams set the pattern for adult daydreaming. Children who have positive, happy daydreams of success and achievement usually continue these types of mental images into adulthood. Daydreams become the incentive for problem-solving, creativity, or accomplishment. On the other hand, children whose daydreams are negative or scary are more likely to experience anxiety and fear, and this pattern will carry over into adulthood as well. A child’s daydreams may take a visible or public form – the daydreamer talks about his or her mental images while he or she is experiencing them, and may even act out the scenario he or she is imagining. After the age of ten, however, the process of internalising daydreaming begins – the child no longer expresses but continues to form them.",
+    "stem": "It is clear from the passage that daydreaming ----.",
+    "options": [
+      "happens for about 90 minutes, usually around lunchtime",
+      "becomes less frequent after the age of three",
+      "generally appeals to all of our five senses simultaneously",
+      "can be initiated either by bodily factors or sensory stimuli",
+      "peaks at lunch time due to an increase in the amount of sensory input"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q57",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2018-3-g55-58",
+    "passage": "Daydreams are a form of imagination. In daydreams, the person forms a mental image of a past experience or of a situation that he or she has never actually experienced. The daydreamer may use these mental pictures to escape from reality temporarily, to overcome a frustrating situation, or to satisfy hidden wishes. Although most psychologists view daydreams as generally healthy and natural, this was not always the case. In the 1960s, for example, textbooks used for training teachers provided strategies for combating daydreaming. Daydreams occur in frequencies set by biological cycles of temperature and hormone levels, or they can be triggerred by a sensory input such as sight, taste, smell, sound, and touch. Psychologists estimate that the average person daydreams about every 90 minutes, and daydreams peak around the lunch hour (noon to 2 p.m.). Daydreaming first occurs for most people during childhood, sometime before the age of three, and these early daydreams set the pattern for adult daydreaming. Children who have positive, happy daydreams of success and achievement usually continue these types of mental images into adulthood. Daydreams become the incentive for problem-solving, creativity, or accomplishment. On the other hand, children whose daydreams are negative or scary are more likely to experience anxiety and fear, and this pattern will carry over into adulthood as well. A child’s daydreams may take a visible or public form – the daydreamer talks about his or her mental images while he or she is experiencing them, and may even act out the scenario he or she is imagining. After the age of ten, however, the process of internalising daydreaming begins – the child no longer expresses but continues to form them.",
+    "stem": "Which of the following is true about daydreaming?",
+    "options": [
+      "While children generally benefit from the positive aspects of daydreaming, adults often focus on negative sides of their daydreams.",
+      "Daydreams can be highly detrimental if a person often confuses them with reality and behaves the way he or she does in daydreams.",
+      "Children’s daydreams might trigger beneficial or harmful behavioural patterns in their adult years.",
+      "When a child’s daydreams become visible, they must be interpreted correctly to help him or her become a creative or successful adult.",
+      "Daydreams generally disappear after the age of ten when they are largely internalised."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q58",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2018-3-g55-58",
+    "passage": "Daydreams are a form of imagination. In daydreams, the person forms a mental image of a past experience or of a situation that he or she has never actually experienced. The daydreamer may use these mental pictures to escape from reality temporarily, to overcome a frustrating situation, or to satisfy hidden wishes. Although most psychologists view daydreams as generally healthy and natural, this was not always the case. In the 1960s, for example, textbooks used for training teachers provided strategies for combating daydreaming. Daydreams occur in frequencies set by biological cycles of temperature and hormone levels, or they can be triggerred by a sensory input such as sight, taste, smell, sound, and touch. Psychologists estimate that the average person daydreams about every 90 minutes, and daydreams peak around the lunch hour (noon to 2 p.m.). Daydreaming first occurs for most people during childhood, sometime before the age of three, and these early daydreams set the pattern for adult daydreaming. Children who have positive, happy daydreams of success and achievement usually continue these types of mental images into adulthood. Daydreams become the incentive for problem-solving, creativity, or accomplishment. On the other hand, children whose daydreams are negative or scary are more likely to experience anxiety and fear, and this pattern will carry over into adulthood as well. A child’s daydreams may take a visible or public form – the daydreamer talks about his or her mental images while he or she is experiencing them, and may even act out the scenario he or she is imagining. After the age of ten, however, the process of internalising daydreaming begins – the child no longer expresses but continues to form them.",
+    "stem": "Which could be the best title for this passage?",
+    "options": [
+      "Comparing Child and Adult Daydreamers",
+      "Daydreaming Explained",
+      "Daydreams: Natural or Unhealthy?",
+      "The Transfer of Earlier Daydreams into Adulthood",
+      "The Underlying Causes of Daydreams"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q59",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2018-3-g59-62",
+    "passage": "Like other organisms, we humans make avoiding danger our highest priority. It is a simple evolutionary story: organisms that did not do so simply did not survive. Perhaps any living thing should bear in mind that it is better to miss lunch than to be lunch. Think about a bunny rabbit out in a meadow. If that bunny finds some really good veggies and becomes so engrossed in them that she does not keep looking around, she is liable to be eaten by a puma. Only bunnies that learned to eat while keeping a constant eye out for predators remain to inhabit this earth. But, unlike bunnies, we humans can describe the past and possible futures. You can think about how your father died of carotid artery blockage and worry that the same thing might happen to you. You can also worry about your child who might possibly be picked on by other kids at school. Although our thoughts about the future can make us thrilled in anticipation of good things to come, we are also prone to horrifying visions of bad things that might happen to us, thanks to our evolutionary bias to avoid danger. Then, thanks to our verbal, relational abilities, we can inhabit a terrifying world while sitting in a perfectly safe, quiet room.",
+    "stem": "According to the passage, the most important thing for all organisms is to ----.",
+    "options": [
+      "hide well for better protection in nature",
+      "stay away from life-threatening situations",
+      "devote a great deal of energy for the search of food",
+      "choose the right habitat to be able to survive",
+      "keep up with the requirements of finding a habitat"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q60",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2018-3-g59-62",
+    "passage": "Like other organisms, we humans make avoiding danger our highest priority. It is a simple evolutionary story: organisms that did not do so simply did not survive. Perhaps any living thing should bear in mind that it is better to miss lunch than to be lunch. Think about a bunny rabbit out in a meadow. If that bunny finds some really good veggies and becomes so engrossed in them that she does not keep looking around, she is liable to be eaten by a puma. Only bunnies that learned to eat while keeping a constant eye out for predators remain to inhabit this earth. But, unlike bunnies, we humans can describe the past and possible futures. You can think about how your father died of carotid artery blockage and worry that the same thing might happen to you. You can also worry about your child who might possibly be picked on by other kids at school. Although our thoughts about the future can make us thrilled in anticipation of good things to come, we are also prone to horrifying visions of bad things that might happen to us, thanks to our evolutionary bias to avoid danger. Then, thanks to our verbal, relational abilities, we can inhabit a terrifying world while sitting in a perfectly safe, quiet room.",
+    "stem": "It is clearly stated in the passage that in order to survive, animals should ----.",
+    "options": [
+      "try to get adequate nutrition during the day",
+      "be careful about the food choices they make",
+      "avoid becoming prey while feeding themselves",
+      "be engaged in less physical activity while eating",
+      "avoid hunting in places far from their original habitat"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q61",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2018-3-g59-62",
+    "passage": "Like other organisms, we humans make avoiding danger our highest priority. It is a simple evolutionary story: organisms that did not do so simply did not survive. Perhaps any living thing should bear in mind that it is better to miss lunch than to be lunch. Think about a bunny rabbit out in a meadow. If that bunny finds some really good veggies and becomes so engrossed in them that she does not keep looking around, she is liable to be eaten by a puma. Only bunnies that learned to eat while keeping a constant eye out for predators remain to inhabit this earth. But, unlike bunnies, we humans can describe the past and possible futures. You can think about how your father died of carotid artery blockage and worry that the same thing might happen to you. You can also worry about your child who might possibly be picked on by other kids at school. Although our thoughts about the future can make us thrilled in anticipation of good things to come, we are also prone to horrifying visions of bad things that might happen to us, thanks to our evolutionary bias to avoid danger. Then, thanks to our verbal, relational abilities, we can inhabit a terrifying world while sitting in a perfectly safe, quiet room.",
+    "stem": "Compared to animals’ survival instincts, those of humans ----.",
+    "options": [
+      "are based on bad experiences rather than worries",
+      "make them less vulnerable to attacks and threats",
+      "are less powerful in avoiding danger",
+      "are basically focused on present dangers",
+      "involve a more complex level of reasoning"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q62",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2018-3-g59-62",
+    "passage": "Like other organisms, we humans make avoiding danger our highest priority. It is a simple evolutionary story: organisms that did not do so simply did not survive. Perhaps any living thing should bear in mind that it is better to miss lunch than to be lunch. Think about a bunny rabbit out in a meadow. If that bunny finds some really good veggies and becomes so engrossed in them that she does not keep looking around, she is liable to be eaten by a puma. Only bunnies that learned to eat while keeping a constant eye out for predators remain to inhabit this earth. But, unlike bunnies, we humans can describe the past and possible futures. You can think about how your father died of carotid artery blockage and worry that the same thing might happen to you. You can also worry about your child who might possibly be picked on by other kids at school. Although our thoughts about the future can make us thrilled in anticipation of good things to come, we are also prone to horrifying visions of bad things that might happen to us, thanks to our evolutionary bias to avoid danger. Then, thanks to our verbal, relational abilities, we can inhabit a terrifying world while sitting in a perfectly safe, quiet room.",
+    "stem": "One can understand from the passage that our communication skills and thinking abilities ----.",
+    "options": [
+      "allow us to intuitively abstain ourselves from putting our lives at risk without action",
+      "may sometimes be ineffective in helping us estimate the risks around us",
+      "lead us to have a deeply pessimistic perspective on our future",
+      "make us feel more horrified than other species when faced with a danger",
+      "enable us to make accurate predictions about the future and be successful"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q63",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Rebecca: - Did you know that the Sun had a 'mother'? Adam: - The Sun had a mother? No, I thought the Sun was an unremarkable star. Rebecca: - ---- Adam: - Then maybe the Sun had siblings, too? Rebecca: - Yes, it had aunts and uncles as well. Scientists have reported that it may have stolen a planet from one of its relatives.",
+    "options": [
+      "Researchers have recently identified a candidate for at least one of the Sun’s siblings.",
+      "In the beginning, there was nothing but cold and dark between the atoms that became the solar system.",
+      "Astronomers know that in about five billion years, the Sun will also burn through its hydrogen supply and begin to cool.",
+      "Astronomers have recently found that when sun-like stars die, they have a chance to give birth to future stars.",
+      "An upcoming project will orbit a research satellite more closely to the Sun than any satellite before."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q64",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Jane: - I’m trying to revise for the exam next week, but I can’t remember what was so important about Francis Bacon. Maybe your notes are clearer than mine. John: - Bacon? Well, I wrote that he was responsible for creating the scientific method as we know it today. Jane: - ---- John: - Yes, but he was the first to explain methods of inductive reasoning. Jane: - Ok, now I remember! Thanks!",
+    "options": [
+      "I think he said, “Whether or not anything can be known, can be settled not by arguing, but by trying.”.",
+      "But weren’t there some Arab scientists conducting experiments 600 years before he came around?",
+      "In his book, Novum Organum, he sets out three fundamentals for the scientific method: observation, deduction, and experiment.",
+      "Wasn’t he also responsible for contributions that helped found the Royal Society in London in 1660?",
+      "Didn’t he think like Plato that if something was discussed for long enough, the truth would result?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q65",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Tracy: - I read a magazine article last night which says that the number of people with obesity is increasing day by day and we should do something to stop this. Laura: - ---- Tracy: - What do you mean by that? Laura: - For example, making junk food less prominent in supermarkets can make us less likely to want it. Or, if governments increase the taxes on foods and drinks that put people at risk of obesity, we may buy them less.",
+    "options": [
+      "I suppose some pharmaceutical companies are trying to make use of this situation by producing quick fixes that always fail to work.",
+      "In my opinion, tackling obesity is not an individual but a social thing. We can only achieve this by working collectively.",
+      "Somehow, we’ve already normalised obesity, I guess. Not many people think obesity is really a health problem.",
+      "I think people with obesity should be determined to overcome the condition through a healthy diet and regular exercise.",
+      "As far as I know, it’s not only cardiovascular diseases, but diabetes and certain mental disorders may also be linked to our dietary habits."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q66",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Career coach: - So, can you try to describe how you feel about your job? Sue: - Currently I’m editing and rewriting other people’s words, and managing all of our deadlines. But I feel I’ve done all I can with my job. I think I need a new challenge. Career coach: - ---- Sue: - I guess I want to do something more creative, where I can develop and work on my own ideas. Career coach: - Then you can start by trying to understand your strengths, skills and talents.",
+    "options": [
+      "Many people usually talk about what they’d really like to do, but they rarely take action and do what’s needed.",
+      "Whether we admit it or not, many of us have a tendency to label people and put them in boxes, and this is especially true at work.",
+      "Getting out of your comfort zone and into the growth zone is scary, and there’s a chance of failure and humiliation.",
+      "It’s really important to identify what type of change you’re looking for and what you’ll get out of this change.",
+      "To be successful, happy and resilient, one needs to practise being open-minded, resourceful and brave enough to take some risks."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q67",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Instructor: - This year, you’re going to apply to universities. You know, it’s quite a challenging task. Have you decided what to study? Sandy: - Yes, actually I’m really nervous about it, but I’m sure that I want to study philosophy. I’ve already read many works by seminal figures in this field. Instructor: - ---- Sandy: - That’s great! Then we’ll have a lot to talk about.",
+    "options": [
+      "Studying philosophy is not that hard as most people think, and it contributes to your intellectual development.",
+      "Oh, you seem really enthusiastic about it! I’m sure you’ll reflect this during the application process as well.",
+      "How inspiring! I can imagine that you’ll be one of the prominent philosophers of our age.",
+      "So, it’s an informed decision. If you’re going to study abroad, you should start looking for some grants that will support you financially.",
+      "Oh, really? I’m glad that you like philosophy. You know, I’m a teacher of history, but I also minored in philosophy."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q68",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even if those at the bottom of the economic spectrum still enjoy some decent minimal standard of living, a concentration of wealth at the top will nevertheless undermine social cohesion.",
+    "options": [
+      "Although satisfaction of those at the bottom of the economic spectrum with a decent minimal standard of living is important for social cohesion, a concentration of wealth at the top is more destructive.",
+      "A concentration of wealth at the top of the economic spectrum will still weaken social cohesion regardless of the fact that those at the bottom are satisfied with fairly low life standards.",
+      "The disproportion of wealth between those at the top and bottom of the economic spectrum will still ruin social cohesion despite decent minimal living standards provided for the bottom by the top.",
+      "Minimally acceptable living conditions, although enjoyed by those at the bottom of the economic spectrum, do not as much lead to a concentration of wealth at the top as they undermine social cohesion.",
+      "Social cohesion is still threatened due to a minimal concentration of wealth at the top of the economic spectrum even when those at the bottom benefit from some decent living standards."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q69",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Charisma refers to the qualities of those who possess the power of leadership either as a virtue of exceptional personality or characteristics not possessed by ordinary people.",
+    "options": [
+      "Charismatic people are those who have a unique personality and characteristics that are not possessed by ordinary people, such as the power of leadership.",
+      "Charisma is possessed by people with the power of leadership, who have a distinguished personality and characteristics unlike ordinary people.",
+      "The power of leadership that ordinary people do not have makes others with an exceptional personality or characteristics charismatic.",
+      "Charisma is the quality of people who have the power of leadership due to their extraordinary personality or characteristics different from ordinary people.",
+      "Ordinary people who do not have an exceptional personality or characteristics such as the power of leadership cannot have the qualities of charisma."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q70",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "While there are many satellite images showing deforested areas around the Amazon River, there are many other places like Brazil's Kayapo which have been preserved by the local tribes living there.",
+    "options": [
+      "According to satellite images, areas around the Amazon River have been occupied by local tribes, some of whom have been protecting territories like Brazil's Kayapo while other areas have been left without trees.",
+      "Large amounts of satellite images show that despite some deforestation, many areas such as the Amazon River and Brazil's Kayapo have been mostly preserved by the local tribes living there.",
+      "Although many satellite images reveal deforestation in areas around the Amazon River by the local tribes living there, they also show several other places like Brazil's Kayapo that have been preserved.",
+      "According to the satellite images of the Amazon River, local tribes that have been living in areas like Brazil's Kayapo have been cutting down the trees, whereas several other areas have been protected.",
+      "Brazil's Kayapo is one of the many areas around the Amazon River that have been preserved from deforestation by the local tribes; however, a large number of satellite images reveal deforestation in other areas."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q71",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Parrots have long been studied for their language abilities, but it seems the ability to use skills to solve problems also exists in their tool kit.",
+    "options": [
+      "In spite of having been studied for their language abilities, parrots also seem to have in their tool kit the ability to solve problems.",
+      "Studying parrots for their language abilities has long been useful, but only if their tool kit involves problem solving skills as well.",
+      "For many years, the language abilities of parrots have been studied as if their ability to solve problems co-exists in their tool kit.",
+      "Parrots have a variety of skills such as problem solving abilities, although they have mostly been studied for their language capabilities.",
+      "For a long time, researchers have studied the language abilities of parrots, however it seems that they also have the capacity to utilise their skills to solve problems."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q72",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When Parkinson’s disease develops, all emphasis shifts to getting the symptoms under control. This shift tends to guide medical care decisions, as well it should for optimal management of the Parkinson’s. ---- It remains important for the person with Parkinson’s disease to continue seeing a primary care doctor to manage other health conditions and tend to other routine health matters such as physical exams and screenings for high blood pressure, high blood cholesterol level, heart disease, diabetes, and breast, colon, and prostate cancer, as well as other conditions that become more common with aging.",
+    "options": [
+      "Anti-Parkinson’s medications remain the cornerstone of treatment and can restore near-normal function for years or decades.",
+      "Although Parkinson’s disease can strike at any age, it is a condition primarily associated with aging.",
+      "People who are younger and working when diagnosed are likely to have employer-sponsored group health insurance.",
+      "But this focus should not preclude attention to overall health care needs, as it sometimes does.",
+      "However, the Parkinson’s disease’s progression is unpredictable and inconsistent, and patients respond differently to treatment."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q73",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Tchaikovsky (1840-1893) was the first Russian composer to gain international fame. ---- He also had a remarkable gift for writing melody. Tchaikovsky is often described as a composer of music that is basically melancholy. Some of his music is melancholy, especially the last movement of his Symphony No. 6. Yet, he also wrote spirited music, as in Marche Slave and \"1812\" overture; lyrical music, as in the symphonic poem Romeo and Juliet; lively ballet music, as in the Nutcracker Suite; and powerful symphonies.",
+    "options": [
+      "But Tchaikovsky always claimed to be fully Russian in his feelings, and his works contain quotations from Russian folk melodies.",
+      "On the other hand, he cited Mozart, a Westerner, and Mikhail Glinka, a Russian, as the composers who influenced him the most.",
+      "He was a master of orchestration with a superb talent for blending instrumental sounds and for achieving rousing orchestral effects.",
+      "His early emotional sensitivity developed into long periods of depression, but he wrote some of his most cheerful music during these periods.",
+      "From 1862 to 1866, he studied music at the St. Petersburg Conservatory under Anton Rubinstein, a pianist and composer."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q74",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Time brought fundamental changes to mankind’s relationship with the wilderness and animals. The traditional view of animals as consumable was joined by a much more complex appreciation of the place of other living things. The greatest impact was on harvest hunting; the ancient moral relationship with prey was revisited. As wasteful as some traditional hunting methods were, the technology to destroy entire populations of prey rarely existed. ---- Whole communities of animals were nearly annihilated, but through the end of the 19th century increasingly powerful objections were raised to that extreme predation.",
+    "options": [
+      "However, as a result of machine culture and the industrial-scale harvesting of varied prey by commercial agents, wildlife destruction was horrific in scale and magnitude.",
+      "Ironically, as senseless as the terrific waste of prey such as bison and pigeon certainly was, the bloodshed took place too far from most citizens for it to register well.",
+      "Typically, hunting was thought to be more a process than a goal-oriented behavior; the hunter’s motivation and action are as important as the result.",
+      "Luckily, negative public reaction ensued in response to the enormous harvest of animals and also by a growing public awareness of the butchery exhibited in the name of fashion.",
+      "Therefore, regulating and taxing traditional hunters guaranteed the protection of vast habitat and wildlife populations, making them available for future generations of hunters."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q75",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The warming of the planet that began around 10,000 BC forced humans to adapt, and they did so with great ingenuity. Many of the larger animals people had feasted on during the Ice Age died out as a result of global warming and over-hunting. ---- Based on the behavior of hunter-gatherers in recent times, women did much of the gathering in ancient times and probably used their knowledge of plants to domesticate wheat, barley, rice, corn, and other cereals. This allowed groups who had once wandered in search of sustenance to settle in one place.",
+    "options": [
+      "This forced people to travel to far away places where there were still animals to hunt and eat.",
+      "At the same time, edible plants flourished in places that had once been too cold or dry to support them.",
+      "However, this did not change how the early humans found food as they went on hunting smaller animals.",
+      "Therefore, people used their logic and started preserving the small number of large animals left.",
+      "That was the point in human history that triggered the innate traits of humans to protect wildlife."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q76",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Our knowledge of Egyptian clothing has come almost entirely from studying the many hieroglyphs left in the tombs of kings and nobles. (II) This has led some historians to question whether our knowledge of Egyptian clothing is based on reality or on idealised images. (III) One of the facts about Egyptian clothing that has most intrigued historians is the lack of change seen in the clothing over many centuries. (IV) It seems likely that hieroglyphs would offer the best possible picture of clothing, making the colours brighter and the fit more pleasing, like photos in a fashion magazine do today. (V) The few physical remnants of clothes that have been found are in fact heavier and more clumsy in their construction than those depicted in the hieroglyphs.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q77",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Manú National Park in Peru is one of Earth’s most biodiverse places. (II) Reserves and other buffer zones surround the park but cannot completely protect its natural riches, which include more than a thousand species of birds and over 290 species of reptiles and amphibians. (III) Declared a national park in 1973 and expanded in 2002, Manú protects more than 6,600 square miles, including its namesake watershed. (IV) Manú is threatened by external enterprises eager to exploit its minerals, timber, and, potentially, natural gas. (V) Some researchers argue that the park may also be at risk from growing numbers of indigenous people, including isolated tribes, engaging in subsistence logging and hunting.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q78",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) For thousands of years the monuments of the Athenian Acropolis have been regarded not only as examples of extraordinary skill and beauty, but also as powerful symbols of religious devotion and civic identity. (II) Over the millennia the deterioration of these monuments as a result of the passage of time, and the damage to them from many other causes have been almost incalculable. (III)Although there were many important sanctuaries and public spaces in Athens, the Acropolis stands as what might be called the central repository of Athenians’ conceptions of themselves. (IV) Its monuments and sculptures presented images of the gods and goddesses – Athena above all – and also of the Athenians and their heroes. (V) According to classical art historians, the intention of these works was to represent Athens as the greatest of Greek cities and the Athenians as the greatest of Greeks.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q79",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) The cravat, introduced in the mid-17th century, is the ancestor of the modern necktie. (II)Legend has it that the origins of the cravat lie with an army regiment from Croatia that was fighting with the French during the Thirty Years’ War (1618-48). (III) The soldiers in this regiment wrapped a long scarf loosely around their necks, supposedly to protect themselves from sword blows. (IV) When the Croatian soldiers visited Paris, the French were captivated by their neckwear and began to adopt it for their own use. (V)Nevertheless, the soft and easy-to-tie cravat was a great improvement in fashion industry and it was worn by both men and women.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q80",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Any material made by firing non-metallic, inorganic substances at high temperature is called a ‘ceramic’. (II)Ceramics have diverse applications in industry and perhaps the oldest examples of their use are in the making of pottery, and later fine china. (III) The electrical properties of ceramics mean that they may be used as the dielectric material in devices used to store an electrical charge. (IV)Although renowned for their strength, hardness and durability, ceramics are often fragile and need careful handling. (V) In addition, their heat tolerance makes them ideal for use in home heating systems and components for engines in vehicles.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

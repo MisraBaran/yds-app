@@ -1,0 +1,85 @@
+{
+  "sessions": [
+    {
+      "id": "2013-sonbahar",
+      "count": 80
+    },
+    {
+      "id": "2014-ilkbahar",
+      "count": 80
+    },
+    {
+      "id": "2014-sonbahar",
+      "count": 80
+    },
+    {
+      "id": "2015-ilkbahar",
+      "count": 80
+    },
+    {
+      "id": "2016-ilkbahar",
+      "count": 80
+    },
+    {
+      "id": "2016-sonbahar",
+      "count": 80
+    },
+    {
+      "id": "2017-ilkbahar",
+      "count": 80
+    },
+    {
+      "id": "2017-sonbahar",
+      "count": 80
+    },
+    {
+      "id": "2018-3",
+      "count": 80
+    },
+    {
+      "id": "2018-ilkbahar",
+      "count": 80
+    },
+    {
+      "id": "2018-sonbahar",
+      "count": 80
+    },
+    {
+      "id": "2019-1",
+      "count": 80
+    },
+    {
+      "id": "2019-2",
+      "count": 80
+    },
+    {
+      "id": "2019-3",
+      "count": 80
+    },
+    {
+      "id": "2020-1",
+      "count": 80
+    },
+    {
+      "id": "2021-1",
+      "count": 80
+    },
+    {
+      "id": "2021-2",
+      "count": 80
+    }
+  ],
+  "types": {
+    "cloze": 170,
+    "dialogue": 85,
+    "irrelevant_sentence": 85,
+    "paragraph_completion": 68,
+    "reading": 340,
+    "restatement": 68,
+    "sentence_completion": 170,
+    "translation_en_tr": 51,
+    "translation_tr_en": 51,
+    "vocabulary": 272
+  },
+  "totalQuestions": 1360
+}

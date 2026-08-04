@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2016-ilkbahar-q01",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "As we learn more about the neural mechanisms of intelligence, ---- for enhancing intelligence become more likely.",
+    "options": [
+      "precautions",
+      "substitutions",
+      "necessities",
+      "prospects",
+      "permissions"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q02",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "From the early 1800s scientists began to gather ---- amounts of data about marine life, paving the way for future knowledge about the importance of the planet's oceans.",
+    "options": [
+      "immense",
+      "predictable",
+      "equivalent",
+      "relevant",
+      "sustainable"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q03",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Reduction in cholesterol, body fat and oxidation is believed to help slow the ageing process ----.",
+    "options": [
+      "doubtfully",
+      "reflectively",
+      "externally",
+      "obscurely",
+      "considerably"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q04",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Trade between people depends on a uniform set of weights and measures that can be used by both sides of the transaction to ---- that the amount obtained or handed over is correct.",
+    "options": [
+      "disapprove",
+      "pretend",
+      "ensure",
+      "realise",
+      "estimate CE TESTİ"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q05",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Despite its problems, the Space Shuttle has been a major step forward in spaceflight, ---- more than one hundred successful missions and pointing the way for future reusable spacecraft.",
+    "options": [
+      "standing for",
+      "carrying out",
+      "running into",
+      "calling for",
+      "putting aside"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q06",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "From the beginning of human history, innovators have experimented with all kinds of elements, from the ordinary to the invisible, trying to ---- new, improved materials.",
+    "options": [
+      "come up with",
+      "do away with",
+      "cut down on",
+      "get along with",
+      "make up for"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q07",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "With the development of agriculture, humans ---- to transform more and more extensively the environments in which they ----.",
+    "options": [
+      "had begun / had been living",
+      "are beginning / were living",
+      "began / lived",
+      "have begun / were going to live",
+      "would begin / have been living"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q08",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Any student who ---- four years in high school or college attempting to learn a second language ---- the struggle of trying to memorize vocabulary, verb conjugation or tenses.",
+    "options": [
+      "was spending / had to appreciate",
+      "spends / has to appreciate",
+      "had spent / should have appreciated",
+      "has spent / can appreciate",
+      "is spending / used to appreciate"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q09",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "For many consumers from all over the world, the Internet is the first place ---- for useful information that ---- them about what they buy.",
+    "options": [
+      "to look / will inform",
+      "looking / has informed",
+      "to have looked / informs",
+      "to be looking / is informing",
+      "having looked / will have informed"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q10",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "In 1971, construction began on a vast hydroelectric project to dam the rivers that flow ---- James Bay and Hudson Bay, generating electricity ---- use in Canada and the US.",
+    "options": [
+      "through / in",
+      "by / with",
+      "along / about",
+      "at / on",
+      "into / for"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q11",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "By the middle of the 19th century, the growing acceptance that microbes can kill us had once more focused people’s attention ---- a world only visible ---- a microscope.",
+    "options": [
+      "on / through",
+      "to / upon",
+      "by / over",
+      "against / in",
+      "of / for"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q12",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Astronomers discover thousands of new members of the solar system every month, most of which, ----, are insignificant bodies like small asteroids or comets.",
+    "options": [
+      "however",
+      "therefore",
+      "otherwise",
+      "accordingly",
+      "in other words"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q13",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- sustainable technologies usually cost a lot of money to set up, they save money in the long run.",
+    "options": [
+      "Even if",
+      "After",
+      "Just as",
+      "Unless",
+      "Once"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q14",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "With normal ocean waves, only the surface of the water body is in motion; a tsunami, ----, brings not only the surface into motion but lifts and then drops an entire water column in the ocean.",
+    "options": [
+      "namely",
+      "though",
+      "for example",
+      "similarly",
+      "hence"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q15",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The basic principles of good diets are ---- simple ---- one can summarize them in just ten words: eat less, move more, eat lots of fruits and vegetables.",
+    "options": [
+      "neither / nor",
+      "the more / the less",
+      "whether / or",
+      "such / as",
+      "so / that"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q16",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The henna, which may have spiritual significance in various cultures, is applied ---- different graphic rules, with different symbolic relations.",
+    "options": [
+      "due to",
+      "except for",
+      "unlike",
+      "according to",
+      "prior to"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q17",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2016-ilkbahar-g17-21",
+    "passage": "A genetically modified plant may produce specific proteins or other substances that have never before been a part of the human food supply. These substances have potentially negative side effects; for instance, they (17)---- as toxins or allergens. Accordingly, an extensive testing and approval process is mandated for foods of this kind, including individual ingredients and additives (18)---- whole foods. Approval is granted (19)---- the food is shown to be safe in accordance with scientific standards. This is accomplished by comparing the genetically modified product with its traditional (20)----. The long-term effects of the use of genetically modified plants (21)---- people and the environment have not yet been adequately determined.",
+    "stem": null,
+    "options": [
+      "may act",
+      "could have acted",
+      "were to act",
+      "will have acted",
+      "must act"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q18",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2016-ilkbahar-g17-21",
+    "passage": "A genetically modified plant may produce specific proteins or other substances that have never before been a part of the human food supply. These substances have potentially negative side effects; for instance, they (17)---- as toxins or allergens. Accordingly, an extensive testing and approval process is mandated for foods of this kind, including individual ingredients and additives (18)---- whole foods. Approval is granted (19)---- the food is shown to be safe in accordance with scientific standards. This is accomplished by comparing the genetically modified product with its traditional (20)----. The long-term effects of the use of genetically modified plants (21)---- people and the environment have not yet been adequately determined.",
+    "stem": null,
+    "options": [
+      "in terms of",
+      "regarding",
+      "thanks to",
+      "despite",
+      "as well as"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q19",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2016-ilkbahar-g17-21",
+    "passage": "A genetically modified plant may produce specific proteins or other substances that have never before been a part of the human food supply. These substances have potentially negative side effects; for instance, they (17)---- as toxins or allergens. Accordingly, an extensive testing and approval process is mandated for foods of this kind, including individual ingredients and additives (18)---- whole foods. Approval is granted (19)---- the food is shown to be safe in accordance with scientific standards. This is accomplished by comparing the genetically modified product with its traditional (20)----. The long-term effects of the use of genetically modified plants (21)---- people and the environment have not yet been adequately determined.",
+    "stem": null,
+    "options": [
+      "though",
+      "only if",
+      "unless",
+      "as if",
+      "in case"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q20",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2016-ilkbahar-g17-21",
+    "passage": "A genetically modified plant may produce specific proteins or other substances that have never before been a part of the human food supply. These substances have potentially negative side effects; for instance, they (17)---- as toxins or allergens. Accordingly, an extensive testing and approval process is mandated for foods of this kind, including individual ingredients and additives (18)---- whole foods. Approval is granted (19)---- the food is shown to be safe in accordance with scientific standards. This is accomplished by comparing the genetically modified product with its traditional (20)----. The long-term effects of the use of genetically modified plants (21)---- people and the environment have not yet been adequately determined.",
+    "stem": null,
+    "options": [
+      "provision",
+      "consumption",
+      "management",
+      "distribution",
+      "counterpart"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q21",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2016-ilkbahar-g17-21",
+    "passage": "A genetically modified plant may produce specific proteins or other substances that have never before been a part of the human food supply. These substances have potentially negative side effects; for instance, they (17)---- as toxins or allergens. Accordingly, an extensive testing and approval process is mandated for foods of this kind, including individual ingredients and additives (18)---- whole foods. Approval is granted (19)---- the food is shown to be safe in accordance with scientific standards. This is accomplished by comparing the genetically modified product with its traditional (20)----. The long-term effects of the use of genetically modified plants (21)---- people and the environment have not yet been adequately determined.",
+    "stem": null,
+    "options": [
+      "beyond",
+      "against",
+      "on",
+      "with",
+      "for"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q22",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2016-ilkbahar-g22-26",
+    "passage": "Thousands of years ago, agriculture began as a highly site-specific activity. The first farmers were gardeners who grew individual plants, and they (22)---- the microclimates and patches of soil that favoured those plants. But as farmers acquired scientific knowledge and mechanical expertise, they enlarged their plots using standardized approaches (23)---- ploughing the soil and spreading animal manure as fertilizer to increase crop production. (24)---- the years, they developed better methods of preparing the soil and protecting plants from insects, and eventually, machines to reduce the labor required. (25)---- in the 19th century, scientists invented chemical pesticides and used newly discovered genetic principles to select for more productive plants. (26)---- these methods maximized overall productivity, they caused some areas within fields to underperform.",
+    "stem": null,
+    "options": [
+      "brought in",
+      "paid for",
+      "looked for",
+      "kept on",
+      "took away"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q23",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2016-ilkbahar-g22-26",
+    "passage": "Thousands of years ago, agriculture began as a highly site-specific activity. The first farmers were gardeners who grew individual plants, and they (22)---- the microclimates and patches of soil that favoured those plants. But as farmers acquired scientific knowledge and mechanical expertise, they enlarged their plots using standardized approaches (23)---- ploughing the soil and spreading animal manure as fertilizer to increase crop production. (24)---- the years, they developed better methods of preparing the soil and protecting plants from insects, and eventually, machines to reduce the labor required. (25)---- in the 19th century, scientists invented chemical pesticides and used newly discovered genetic principles to select for more productive plants. (26)---- these methods maximized overall productivity, they caused some areas within fields to underperform.",
+    "stem": null,
+    "options": [
+      "on behalf of",
+      "in the light of",
+      "on account of",
+      "in contrast with",
+      "such as"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q24",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2016-ilkbahar-g22-26",
+    "passage": "Thousands of years ago, agriculture began as a highly site-specific activity. The first farmers were gardeners who grew individual plants, and they (22)---- the microclimates and patches of soil that favoured those plants. But as farmers acquired scientific knowledge and mechanical expertise, they enlarged their plots using standardized approaches (23)---- ploughing the soil and spreading animal manure as fertilizer to increase crop production. (24)---- the years, they developed better methods of preparing the soil and protecting plants from insects, and eventually, machines to reduce the labor required. (25)---- in the 19th century, scientists invented chemical pesticides and used newly discovered genetic principles to select for more productive plants. (26)---- these methods maximized overall productivity, they caused some areas within fields to underperform.",
+    "stem": null,
+    "options": [
+      "Over",
+      "For",
+      "In",
+      "From",
+      "Off"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q25",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2016-ilkbahar-g22-26",
+    "passage": "Thousands of years ago, agriculture began as a highly site-specific activity. The first farmers were gardeners who grew individual plants, and they (22)---- the microclimates and patches of soil that favoured those plants. But as farmers acquired scientific knowledge and mechanical expertise, they enlarged their plots using standardized approaches (23)---- ploughing the soil and spreading animal manure as fertilizer to increase crop production. (24)---- the years, they developed better methods of preparing the soil and protecting plants from insects, and eventually, machines to reduce the labor required. (25)---- in the 19th century, scientists invented chemical pesticides and used newly discovered genetic principles to select for more productive plants. (26)---- these methods maximized overall productivity, they caused some areas within fields to underperform.",
+    "stem": null,
+    "options": [
+      "Being started",
+      "To start",
+      "Having been started",
+      "Starting",
+      "To have started"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q26",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2016-ilkbahar-g22-26",
+    "passage": "Thousands of years ago, agriculture began as a highly site-specific activity. The first farmers were gardeners who grew individual plants, and they (22)---- the microclimates and patches of soil that favoured those plants. But as farmers acquired scientific knowledge and mechanical expertise, they enlarged their plots using standardized approaches (23)---- ploughing the soil and spreading animal manure as fertilizer to increase crop production. (24)---- the years, they developed better methods of preparing the soil and protecting plants from insects, and eventually, machines to reduce the labor required. (25)---- in the 19th century, scientists invented chemical pesticides and used newly discovered genetic principles to select for more productive plants. (26)---- these methods maximized overall productivity, they caused some areas within fields to underperform.",
+    "stem": null,
+    "options": [
+      "Given that",
+      "Even though",
+      "Just as",
+      "In case",
+      "Because"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q27",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "We will soon have to find new ways of living that do not harm the environment ----.",
+    "options": [
+      "because researchers aim to make waste products less damaging to the environment",
+      "when humans waste an enormous amount of the Earth's resources",
+      "if we continue using the Earth's resources at current rate",
+      "while the habitats of some species have been largely destroyed by humans",
+      "although environmental organizations are trying to conserve the wildlife"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q28",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many vitamins and minerals are necessary components of our diet ----.",
+    "options": [
+      "unless they are consumed excessively",
+      "although they are basic fuels of life",
+      "but lack of vitamin E can cause skin diseases",
+      "while moderate levels will be beneficial",
+      "even if they help us stay healthy"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q29",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Cosmetics companies have started to remove parabens and other harmful chemicals from their products ----.",
+    "options": [
+      "even though there is not much pressure from regulatory bodies to do so",
+      "when they experience no adverse effects on humans",
+      "even if a link between parabens and breast cancer exists",
+      "because most underarm deodorants do not contain parabens",
+      "although there is a long-running debate about the safety of parabens"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q30",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- he is well known to future generations mostly because of his treasure-filled tomb, which was discovered intact in 1922.",
+    "options": [
+      "After King Tutankhamun's body was mummified and placed in a series of coffins",
+      "Although the grave goods accompanying King Tutankhamun to the afterlife tell much about daily life then",
+      "While King Tutankhamun had little opportunity to achieve greatness in his short life of 18 years",
+      "Because King Tutankhamun died from a fracture in his left leg that became infected with gangrene",
+      "When King Tutankhamun was still a child and under the influence of advisers"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q31",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "NASA's Kepler space telescope was launched in 2009 and stopped gathering data in 2013 after a mechanical failure ----.",
+    "options": [
+      "whereas no input has been detected from it since it broke down",
+      "because during its construction the engineers worked meticulously to maximize its lifespan",
+      "so it searched for planets by measuring the levels in a star's brightness",
+      "yet in its relatively short lifetime it has provided a wealth of discovery",
+      "since it has discovered a group of stars where each star has planets of its own"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q32",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Whereas the aeroplanes of the future were expected to cross oceans and continents as fast as possible in the 1980s ----.",
+    "options": [
+      "we now focus on noise reduction, lighter and stronger materials, and lower fuel consumption",
+      "the race to develop new aircraft technologies is at least as intense now as it was 30 years ago",
+      "the first heavier-than-air machines to fly were kites, invented by the Chinese in about 1000 BC",
+      "the needs of aircraft travellers are very well-matched with the technological development of airlines",
+      "designers have improved the conditions of both the terminals and the neighbourhoods of airports all over the world"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q33",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "To cope with the increasing number of tourists visiting Saudi Arabia ----.",
+    "options": [
+      "investment in the tourism sector is not among the top priorities of the government",
+      "hotel managers say that the average stay for a tourist is between two and seven days",
+      "the government has outlined a plan to invest more money in its airports and transportation",
+      "officials have been concerned about the potential oversupply of hotels in the country",
+      "the country's four main international airports handle most of the domestic air travel"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q34",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- since scholars and researchers have an unrivalled understanding of potential drug targets in the development procedures of new medicines.",
+    "options": [
+      "There is an increasing recognition from scientists that they need to work closely with companies that provide complementary expertise",
+      "The reason for the failure of alternative drugs in the market is their limited efficacy for their targets rather than purely safety",
+      "It is sometimes ignored by authorities that brilliant experts need to be chosen earlier in the development process by the companies",
+      "Academic institutions are falling short of engaging with leading drug companies at an earlier stage of a pharmaceutical development",
+      "Pharmaceutical companies are increasingly turning to collaboration with the academicians at the top ranking universities"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q35",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- so as to maximise the amount of accurate information in hand.",
+    "options": [
+      "The police often have the option of closing an investigation file",
+      "It is highly crucial for the police to interview eyewitnesses",
+      "It would be easy to identify someone with the help of closed-circuit television",
+      "One must realise how important it is to avoid identifying an innocent person as the criminal",
+      "The cognitive interview has proved itself to be more effective than other interview techniques"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q36",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the story of humankind and the peopling of the planet still holds many mysteries ----.",
+    "options": [
+      "receding oceans are likely to expose ancient land bridges between continents",
+      "the most widely accepted theory states that modern humans came out of Africa",
+      "efforts to trace the diversification of animal forms by analyzing the change in DNA are premature",
+      "one of the earliest pieces of art found in Europe can be dated to 24,000 BC",
+      "no one knows where exactly the first agricultural villages appeared"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q37",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "The notion of an algorithm, a procedure for arriving at a solution by a sequence of elementary steps, was also familiar to the ancient Greeks, as can be seen in Euclid's algorithm used even today.",
+    "options": [
+      "Bir dizi temel adımla bir çözüme ulaşma prosedürü olan algoritma kavramı, Öklid'in bugün bile kullanılan algoritmasında da görülebileceği üzere antik Yunanlılar tarafından da bilinmekteydi.",
+      "Algoritma kavramı, yani bir dizi temel adımla bir çözüme ulaşma prosedürü, Öklid'in bugün bile kullanılan algoritmasında da görülebileceği gibi antik Yunanlılar döneminde de bilinmekteydi.",
+      "Bir temel adımlar zinciri ile bir çözüme ulaşma prosedürü olan algoritma kavramı, Öklid'in algoritmasında da görülebileceği üzere bugün olduğu gibi antik Yunanlılar zamanında da biliniyordu.",
+      "Bir temel adımlar dizisiyle bir çözüme ulaşma prosedürü olan ve antik Yunanlılar tarafından da bilinen algoritma kavramı, Öklid'in bugün bile kullanılan algoritmasında görülebilir.",
+      "Öklid'in bugün bile kullanılan algoritmasında da görülebileceği üzere antik Yunanlılar tarafından da bilinen algoritma kavramı, bir dizi temel adımla bir çözüme ulaşma prosedürüdür."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q38",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Reptiles and insects have no need to sweat because, unlike mammals, they do not need to maintain a constant body temperature.",
+    "options": [
+      "Memelilerin sabit bir vücut ısısını korumak için terlemeye ihtiyaçları vardır fakat sürüngenler ve böcekler için aynı durum söz konusu değildir.",
+      "Sürüngenler ve böcekler terlemeye ihtiyaç duymaz çünkü memelilerin aksine sabit bir vücut ısısını korumaları gerekmez.",
+      "Memelilerin sabit bir vücut ısısını korumak için terlemeleri gerekmektedir ancak sürüngenlerin ve böceklerin buna ihtiyacı yoktur.",
+      "Sürüngenler ve böcekler, sabit bir vücut ısısını korumaları gerekmediği için, memeliler gibi terlemeye ihtiyaç duymazlar.",
+      "Sürüngenlerin ve böceklerin terlemeye ihtiyaçları yoktur çünkü memelilerde olduğu gibi sabit bir vücut ısısını korumaları gerekmez."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q39",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "It is true that power nourishes all relationships, but only equally shared power can create happy individuals and satisfying marriages.",
+    "options": [
+      "Bütün ilişkileri besleyen şeyin güç olduğu doğrudur, ancak mutlu bireyler ve tatminkâr evlilikler, güç sadece eşit olarak paylaşılırsa yaratılabilir.",
+      "Bütün ilişkilerin güçle beslendiği doğrudur, ancak güç sadece eşit olarak paylaşıldığında mutlu bireyler ve tatminkâr evlilikler yaratabilir.",
+      "Gücün bütün ilişkileri beslediği doğrudur, ancak güç sadece eşit olarak paylaşıldığı takdirde mutlu bireyler ve tatminkâr evlilikler yaratabilir.",
+      "Gücün bütün ilişkileri beslediği doğrudur, ancak mutlu bireyler ve tatminkâr evlilikler sadece eşit olarak paylaşılan güçle yaratılabilir.",
+      "Gücün bütün ilişkileri beslediği doğrudur, ancak sadece eşit olarak paylaşılan güç mutlu bireyler ve tatminkâr evlilikler yaratabilir."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q40",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Çok az insan renklerin, nesnelerin özellikleri olmadığını ancak gözlerimiz ve beynimizle etkileşen ışığın farklı dalga boylarının bir sonucu olduğunu bilir.",
+    "options": [
+      "Despite the fact that colours are not the property of objects, few people know that they are a result of different wavelengths of light that interact with our eyes and brain.",
+      "Few people know that colours are not the property of objects but a result of different wavelengths of light interacting with our eyes and brain.",
+      "Realizing that they are not the property of objects, few people know that colours are a result of different wavelengths of light that interact with our eyes and brain.",
+      "Colours are not the property of objects; however, few people know that they are a result of different wavelengths of light interacting with our eyes and brain.",
+      "Colours, which are not the property of objects, are known by few people to be a result of different wavelengths of light that interact with our eyes and brain."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q41",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "İngiliz posta sisteminin 1510 yılındaki kuruluşundan beri en büyük ve yegane yeniliği olan dünyanın ilk yapışkanlı posta pulu Penny Black, 1840 yılında basıldı.",
+    "options": [
+      "In 1840, the world's first adhesive postage stamp, the Penny Black, was issued, and it is the greatest single reform of the English postal system since its establishment in 1510.",
+      "In 1840, the English postal system issued the world's first adhesive postage stamp, the Penny Black, which is the greatest single reform since its establishment in 1510.",
+      "The Penny Black, which was issued in 1840 and became the world's first adhesive postage stamp, is the greatest single reform of the English postal system since it was established in 1510.",
+      "The world's first adhesive postage stamp, the Penny Black, which is the greatest single reform of the English postal system since its establishment in 1510, was issued in 1840.",
+      "The Penny Black, the world's first adhesive postage stamp by the English postal system, was issued in 1840 as its greatest single reform since its establishment in 1510."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q42",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sesinizi yükselttirecek kadar çok gürültüye uzun süre maruz kalma, kalp krizi oranlarını yüzde 50 arttırabilmektedir, özellikle bu hem işte hem de evde geçerliyse.",
+    "options": [
+      "Being chronically exposed to loud noise and raising your voice can increase heart attack rates by 50 percent, especially if this is true at both work and home.",
+      "Chronic exposure to noise loud enough to make you raise your voice by 50 percent can increase heart attack rates, especially if this happens at both work and home.",
+      "Chronic exposure to noise loud enough to make you raise your voice can increase heart attack rates by 50 percent, especially if this is true at both work and home.",
+      "Being chronically exposed to noise loud enough to make you raise your voice, especially at both work and home, can increase heart attack rates by 50 percent.",
+      "Chronic exposure to loud noise can make you raise your voice and increase heart attack rates by 50 percent, especially if this happens at both work and home."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q43",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g43-46",
+    "passage": "Beneath a temple thought to mark the location of the Buddha's birth, archaeologists may have discovered the physical roots of the religion: an ancient tree shrine that predates all known Buddhist sites. The archaeological record of Buddhism stretches back to the time of Ashoka, an Indian emperor who enthusiastically embraced the religion in the 3rd century BC and built many temples. The sage known as the Buddha though, probably lived about three centuries earlier. The remains of one of Ashoka's temples lie at Lumbinini in Nepal, which many recognise as the Buddha's birthplace. As part of his conservation work, Robert Coningham at Durham University, excavated below the temple foundations. He found evidence of pre-Ashokan stonework and, below that, signs of a timber structure that was radiocarbon dated to between 800 and 550 BC. When the surrounding soil was examined it was found to contain the remains of ancient tree roots, but was strangely free of the debris usually left by human occupation. This suggests that a tree grew at the centre of the wooden structure, and that the area around it was regularly cleaned, just as Buddhist tree shrines are cleaned today.",
+    "stem": "It can be understood from the passage that the excavation below the temple at Lumbinini has ----.",
+    "options": [
+      "located the remains of an ancient shrine where nothing was thought to exist",
+      "provided little evidence that the Buddha was actually born there",
+      "shown that Ashoka was the first emperor to follow the teachings of Buddhism",
+      "possibly revealed the very first tree shrine in the Buddhist religion",
+      "enabled archaeologists to make a previously unknown link between Ashoka and the Buddha"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q44",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g43-46",
+    "passage": "Beneath a temple thought to mark the location of the Buddha's birth, archaeologists may have discovered the physical roots of the religion: an ancient tree shrine that predates all known Buddhist sites. The archaeological record of Buddhism stretches back to the time of Ashoka, an Indian emperor who enthusiastically embraced the religion in the 3rd century BC and built many temples. The sage known as the Buddha though, probably lived about three centuries earlier. The remains of one of Ashoka's temples lie at Lumbinini in Nepal, which many recognise as the Buddha's birthplace. As part of his conservation work, Robert Coningham at Durham University, excavated below the temple foundations. He found evidence of pre-Ashokan stonework and, below that, signs of a timber structure that was radiocarbon dated to between 800 and 550 BC. When the surrounding soil was examined it was found to contain the remains of ancient tree roots, but was strangely free of the debris usually left by human occupation. This suggests that a tree grew at the centre of the wooden structure, and that the area around it was regularly cleaned, just as Buddhist tree shrines are cleaned today.",
+    "stem": "It is clearly stated in the passage that Ashoka ----.",
+    "options": [
+      "lived during the same period as the Buddha",
+      "knew exactly where the Buddha was buried and built a shrine there",
+      "was a firm believer in the religon that the Buddha founded centuries earlier",
+      "dedicated his time to finding the actual birthplace of the Buddha",
+      "welcomed the Buddha to his empire to spread his religon"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q45",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g43-46",
+    "passage": "Beneath a temple thought to mark the location of the Buddha's birth, archaeologists may have discovered the physical roots of the religion: an ancient tree shrine that predates all known Buddhist sites. The archaeological record of Buddhism stretches back to the time of Ashoka, an Indian emperor who enthusiastically embraced the religion in the 3rd century BC and built many temples. The sage known as the Buddha though, probably lived about three centuries earlier. The remains of one of Ashoka's temples lie at Lumbinini in Nepal, which many recognise as the Buddha's birthplace. As part of his conservation work, Robert Coningham at Durham University, excavated below the temple foundations. He found evidence of pre-Ashokan stonework and, below that, signs of a timber structure that was radiocarbon dated to between 800 and 550 BC. When the surrounding soil was examined it was found to contain the remains of ancient tree roots, but was strangely free of the debris usually left by human occupation. This suggests that a tree grew at the centre of the wooden structure, and that the area around it was regularly cleaned, just as Buddhist tree shrines are cleaned today.",
+    "stem": "The unusual thing about the soil around the timber structure was that it was ----.",
+    "options": [
+      "full of dead organic matter",
+      "examined by previous excavators",
+      "contaminated by radiation",
+      "surrounded by ancient trees",
+      "without any human waste"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q46",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g43-46",
+    "passage": "Beneath a temple thought to mark the location of the Buddha's birth, archaeologists may have discovered the physical roots of the religion: an ancient tree shrine that predates all known Buddhist sites. The archaeological record of Buddhism stretches back to the time of Ashoka, an Indian emperor who enthusiastically embraced the religion in the 3rd century BC and built many temples. The sage known as the Buddha though, probably lived about three centuries earlier. The remains of one of Ashoka's temples lie at Lumbinini in Nepal, which many recognise as the Buddha's birthplace. As part of his conservation work, Robert Coningham at Durham University, excavated below the temple foundations. He found evidence of pre-Ashokan stonework and, below that, signs of a timber structure that was radiocarbon dated to between 800 and 550 BC. When the surrounding soil was examined it was found to contain the remains of ancient tree roots, but was strangely free of the debris usually left by human occupation. This suggests that a tree grew at the centre of the wooden structure, and that the area around it was regularly cleaned, just as Buddhist tree shrines are cleaned today.",
+    "stem": "One can understand from the passage that over the centuries, Buddhist tree shrines have been ----.",
+    "options": [
+      "built away from royal residences",
+      "protected by the warriors of the emperor",
+      "kept hidden under temple foundations",
+      "taken care of in a very similar manner",
+      "constructed of both timber and stone"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q47",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g47-50",
+    "passage": "The floods causing damage across much of central Europe are a sign of catastrophes to strike as the continent's climate gets harsher. In the German town of Passau on 3 June 2013, waters rose to their highest level since 1501. At that time, the floods in Czech capital Prague were beginning to recede but Dresden, Germany, was preparing itself for the river Elbe to rise 5 metres higher than normal. \"Several factors are responsible\", says Stéphane Isoard of the European Environment Agency in Copenhagen, Denmark. \"It was spring, so snow was melting from the mountains,\" she says. When two months of rain fell in two days, the water had nowhere to go because the ground was soaked. Climate change also causes heavier rainfall, and might be partly to blame. However, Isoard points out that bad land management is just as important. \"In urban areas, there is less opportunity for water to infiltrate the soil. With more floods inevitable, Europe needs to adapt,\" Isoard says. Some work is already under way. Wetlands are being restored around stretches of the Danube. Green spaces like this can absorb extra water, making floods less severe. \"Over the last 20 years, events like this have become more common,\" says Iain White of the University of Manchester in the UK. \"Central Europe has improved its flood responses since 2002, but there comes a point where you can't defend,\" he maintains.",
+    "stem": "It is clearly stated in the passage that ----.",
+    "options": [
+      "bad land management is especially responsible for devastating floods as in Passau",
+      "the rise in water levels in central Europe in 1501 was more alarming than that of 2013",
+      "waters from melting snow caused the river Elbe to rise 5 meters, resulting in great harm in Prague and Dresden",
+      "Prague was more vulnerable to harmful consequences of the flood than Dresden",
+      "central Europe should be ready for more severe floods as they seem unavoidable"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q48",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g47-50",
+    "passage": "The floods causing damage across much of central Europe are a sign of catastrophes to strike as the continent's climate gets harsher. In the German town of Passau on 3 June 2013, waters rose to their highest level since 1501. At that time, the floods in Czech capital Prague were beginning to recede but Dresden, Germany, was preparing itself for the river Elbe to rise 5 metres higher than normal. \"Several factors are responsible\", says Stéphane Isoard of the European Environment Agency in Copenhagen, Denmark. \"It was spring, so snow was melting from the mountains,\" she says. When two months of rain fell in two days, the water had nowhere to go because the ground was soaked. Climate change also causes heavier rainfall, and might be partly to blame. However, Isoard points out that bad land management is just as important. \"In urban areas, there is less opportunity for water to infiltrate the soil. With more floods inevitable, Europe needs to adapt,\" Isoard says. Some work is already under way. Wetlands are being restored around stretches of the Danube. Green spaces like this can absorb extra water, making floods less severe. \"Over the last 20 years, events like this have become more common,\" says Iain White of the University of Manchester in the UK. \"Central Europe has improved its flood responses since 2002, but there comes a point where you can't defend,\" he maintains.",
+    "stem": "One of the strategies to cope with floods is to ----.",
+    "options": [
+      "build on areas that are water-resistant",
+      "reconstruct wetlands that can take in more surface water",
+      "decrease the number of urban areas near rivers",
+      "redirect the water that results from melting snow",
+      "establish a system by which neighbouring countries inform each other"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q49",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g47-50",
+    "passage": "The floods causing damage across much of central Europe are a sign of catastrophes to strike as the continent's climate gets harsher. In the German town of Passau on 3 June 2013, waters rose to their highest level since 1501. At that time, the floods in Czech capital Prague were beginning to recede but Dresden, Germany, was preparing itself for the river Elbe to rise 5 metres higher than normal. \"Several factors are responsible\", says Stéphane Isoard of the European Environment Agency in Copenhagen, Denmark. \"It was spring, so snow was melting from the mountains,\" she says. When two months of rain fell in two days, the water had nowhere to go because the ground was soaked. Climate change also causes heavier rainfall, and might be partly to blame. However, Isoard points out that bad land management is just as important. \"In urban areas, there is less opportunity for water to infiltrate the soil. With more floods inevitable, Europe needs to adapt,\" Isoard says. Some work is already under way. Wetlands are being restored around stretches of the Danube. Green spaces like this can absorb extra water, making floods less severe. \"Over the last 20 years, events like this have become more common,\" says Iain White of the University of Manchester in the UK. \"Central Europe has improved its flood responses since 2002, but there comes a point where you can't defend,\" he maintains.",
+    "stem": "One can infer from the passage that in central Europe ----.",
+    "options": [
+      "extreme weather conditions have brought floods, yet there have not been any attempts to cope with them",
+      "the severity of the floods has dramatically decreased since 2002 thanks to the long-term solutions to prevent them",
+      "heavy rainfall will no longer pose a big threat because urban areas have become more prepared for a possible flood",
+      "there have been some precautions taken against the floods, but they are still not totally effective",
+      "climate change has had a more damaging effect than in any other parts of the world"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q50",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g47-50",
+    "passage": "The floods causing damage across much of central Europe are a sign of catastrophes to strike as the continent's climate gets harsher. In the German town of Passau on 3 June 2013, waters rose to their highest level since 1501. At that time, the floods in Czech capital Prague were beginning to recede but Dresden, Germany, was preparing itself for the river Elbe to rise 5 metres higher than normal. \"Several factors are responsible\", says Stéphane Isoard of the European Environment Agency in Copenhagen, Denmark. \"It was spring, so snow was melting from the mountains,\" she says. When two months of rain fell in two days, the water had nowhere to go because the ground was soaked. Climate change also causes heavier rainfall, and might be partly to blame. However, Isoard points out that bad land management is just as important. \"In urban areas, there is less opportunity for water to infiltrate the soil. With more floods inevitable, Europe needs to adapt,\" Isoard says. Some work is already under way. Wetlands are being restored around stretches of the Danube. Green spaces like this can absorb extra water, making floods less severe. \"Over the last 20 years, events like this have become more common,\" says Iain White of the University of Manchester in the UK. \"Central Europe has improved its flood responses since 2002, but there comes a point where you can't defend,\" he maintains.",
+    "stem": "The primary aim of the author is to ----.",
+    "options": [
+      "draw attention to how central Europe has recently been contributing to climate change",
+      "warn governments in central Europe to take immediate action to protect themselves against floods",
+      "give detailed information about the reasons for flooding in central Europe and how to deal with it",
+      "prove the claims made by researchers like Isoard and White about the floods in central Europe",
+      "exemplify the methods to make the soil absorb more water in central Europe"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q51",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g51-54",
+    "passage": "The influence of technology on diplomacy can be illustrated by leaked and misunderstood telegrams, which shaped the history in unexpected ways. For example, the 1917 Zimmermann telegram (sent by German foreign minister Arthur Zimmermann to the German Mission in Mexico and intercepted by the British) instructed the German representative to start negotiating Mexico's entrance into World War I as a German ally by offering Mexico control of the US states of New Mexico, Utah and California after the war. The Zimmermann telegram was leaked at a time when the American public were still neutral and not ready to join World War I. It prompted the United States to join the Allied forces. The most illustrative case study of the influence of the telegraph on diplomacy was the 1914 July crisis that led to the beginning of the World War I. Telegraph messages were being sent between St. Petersburg, Berlin, Belgrade, Vienna, Paris and other countries involved in the conflict. However, there was little awareness of how to use the telegraph properly. The Russian czar sent a conciliatory note to Germany, but the German kaiser had already sent a note that was not conciliatory at all, thus creating communication confusion and mistrust that contributed toward escalation and ultimately war. A new technology coupled with human failure led to an unfortunate outcome.",
+    "stem": "The Zimmermann telegram ----.",
+    "options": [
+      "redefined the relationship between Germany and Russia",
+      "tried to convince the Mexicans that the British were to invade their country",
+      "caused the Mexicans to become suspicious of the United States",
+      "showed Germany's intention to take control of the United States",
+      "provoked the US government into joining the war against Germany"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q52",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g51-54",
+    "passage": "The influence of technology on diplomacy can be illustrated by leaked and misunderstood telegrams, which shaped the history in unexpected ways. For example, the 1917 Zimmermann telegram (sent by German foreign minister Arthur Zimmermann to the German Mission in Mexico and intercepted by the British) instructed the German representative to start negotiating Mexico's entrance into World War I as a German ally by offering Mexico control of the US states of New Mexico, Utah and California after the war. The Zimmermann telegram was leaked at a time when the American public were still neutral and not ready to join World War I. It prompted the United States to join the Allied forces. The most illustrative case study of the influence of the telegraph on diplomacy was the 1914 July crisis that led to the beginning of the World War I. Telegraph messages were being sent between St. Petersburg, Berlin, Belgrade, Vienna, Paris and other countries involved in the conflict. However, there was little awareness of how to use the telegraph properly. The Russian czar sent a conciliatory note to Germany, but the German kaiser had already sent a note that was not conciliatory at all, thus creating communication confusion and mistrust that contributed toward escalation and ultimately war. A new technology coupled with human failure led to an unfortunate outcome.",
+    "stem": "As it is stated in the passage, the 1914 July crisis ----.",
+    "options": [
+      "was due to the conflict between Russia and Germany although both were capable of using the telegraph effectively",
+      "resulted from a confusion in understanding telegraph messages between the Russian and German heads of state",
+      "caused a breakdown in communication systems due to technical problems with the telegraph system",
+      "led to a general distrust of the telegraph system in the major countries involved in the conflict",
+      "arose because the telegraph messages could not be sent to other capitals such as Paris and Vienna"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q53",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g51-54",
+    "passage": "The influence of technology on diplomacy can be illustrated by leaked and misunderstood telegrams, which shaped the history in unexpected ways. For example, the 1917 Zimmermann telegram (sent by German foreign minister Arthur Zimmermann to the German Mission in Mexico and intercepted by the British) instructed the German representative to start negotiating Mexico's entrance into World War I as a German ally by offering Mexico control of the US states of New Mexico, Utah and California after the war. The Zimmermann telegram was leaked at a time when the American public were still neutral and not ready to join World War I. It prompted the United States to join the Allied forces. The most illustrative case study of the influence of the telegraph on diplomacy was the 1914 July crisis that led to the beginning of the World War I. Telegraph messages were being sent between St. Petersburg, Berlin, Belgrade, Vienna, Paris and other countries involved in the conflict. However, there was little awareness of how to use the telegraph properly. The Russian czar sent a conciliatory note to Germany, but the German kaiser had already sent a note that was not conciliatory at all, thus creating communication confusion and mistrust that contributed toward escalation and ultimately war. A new technology coupled with human failure led to an unfortunate outcome.",
+    "stem": "One can understand from the passage that the Germans ----.",
+    "options": [
+      "could not use diplomacy effectively in the past",
+      "were not skillful in using the telegraph compared with other nations",
+      "resorted to sending telegraph messages to form alliances and other diplomatic relations",
+      "relied on the British to intercept their messages",
+      "were against the development of technology in diplomatic relationships"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q54",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g51-54",
+    "passage": "The influence of technology on diplomacy can be illustrated by leaked and misunderstood telegrams, which shaped the history in unexpected ways. For example, the 1917 Zimmermann telegram (sent by German foreign minister Arthur Zimmermann to the German Mission in Mexico and intercepted by the British) instructed the German representative to start negotiating Mexico's entrance into World War I as a German ally by offering Mexico control of the US states of New Mexico, Utah and California after the war. The Zimmermann telegram was leaked at a time when the American public were still neutral and not ready to join World War I. It prompted the United States to join the Allied forces. The most illustrative case study of the influence of the telegraph on diplomacy was the 1914 July crisis that led to the beginning of the World War I. Telegraph messages were being sent between St. Petersburg, Berlin, Belgrade, Vienna, Paris and other countries involved in the conflict. However, there was little awareness of how to use the telegraph properly. The Russian czar sent a conciliatory note to Germany, but the German kaiser had already sent a note that was not conciliatory at all, thus creating communication confusion and mistrust that contributed toward escalation and ultimately war. A new technology coupled with human failure led to an unfortunate outcome.",
+    "stem": "What could be the best title for the passage?",
+    "options": [
+      "The Development of the Telegraph",
+      "The Use of Telegraph in World War I",
+      "The Telegraph and Its Various Uses",
+      "The Early Days of the Telegraph",
+      "The Impact of Telegraph on German Diplomacy"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q55",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g55-58",
+    "passage": "The Paleo diet is very popular these days. The Red Lady of El Mirón cave in northern Spain also ate the Paleo diet almost 19,000 years ago. But it was not a trend for her. A close look at the Red Lady's teeth shows that the meat of the hoofed animals, such as red deer and mountain goat, made up about 80 percent of her diet. Fish seems to have made up most of the rest of her diet. If that sounds a little dull, fear not. Meticulous dental analysis reveals she also ate some starchy plant material, most likely to have been seeds, plus mushrooms, although probably in small amounts. Whether mushrooms were eaten for nutrition or for some other purpose is unknown. Could the diet revealed by this unique fossil from northern Spain make you live a longer, healthier life? Although the surviving bones of the Red Lady suggest she was healthy, her age at death was between 35 and 40. That may have counted as middle-aged for people who lived in Paleolithic times. Perhaps you had better stick to a balanced diet with five portions of fruit and vegetables a day.",
+    "stem": "As it is stated in the passage, thanks to dental examinations, ----.",
+    "options": [
+      "why the Red Lady was not able to live longer than 40 years was known",
+      "what the Red Lady's diet included was revealed",
+      "when the Red Lady lived was brought to light",
+      "why the Red Lady's diet depended heavily on meat was found",
+      "where the Red Lady lived in Spain was disclosed"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q56",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g55-58",
+    "passage": "The Paleo diet is very popular these days. The Red Lady of El Mirón cave in northern Spain also ate the Paleo diet almost 19,000 years ago. But it was not a trend for her. A close look at the Red Lady's teeth shows that the meat of the hoofed animals, such as red deer and mountain goat, made up about 80 percent of her diet. Fish seems to have made up most of the rest of her diet. If that sounds a little dull, fear not. Meticulous dental analysis reveals she also ate some starchy plant material, most likely to have been seeds, plus mushrooms, although probably in small amounts. Whether mushrooms were eaten for nutrition or for some other purpose is unknown. Could the diet revealed by this unique fossil from northern Spain make you live a longer, healthier life? Although the surviving bones of the Red Lady suggest she was healthy, her age at death was between 35 and 40. That may have counted as middle-aged for people who lived in Paleolithic times. Perhaps you had better stick to a balanced diet with five portions of fruit and vegetables a day.",
+    "stem": "According to the passage, the diet of the Red Lady ----.",
+    "options": [
+      "was made up of large portions",
+      "was mainly composed of meat",
+      "was followed by a great number of women in Paleolithic times",
+      "involved foods eaten especially for nutrition",
+      "shows that eating meat is important between the ages of 35 and 40"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q57",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g55-58",
+    "passage": "The Paleo diet is very popular these days. The Red Lady of El Mirón cave in northern Spain also ate the Paleo diet almost 19,000 years ago. But it was not a trend for her. A close look at the Red Lady's teeth shows that the meat of the hoofed animals, such as red deer and mountain goat, made up about 80 percent of her diet. Fish seems to have made up most of the rest of her diet. If that sounds a little dull, fear not. Meticulous dental analysis reveals she also ate some starchy plant material, most likely to have been seeds, plus mushrooms, although probably in small amounts. Whether mushrooms were eaten for nutrition or for some other purpose is unknown. Could the diet revealed by this unique fossil from northern Spain make you live a longer, healthier life? Although the surviving bones of the Red Lady suggest she was healthy, her age at death was between 35 and 40. That may have counted as middle-aged for people who lived in Paleolithic times. Perhaps you had better stick to a balanced diet with five portions of fruit and vegetables a day.",
+    "stem": "It is implied in the passage that the Paleo diet ----.",
+    "options": [
+      "puts emphasis on strachy plant materials",
+      "leads people to have a diet consisting only of meat",
+      "requires eating all types of food in small portions",
+      "does not have direct effects on living a longer life",
+      "allows people to live as long as the Red Lady"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q58",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g55-58",
+    "passage": "The Paleo diet is very popular these days. The Red Lady of El Mirón cave in northern Spain also ate the Paleo diet almost 19,000 years ago. But it was not a trend for her. A close look at the Red Lady's teeth shows that the meat of the hoofed animals, such as red deer and mountain goat, made up about 80 percent of her diet. Fish seems to have made up most of the rest of her diet. If that sounds a little dull, fear not. Meticulous dental analysis reveals she also ate some starchy plant material, most likely to have been seeds, plus mushrooms, although probably in small amounts. Whether mushrooms were eaten for nutrition or for some other purpose is unknown. Could the diet revealed by this unique fossil from northern Spain make you live a longer, healthier life? Although the surviving bones of the Red Lady suggest she was healthy, her age at death was between 35 and 40. That may have counted as middle-aged for people who lived in Paleolithic times. Perhaps you had better stick to a balanced diet with five portions of fruit and vegetables a day.",
+    "stem": "The primary purpose of the author is to ----.",
+    "options": [
+      "persuade the reader to start the Paleo diet to lead a long life",
+      "give information about the Paleo diet by providing the reader with an example",
+      "criticize the reader for not following the healthy Paleo diet",
+      "warn the reader against the consequences of following the Paleo diet",
+      "explain the reasons why the Red Lady died at such a young age"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q59",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g59-62",
+    "passage": "Hunger is known to increase food purchases, but Alison Jing Xu at the University of Minnesota and her team wanted to know if it also increased desire to buy non-food items. They asked 63 people to come to the lab with an empty stomach. Half were given a piece of cake to eat before all the volunteers were asked to examine a binder clip and decide how many they would like. Hungry participants asked for 70 percent more free clips than those who had just eaten. To find out if the same association held true for real purchases, the team had a look at the receipts of 81 customers leaving a department store that sold mostly non-food goods. Customers who were hungrier spent 64 percent more than the others. So, what is going on? When we are hungry, our stomach releases a hormone called ghrelin which acts on an area of the brain that makes people not only want to consume calories but also to seek out reward and motivation in buying other things. Jing Xu and her team suggest that consumers better feed themselves before they go shopping.",
+    "stem": "It is stated in the passage that ----.",
+    "options": [
+      "63 people who joined the lab experiment were given information about ghrelin beforehand",
+      "researchers intentionally increased the level of ghrelin of the participants with a slice of cake",
+      "participants who had eaten a piece of cake did not want as many binder clips as those who had not",
+      "the aim was to find out the effect of hunger on purchasing food items",
+      "some of the participants wanted to have more binder clips rather than a piece of cake because they were not feeling hungry"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q60",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g59-62",
+    "passage": "Hunger is known to increase food purchases, but Alison Jing Xu at the University of Minnesota and her team wanted to know if it also increased desire to buy non-food items. They asked 63 people to come to the lab with an empty stomach. Half were given a piece of cake to eat before all the volunteers were asked to examine a binder clip and decide how many they would like. Hungry participants asked for 70 percent more free clips than those who had just eaten. To find out if the same association held true for real purchases, the team had a look at the receipts of 81 customers leaving a department store that sold mostly non-food goods. Customers who were hungrier spent 64 percent more than the others. So, what is going on? When we are hungry, our stomach releases a hormone called ghrelin which acts on an area of the brain that makes people not only want to consume calories but also to seek out reward and motivation in buying other things. Jing Xu and her team suggest that consumers better feed themselves before they go shopping.",
+    "stem": "For the real-life part of the experiment, ----.",
+    "options": [
+      "81 hungry people were asked to shop at a department store",
+      "the receipts of the customers were checked to see the effect of hunger on purchasing",
+      "the research team reached contrasting findings for the lab participants and the department store customers",
+      "all customers who shopped at the department store were equally hungry",
+      "64 percent of the department store customers purchased non-food items"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q61",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g59-62",
+    "passage": "Hunger is known to increase food purchases, but Alison Jing Xu at the University of Minnesota and her team wanted to know if it also increased desire to buy non-food items. They asked 63 people to come to the lab with an empty stomach. Half were given a piece of cake to eat before all the volunteers were asked to examine a binder clip and decide how many they would like. Hungry participants asked for 70 percent more free clips than those who had just eaten. To find out if the same association held true for real purchases, the team had a look at the receipts of 81 customers leaving a department store that sold mostly non-food goods. Customers who were hungrier spent 64 percent more than the others. So, what is going on? When we are hungry, our stomach releases a hormone called ghrelin which acts on an area of the brain that makes people not only want to consume calories but also to seek out reward and motivation in buying other things. Jing Xu and her team suggest that consumers better feed themselves before they go shopping.",
+    "stem": "It can be concluded from both experiments that ----.",
+    "options": [
+      "shopping leads the stomach to release ghrelin more",
+      "food alone is not enough to motivate hungry people",
+      "spending money is not associated with extreme hunger",
+      "purchasing is rewarding for people who are not hungry",
+      "the effect of ghrelin is not restricted to food"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q62",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2016-ilkbahar-g59-62",
+    "passage": "Hunger is known to increase food purchases, but Alison Jing Xu at the University of Minnesota and her team wanted to know if it also increased desire to buy non-food items. They asked 63 people to come to the lab with an empty stomach. Half were given a piece of cake to eat before all the volunteers were asked to examine a binder clip and decide how many they would like. Hungry participants asked for 70 percent more free clips than those who had just eaten. To find out if the same association held true for real purchases, the team had a look at the receipts of 81 customers leaving a department store that sold mostly non-food goods. Customers who were hungrier spent 64 percent more than the others. So, what is going on? When we are hungry, our stomach releases a hormone called ghrelin which acts on an area of the brain that makes people not only want to consume calories but also to seek out reward and motivation in buying other things. Jing Xu and her team suggest that consumers better feed themselves before they go shopping.",
+    "stem": "The study may make people aware that ----.",
+    "options": [
+      "it is usually the needs that play a key role in how much money people spend when shopping",
+      "non-food goods do not attract people when they are hungry",
+      "taking part in lab experiments may change their previous shopping tendencies",
+      "shopping on an empty stomach might result in spending more money than intended",
+      "consumption of unnecessary calories may be demotivating to do shopping"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q63",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Defne: - Why have you been stirring your tea for so long? You've cooled it off faster. Beren: - ---- Defne: - When you stir it, the molecules move faster. So, you quicken the heat loss. Beren: - Okay, next time I won't stir my tea a lot.",
+    "options": [
+      "What do you think can be done to reduce the heat loss?",
+      "What are you trying to say? I can't see any relation between them.",
+      "As far as I know, the purpose of stirring drinks is to help the sugar dissolve in it.",
+      "I agree that it's much more related to evaporation than to stirring.",
+      "Do you say the spoon takes away some of the heat during the stirring?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q64",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Cahit: - It says here in the newspaper that although a woman's core body temperature is generally higher than a man's, her hands are usually a few degrees colder. Ayşe: - ---- Cahit: - It must be about women's hormone levels and relatively smaller muscle mass. Ayşe: - That's interesting! I'd never have thought of it that way.",
+    "options": [
+      "Does this happen even in mildly cold situations?",
+      "What's the explanation for this?",
+      "Are there any situations where a man's hands get colder?",
+      "Don't the blood vessels constrict when temperatures drop?",
+      "Have you also read anything about the contribution of blood circulation?"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q65",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Okan: - Recently, I've been sleeping far less than I normally do. Do you think this could be related to stress? Sinan: - Well, we all have stress but how it affects us differs from one person to another. Okan: - ---- Sinan: - Probably. But I also know people who suffer from eating disorders due to their stress levels.",
+    "options": [
+      "I think I'm one of those whose sleeping patterns are dramatically disturbed.",
+      "However, my body needs more sleep than many people because I work at night.",
+      "These days, I also have poor appetite since I can't get sufficient sleep.",
+      "Do you mean lack of sleep has both biological and psychological reasons?",
+      "I agree. People who are self-employed tend to have less stress-related problems."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q66",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Pınar: - I'm just back from the hospital. The doctor changed my medication and suggested more rest. Hazal: - OK. But why do you look so depressed? It's probably a good thing, right? Pınar: - ---- Hazal: - So, you're worried that your manager won't be very happy with the news.",
+    "options": [
+      "I guess so, but every type of medication has its side effects along with benefits.",
+      "No, it's bad news because the new medication is not covered by my health insurance.",
+      "I don't think so because I'm supposed to exercise more after work in the evenings.",
+      "I'm not sure. That means I'll have to take more days off, so I'll fall behind with my work.",
+      "It might work better, but I'm afraid it's going to provide temporary relief."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q67",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Student: - ---- Professor: - They're fixed three months before you're born. You can leave a mark on them with a cut, abrasion or acid, but they'll grow back within a month. Student: - What about aging? Professor: - It doesn't have such an effect, but it gets harder to scan your fingers or take a print from them.",
+    "options": [
+      "Do all people throughout the world have different fingerprints?",
+      "How do they treat finger injuries withoutdamaging one's fingerprints?",
+      "Are fingerprints utilized in any fields other than forensics?",
+      "What's the role of fingerprints in upcoming technological advances?",
+      "Do fingerprints change during our lifetime?"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q68",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The latest report from the UN’s Intergovernmental Panel on Climate Change is more confident than ever that most of the warming of the past 60 years is humanity’s fault.",
+    "options": [
+      "The latest report by the UN’s Intergovernmental Panel on Climate Change underestimated the role of humankind over the warming that occurred during the last 60 years.",
+      "A recent report by the UN’s Intergovernmental Panel on Climate Change is the most convincing one up to now, proving man’s responsibility for the warming that has taken place over the past 60 years.",
+      "The latest report from the UN’s Intergovernmental Panel on Climate Change confidently proclaimed that humankind is partially to blame for the warming of the planet over the past 60 years.",
+      "A recent report by the UN’s Intergovernmental Panel on Climate Change has confidently demonstrated that humanity must take responsibility for the warming of the planet in the last 60 years.",
+      "The latest report by the UN's Intergovernmental Panel on Climate Change is the most confident one so far to assert that mankind has been responsible for most of the warming over the last 60 years."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q69",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "One should visit the theater not merely for the purpose of entertainment, but rather draw lessons from the play performed on stage.",
+    "options": [
+      "The purpose of visiting the theatre is to be entertained rather than draw lessons from the play performed on stage.",
+      "Instead of entertainment, which is not the only intention of a play, one must acquire knowledge with the help of the play acted on stage.",
+      "Paying a visit to the theater must not be for entertaining ourselves; instead, we should understand the messages passed on by the actors.",
+      "Theaters should not be visited with the aim of entertainment alone; instead, one should learn lessons from the play acted on stage.",
+      "Drawing lessons from the play acted on stage rather than being entertained must be the sole reason for visiting the theater."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q70",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Scientists are struggling to understand the strange biology of Rafflesia, one of the world's largest flowers, in case it disappears from the jungle.",
+    "options": [
+      "It is a well-known fact that Rafflesia, oneof the world's largest flowers, will vanish from the jungle soon, which makes scientists interested in understanding its biology.",
+      "One of the world's largest flowers, Rafflesia has started to disappear from the jungle; therefore, scientists are rushing to study the biology of this large flower.",
+      "There is a possibility that one of the world's largest flowers, Rafflesia, may become extinct from the jungle, so scientists are working hard to comprehend its unusual biology.",
+      "Scientists have difficulty in understanding the complex biology of Rafflesia,which is one of the world's largest flowers,as it is about to disappear.",
+      "It is strange that although Rafflesia, one of the world's largest flowers, is vanishing from the jungle, scientists are still trying to understand its biology."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q71",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The notion that we might one day be able to communicate by thought alone has preoccupied scientists and science-fiction writers for decades.",
+    "options": [
+      "Scientists and science-fiction writers have long been trying to demonstrate that people can actually interact by thought alone.",
+      "Scientists and science-fiction writers have long been thinking that one day people will be able to transmit their ideas not only by words, but also by thought.",
+      "Not only scientists but also science-fiction writers have long been endeavouring to find an answer to the problem regarding thought communication.",
+      "Scientists and science-fiction writers have long been considering the idea that one day it will be possible for people to transmit messages via thought only.",
+      "Scientists have already proven that people can communicate by thought alone, which has also been a popular theme for science-fiction writers for a long time."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q72",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "There are a lot of doubts and questions about how effective antidepressants are. Many professionals in the field of psychology claim that for drugs to work, we need 'precision medication'. The aim of precision medication is to develop strategies that are best suited to each patient's biological, psychological, and social profile. ---- For example, if you have a job, you may be more likely to respond to a specific type of antidepressants.",
+    "options": [
+      "Studies of antidepressant response prediction continue with millions of dollars and generate data derived from neurophysiology and genetics.",
+      "Doctors can now use new technologies in neuroimaging to improve treatment that can produce better results.",
+      "Certain characteristics, such as socioeconomic factors, can predict how someone will respond to a drug.",
+      "We can understand from large clinical trials that antidepressants do not work as much as we expect them to on average.",
+      "We do not need big data studies on antidepressant response, as even finding out the complaints of a patient can provide doctors with sufficient information."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q73",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Ethnic groups can differ greatly in appearance, dress codes, cultural practices, and religious beliefs. ---- For instance, the Welsh and the English in the UK are most distinctive in terms of their accent and language. Speech style, then, is an important and often central stereotypical or normative property of group membership.",
+    "options": [
+      "Therefore, communities that live in well-defined boundaries exhibit uniformity in the way they use language orally.",
+      "Yet, communication involves spoken and written languages and a rich mix of expressions which are contextualized by ethnicity and nationality.",
+      "Nevertheless, language or speech style is often regarded as one of the most distinct and clear markers of ethnic identity.",
+      "Besides, the nature of the power and status relations between ethnic groups in society is influenced by self-respect and pride.",
+      "In addition, ethnic groups that are high on status and have respectful jobs have high ethno-linguistic value."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q74",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sons look to their fathers for support and example. They need to be instructed and inspired, but sometimes fathers cannot meet these needs of their sons. For example, Abraham Lincoln had little to learn from his father, Thomas. Abraham Lincoln and his father differed in almost every way. While Thomas could not understand reading as a passion, Abraham read every book he could get hold of. ---- Unlike his son Abraham, Thomas was unambitious and stubborn. Thus, when Abraham was a young adult, he turned to the heroes of the past generation for inspiration.",
+    "options": [
+      "When fathers cannot inspire their children, they often search for father figures among their favourite teachers.",
+      "Abraham was not content with his life; therefore, at the age of 21, he left his parents' home and rarely saw his father again.",
+      "Thomas was a good father, as he always supported Abraham to read different kinds of books to gain different perspectives.",
+      "In addition to their intellectual differences, Thomas and Abraham were emotionally incompatible, too.",
+      "Besides, it was hard for Abraham to hide his reactions to the political and social events that occured when he was young."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q75",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "There are some 100 billion galaxies in the observable universe, with about 100 billion stars in each of these galaxies. ---- In fact, there are more planets in the universe than there are sand grains on all the beaches of all the coastlines of all the continents. Yet, in all this immensity, there is only one place where we know there is life – the tiny, fragile blue dot we call Earth.",
+    "options": [
+      "The reality is that finding life in remote planets will be very difficult and it will take quite a lot of time.",
+      "Many scientists are trying to explain the origin of the disparate bodies in the solar system.",
+      "Since one of Saturn's moons has been found to have ice fountains, we should be looking more widely for alive bodies.",
+      "In recent years, we have discovered that there are probably more planets than there are stars.",
+      "It is possible to find some kind of life in space, but whether we can talk to it is a matter of debate."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q76",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Decision-making theories assume that individuals evaluate the costs and benefits of various actions and pick the best alternatives in a fairly logical, reasonable way.(II)Judgements and decisions do not always follow strict rationality.(III)They choose the alternative that gives them the greatest rewards at the least cost. (IV)Decision-making involves weighing the advantages and disadvantages of possible alternatives and then adopting the best one.(V)In other words, the relative strengths of the advantages and disadvantages determine the final decision.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q77",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Some people choose not to consume meat as they think it comes from animals having consciousness just as we do.(II)Quite a few people wonder whether plants have a form of consciousness. (III) It is not really possible as plants do not have nerve cells, let alone a brain.(IV)Some plants can signal to each other, and to insects, using chemical messenger compounds, but that is quite different. (V)Human concepts such as emotion and self-awareness simply do not apply to plants.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q78",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)By the 12thcentury an aristocratic class of warriors had begun to exercise great power throughout Japan. (II) Their original center, the military government of Minamoto, was located at the coastal town of Kamakura, near modern Tokyo. (III)Known as the Samurai, they dominated Japanese society for nearly 700 years.(IV) However, as power shifted from civil aristocracy to a new bureaucratic regime based on these provincial warriors, the Samurai became famous for offering security through military talent.(V)The ritual where the defeated warrior committed suicide with his own sword was also portrayed in the film The Last Samurai.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q79",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Bats live in caves to avoid danger and save energy. (II)Some species spend their daytime in caves while others hibernate there for the winter because caves provide optimal humidity, a stable low temperature, and few disturbances from light or noise. (III) Temperature is important because bats are warm-blooded but very small. (IV) Hibernation is a deep state of inactivity in which the animals' body temperature decreases. (V) Unlike many other mammals, bats let their internal temperature drop when they are resting, going into a state of decreased activity to conserve energy.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q80",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Although it was only in recent years that the 3D printing technology became good enough to produce more than prototypes, the very idea of printing in 3D is not new. (II) The 3D printing technology development has been so rapid and quick. (III) Nevertheless, 3D printers will hardly out-compete existing technologies, when it comes to the production of large quantities of consumer goods and machine parts. (IV) For a long time to come, the technology will probably be more suitable for customized goods, spare parts, minor quantity production, and products difficult to make in a conventional way. (V) But experts have no doubt that 3D printers will be increasingly used in many industries.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V TEST BİTTİ. 0 CEVAPLARINIZI KONTROL EDİNİZ. OSYM001"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

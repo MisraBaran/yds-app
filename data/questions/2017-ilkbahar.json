@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2017-ilkbahar-q01",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The ageing of population, also known as 'demographic ageing', is a term used to describe ---- in the age distribution of a population from the young towards people of older ages.",
+    "options": [
+      "opportunities",
+      "regulations",
+      "shifts",
+      "assumptions",
+      "conflicts"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q02",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Large collections of books are often unusable without careful attention to classification, so providing easy access to library materials using such labels as author, title, and subject, is essential for proper ---- of any library.",
+    "options": [
+      "violation",
+      "justification",
+      "abandonment",
+      "utilisation",
+      "elimination"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q03",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "During the investigation of a lethal or an easily transmitted disease, the necessary precautions must be taken to protect health staff, because they are ---- to catching the disease in question.",
+    "options": [
+      "committed",
+      "adaptable",
+      "entitled",
+      "vulnerable",
+      "accessible ENGLISH"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q04",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "IQ tests are often faulted for ignoring cultural or social biases, particularly with regard to schoolchildren, and critics claim they cannot ---- predict a person’s future performance.",
+    "options": [
+      "initially",
+      "accurately",
+      "conventionally",
+      "narrowly",
+      "strictly"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q05",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Parents who are responsive, non-authoritarian, and who manifest empathetic and caring behaviours can ---- the development of empathy in their children.",
+    "options": [
+      "delay",
+      "acknowledge",
+      "relieve",
+      "enhance",
+      "surpass"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q06",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "World War II is an important turning point in that it ---- the beginning of the end of colonial empires.",
+    "options": [
+      "made out",
+      "handed down",
+      "brought about",
+      "took over",
+      "put back"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q07",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "New research ---- that mother monkeys ---- to other females to help share the burden of raising increasingly dependent offspring.",
+    "options": [
+      "had suggested / were turning",
+      "suggests / had turned",
+      "suggested / have turned",
+      "has suggested / turn",
+      "will suggest / are turning"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q08",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Patients with implants or electronic devices put inside their bodies ---- using magnetic resonance imaging (MRI) because the machine’s magnet ---- these objects within the body, causing damage.",
+    "options": [
+      "should not be examined / must move",
+      "could not be examined / had to move",
+      "may not be examined / used to move",
+      "cannot be examined / could move",
+      "must not be examined / ought to move"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q09",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "In the age of steam, with new railroads ---- across Europe and the US, engineers began ---- even more applications for the steam engine.",
+    "options": [
+      "to spread / finding",
+      "having spread / to have found",
+      "spreading / to find",
+      "to have spread / find",
+      "spread / having found"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q10",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "More than 80 percent of the dry land will be affected if temperatures continue to increase ---- the present rate, but ---- very different extents.",
+    "options": [
+      "on / for",
+      "at / to",
+      "by / with",
+      "in / about",
+      "from / over"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q11",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Starting ---- 800 AD, many agricultural communities emerged ---- the Mississippi and in other fertile river valleys in North America.",
+    "options": [
+      "for / by",
+      "over / about",
+      "on / with",
+      "at / in",
+      "around / along"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q12",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "70 percent of the Earth's surface is liquid, ---- water scarcity affects more than a billion people each year.",
+    "options": [
+      "as if",
+      "yet",
+      "given that",
+      "instead",
+      "thus"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q13",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Alphabetic writing systems are easy to learn and maximally efficient for transcribing any human language, ---- they are considered one of the major achievements of civilisation.",
+    "options": [
+      "otherwise",
+      "but",
+      "so",
+      "whether",
+      "as"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q14",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- historians cannot agree on when gold was first discovered, there is some evidence to suggest that the Egyptians were the first to mine it.",
+    "options": [
+      "Now that",
+      "Just as",
+      "Even though",
+      "As long as",
+      "In case"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q15",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Wheat, which has been a staple food for centuries, can turn out to be bad for some people ---- because they are allergic to it ---- because they have an autoimmune disorder.",
+    "options": [
+      "so / that",
+      "neither / nor",
+      "as / as",
+      "the more / the more",
+      "either / or"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q16",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- its similarities with other Italian cities, it is important to emphasise that Venice's aquatic environment and associations with foreign lands via the sea endowed it with a uniqueness.",
+    "options": [
+      "Due to",
+      "By means of",
+      "In terms of",
+      "In case of",
+      "Despite"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q17",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2017-ilkbahar-g17-21",
+    "passage": "The Atacama Desert in South America is peppered with odd, cushion-like plants known as the llareta, a spongy cousin of parsley. Despite the harsh weather conditions that they have to (17)----, some of these plants are up to 3,000 years old. Though looking like a rock covered by small green plants without flowers, the plant has a tightly packed structure of branches, each adorned (18)----clusters of tiny leaves. The resulting plant is so strong that you (19)----on top of it very comfortably. (20)----, this hardiness comes at a price: the plants are thought to grow just 1.5 cm a year. According to Catherine Kleier, a researcher from Regis University, Colorado, the llareta became very strong (21)----a combination of environmental factors (cold at night and hot in the day) and it is compact to trap heat. The more compact the plant, the more successfully it protects itself.",
+    "stem": null,
+    "options": [
+      "endure",
+      "influence",
+      "avoid",
+      "trigger",
+      "improve"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q18",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2017-ilkbahar-g17-21",
+    "passage": "The Atacama Desert in South America is peppered with odd, cushion-like plants known as the llareta, a spongy cousin of parsley. Despite the harsh weather conditions that they have to (17)----, some of these plants are up to 3,000 years old. Though looking like a rock covered by small green plants without flowers, the plant has a tightly packed structure of branches, each adorned (18)----clusters of tiny leaves. The resulting plant is so strong that you (19)----on top of it very comfortably. (20)----, this hardiness comes at a price: the plants are thought to grow just 1.5 cm a year. According to Catherine Kleier, a researcher from Regis University, Colorado, the llareta became very strong (21)----a combination of environmental factors (cold at night and hot in the day) and it is compact to trap heat. The more compact the plant, the more successfully it protects itself.",
+    "stem": null,
+    "options": [
+      "on",
+      "at",
+      "with",
+      "for",
+      "over"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q19",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2017-ilkbahar-g17-21",
+    "passage": "The Atacama Desert in South America is peppered with odd, cushion-like plants known as the llareta, a spongy cousin of parsley. Despite the harsh weather conditions that they have to (17)----, some of these plants are up to 3,000 years old. Though looking like a rock covered by small green plants without flowers, the plant has a tightly packed structure of branches, each adorned (18)----clusters of tiny leaves. The resulting plant is so strong that you (19)----on top of it very comfortably. (20)----, this hardiness comes at a price: the plants are thought to grow just 1.5 cm a year. According to Catherine Kleier, a researcher from Regis University, Colorado, the llareta became very strong (21)----a combination of environmental factors (cold at night and hot in the day) and it is compact to trap heat. The more compact the plant, the more successfully it protects itself.",
+    "stem": null,
+    "options": [
+      "had better stand",
+      "may have stood",
+      "can stand",
+      "used to stand",
+      "must stand"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q20",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2017-ilkbahar-g17-21",
+    "passage": "The Atacama Desert in South America is peppered with odd, cushion-like plants known as the llareta, a spongy cousin of parsley. Despite the harsh weather conditions that they have to (17)----, some of these plants are up to 3,000 years old. Though looking like a rock covered by small green plants without flowers, the plant has a tightly packed structure of branches, each adorned (18)----clusters of tiny leaves. The resulting plant is so strong that you (19)----on top of it very comfortably. (20)----, this hardiness comes at a price: the plants are thought to grow just 1.5 cm a year. According to Catherine Kleier, a researcher from Regis University, Colorado, the llareta became very strong (21)----a combination of environmental factors (cold at night and hot in the day) and it is compact to trap heat. The more compact the plant, the more successfully it protects itself.",
+    "stem": null,
+    "options": [
+      "For instance",
+      "However",
+      "Therefore",
+      "Similarly",
+      "Otherwise"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q21",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2017-ilkbahar-g17-21",
+    "passage": "The Atacama Desert in South America is peppered with odd, cushion-like plants known as the llareta, a spongy cousin of parsley. Despite the harsh weather conditions that they have to (17)----, some of these plants are up to 3,000 years old. Though looking like a rock covered by small green plants without flowers, the plant has a tightly packed structure of branches, each adorned (18)----clusters of tiny leaves. The resulting plant is so strong that you (19)----on top of it very comfortably. (20)----, this hardiness comes at a price: the plants are thought to grow just 1.5 cm a year. According to Catherine Kleier, a researcher from Regis University, Colorado, the llareta became very strong (21)----a combination of environmental factors (cold at night and hot in the day) and it is compact to trap heat. The more compact the plant, the more successfully it protects itself.",
+    "stem": null,
+    "options": [
+      "rather than",
+      "in addition to",
+      "contrary to",
+      "except for",
+      "because of"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q22",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2017-ilkbahar-g22-26",
+    "passage": "Both Mars and Venus have been objects of scientific and popular speculation since at least the beginning of the 20th century, and since the 1960s spacefaring nations have been sending robotic probes to explore these two planets. (22)----, Mars has drawn far more attention. Since 2002 no fewer than two Mars probes have been actively gathering data during any given year. There were actually seven used in 2015 alone. This is (23)----because Mars is far more hospitable than Venus, where surface temperatures can reach 480 °C, surface pressure is 92 times that of the Earth and the planet is permanently surrounded by thick clouds of sulfuric acid. We have direct evidence that water once flowed and pooled (24)----Mars. So, it can be assumed that life once existed there and(25)---- at present. Venus is far more Earth-like than Mars in its size, composition and surface gravity, but (26)---- its harsh environment, it could never host life.",
+    "stem": null,
+    "options": [
+      "Accordingly",
+      "Nevertheless",
+      "Furthermore",
+      "That is",
+      "At first"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q23",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2017-ilkbahar-g22-26",
+    "passage": "Both Mars and Venus have been objects of scientific and popular speculation since at least the beginning of the 20th century, and since the 1960s spacefaring nations have been sending robotic probes to explore these two planets. (22)----, Mars has drawn far more attention. Since 2002 no fewer than two Mars probes have been actively gathering data during any given year. There were actually seven used in 2015 alone. This is (23)----because Mars is far more hospitable than Venus, where surface temperatures can reach 480 °C, surface pressure is 92 times that of the Earth and the planet is permanently surrounded by thick clouds of sulfuric acid. We have direct evidence that water once flowed and pooled (24)----Mars. So, it can be assumed that life once existed there and(25)---- at present. Venus is far more Earth-like than Mars in its size, composition and surface gravity, but (26)---- its harsh environment, it could never host life.",
+    "stem": null,
+    "options": [
+      "coincidental",
+      "irreversible",
+      "unintentional",
+      "preventable",
+      "plausible"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q24",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2017-ilkbahar-g22-26",
+    "passage": "Both Mars and Venus have been objects of scientific and popular speculation since at least the beginning of the 20th century, and since the 1960s spacefaring nations have been sending robotic probes to explore these two planets. (22)----, Mars has drawn far more attention. Since 2002 no fewer than two Mars probes have been actively gathering data during any given year. There were actually seven used in 2015 alone. This is (23)----because Mars is far more hospitable than Venus, where surface temperatures can reach 480 °C, surface pressure is 92 times that of the Earth and the planet is permanently surrounded by thick clouds of sulfuric acid. We have direct evidence that water once flowed and pooled (24)----Mars. So, it can be assumed that life once existed there and(25)---- at present. Venus is far more Earth-like than Mars in its size, composition and surface gravity, but (26)---- its harsh environment, it could never host life.",
+    "stem": null,
+    "options": [
+      "from",
+      "by",
+      "toward",
+      "on",
+      "into"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q25",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2017-ilkbahar-g22-26",
+    "passage": "Both Mars and Venus have been objects of scientific and popular speculation since at least the beginning of the 20th century, and since the 1960s spacefaring nations have been sending robotic probes to explore these two planets. (22)----, Mars has drawn far more attention. Since 2002 no fewer than two Mars probes have been actively gathering data during any given year. There were actually seven used in 2015 alone. This is (23)----because Mars is far more hospitable than Venus, where surface temperatures can reach 480 °C, surface pressure is 92 times that of the Earth and the planet is permanently surrounded by thick clouds of sulfuric acid. We have direct evidence that water once flowed and pooled (24)----Mars. So, it can be assumed that life once existed there and(25)---- at present. Venus is far more Earth-like than Mars in its size, composition and surface gravity, but (26)---- its harsh environment, it could never host life.",
+    "stem": null,
+    "options": [
+      "may exist",
+      "must have existed",
+      "could have existed",
+      "would have existed",
+      "used to exist"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q26",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2017-ilkbahar-g22-26",
+    "passage": "Both Mars and Venus have been objects of scientific and popular speculation since at least the beginning of the 20th century, and since the 1960s spacefaring nations have been sending robotic probes to explore these two planets. (22)----, Mars has drawn far more attention. Since 2002 no fewer than two Mars probes have been actively gathering data during any given year. There were actually seven used in 2015 alone. This is (23)----because Mars is far more hospitable than Venus, where surface temperatures can reach 480 °C, surface pressure is 92 times that of the Earth and the planet is permanently surrounded by thick clouds of sulfuric acid. We have direct evidence that water once flowed and pooled (24)----Mars. So, it can be assumed that life once existed there and(25)---- at present. Venus is far more Earth-like than Mars in its size, composition and surface gravity, but (26)---- its harsh environment, it could never host life.",
+    "stem": null,
+    "options": [
+      "due to",
+      "instead of",
+      "in comparison to",
+      "unlike",
+      "such as"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q27",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although buying energy-saving light bulbs and riding your bike to work are the correct choices to save the planet, ----.",
+    "options": [
+      "we cannot imagine these are going to eradicate the problem",
+      "we could save the world by relying on renewable energy sources",
+      "that is what we should already be doing to take action",
+      "small acts of consumption can be politically activating",
+      "it seems that people are in search for a complete solution"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q28",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since we now generate more data every year than the entire planet did up until 2003, ----.",
+    "options": [
+      "libraries continue to keep records of knowledge in the form of books",
+      "it is inconceivable to have effective database management systems",
+      "the way we store and preserve that data has to change",
+      "it is not possible for data stored on digital platforms to vanish",
+      "humanity's cumulative knowledge will not disappear if stored digitally"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q29",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though William Hamilton was not the first person to come up with the idea for a jet boat, ----.",
+    "options": [
+      "Greek scholar Archimedes had the concept of a jet boat when he devised his water screw",
+      "the maneuverability of the jet boat has long made its design highly marketable",
+      "he has been credited with revolutionising the conventional world of boating",
+      "Italian inventor Secondo Campani had devised a remarkably similar jet-powered boat",
+      "he lived in New Zealand, where his boat was able to power quickly through shallow waters"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q30",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although our bones stop growing in length in our late teens, ----.",
+    "options": [
+      "there is some evidence that too little or too much protein can reduce bone strength",
+      "it is crucial that we get necessary nutrients to keep them strong and healthy right through adulthood",
+      "from the first few weeks after pregnancy, our bones grow and develop healthy and strong bone tissues",
+      "sources of dairy and non-dairy calcium can help fight even hereditary bone conditions",
+      "low bone density disease is largely preventable at any age with the right diet and lifestyle"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q31",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Just as an accomplished writer must help us visualise events rather than plainly tell them, ----.",
+    "options": [
+      "storytellers are a significant voice of culture, and their storytelling takes many forms",
+      "a good storyteller is expected to provide not just a description but an experience",
+      "some people make a living as professional storytellers",
+      "the intellectual and emotional impacts of effective storytellers are undeniable",
+      "the words of storytellers may capture the minds and feelings of listeners"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q32",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The huge improvement in levels of readership in the 1960s largely coincided with the arrival of television, ----.",
+    "options": [
+      "but there was a dramatic increase in the number of people who spent their time watching TV",
+      "thus people began to pay more attention to the best-selling books, especially detective novels",
+      "because the production of cheaper pocket editions within reach of a wider range of the population fostered reading",
+      "so the habit of book reading came to occupy proportionately less of people's leisure time",
+      "while the readership of humour, biography, and history was decreasing among the younger generation"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q33",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In 19th-century Europe, women and children were used extensively in factories ----.",
+    "options": [
+      "although only about 20 percent of workers were employed in factories in 1850",
+      "when they became aware of the effects of factory work on their health",
+      "since they worked for lower wages and compensated for reluctant male labour",
+      "as the factory worker was not characteristic of European labour in the 19th century",
+      "while domestic industry and agriculture engaged most of the population"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q34",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "A recent study shows that workers tend to be more committed to their institution ----.",
+    "options": [
+      "when the managers express their gratitude and make them feel appreciated",
+      "even though payments are increased to resolve hot conflicts",
+      "until they are provided with little practical direction by their bosses",
+      "even if they engage in new, interesting activities together with their colleagues",
+      "while supporting each other's attempts to improve relationships is crucial"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q35",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "It is more energy efficient for small birds to move by hopping ----.",
+    "options": [
+      "but they cover much more distance in a single hop than with a step with their short legs",
+      "since birds spending most of their time in trees jump from branch to branch",
+      "so there is an extra load on the joints of heavier birds leaving one leg on the ground all the time",
+      "as almost all birds are capable of both hopping and walking at the same time",
+      "because of the fact that their light bodies easily bounce into the air"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q36",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many of us tend to overlook our mental well-being ----.",
+    "options": [
+      "so that mental health disorders can be correctly diagnosed through specialised tests",
+      "until a serious problem arises and we lose balance in our lives",
+      "because we should try to maintain good mental and physical health",
+      "now that we may have mental health problems when we experience too much stress",
+      "although there are many complex reasons why we develop mental health problems"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q37",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "The arrival of the domestic horse in West Africa transformed warfare there and turned the area into a set of kingdoms dependent on the force of cavalry.",
+    "options": [
+      "Batı Afrika’nın atlı asker gücüne bağlı bir dizi krallığa dönüşmesinin nedeni, evcil atların bölgeye gelişi ve oradaki savaş anlayışını değiştirmesidir.",
+      "Batı Afrika’daki savaş anlayışı evcil atların gelişiyle değişti ve bölge atlı asker gücüne dayalı bir dizi krallığa dönüştü.",
+      "Evcil atların Batı Afrika’ya ulaşması oradaki savaş anlayışını değiştirdi ve bölgeyi atlı asker gücüne dayalı bir dizi krallığa dönüştürdü.",
+      "Evcil atların bölgeye ulaşmasıyla savaş anlayışında değişiklikler yaşayan Batı Afrika, atlı asker gücüne dayalı bir dizi krallık hâline geldi.",
+      "Evcil atların Batı Afrika'ya ulaşması oradaki savaş anlayışını değiştirerek bölgenin atlı asker gücüne dayalı bir dizi krallığa dönüşmesine neden oldu."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q38",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "A study carried out at Weill Cornell Medical College has found out how the brain switches between waking and the unconscious, which is promising for rousing people from an unconscious state.",
+    "options": [
+      "Weill Cornell Tıp Fakültesi'nde yapılan ve beynin uyanma ve bilinçaltı arasında nasıl geçiş yaptığını ortaya çıkaran çalışma, insanları bilinçsiz bir durumdan uyandırma konusunda ümit vericidir.",
+      "Weill Cornell Tıp Fakültesi'nde yapılan bir çalışma, beynin uyanma ve bilinçaltı arasında nasıl geçiş yaptığını ortaya çıkardığı için insanları bilinçsiz bir durumdan uyandırma konusunda ümit vadediyor.",
+      "Weill Cornell Tıp Fakültesi'nde, beynin uyanma ve bilinçaltı arasında nasıl geçiş yaptığını ortaya çıkarma ve insanları bilinçsiz bir durumdan uyandırma konusunda ümit vadeden bir çalışma yapılmıştır.",
+      "Beynin uyanma ve bilinçaltı arasında nasıl geçiş yaptığını ortaya çıkaran ve insanları bilinçsiz bir durumdan uyandırma konusunda ümit vadeden bir çalışma, Weill Cornell Tıp Fakültesi'nde yapılmıştır.",
+      "Weill Cornell Tıp Fakültesi'nde yapılan bir çalışma, beynin uyanma ve bilinçaltı arasında nasıl geçiş yaptığını ortaya çıkarmıştır, ki bu insanları bilinçsiz bir durumdan uyandırma konusunda ümit vericidir."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q39",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Widely regarded as Australia’s capital of culture, Melbourne is a vibrant city with various surprises around every corner.",
+    "options": [
+      "Çoğunlukla Avustralya’nın kültür başkenti olarak kabul edilen Melbourne, her köşesinde çeşitli sürprizler barındıran canlı bir kenttir.",
+      "Melbourne’ün çoğunlukla Avustralya’nın kültür başkenti olarak kabul edilmesinin sebebi, bu canlı şehrin her köşesinde çeşitli sürprizler barındırıyor olmasıdır.",
+      "Çoğunlukla Avustralya'nın kültür başkenti olarak kabul edilen Melbourne, canlı olduğu kadar her köşesinde çeşitli sürprizler de barındıran bir kenttir.",
+      "Her köşesinde farklı sürprizler barındıran ve canlı bir kent olan Melbourne, çoğunlukla Avustralya'nın kültür başkenti olarak kabul edilir.",
+      "Melbourne çoğunlukla Avustralya’nın kültür başkenti olarak kabul edilir, çünkü bu canlı şehir her köşesinde çeşitli sürprizler barındırır."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q40",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Öğretmenler, öğretim yöntemi seçerken, öğrencilerinin özellikleri ve hâlihazırdaki kaynakların yanı sıra kendi yeterliliklerini ve bilgilerini de göz önünde bulundurmalıdırlar.",
+    "options": [
+      "What teachers need to do when choosing a teaching method is to take their own capabilities and knowledge into account as well as their students' characteristics and the resources available.",
+      "When they follow a teaching method, teachers are expected to consider their own capabilities and knowledge together with their students' characteristics and the resources available.",
+      "When choosing a teaching method, teachers should take their own capabilities and knowledge into account along with their students' characteristics and the resources available.",
+      "When implementing a teaching method, teachers should consider not only their students' characteristics and the resources available but also their own capabilities and knowledge.",
+      "Their own capabilities and knowledge besides their students' characteristics and the resources available should be taken into account by teachers when choosing a teaching method."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q41",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Köpek balıklarının sayısı önemli ölçüde azalıyor ve bu yırtıcı balıklar yavaş geliştikleri ve nadiren üredikleri için nüfuslarının hızlı bir şekilde artması olası görünmüyor.",
+    "options": [
+      "Given that the number of sharks is falling drastically as these predatory fish slowly mature and seldom reproduce, there is no likelihood that their population will increase quickly.",
+      "Because sharks slowly mature and rarely breed, their number is falling greatly, and therefore the population of these predatory fish seems unlikely to increase rapidly.",
+      "The number of sharks is falling dramatically, and since these predatory fish slowly mature and rarely reproduce, it seems unlikely that their population will increase quickly.",
+      "It seems unlikely that shark population will increase quickly since these predatory fish, whose number is falling considerably, slowly mature and seldom breed.",
+      "The number of sharks is falling substantially, and because these predatory fish slowly mature and rarely reproduce, it is not probable that there will be a significant increase in their population."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q42",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Dünya üzerinde yaşam başladığından bu yana yüz milyonlarca bitki ve hayvan türünün nesli tükendi ve insanlar son 300 yıldır doğal yaşam alanlarını tahrip ederek yok olma sürecini büyük ölçüde hızlandırdı.",
+    "options": [
+      "Since life began on Earth, hundreds of millions of species of plants and animals have been threatened with extinction, and over the past 300 years the extinction process has substantially accelerated due to habitat destruction caused by people.",
+      "Hundreds of millions of species of plants and animals have become extinct since life began on Earth, and over the past 300 years people have been damaging habitats, thus significantly speeding up the extinction process.",
+      "Hundreds of millions of species of plants and animals have become extinct since life began on Earth, and over the past 300 years people have dramatically speeded up the extinction process by destroying habitats.",
+      "Since life began on Earth, hundreds of millions of species of plants and animals have become extinct, and habitats have been damaged by people, which has substantially accelerated the extinction process for the past 300 years.",
+      "There are hundreds of millions of species of plants and animals that have faced extinction since life began on Earth, and people who are destroying habitats have dramatically speeded up the extinction process for the past 300 years."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q43",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g43-46",
+    "passage": "One day in 1952, John W. Hetrick was driving with his wife and daughter in the front seat when he had to change his direction suddenly and brake quickly to avoid an obstacle. Instinctively, he and his wife put their arms out to protect their daughter in case of a crash. This event inspired him to provide automobiles with airbags to protect people during accidents. Hetrick had been an engineer in the US Navy during World War II. He recalled a compressed-air torpedo accidentally turning itself on, causing its canvas cover to shoot up into the air, 'quicker than a blink of an eye'. In 1952, Hetrick proposed using compressed air to inflate airbags rapidly during car crashes. He received a patent for this invention in 1953, but car manufacturers in the 1950s were more interested in style than safety. Later, consumers became more safety conscious and airbag technology improved. The first airbags were optional, but by the 1990s, they had become standard. Although airbags have saved thousands of lives, they are not always sufficient to prevent death and injury during crashes. Travellers must also wear seat belts, and automobiles must have dashboards made of soft materials and steering columns that can absorb energy during impact from car crashes.",
+    "stem": "It can be understood from the passage that the airbags were ----.",
+    "options": [
+      "widely accepted when they were first introduced in 1952",
+      "invented with the fundamental aim of making cars look more attractive",
+      "manufactured largely in order to improve automobile marketing and increase the sales",
+      "invented by a US engineer while he was launching the canvas cover into the air",
+      "designed to work very fast to provide immediate protection for people"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q44",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g43-46",
+    "passage": "One day in 1952, John W. Hetrick was driving with his wife and daughter in the front seat when he had to change his direction suddenly and brake quickly to avoid an obstacle. Instinctively, he and his wife put their arms out to protect their daughter in case of a crash. This event inspired him to provide automobiles with airbags to protect people during accidents. Hetrick had been an engineer in the US Navy during World War II. He recalled a compressed-air torpedo accidentally turning itself on, causing its canvas cover to shoot up into the air, 'quicker than a blink of an eye'. In 1952, Hetrick proposed using compressed air to inflate airbags rapidly during car crashes. He received a patent for this invention in 1953, but car manufacturers in the 1950s were more interested in style than safety. Later, consumers became more safety conscious and airbag technology improved. The first airbags were optional, but by the 1990s, they had become standard. Although airbags have saved thousands of lives, they are not always sufficient to prevent death and injury during crashes. Travellers must also wear seat belts, and automobiles must have dashboards made of soft materials and steering columns that can absorb energy during impact from car crashes.",
+    "stem": "It is pointed out in the passage that in the 1950s, car manufacturers ----.",
+    "options": [
+      "developed a compressed mechanism which inflated airbags swiftly",
+      "benefitted from optional airbags to raise the safety awareness among the customers",
+      "paid more attention to the physical appearance of cars rather than their safety",
+      "started to produce standard airbags in line with the innovations in airbag technology",
+      "were highly concerned with safety requirements imposed on automobile industry"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q45",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g43-46",
+    "passage": "One day in 1952, John W. Hetrick was driving with his wife and daughter in the front seat when he had to change his direction suddenly and brake quickly to avoid an obstacle. Instinctively, he and his wife put their arms out to protect their daughter in case of a crash. This event inspired him to provide automobiles with airbags to protect people during accidents. Hetrick had been an engineer in the US Navy during World War II. He recalled a compressed-air torpedo accidentally turning itself on, causing its canvas cover to shoot up into the air, 'quicker than a blink of an eye'. In 1952, Hetrick proposed using compressed air to inflate airbags rapidly during car crashes. He received a patent for this invention in 1953, but car manufacturers in the 1950s were more interested in style than safety. Later, consumers became more safety conscious and airbag technology improved. The first airbags were optional, but by the 1990s, they had become standard. Although airbags have saved thousands of lives, they are not always sufficient to prevent death and injury during crashes. Travellers must also wear seat belts, and automobiles must have dashboards made of soft materials and steering columns that can absorb energy during impact from car crashes.",
+    "stem": "Which of the following can be inferred from the passage?",
+    "options": [
+      "The injuries and deaths in car accidents can be completely prevented with airbags.",
+      "As soon as Hetrick patented the airbag, it became obligatory for manufacturers to equip cars with airbags.",
+      "The dashboards and steering columns of automobiles should be designed elaborately to increase the efficiency of airbags.",
+      "Travellers are expected to fasten their seat belts which enable the airbags to inflate more quickly.",
+      "Automobile designs are required to manipulate the energy in a crash in order to save people’s lives."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q46",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g43-46",
+    "passage": "One day in 1952, John W. Hetrick was driving with his wife and daughter in the front seat when he had to change his direction suddenly and brake quickly to avoid an obstacle. Instinctively, he and his wife put their arms out to protect their daughter in case of a crash. This event inspired him to provide automobiles with airbags to protect people during accidents. Hetrick had been an engineer in the US Navy during World War II. He recalled a compressed-air torpedo accidentally turning itself on, causing its canvas cover to shoot up into the air, 'quicker than a blink of an eye'. In 1952, Hetrick proposed using compressed air to inflate airbags rapidly during car crashes. He received a patent for this invention in 1953, but car manufacturers in the 1950s were more interested in style than safety. Later, consumers became more safety conscious and airbag technology improved. The first airbags were optional, but by the 1990s, they had become standard. Although airbags have saved thousands of lives, they are not always sufficient to prevent death and injury during crashes. Travellers must also wear seat belts, and automobiles must have dashboards made of soft materials and steering columns that can absorb energy during impact from car crashes.",
+    "stem": "Which could be the best title for the passage?",
+    "options": [
+      "Advances in the Automobile Industry",
+      "An Alternative Way to Save Life",
+      "Airbags as a Safety Regulation",
+      "How to Prevent Car Accidents with Airbags",
+      "The Advance of Airbag Technology"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q47",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g47-50",
+    "passage": "An application to translate chimp language may be available in the near future! Chimpanzees can learn to pronounce 'apple' in two chimp languages – a finding that calls into question how unique our own language ability is. Katie Slocombe of the University of York, UK, and her team recorded vocalisations by a group of adult chimps from the Netherlands before and after their relocation to Edinburgh Zoo. Three years after the move, the Dutch chimps has picked up the pronunciation of their Scottish hosts. The peak frequencies of the Dutch chimps' loud calls fell from 932 to 708 hertz to match closely with the low-toned pronunciations of the Scottish apes. The change was gradual and coincided with the growing friendship of the two groups. This means that, like us, chimps can learn foreign language to fit in with new neighbours. The finding also challenges the prevailing theory that chimp words for objects are fixed because they result from excited, involuntary outbursts. The general assumption was that animals do not have control over the sounds they make, whereas we learn the labels for things socially, which is what separates us from animals, states Slocombe. But this may be wrong, it seems. \"It is the first time call structure has been dissociated from emotional outbursts,\" she says.",
+    "stem": "It is pointed out in the passage that after being relocated, the Dutch chimps ----.",
+    "options": [
+      "changed the pronunciation patterns of their Scottish hosts",
+      "had increasing frequencies of loud calls",
+      "had a low-toned pronunciation as they did in the Netherlands",
+      "began to make sounds in a way similar to that of the Scottish apes",
+      "experienced a sudden change in how they pronounced words"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q48",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g47-50",
+    "passage": "An application to translate chimp language may be available in the near future! Chimpanzees can learn to pronounce 'apple' in two chimp languages – a finding that calls into question how unique our own language ability is. Katie Slocombe of the University of York, UK, and her team recorded vocalisations by a group of adult chimps from the Netherlands before and after their relocation to Edinburgh Zoo. Three years after the move, the Dutch chimps has picked up the pronunciation of their Scottish hosts. The peak frequencies of the Dutch chimps' loud calls fell from 932 to 708 hertz to match closely with the low-toned pronunciations of the Scottish apes. The change was gradual and coincided with the growing friendship of the two groups. This means that, like us, chimps can learn foreign language to fit in with new neighbours. The finding also challenges the prevailing theory that chimp words for objects are fixed because they result from excited, involuntary outbursts. The general assumption was that animals do not have control over the sounds they make, whereas we learn the labels for things socially, which is what separates us from animals, states Slocombe. But this may be wrong, it seems. \"It is the first time call structure has been dissociated from emotional outbursts,\" she says.",
+    "stem": "Which of the following makes chimpanzees resemble us?",
+    "options": [
+      "Their language learning ability to get involved in a foreign environment",
+      "The fixed words that they use to refer to objects",
+      "The association between their words and emotional outbursts",
+      "Their capability to decrease the peak frequencies of their loud calls",
+      "The three-year period in which they can learn a foreign language"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q49",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g47-50",
+    "passage": "An application to translate chimp language may be available in the near future! Chimpanzees can learn to pronounce 'apple' in two chimp languages – a finding that calls into question how unique our own language ability is. Katie Slocombe of the University of York, UK, and her team recorded vocalisations by a group of adult chimps from the Netherlands before and after their relocation to Edinburgh Zoo. Three years after the move, the Dutch chimps has picked up the pronunciation of their Scottish hosts. The peak frequencies of the Dutch chimps' loud calls fell from 932 to 708 hertz to match closely with the low-toned pronunciations of the Scottish apes. The change was gradual and coincided with the growing friendship of the two groups. This means that, like us, chimps can learn foreign language to fit in with new neighbours. The finding also challenges the prevailing theory that chimp words for objects are fixed because they result from excited, involuntary outbursts. The general assumption was that animals do not have control over the sounds they make, whereas we learn the labels for things socially, which is what separates us from animals, states Slocombe. But this may be wrong, it seems. \"It is the first time call structure has been dissociated from emotional outbursts,\" she says.",
+    "stem": "What does the passage mainly focus on?",
+    "options": [
+      "The differences between the Dutch and Scottish apes in Edinburgh Zoo",
+      "Why it took three years for the Dutch chimps to establish friendship with the Scottish apes",
+      "How chimps differ from humans in their language ability",
+      "How chimps can learn to pronounce words through socialising",
+      "The importance of emotional outbursts for chimps"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q50",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g47-50",
+    "passage": "An application to translate chimp language may be available in the near future! Chimpanzees can learn to pronounce 'apple' in two chimp languages – a finding that calls into question how unique our own language ability is. Katie Slocombe of the University of York, UK, and her team recorded vocalisations by a group of adult chimps from the Netherlands before and after their relocation to Edinburgh Zoo. Three years after the move, the Dutch chimps has picked up the pronunciation of their Scottish hosts. The peak frequencies of the Dutch chimps' loud calls fell from 932 to 708 hertz to match closely with the low-toned pronunciations of the Scottish apes. The change was gradual and coincided with the growing friendship of the two groups. This means that, like us, chimps can learn foreign language to fit in with new neighbours. The finding also challenges the prevailing theory that chimp words for objects are fixed because they result from excited, involuntary outbursts. The general assumption was that animals do not have control over the sounds they make, whereas we learn the labels for things socially, which is what separates us from animals, states Slocombe. But this may be wrong, it seems. \"It is the first time call structure has been dissociated from emotional outbursts,\" she says.",
+    "stem": "One can understand from the passage that unlike what is commonly accepted, ----.",
+    "options": [
+      "chimp words for objects do not vary",
+      "chimps can consciously change the sounds they produce",
+      "chimp call structure includes involuntary outbursts",
+      "chimps are not able to produce sounds that have meanings",
+      "chimp words for objects are linked to emotional outbursts"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q51",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g51-54",
+    "passage": "George Manby is most famous for his invention of the Manby Mortar – a device once used to rescue a lot of people from shipwrecks. He is also known as the father of the modern fire extinguisher, which in itself has also saved thousands of lives. Fire extinguishers actually predate Manby's invention. One of the earliest ones was designed in 1723 by Ambrose Godfrey. Godfrey's device consisted of a fire-extinguishing liquid and a chamber of gunpowder. When the attached fuses were lit, the gunpowder exploded and scattered the liquid. They were not widely used, although there is an account of them being used in a fire in London in 1729. Manby's 1818 invention was more efficient. He was inspired to invent a portable fire extinguisher after witnessing firemen's inability to fight fires on the top floors of buildings because they were difficult to get to. He designed a device containing potassium carbonate with the remaining space taken up by compressed air. When the device was activated, it allowed the air to rush out and spread the potassium carbonate over quite a range. The system could also be used with water, and was portable, allowing firemen to reach otherwise inaccessible areas. Manby's invention was soon replaced by a newer model. However, the use of compressed air formed the premise for new prototypes, with modern extinguishers using carbon dioxide as the pressurising agent in a similar way.",
+    "stem": "It is clear from the passage that Manby ----.",
+    "options": [
+      "was inspired by different types of fire extinguishers while producing his own type",
+      "became famous when he himself rescued a lot of people from a shipwreck",
+      "is regarded as the creator of the fire extinguisher although similar types existed before",
+      "was the first person to use a fire extinguisher in a fire in London in 1729",
+      "collaborated with Godfrey to invent the fire extinguisher"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q52",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g51-54",
+    "passage": "George Manby is most famous for his invention of the Manby Mortar – a device once used to rescue a lot of people from shipwrecks. He is also known as the father of the modern fire extinguisher, which in itself has also saved thousands of lives. Fire extinguishers actually predate Manby's invention. One of the earliest ones was designed in 1723 by Ambrose Godfrey. Godfrey's device consisted of a fire-extinguishing liquid and a chamber of gunpowder. When the attached fuses were lit, the gunpowder exploded and scattered the liquid. They were not widely used, although there is an account of them being used in a fire in London in 1729. Manby's 1818 invention was more efficient. He was inspired to invent a portable fire extinguisher after witnessing firemen's inability to fight fires on the top floors of buildings because they were difficult to get to. He designed a device containing potassium carbonate with the remaining space taken up by compressed air. When the device was activated, it allowed the air to rush out and spread the potassium carbonate over quite a range. The system could also be used with water, and was portable, allowing firemen to reach otherwise inaccessible areas. Manby's invention was soon replaced by a newer model. However, the use of compressed air formed the premise for new prototypes, with modern extinguishers using carbon dioxide as the pressurising agent in a similar way.",
+    "stem": "What is the main reason why Manby's invention in 1818 was more efficient?",
+    "options": [
+      "It could use various pressurising agents to scatter the extinguishing liquid.",
+      "It enabled firemen to deal with fires in places that they had previously been unable to reach.",
+      "It proved its convenience when it helped to extinguish a fire in London in 1729.",
+      "It contained potassium carbonate which could spread over a large area.",
+      "It could save more lives than Godfrey's invention could do."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q53",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g51-54",
+    "passage": "George Manby is most famous for his invention of the Manby Mortar – a device once used to rescue a lot of people from shipwrecks. He is also known as the father of the modern fire extinguisher, which in itself has also saved thousands of lives. Fire extinguishers actually predate Manby's invention. One of the earliest ones was designed in 1723 by Ambrose Godfrey. Godfrey's device consisted of a fire-extinguishing liquid and a chamber of gunpowder. When the attached fuses were lit, the gunpowder exploded and scattered the liquid. They were not widely used, although there is an account of them being used in a fire in London in 1729. Manby's 1818 invention was more efficient. He was inspired to invent a portable fire extinguisher after witnessing firemen's inability to fight fires on the top floors of buildings because they were difficult to get to. He designed a device containing potassium carbonate with the remaining space taken up by compressed air. When the device was activated, it allowed the air to rush out and spread the potassium carbonate over quite a range. The system could also be used with water, and was portable, allowing firemen to reach otherwise inaccessible areas. Manby's invention was soon replaced by a newer model. However, the use of compressed air formed the premise for new prototypes, with modern extinguishers using carbon dioxide as the pressurising agent in a similar way.",
+    "stem": "One can understand from the passage that Manby's fire extinguisher ----.",
+    "options": [
+      "was designed with the help of the firemen who wanted to reach inaccessible areas",
+      "was not used as widely as Godfrey's device when it was first introduced",
+      "was very similar to his another invention called the Manby Mortar",
+      "was appropriate for the use of several pressurising agents to spread the potassium carbonate",
+      "took more time to activate when compared to Godfrey's device"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q54",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g51-54",
+    "passage": "George Manby is most famous for his invention of the Manby Mortar – a device once used to rescue a lot of people from shipwrecks. He is also known as the father of the modern fire extinguisher, which in itself has also saved thousands of lives. Fire extinguishers actually predate Manby's invention. One of the earliest ones was designed in 1723 by Ambrose Godfrey. Godfrey's device consisted of a fire-extinguishing liquid and a chamber of gunpowder. When the attached fuses were lit, the gunpowder exploded and scattered the liquid. They were not widely used, although there is an account of them being used in a fire in London in 1729. Manby's 1818 invention was more efficient. He was inspired to invent a portable fire extinguisher after witnessing firemen's inability to fight fires on the top floors of buildings because they were difficult to get to. He designed a device containing potassium carbonate with the remaining space taken up by compressed air. When the device was activated, it allowed the air to rush out and spread the potassium carbonate over quite a range. The system could also be used with water, and was portable, allowing firemen to reach otherwise inaccessible areas. Manby's invention was soon replaced by a newer model. However, the use of compressed air formed the premise for new prototypes, with modern extinguishers using carbon dioxide as the pressurising agent in a similar way.",
+    "stem": "What is the primary purpose of the author?",
+    "options": [
+      "To give examples of the pressurising agents used in fire extinguishers",
+      "To make a comparison between Manby's fire extinguisher and Godfrey's device",
+      "To inform the reader about the development of the fire extinguisher",
+      "To put emphasis on portable fire extinguishers that help firemen to reach inaccessible areas",
+      "To describe the benefits and limitations of Manby's fire extinguisher"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q55",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g55-58",
+    "passage": "It might sound like something from a modern-day vampire movie, but transfer of youthful blood can have a reviving effect on the mind, researchers have found. Or at least, it can in mice: a study by Stanford University School of Medicine has discovered that something in the blood of young mice has the ability to restore mental capabilities in older mice. Over the course of three weeks, the scientists gave 18-month-old mice eight infusions of plasma taken from animals that were just three months old, and then put them through a set of experiments to test their spatial memory – memory relating to the position of things and how large or small they are. The mice were seen to perform consistently better in the tests after receiving the young blood. Old mice injected with the blood of other old mice, on the other hand, showed no improvement in the tests. The team found that new connections were also formed in the old mice's hippocampi, which again were not seen inthe control group. The hippocampus is a brain region that plays a huge role in memory, particularly in recognising and recalling spatial patterns. It is very sensitive to ageing, showing a natural decline in function as people grow older. In conditions such as Alzheimer's disease, this deterioration is accelerated, leading to an inability to form new memories. It is as yet unclear whether transferring young blood into older individuals would have the same effect in humans.",
+    "stem": "It is clearly stated in the passage that transfer of blood from young mice into old mice ----.",
+    "options": [
+      "has helped old mice boost their performance in spatial-memory tests",
+      "was performed with the blood especially obtained from 18-month-old mice",
+      "has hardly made a difference in old mice in making connections in their hippocampi",
+      "improves their memories and it is evidently going to have the same effect on humans",
+      "is one of many similar studies carried out by the Stanford University School of Medicine"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q56",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g55-58",
+    "passage": "It might sound like something from a modern-day vampire movie, but transfer of youthful blood can have a reviving effect on the mind, researchers have found. Or at least, it can in mice: a study by Stanford University School of Medicine has discovered that something in the blood of young mice has the ability to restore mental capabilities in older mice. Over the course of three weeks, the scientists gave 18-month-old mice eight infusions of plasma taken from animals that were just three months old, and then put them through a set of experiments to test their spatial memory – memory relating to the position of things and how large or small they are. The mice were seen to perform consistently better in the tests after receiving the young blood. Old mice injected with the blood of other old mice, on the other hand, showed no improvement in the tests. The team found that new connections were also formed in the old mice's hippocampi, which again were not seen inthe control group. The hippocampus is a brain region that plays a huge role in memory, particularly in recognising and recalling spatial patterns. It is very sensitive to ageing, showing a natural decline in function as people grow older. In conditions such as Alzheimer's disease, this deterioration is accelerated, leading to an inability to form new memories. It is as yet unclear whether transferring young blood into older individuals would have the same effect in humans.",
+    "stem": "A control group is a group in an experiment where the factor being tested is not applied so that it can be compared against another group where the factor is applied. According to this definition, which of the following is referred to with the expression 'the control group' that is underlined in the passage?",
+    "options": [
+      "The old mice injected with the blood of young mice",
+      "The old mice injected with the blood of other old mice",
+      "The old mice with more sophisticated hippocampi",
+      "The young mice with less sophisticated hippocampi",
+      "The young mice injected with the blood of old mice"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q57",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g55-58",
+    "passage": "It might sound like something from a modern-day vampire movie, but transfer of youthful blood can have a reviving effect on the mind, researchers have found. Or at least, it can in mice: a study by Stanford University School of Medicine has discovered that something in the blood of young mice has the ability to restore mental capabilities in older mice. Over the course of three weeks, the scientists gave 18-month-old mice eight infusions of plasma taken from animals that were just three months old, and then put them through a set of experiments to test their spatial memory – memory relating to the position of things and how large or small they are. The mice were seen to perform consistently better in the tests after receiving the young blood. Old mice injected with the blood of other old mice, on the other hand, showed no improvement in the tests. The team found that new connections were also formed in the old mice's hippocampi, which again were not seen inthe control group. The hippocampus is a brain region that plays a huge role in memory, particularly in recognising and recalling spatial patterns. It is very sensitive to ageing, showing a natural decline in function as people grow older. In conditions such as Alzheimer's disease, this deterioration is accelerated, leading to an inability to form new memories. It is as yet unclear whether transferring young blood into older individuals would have the same effect in humans.",
+    "stem": "It is understood from the passage that the hippocampus ----.",
+    "options": [
+      "weakens more quickly in mice than in humans",
+      "will perform much better in old people if they receive blood from young ones",
+      "provides help in remembering the place and size of things",
+      "gets better at remembering as one gets older and his or her spatial awareness develops",
+      "stops functioning when someone develops such conditions as Alzheimer's disease"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q58",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g55-58",
+    "passage": "It might sound like something from a modern-day vampire movie, but transfer of youthful blood can have a reviving effect on the mind, researchers have found. Or at least, it can in mice: a study by Stanford University School of Medicine has discovered that something in the blood of young mice has the ability to restore mental capabilities in older mice. Over the course of three weeks, the scientists gave 18-month-old mice eight infusions of plasma taken from animals that were just three months old, and then put them through a set of experiments to test their spatial memory – memory relating to the position of things and how large or small they are. The mice were seen to perform consistently better in the tests after receiving the young blood. Old mice injected with the blood of other old mice, on the other hand, showed no improvement in the tests. The team found that new connections were also formed in the old mice's hippocampi, which again were not seen inthe control group. The hippocampus is a brain region that plays a huge role in memory, particularly in recognising and recalling spatial patterns. It is very sensitive to ageing, showing a natural decline in function as people grow older. In conditions such as Alzheimer's disease, this deterioration is accelerated, leading to an inability to form new memories. It is as yet unclear whether transferring young blood into older individuals would have the same effect in humans.",
+    "stem": "Which could be the best title for this passage?",
+    "options": [
+      "How to Take Care of Your Hippocampus",
+      "The Important Role of the Hippocampus",
+      "How Mice's Spatial Memory Functions",
+      "Looking to Mice for Better Memories",
+      "Saying Goodbye to Mental Disorders"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q59",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g59-62",
+    "passage": "For many years praise was awarded to the US explorer Robert Peary, who claimed to have reached the North Pole on 6 April 1909. Yet even at the time his claim was disputed. Dr Frederick Cook, a rival American explorer, insisted he had reached the pole almost a year earlier. But neither of them could provide definitive proof of their supposed triumph. Cook's own evidence was rejected by an independent commission, while Peary refused to hand over any details at all. In 1989, the US National Geographic Society announced that an analysis of photographs taken by Peary, together with his records of ocean depths and other data, were consistent with his expedition getting within eight kilometres of the true pole. Cook's claim, meanwhile, has always been followed by suspicions of fraud. In the years that followed, the North Pole was reached many times by airborne and submarine expeditions. Surprisingly, the first undisputed expedition to reach the North Pole over the surface did not achieve its goal until 1968, when the American Ralph Plaisted and three companions arrived on snowmobiles. On 6 April the following year, the British explorer Wally Herbert became the first to reach the North Pole the traditional way, on foot.",
+    "stem": "It is stated in the passage that Robert Peary ----.",
+    "options": [
+      "was worried that people would learn he was not the the first explorer to reach the North Pole",
+      "had been accepted for years as the first person to reach the North Pole although he did not offer conclusive evidence about his expedition",
+      "did not want to present the details of his expedition to the independent commission after he learned that Dr Cook was rejected",
+      "requested the US National Geographic Society to analyse the photographs and data he gathered during his expedition to prove his claim",
+      "was not viewed as the first person to reach the North Pole since Dr Cook was thought to have arrived there earlier"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q60",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g59-62",
+    "passage": "For many years praise was awarded to the US explorer Robert Peary, who claimed to have reached the North Pole on 6 April 1909. Yet even at the time his claim was disputed. Dr Frederick Cook, a rival American explorer, insisted he had reached the pole almost a year earlier. But neither of them could provide definitive proof of their supposed triumph. Cook's own evidence was rejected by an independent commission, while Peary refused to hand over any details at all. In 1989, the US National Geographic Society announced that an analysis of photographs taken by Peary, together with his records of ocean depths and other data, were consistent with his expedition getting within eight kilometres of the true pole. Cook's claim, meanwhile, has always been followed by suspicions of fraud. In the years that followed, the North Pole was reached many times by airborne and submarine expeditions. Surprisingly, the first undisputed expedition to reach the North Pole over the surface did not achieve its goal until 1968, when the American Ralph Plaisted and three companions arrived on snowmobiles. On 6 April the following year, the British explorer Wally Herbert became the first to reach the North Pole the traditional way, on foot.",
+    "stem": "Which of the following was declared by the US National Geographic Society in 1989?",
+    "options": [
+      "Dr Cook's expedition was proven to have taken place a year before Peary's journey.",
+      "Peary’s photographs and records were as controversial and unconvincing as those of Dr Cook.",
+      "Dr Cook’s claim was suspicious since he did not reveal clear evidence relating to his travel to the North Pole.",
+      "The North Pole was discovered several times by airborne and submarine expeditions before Peary’s and Dr Cook's expeditions.",
+      "The information collected by Peary could describe the real characteristics of the North Pole."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q61",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g59-62",
+    "passage": "For many years praise was awarded to the US explorer Robert Peary, who claimed to have reached the North Pole on 6 April 1909. Yet even at the time his claim was disputed. Dr Frederick Cook, a rival American explorer, insisted he had reached the pole almost a year earlier. But neither of them could provide definitive proof of their supposed triumph. Cook's own evidence was rejected by an independent commission, while Peary refused to hand over any details at all. In 1989, the US National Geographic Society announced that an analysis of photographs taken by Peary, together with his records of ocean depths and other data, were consistent with his expedition getting within eight kilometres of the true pole. Cook's claim, meanwhile, has always been followed by suspicions of fraud. In the years that followed, the North Pole was reached many times by airborne and submarine expeditions. Surprisingly, the first undisputed expedition to reach the North Pole over the surface did not achieve its goal until 1968, when the American Ralph Plaisted and three companions arrived on snowmobiles. On 6 April the following year, the British explorer Wally Herbert became the first to reach the North Pole the traditional way, on foot.",
+    "stem": "Why did the arrival of Ralph Plaisted and his companions at the North Pole in 1968 cause surprise?",
+    "options": [
+      "They succeeded in arriving at the North Pole using snowmobiles.",
+      "No one was expecting that a group of people could walk as far as the North Pole.",
+      "At that time, their expedition was the only one that was recognised to be true.",
+      "Herbert was claimed to have arrived at the North Pole before them on foot.",
+      "They provided more accurate data than earlier airborne and submarine expeditions did."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q62",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2017-ilkbahar-g59-62",
+    "passage": "For many years praise was awarded to the US explorer Robert Peary, who claimed to have reached the North Pole on 6 April 1909. Yet even at the time his claim was disputed. Dr Frederick Cook, a rival American explorer, insisted he had reached the pole almost a year earlier. But neither of them could provide definitive proof of their supposed triumph. Cook's own evidence was rejected by an independent commission, while Peary refused to hand over any details at all. In 1989, the US National Geographic Society announced that an analysis of photographs taken by Peary, together with his records of ocean depths and other data, were consistent with his expedition getting within eight kilometres of the true pole. Cook's claim, meanwhile, has always been followed by suspicions of fraud. In the years that followed, the North Pole was reached many times by airborne and submarine expeditions. Surprisingly, the first undisputed expedition to reach the North Pole over the surface did not achieve its goal until 1968, when the American Ralph Plaisted and three companions arrived on snowmobiles. On 6 April the following year, the British explorer Wally Herbert became the first to reach the North Pole the traditional way, on foot.",
+    "stem": "Which of the following can be concluded from the passage?",
+    "options": [
+      "All of the expeditions to the North Pole were questioned until Herbert reached the pole on foot.",
+      "Even though Peary has been accepted as the first explorer to reach the North Pole, it was actually Dr Cook who attained the goal.",
+      "The adventurers were strongly supported by the US National Geographic Society during their trip to the North Pole.",
+      "Reaching the North Pole has been an objective to be achieved for adventurers, which brings reputation to them.",
+      "April is the best time for embarking on an expedition to the North Pole, as both Peary and Herbert did."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q63",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Christopher: - I like the idea of Formula E, which is a new racing championship for single-seater cars powered only by electricity. Albert: - ---- Christopher: - Well, it is a platform for research to improve electric powerstations and charging systems to make electric cars more feasible and hopefully more popular. Albert: - I see, this seems to be a good way to encourage the use of energy-efficient and sustainable transportation.",
+    "options": [
+      "Why do we need this when there are other races such as Formula 1?",
+      "What kind of power do Formula E race cars use?",
+      "How do they plan to attract sponsors for such an event?",
+      "Where do they plan to have these races?",
+      "How frequently will the Formula E races be held?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q64",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Reporter: - Antibiotic resistance is on the rise, and we are potentially facing a time when standard antibiotics simply won't work anymore. Why is antibiotic resistance becoming more widespread? Chemist: - One reason could be that a type of bacteria has developed molecular mechanisms that actually make an antibiotic drug ineffective. Reporter: - Why is the increase in bacterial resistance considered a threatening issue? Chemist: - ---- Reporter: - This sounds horrible!",
+    "options": [
+      "The misuse of antibiotics has certainly contributed to the resistance phenomena. A lot of antibiotics are used in farming, which is practised without complete control.",
+      "We should prevent them from producing toxins that lead to illness rather than kill them. That kind of intervention can reduce the chances that the bacteria will develop resistance.",
+      "Whenever any pressure is put on bacteria, it will resist. If such pressure is not created, there will be no evolutionary pressure for the bacteria to develop resistance.",
+      "If new drugs are not developed against these resistant bacteria, by the year 2050, death from antimicrobial resistant bacteria could actually even surpass death from cancer.",
+      "I'm encouraged by the fact that there are more than 200 different bacteria species that live in our guts, and the majority of them are actually beneficial to us."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q65",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Daisy: - I want to take up gardening as a hobby and grow vegetables, but I don't have a garden to plant them in. Caroline: - ---- Daisy: - But they may not grow successfully if they don't get a sufficient amount of sunlight. Caroline: - You can grow some vegetables without any sun at all. For example, lettuce and parsley will grow beautifully under artificial light.",
+    "options": [
+      "It's not only the space you should take into account, but sunlight is also important when growing vegetables.",
+      "Vegetables need to be watered very frequently, and they tend to grow more nicely in sunny areas.",
+      "Have you ever heard about indoor gardening? You can use your attic, basement, or balcony to grow vegetables.",
+      "Near a bright window that takes sunlight at high intensity, you can grow cherry tomatoes and cucumbers.",
+      "I suggest you install a greenhouse. Greenhouses are the most convenient places to grow vegetables, and they vary vastly in size and price."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q66",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Defne: - I read that remembering the past in a positive way could make us happy in times of crisis. Beren: - ---- Defne: - Can you give me an example? Beren: - During a divorce, I'm not sure that it's helpful for a person to focus on all the good times in the marriage. They're likely to experience an even greater sense of loss.",
+    "options": [
+      "Actually, when I'm in a bad mood, I find it more beneficial to think about a prosperous future rather than the better past.",
+      "Most people believe that looking at old photos showing the good times in the past has a positive influence on mood.",
+      "I don't agree. Recalling better times when a person is depressed will worsen their problems rather than solve them.",
+      "I don't think so. Instead of being nostalgic to feel happy, I generally try to find possible ways to overcome my crisis.",
+      "In such situations, seeking professional help or receiving support from close friends may bring a deep relief."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q67",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Edward: - What do you think the difference between the words 'inequality' and 'disparity' is? William: - Well, both have negative connotations. And they both imply a lack of something. I guess they are basically synonyms. Edward: - ---- William: - Oh, I see. So, if I say that there is a disparity between you and me, it might not be a bad thing, but inequality would be negative.",
+    "options": [
+      "That's sort of correct, but we use 'disparity' when we talk about scientific topics and 'inequality' for social issues.",
+      "That's basically correct, though 'disparity' tells us that something is unfair, while 'inequality' means some groups have more advantages than others.",
+      "They're more or less the same, but in academic circles, the term 'disparity' is an out-of-date expression; the current term is 'inequality'.",
+      "They're essentially synonymous, but we can use 'inequality' to express minor differences and 'disparity' for significant levels of difference.",
+      "You're right, they're very similar, but 'disparity' can be used to talk about differences neutrally, while 'inequality' suggests a value judgement."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q68",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Exercise both strengthens our muscles and encourages the production of special chemicals called endorphins, which make us feel good and act to reduce pain.",
+    "options": [
+      "In addition to having stronger muscles through exercising, we are in a better mood and feel less pain thanks to special chemicals, endorphins, that it activates.",
+      "In order for our body to generate more endorphins – the special chemicals that make us happier and reduce pain – and to strengthen our muscles, we should exercise.",
+      "Making our muscles stronger with exercise produces special chemicals, such as endorphins, in the body and makes us feel good by relieving pain.",
+      "The production of important chemicals like endorphins not only strengthens our muscles but also encourages us to do exercise to feel better and feel less pain.",
+      "Endorphins, special chemicals which are produced while exercising, strengthen our muscles as well as making us happier by reducing pain."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q69",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Chameleons cannot generate their own body heat so when they want to warm themselves, their colour will darken to absorb more heat from the sun.",
+    "options": [
+      "Once their colours darken, chameleons can get more heat from the sun, but to warm themselves much better, they have to produce their own body heat.",
+      "When chameleons transform themselves into a dark colour, they take in more heat from the sun and warm themselves easily, which helps them control their own body heat.",
+      "Chameleons can warm themselves with the heat from the sun thanks to the dark colours they change into, and that is why they do not need to generate their own body heat.",
+      "Because chameleons are not capable of providing their own body heat, their colour gets darker so that more heat is received from the sun, and they can warm themselves.",
+      "Chameleons’ body heat is linked to dark colours because when they are darker, more heat from the sun can be absorbed, otherwise they cannot warm themselves."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q70",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Rome expanded from a small Italian city-state to a world power not just by conquering other societies but also by assimilating them.",
+    "options": [
+      "Rome, which was initially a small Italian city-state, evolved into a world power by both assimilating and conquering other societies.",
+      "Rome could not have developed into a world power from a small Italian city-state if it had not been able to conquer other societies and assimilate them.",
+      "What led Rome to emerge as a world power was the assimilation of various societies it conquered, otherwise it would have remained as a small Italian city-state.",
+      "The reason why Rome turned into a world power from a small Italian city-state is that it placed a higher priority on the assimilation of other societies than on their conquest.",
+      "Rome, which was a small Italian city-state at the very beginning, conquered and assimilated other societies that had been struggling to become a world power."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q71",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "English is a mother tongue for many people in the world, who are increasingly outnumbered by those who learn English as a foreign language.",
+    "options": [
+      "English, either the mother tongue or foreign language of many people, is being spoken in almost every part of the world.",
+      "Although English is being learnt as a foreign language more widely than ever, there are also a large amount of people whose first language is English.",
+      "Lots of people around the world are native speakers of English; however, the number of learners of English as a foreign language has far surpassed the number of its native speakers.",
+      "Throughout the world, there is a significant gap between people who speak English as their first language and those who learn it as a foreign language.",
+      "In the past, the number of English native speakers was greater than those who had been learning English as a foreign language, but now it is not the case."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q72",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Almost all of us experience prejudice in one form or another. People make assumptions about us on the basis of our age, ethnicity, race or sex, and we often find ourselves automatically making the same sorts of assumptions about others. Herein lies a paradox: prejudice is socially undesirable; however, it is widespread in society. ---- For example, the system of apartheid in South Africa, where black people were forced to live away from white people, was a classic case of such prejudice, as it was defended publicly as being recognition of and respect for cultural differences.",
+    "options": [
+      "No matter what the majority thinks, the government has to make sure that all citizens are safe regardless of their background.",
+      "If public awareness is raised, prejudice may not trigger serious problems in multicultural societies.",
+      "Once the influence of certain ideologies becomes commonplace throughout the world, it is not easy to eradicate the core beliefs.",
+      "Even in societies where prejudice is institutionalised, sophisticated justifications are often used to excuse or deny its presence.",
+      "Only when the necessary precautions are taken, can people feel secure, respected and equal in society."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q73",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When someone we regard as a cherished friend suddenly is not there for us, it can feel like a hurtful betrayal. But before accusing or condemning them, you might want to ask yourself such questions as \"Have they disappointed me before?\", \"Are my expectations too high?\", \"Have I always behaved perfectly towards them?\". ---- Since we are all fallible and could potentially disappoint our friends, it is good to remember that there are two sides to every story.",
+    "options": [
+      "Exploring these issues honestly will allow you to accept your share of responsibility.",
+      "It is common in these situations to start wondering if the person was ever a 'real' friend.",
+      "Particularly with social media, many bestow the status of friend on others with surprising speed and ease.",
+      "An enduring friendship is based on a similar life experience, and a shared value system.",
+      "One reason for ending the friendship or distancing yourself from it is growing apart in terms of interests."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q74",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The origins of the 35 mm camera lie in the increasing availability of motion picture film stock during the early years of the 20th century. The 35 mm format was first used in Edison’s Kinetoscope, a moving picture viewing device patented in 1891, and was later adopted as the standard film gauge by cinema-makers after 1896. ---- However, as the quality of the film improved, the potential virtues of small size and convenience of handling began to appeal to still camera designers.",
+    "options": [
+      "Three Spanish inventors took out a British patent for a still camera using 35 mm format as early as 1908.",
+      "Unsurprisingly perhaps, the 35 mm camera gained enormous popularity across the world.",
+      "Sales of the cameras were limited by the outbreak of World War I in 1914.",
+      "The earliest 35 mm film was very slow and not ideal for still camera work.",
+      "The first 35 mm camera sold to the public was probably an American model developed in 1913."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q75",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Children who do not master basic reading skills at an early age, specifically the ability to automatically decode new words and build vocabulary that leads to fluency, experience academic failure. ---- In other words, the curriculum focuses much less on teaching students to acquire the basic tools of literacy, and much more on using those tools to learn content, express ideas, and solve problems. At this point, students are likely to be given content textbooks in science and social studies and to read non-fiction for the purpose of gaining new information.",
+    "options": [
+      "The readiness of children to read, in particular, has recently gained greater attention from educators.",
+      "Family environment is as important as the school environment in children’s development.",
+      "By the third grade, learning to read has become reading to learn.",
+      "Children with good phonological awareness skills usually learn to read quickly.",
+      "They also need to learn book-handling skills such as orienting a book correctly."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q76",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) As evidence has mounted about the threats that the Earth is facing, from rising temperatures and ocean acidification to deforestation and extreme weather, NASA has given priority to missions aimed at coping with the impacts. (II) NASA will be devising new technology to monitor earthquake-prone regions on the Earth via the satellites. (III) One of its newest satellites, a $916 million observatory called SMAP (for Soil Moisture Active Passive) was launched in January 2015. (IV) It was designed to measure soil moisture both by bouncing a radar beam off the surface and by recording radiation emitted by the soil itself. (V) In July 2015, the active radar stopped transmitting, but the passive radiometer is still doing its job, and its maps will help scientists forecast droughts, floods, and famines.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q77",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) During the Renaissance, Italy was not a single, unified country. (II) It consisted of a patchwork of small states, each with its own history, government, and traditions. (III) Artistic styles varied significantly from region to region. (IV) T he writings of Vasari, a painter and architect from Florence, helped establish the idea that Renaissance art originated in Italy. (V) Although Florence, Rome, and Venice were the main centres of artistic activity, skilled artists produced significant works in other areas as well.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q78",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)When we listen to music, electrical waves in our brains synchronise to the tempo, but some people's brains are better at synchronising to the beat.(II)Keith Doelling at New York University and his team recorded brainwaves of musicians and non-musicians as they listened to music.(III)While both groups could synchronise their brain waves to the rhythms, non-musicians struggled to synchronise to particularly slow music.(IV)Musical training might also help people with dyslexia – a difficulty with reading and writing caused by the brain's inability to see the difference between some letter shapes.(V)Musicians can do this, not because of their natural talent, but because they have been trained to mentally subdivide music into shorter sections.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q79",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) While urbanisation has been a notable characteristic of European society for centuries, the trend toward industralisation and urbanisation has accelerated phenomenally since World War II. (II)London and Paris, for example, have been major urban centres for centuries, but many other European cities have experienced rapid expansion of their populations only since the late 1940s. (III) The clustering of substantial populations into metropolitan regions is a distinctive demographic feature of Europe. (IV) In countries such as Italy and Spain, which were largely agricultural and rural before World War II, we find that many of their cities have now become home to large numbers of people. (V)For example, Madrid and Rome experienced remarkable increases between 1960 and 1990, in comparison with more moderate increases for most cities in the former West Germany, France, and the United Kingdom.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q80",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Although iron is the most common metal, it was the last to be used by people. (II) Humanity made a huge advance when people learned how to use metals. (III) Metal tools were easier to shape than stone ones, and could be mass-produced using molds. (IV) Unlike a stone axe, which was useless when broken, a copper or bronze one could be melted down and recycled. (V) Shiny metals, such as gold and silver, were also perfect materials for jewellery and coins.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

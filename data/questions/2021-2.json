@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2021-2-q01",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Attaining ---- in the current job is a basic career strategy, given that organisations make promotion decisions, at least in part, on an employee’s present performance.",
+    "options": [
+      "assurance",
+      "competence",
+      "balance",
+      "recession",
+      "insurance"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q02",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Despite its being a remote and harsh environment, there is ---- about ownership of the North Pole as there could be rich natural resources beneath the ice.",
+    "options": [
+      "discrimination",
+      "substitution",
+      "exposure",
+      "controversy",
+      "neglect"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q03",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The reasons for an urban climate are heat storage, trapping of radiation, increasing roughness and less evaporation, which are seen in cities worldwide but are most ---- in densely built-up megacities.",
+    "options": [
+      "evident",
+      "arbitrary",
+      "convenient",
+      "constructive",
+      "mediocre ENGLISH"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q04",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The population of koalas dropped ---- during the early part of the 20th century because they were over-hunted for their fur.",
+    "options": [
+      "strictly",
+      "drastically",
+      "cautiously",
+      "ardently",
+      "merely"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q05",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "When neurological issues like aphasia and dyslexia arise, they often ---- themselves in the things we say and how we say them.",
+    "options": [
+      "alienate",
+      "improve",
+      "manifest",
+      "diminish",
+      "receive"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q06",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "When you cook meat, a chemical reaction turns creatine into a group of compounds called heterocyclic amines and there is some evidence that these compounds ---- cancer in high concentrations.",
+    "options": [
+      "rely on",
+      "break into",
+      "pass for",
+      "call off",
+      "lead to"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q07",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Recently, nutritional scientists ---- strong evidence that the eating, drinking, and exercise habits of the Mediterranean people ---- a major role in their low risk for heart disease.",
+    "options": [
+      "uncover / are playing",
+      "are uncovering / had been playing",
+      "have uncovered / play",
+      "may uncover / have played",
+      "uncovered / had played"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q08",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "There are some people who ---- objects from 6 metres away with the same sharpness that a normal-sighted person ---- in to 4.5 metres to achieve.",
+    "options": [
+      "may view / had to move",
+      "must view / could move",
+      "can view / would have to move",
+      "ought to view / should have moved",
+      "might view / can move"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q09",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "While many people welcome the chance ---- exotic foods or novel flavours, others do not even consider ---- foods beyond their usual repertoire.",
+    "options": [
+      "to be tasting / having consumed",
+      "tasting / to have consumed",
+      "to have tasted / to be consuming",
+      "having tasted / to consume",
+      "to taste / consuming"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q10",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "People intuitively tend to equate happiness ---- freedom, however without obstacles ---- our desires it is harder to know what we really want, let alone fulfilling them.",
+    "options": [
+      "between / on",
+      "with / to",
+      "at / into",
+      "in / among",
+      "for / from"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q11",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "People who feel strongly that they do not want to be awake and alert ---- certain procedures may not be good candidates ---- local or regional anaesthesia.",
+    "options": [
+      "through / at",
+      "by / with",
+      "during / for",
+      "upon / to",
+      "against / about"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q12",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- social media has become widely integrated into everyday life, there is a growing interest in understanding its impact and the norms of online conduct.",
+    "options": [
+      "Supposing that",
+      "Although",
+      "Now that",
+      "As much as",
+      "While"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q13",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "For many years, social researchers regarded gossip as unworthy of scientific investigation; ----, sociologists have recently begun to recognise gossip as an important feature of social life.",
+    "options": [
+      "accordingly",
+      "in other words",
+      "however",
+      "as a result",
+      "for example"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q14",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "In diabetic patients, even though food intake may be increased, weight loss can occur ---- muscles and fat stores may shrink as they are not getting the necessary glucose.",
+    "options": [
+      "because",
+      "given that",
+      "as long as",
+      "although",
+      "in case"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q15",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- you are a long-time fan ---- casual follower of the series of Street Fighter, you are already well-aware that it is constantly updated with new characters, costumes, and story content.",
+    "options": [
+      "Both / and",
+      "Neither / nor",
+      "Rather / than",
+      "Whether / or",
+      "Not only / but also"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q16",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- many individual cases of malicious data leaks online that have caught the public eye, there has been very little research examining the scale of the problem.",
+    "options": [
+      "Similar to",
+      "Due to",
+      "As a result of",
+      "In accordance with",
+      "Despite"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q17",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2021-2-g17-21",
+    "passage": "Elvis Presley is the single most significant figure in rock and roll history, and it is hard to imagine rock and roll without his contributions.(17)----revolutionising the way popular music sounded and looked, he forever changed the way young people relate to music. Emerging from the racially segregated American South in the mid-1950s, he promoted racial harmony by making African-American music accessible to millions of white teens who(18)---- to it otherwise. Furthermore, in popularising rock and roll (19)---- a worldwide audience, Elvis almost single-handedly altered the parameters of the entertainment industry. By many estimates, he remains history’s biggest-selling recording artist. Elvis certainly was not the first white person to perform music rooted in black culture; (20)----, he was the first to fuse elements of rhythm and blues, country, and gospel into a charismatic package. Charismatic and overconfident yet humble and polite, generous and charitable yet selfish and tyrannical, Elvis (21)---- the contradictions of his time and his genre, and this distinctive combination of different musical styles still enchants too many people around the world.",
+    "stem": null,
+    "options": [
+      "Instead of",
+      "Regardless of",
+      "In contrast with",
+      "Despite",
+      "In addition to"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q18",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2021-2-g17-21",
+    "passage": "Elvis Presley is the single most significant figure in rock and roll history, and it is hard to imagine rock and roll without his contributions.(17)----revolutionising the way popular music sounded and looked, he forever changed the way young people relate to music. Emerging from the racially segregated American South in the mid-1950s, he promoted racial harmony by making African-American music accessible to millions of white teens who(18)---- to it otherwise. Furthermore, in popularising rock and roll (19)---- a worldwide audience, Elvis almost single-handedly altered the parameters of the entertainment industry. By many estimates, he remains history’s biggest-selling recording artist. Elvis certainly was not the first white person to perform music rooted in black culture; (20)----, he was the first to fuse elements of rhythm and blues, country, and gospel into a charismatic package. Charismatic and overconfident yet humble and polite, generous and charitable yet selfish and tyrannical, Elvis (21)---- the contradictions of his time and his genre, and this distinctive combination of different musical styles still enchants too many people around the world.",
+    "stem": null,
+    "options": [
+      "cannot be exposed",
+      "are not exposed",
+      "would not have been exposed",
+      "should not have been exposed",
+      "have not been exposed"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q19",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2021-2-g17-21",
+    "passage": "Elvis Presley is the single most significant figure in rock and roll history, and it is hard to imagine rock and roll without his contributions.(17)----revolutionising the way popular music sounded and looked, he forever changed the way young people relate to music. Emerging from the racially segregated American South in the mid-1950s, he promoted racial harmony by making African-American music accessible to millions of white teens who(18)---- to it otherwise. Furthermore, in popularising rock and roll (19)---- a worldwide audience, Elvis almost single-handedly altered the parameters of the entertainment industry. By many estimates, he remains history’s biggest-selling recording artist. Elvis certainly was not the first white person to perform music rooted in black culture; (20)----, he was the first to fuse elements of rhythm and blues, country, and gospel into a charismatic package. Charismatic and overconfident yet humble and polite, generous and charitable yet selfish and tyrannical, Elvis (21)---- the contradictions of his time and his genre, and this distinctive combination of different musical styles still enchants too many people around the world.",
+    "stem": null,
+    "options": [
+      "under",
+      "towards",
+      "for",
+      "against",
+      "without"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q20",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2021-2-g17-21",
+    "passage": "Elvis Presley is the single most significant figure in rock and roll history, and it is hard to imagine rock and roll without his contributions.(17)----revolutionising the way popular music sounded and looked, he forever changed the way young people relate to music. Emerging from the racially segregated American South in the mid-1950s, he promoted racial harmony by making African-American music accessible to millions of white teens who(18)---- to it otherwise. Furthermore, in popularising rock and roll (19)---- a worldwide audience, Elvis almost single-handedly altered the parameters of the entertainment industry. By many estimates, he remains history’s biggest-selling recording artist. Elvis certainly was not the first white person to perform music rooted in black culture; (20)----, he was the first to fuse elements of rhythm and blues, country, and gospel into a charismatic package. Charismatic and overconfident yet humble and polite, generous and charitable yet selfish and tyrannical, Elvis (21)---- the contradictions of his time and his genre, and this distinctive combination of different musical styles still enchants too many people around the world.",
+    "stem": null,
+    "options": [
+      "for instance",
+      "as a result",
+      "in short",
+      "that is",
+      "however"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q21",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2021-2-g17-21",
+    "passage": "Elvis Presley is the single most significant figure in rock and roll history, and it is hard to imagine rock and roll without his contributions.(17)----revolutionising the way popular music sounded and looked, he forever changed the way young people relate to music. Emerging from the racially segregated American South in the mid-1950s, he promoted racial harmony by making African-American music accessible to millions of white teens who(18)---- to it otherwise. Furthermore, in popularising rock and roll (19)---- a worldwide audience, Elvis almost single-handedly altered the parameters of the entertainment industry. By many estimates, he remains history’s biggest-selling recording artist. Elvis certainly was not the first white person to perform music rooted in black culture; (20)----, he was the first to fuse elements of rhythm and blues, country, and gospel into a charismatic package. Charismatic and overconfident yet humble and polite, generous and charitable yet selfish and tyrannical, Elvis (21)---- the contradictions of his time and his genre, and this distinctive combination of different musical styles still enchants too many people around the world.",
+    "stem": null,
+    "options": [
+      "ceased",
+      "falsified",
+      "condemned",
+      "embodied",
+      "devastated"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q22",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2021-2-g22-26",
+    "passage": "If you are locked in a constant struggle with your willpower, here is some good news. There is some evidence to show that thinking about new healthy habits as opportunities (22)----obligations can help you stay on track. In a recent study at Yale University in the US, people were trained to think about the positive (23)---- of healthy foods. The researchers told them, for instance, that broccoli was crunchy and delicious and that (24)----they ate it, they would feel good about themselves. The results were striking. “We found that we can actually get people to increase their cravings (25)---- healthy foods.” says Hedy Kober, PhD, who headed the study. In a second study, her team trained people to engage in that same type of thinking repeatedly. They discovered that if people practised looking at healthy foods and considering their wonderful qualities, it encouraged them (26)---- better dietary choices and they consumed fewer calories in everyday life.",
+    "stem": null,
+    "options": [
+      "because of",
+      "rather than",
+      "contrary to",
+      "according to",
+      "in spite of"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q23",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2021-2-g22-26",
+    "passage": "If you are locked in a constant struggle with your willpower, here is some good news. There is some evidence to show that thinking about new healthy habits as opportunities (22)----obligations can help you stay on track. In a recent study at Yale University in the US, people were trained to think about the positive (23)---- of healthy foods. The researchers told them, for instance, that broccoli was crunchy and delicious and that (24)----they ate it, they would feel good about themselves. The results were striking. “We found that we can actually get people to increase their cravings (25)---- healthy foods.” says Hedy Kober, PhD, who headed the study. In a second study, her team trained people to engage in that same type of thinking repeatedly. They discovered that if people practised looking at healthy foods and considering their wonderful qualities, it encouraged them (26)---- better dietary choices and they consumed fewer calories in everyday life.",
+    "stem": null,
+    "options": [
+      "rations",
+      "possessions",
+      "attributes",
+      "structures",
+      "senses"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q24",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2021-2-g22-26",
+    "passage": "If you are locked in a constant struggle with your willpower, here is some good news. There is some evidence to show that thinking about new healthy habits as opportunities (22)----obligations can help you stay on track. In a recent study at Yale University in the US, people were trained to think about the positive (23)---- of healthy foods. The researchers told them, for instance, that broccoli was crunchy and delicious and that (24)----they ate it, they would feel good about themselves. The results were striking. “We found that we can actually get people to increase their cravings (25)---- healthy foods.” says Hedy Kober, PhD, who headed the study. In a second study, her team trained people to engage in that same type of thinking repeatedly. They discovered that if people practised looking at healthy foods and considering their wonderful qualities, it encouraged them (26)---- better dietary choices and they consumed fewer calories in everyday life.",
+    "stem": null,
+    "options": [
+      "if",
+      "although",
+      "moreover",
+      "unless",
+      "while"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q25",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2021-2-g22-26",
+    "passage": "If you are locked in a constant struggle with your willpower, here is some good news. There is some evidence to show that thinking about new healthy habits as opportunities (22)----obligations can help you stay on track. In a recent study at Yale University in the US, people were trained to think about the positive (23)---- of healthy foods. The researchers told them, for instance, that broccoli was crunchy and delicious and that (24)----they ate it, they would feel good about themselves. The results were striking. “We found that we can actually get people to increase their cravings (25)---- healthy foods.” says Hedy Kober, PhD, who headed the study. In a second study, her team trained people to engage in that same type of thinking repeatedly. They discovered that if people practised looking at healthy foods and considering their wonderful qualities, it encouraged them (26)---- better dietary choices and they consumed fewer calories in everyday life.",
+    "stem": null,
+    "options": [
+      "to",
+      "into",
+      "on",
+      "for",
+      "in"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q26",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2021-2-g22-26",
+    "passage": "If you are locked in a constant struggle with your willpower, here is some good news. There is some evidence to show that thinking about new healthy habits as opportunities (22)----obligations can help you stay on track. In a recent study at Yale University in the US, people were trained to think about the positive (23)---- of healthy foods. The researchers told them, for instance, that broccoli was crunchy and delicious and that (24)----they ate it, they would feel good about themselves. The results were striking. “We found that we can actually get people to increase their cravings (25)---- healthy foods.” says Hedy Kober, PhD, who headed the study. In a second study, her team trained people to engage in that same type of thinking repeatedly. They discovered that if people practised looking at healthy foods and considering their wonderful qualities, it encouraged them (26)---- better dietary choices and they consumed fewer calories in everyday life.",
+    "stem": null,
+    "options": [
+      "being made",
+      "to have made",
+      "making",
+      "make",
+      "to make"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q27",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though many people still remain unconvinced that global warming is a real phenomenon, ----.",
+    "options": [
+      "the evidence in support of man-made climate change is quite overwhelming",
+      "the consequences for our lives are still uncertain and absolutely way too complex",
+      "it is reassuring that everything around us changed simply through chance",
+      "some people reject the idea that it has been affecting the entire world",
+      "the lack of some solid proof makes it hard to accept the situation"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q28",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- if doing so helps them to pursue the goals that are aligned with their values.",
+    "options": [
+      "Meditative practices may not be beneficial for everyone with depression",
+      "The study of how people react to mind-altering practices like meditation is still in its infancy",
+      "Psychologically flexible people show willingness to welcome uncomfortable states",
+      "Psychologists call the ability to walk through bad experiences ‘resilience’",
+      "Those with lower than average signs of post-traumatic stress disorder have higher scores of psychological flexibility"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q29",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because of the health hazards that lead poses for humans and other animals, ----.",
+    "options": [
+      "tetraethyl lead, which releases free lead to the environment when broken down within an engine, has been banned for use as a gasoline additive",
+      "lead compounds were once widely used for paints as they covered surfaces well and were available in a number of vivid colours",
+      "lead has been popular as a covering for underground cables, such as buried cables that carry telephone messages",
+      "alloys of lead are quite popular for the manufacture of solders; for example, ordinary plumber’s solder contains about two parts of lead to one part of tin",
+      "today, physiologists understand that the human body is able to excrete about two milligrams of lead efficiently each day"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q30",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Unless rich countries help poor ones adopt greener technologies, ----.",
+    "options": [
+      "some projects that lie in the heart of environmental protection could come to a halt",
+      "it is in their interest to help establish a sustainable energy future for all the world’s inhabitants",
+      "they barely depend on fossil fuels, which are damaging to both human health and the environment",
+      "every country, regardless of their economic power, is expected to contribute to global welfare",
+      "energy consumption in the rich world would always dwarf that in poor countries"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q31",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Provided that loan programmes are properly designed, effectively managed and a high rate of recovery is achieved, ----.",
+    "options": [
+      "an important feature of student loan schemes is that they offer financial assistance and subsidies to individual students, rather than to institutions",
+      "there are important differences in the way different loan programmes are administered, particularly in terms of how they are operated",
+      "implications for student loans of what is variously described as international labour mobility or 'brain drain' have received limited attention",
+      "student loans can make a valuable contribution to relieving the financial pressures facing higher education",
+      "sound financial management is required to maintain the capital value of the loan fund and cover administrative costs"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q32",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many researchers and clinicians observe that the traditional Chinese medicine can hope to function in full partnership with Western medicine ----.",
+    "options": [
+      "even though some herbs are used routinely in therapy, including treatment of some common diseases",
+      "only if practitioners pay attention to the most recent discoveries made by immunological research studies",
+      "but Chinese doctors are well aware of the value of using traditional medicine to cure diseases",
+      "whenever there is a chance to get the medical professionals in the West to question medical practices",
+      "as if the immunological effects were due to the unknown or unrecognised substances in herbs"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q33",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Today, the sanitary landfill is the major method of disposing waste materials in North America and other developed countries, ----.",
+    "options": [
+      "while some older landfills are being mined for useful products such as methane gas that can be used as fuel",
+      "just as many tons of solid waste dumped in a landfill today will not decompose until 30 years from now",
+      "as composting and burning up require uniformity in the form and chemical properties of the waste for efficient operation",
+      "because about 70% of materials that are routinely disposed of in landfills could be recycled instead",
+      "though considerable efforts are being made to find alternative methods, such as recycling and composting"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q34",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The popularity of many flat-faced dog breeds such as French bulldogs has risen dramatically in recent years ----.",
+    "options": [
+      "because French bulldogs have short faces that can make breathing difficult",
+      "even though French bulldogs are not seen as dangerous as other dog breeds",
+      "although there are regular assertions that they are prone to many health issues",
+      "given that there is limited reliable evidence on the wider general health of flat-faced dogs",
+      "while it enables ongoing identification of breed health-related priorities"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q35",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The pleasures of chocolate, tea, and coffee drinking have been known to humans for centuries, ----.",
+    "options": [
+      "while caffeine is a member of the alkaloid family, a group of compounds obtained from numerous plants",
+      "because full characterisation of caffeine’s molecular structure was completed by a German chemist",
+      "since researchers identified the active agents in tea and chocolate and gave them various names",
+      "but the isolation of caffeine from these everyday treats was accomplished only in the early 1800s",
+      "although caffeine is one of the most widely used central nervous system stimulants worldwide"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q36",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Individuals with social phobia fear being humiliated while doing something in public, ----.",
+    "options": [
+      "because those who receive treatment can completely overcome their fears in social life",
+      "and therefore they will avoid any situation in which such participation may be required",
+      "as one of the most common manifestations of social phobia involves public speaking",
+      "although they have intense fears of social interactions, such as meeting others and dating",
+      "whereas it generally develops after puberty and peaks after the age of 30"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q37",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "In 1991, two German mountaineers discovered the mummy and personal artefacts of a man now called as Ötzi the Iceman in the Ötztal Alps, which were well-preserved in the ice for 5,300 years.",
+    "options": [
+      "1991 yılında iki Alman dağcı Ötztal Alplerinde bir adamın 5300 yıl boyunca buz içinde oldukça iyi bir şekilde korunmuş mumyasını ve kişisel eşyalarını bulmuşlardır ve bu adam günümüzde Buz Adam Ötzi olarak anılmaktadır.",
+      "1991 yılında iki Alman dağcı Ötztal Alplerinde, günümüzde Buz Adam Ötzi olarak anılan bir adamın 5300 yıl boyunca buz içinde oldukça iyi bir şekilde korunmuş mumyasını ve kişisel eşyalarını buldular.",
+      "Günümüzde Buz Adam Ötzi olarak anılan bir adamın 5300 yıl boyunca buz içinde oldukça iyi bir şekilde korunmuş mumyası ve kişisel eşyaları, iki Alman dağcı tarafından 1991 yılında Ötztal Alplerinde bulunmuştur.",
+      "İki Alman dağcı tarafından 1991 yılında Ötztal Alplerinde bulunan ve günümüzde Buz Adam Ötzi olarak anılan bir adamın mumyası ve kişisel eşyaları, 5300 yıl boyunca buz içinde oldukça iyi bir şekilde korunmuştur.",
+      "1991 yılında Ötztal Alplerinde iki Alman dağcı tarafından 5300 yıl boyunca buz altında oldukça iyi bir şekilde korunmuş mumyası ve kişisel eşyaları bulunan adam, günümüzde Buz Adam Ötzi olarak anılmaktadır."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q38",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because salt is indispensable to life, and uniquely flavours foods, humans have been preoccupied with it since the beginning of recorded history.",
+    "options": [
+      "İnsanlar, tarih kayıt altına alınmaya başladığından bu yana tuzla yakından ilgilenmişlerdir çünkü yaşam için vazgeçilmez olan tuz, yiyecekleri eşsiz bir şekilde tatlandırmaktadır.",
+      "İnsanlar kayıt altına alınan tarihin başlangıcından itibaren yaşam için vazgeçilmez olan ve yiyeceklere eşsiz bir tat veren tuzla yakından ilgilenmişlerdir.",
+      "İnsanların kayıt altına alınan tarihin başlangıcından beri tuzla yakından ilgilenmesinin nedeni yiyeceklere eşsiz bir biçimde tat vermesinin yanı sıra yaşam için de vazgeçilmez olmasıdır.",
+      "Tuz, yaşam için vazgeçilmez olduğu ve yiyeceklere eşsiz bir biçimde tat verdiği için insanlar kayıt altına alınan tarihin başlangıcından beri tuzla yakından ilgilenmişlerdir.",
+      "Yiyecekleri eşsiz bir biçimde tatlandıran tuz, yaşam için vazgeçilmez olduğundan, tarihin ilk kayıt altına alındığı andan itibaren insanoğlunu fazlasıyla ilgilendirmiştir."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q39",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Objectivity refers to perceiving and describing something from as neutral and unbiased a perspective as possible in order to produce observations that can be verified by a trained community of observers.",
+    "options": [
+      "Nesnellik, bir şeyi olabildiğince tarafsız ve önyargısız bir bakış açısı üzerinden algılayıp betimlemenin yanı sıra söz konusu şeyin eğitimli bir gözlemciler topluluğu tarafından doğrulanabilmesi anlamına gelmektedir.",
+      "Nesnellikten kastedilen, eğitimli bir gözlemciler topluluğu tarafından gözlemlenebilecek algılamaları ve betimlemeleri ortaya koymak ve bunun için mümkün olduğunca tarafsız ve önyargısız bakış açıları üretmektir.",
+      "Eğitimli bir gözlemciler topluluğu tarafından doğrulanabilecek gözlemler ortaya koyabilmek için bir şeyi mümkün olduğunca tarafsız ve önyargısız bir bakış açısıyla algılamak ve betimlemek gerekmektedir ve bu da nesnellik olarak tanımlanır.",
+      "Nesnellik, eğitimli bir gözlemciler topluluğu tarafından doğrulanabilecek gözlemler ortaya koymak için bir şeyi mümkün olduğunca tarafsız ve önyargısız bir bakış açısıyla algılamak ve betimlemek anlamını taşımaktadır.",
+      "Bir şeyi mümkün olduğunca tarafsız ve önyargısız bir bakış açısıyla algılamak ve betimlemek, nesnelliğin eğitimli bir gözlemciler topluluğu tarafından gözlemlenebilecek şekilde ortaya koyulmasına bağlıdır."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q40",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Yeni deneyimlere açık insanlar, görsel bilgiyi farklı şekillerde işleme yeteneğine sahiptir ve bu, yaratıcılıklarının artmasını sağlamaktadır, böylece bu özelliğe sahip insanlar farklı bakış açıları sayesinde diğerleri tarafından gözden kaçırılan çözümleri fark etmede iyi olabilirler.",
+    "options": [
+      "People who are open to new experiences have the ability to boost their creativity by processing visual information in different ways, so people with this trait can be good at spotting solutions that others overlooked, thanks to their diverse outlook.",
+      "People who are open to new experiences have the ability to spot solutions overlooked by others thanks to their diverse outlook, which is a trait that enables these people to process visual information in different ways and helps boost their creativity.",
+      "People who have the ability to process visual information in different ways that boost their creativity are open to new experiences; therefore, people with this trait can be good at spotting solutions overlooked by others, thanks to their diverse outlook.",
+      "People who have the ability to be open to new experiences process visual information in different ways to boost their creativity, so people with diverse outlook might be good at spotting solutions that others overlook, thanks to this trait.",
+      "People who are open to new experiences have the ability to process visual information in different ways and this helps boost their creativity, so people with this trait might be good at spotting solutions overlooked by others, thanks to their diverse outlook."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q41",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Evlat edinme, ister sağlıklı bir yenidoğan isterse de özel ihtiyacı olan herhangi bir yaştaki bir çocuk olsun, bir aileye ihtiyacı olan tüm çocukların gereksinimlerine uygun olarak sürekli gelişen bir olgudur.",
+    "options": [
+      "Adoption is a phenomenon that constantly evolves in relation to the needs of any children who need families, whether they are healthy newborns or children of any age with special needs.",
+      "Adoption is a phenomenon involving the needs of children, whether they are healthy newborns or children at all ages with special needs, and it constantly evolves to meet those needs.",
+      "The phenomenon of adoption evolves constantly to fit the needs of all children in need of families, be it healthy newborns or children of any age with special needs.",
+      "Adoption refers to a phenomenon that constantly evolves in order to meet the needs of children needing families, be it healthy newborns or children of all ages with special needs.",
+      "The phenomenon of adoption, ranging from healthy newborns to children of all ages with special needs, constantly evolves to fit the needs of any children who need families."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q42",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Vücudun akciğerleri koruyan mekanizmaları olmasına rağmen, akciğerlerde biriken birçok madde vardır ve bunlar akciğerlerde tekrarlayan iritasyona veya uzun süreli hastalığa yol açabilir.",
+    "options": [
+      "Although the body has mechanisms that protect the lungs, there are many substances that deposit in the lungs and these may cause recurrent irritation to the lungs or lead to long-term illness.",
+      "Many substances can deposit in the lungs and cause recurring irritation to the lungs that leads to long-term illness even though various mechanisms of the body protect the lungs.",
+      "Despite the protective mechanisms of the body, lots of substances may deposit in the lungs that can cause long-term illness by causing recurrent irritation to the lungs.",
+      "Even if there are mechanisms of the body for the protection of the lungs, many substances may deposit in the lungs and lead to long-term illness as a result of recurring irritation.",
+      "Although the body protects the lungs through various mechanisms, many substances can cause long-term illness by depositing in the lungs and leading to recurring irritation."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q43",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2021-2-g43-46",
+    "passage": "Azerbaijan’s transformation is particularly impressive considering that twenty-seven years ago it was involved in a deep political and economic crisis. Amid post-Soviet uncertainty, the economy was in free fall, with a severe contraction in output and growing inflation. The revival of the country’s economy followed the introduction of a new oil strategy which encompassed a series of production sharing agreements, and the opening of Azerbaijan’s historic oil sector to international investment. A 1994 agreement, hailed as the ‘contract of the century’, gave investors access to Azerbaijan’s rich oil fields in the Caspian Sea. The resulting inflow of capital and expertise permanently altered the country’s fortunes. Large-scale production and the construction of multiple pipelines contributed to making Azerbaijan one of the world’s largest oil and gas exporters. Azerbaijan’s biggest challenge today is diversifying away from hydrocarbons (chemicals found in petrol and natural gas), which represent more than 90 percent of the country’s total exports, a 60 percent increase from fifteen years ago. The country expects to capitalise on hydrocarbons for at least another forty years, but oil production is believed to have peaked and Azerbaijan must do more for its non-oil economy. For the government this is a clear priority.",
+    "stem": "It is clearly stated in the passage that more than a quarter of a century ago Azerbaijan ----.",
+    "options": [
+      "became a politically developed and economically competitive country",
+      "was entangled in serious administrative and financial difficulties",
+      "was in a problematic situation in terms of infrastructure and services",
+      "was economically and politically more stable but suffered from rising inflation",
+      "experienced strong economic growth thanks to post-Soviet investors"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q44",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2021-2-g43-46",
+    "passage": "Azerbaijan’s transformation is particularly impressive considering that twenty-seven years ago it was involved in a deep political and economic crisis. Amid post-Soviet uncertainty, the economy was in free fall, with a severe contraction in output and growing inflation. The revival of the country’s economy followed the introduction of a new oil strategy which encompassed a series of production sharing agreements, and the opening of Azerbaijan’s historic oil sector to international investment. A 1994 agreement, hailed as the ‘contract of the century’, gave investors access to Azerbaijan’s rich oil fields in the Caspian Sea. The resulting inflow of capital and expertise permanently altered the country’s fortunes. Large-scale production and the construction of multiple pipelines contributed to making Azerbaijan one of the world’s largest oil and gas exporters. Azerbaijan’s biggest challenge today is diversifying away from hydrocarbons (chemicals found in petrol and natural gas), which represent more than 90 percent of the country’s total exports, a 60 percent increase from fifteen years ago. The country expects to capitalise on hydrocarbons for at least another forty years, but oil production is believed to have peaked and Azerbaijan must do more for its non-oil economy. For the government this is a clear priority.",
+    "stem": "It can be understood from the passage that ----.",
+    "options": [
+      "the 1994 agreement attracted a lot of foreign investment to Azerbaijan",
+      "Azerbaijan’s economic development would have been impossible without Soviet aid",
+      "Azerbaijan has become a preferred destination to which other countries export gas",
+      "the country’s greatest challenge is how to best take advantage of the Caspian Sea",
+      "the country’s new oil strategy is questionable, given the limited amount of foreign investment"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q45",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2021-2-g43-46",
+    "passage": "Azerbaijan’s transformation is particularly impressive considering that twenty-seven years ago it was involved in a deep political and economic crisis. Amid post-Soviet uncertainty, the economy was in free fall, with a severe contraction in output and growing inflation. The revival of the country’s economy followed the introduction of a new oil strategy which encompassed a series of production sharing agreements, and the opening of Azerbaijan’s historic oil sector to international investment. A 1994 agreement, hailed as the ‘contract of the century’, gave investors access to Azerbaijan’s rich oil fields in the Caspian Sea. The resulting inflow of capital and expertise permanently altered the country’s fortunes. Large-scale production and the construction of multiple pipelines contributed to making Azerbaijan one of the world’s largest oil and gas exporters. Azerbaijan’s biggest challenge today is diversifying away from hydrocarbons (chemicals found in petrol and natural gas), which represent more than 90 percent of the country’s total exports, a 60 percent increase from fifteen years ago. The country expects to capitalise on hydrocarbons for at least another forty years, but oil production is believed to have peaked and Azerbaijan must do more for its non-oil economy. For the government this is a clear priority.",
+    "stem": "The underlined word in the passage ‘hailed’ is closest in meaning to ----.",
+    "options": [
+      "praised",
+      "ignored",
+      "recruited",
+      "ceased",
+      "retained"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q46",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2021-2-g43-46",
+    "passage": "Azerbaijan’s transformation is particularly impressive considering that twenty-seven years ago it was involved in a deep political and economic crisis. Amid post-Soviet uncertainty, the economy was in free fall, with a severe contraction in output and growing inflation. The revival of the country’s economy followed the introduction of a new oil strategy which encompassed a series of production sharing agreements, and the opening of Azerbaijan’s historic oil sector to international investment. A 1994 agreement, hailed as the ‘contract of the century’, gave investors access to Azerbaijan’s rich oil fields in the Caspian Sea. The resulting inflow of capital and expertise permanently altered the country’s fortunes. Large-scale production and the construction of multiple pipelines contributed to making Azerbaijan one of the world’s largest oil and gas exporters. Azerbaijan’s biggest challenge today is diversifying away from hydrocarbons (chemicals found in petrol and natural gas), which represent more than 90 percent of the country’s total exports, a 60 percent increase from fifteen years ago. The country expects to capitalise on hydrocarbons for at least another forty years, but oil production is believed to have peaked and Azerbaijan must do more for its non-oil economy. For the government this is a clear priority.",
+    "stem": "According to the passage, for further economic development Azerbaijan needs to ----.",
+    "options": [
+      "abandon hydrocarbons as soon as possible",
+      "revise the 1994 agreement to make it more profitable",
+      "seek other sources of income as alternatives for oil",
+      "focus on expanding the uses of oil and the range of markets where it is sold",
+      "find more efficient ways of obtaining more oil from the Caspian Sea"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q47",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2021-2-g47-50",
+    "passage": "Deconstruction – the method which claims there is no single explanation of the meaning of a piece of writing – in and of itself, is almost dead, but it retains enormous influence on current critical thinking. While deconstruction itself peaked in the late 1970s, an evolving version of deconstruction has been absorbed by later thinking and often remains crucial to, and even taken for granted by, contemporary cultural and literary criticism. The founding figure and the intellectual force behind deconstruction was Jacques Derrida. His first widely influential book, Of Grammatology, appeared in French in 1967, and many of his later writings recast or extend the ideas of Of Grammatology for other contexts and issues. Advocates and popularisers saw his ideas as so revolutionary that they put him in the same light as Copernicus, Newton, Einstein, and Freud. Although Derrida was primarily a philosopher, his work had little impact on philosophy until after its shock wave hit literary studies. Deconstruction has since carried its influence far beyond literary studies, not only to philosophy but also to all of the humanities and often to the social sciences.",
+    "stem": "According to the passage, deconstruction lost its previous power ----.",
+    "options": [
+      "because it could hardly evolve after its peak in the late 1970s",
+      "long before the 1970s, when various different philosophical movements appeared",
+      "and was forgotten for several years because of the obsolete ideas it promotes",
+      "but still achieves a considerable impact on cultural and literary criticism",
+      "as a result of its excessive preoccupation with current cultural criticism"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q48",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2021-2-g47-50",
+    "passage": "Deconstruction – the method which claims there is no single explanation of the meaning of a piece of writing – in and of itself, is almost dead, but it retains enormous influence on current critical thinking. While deconstruction itself peaked in the late 1970s, an evolving version of deconstruction has been absorbed by later thinking and often remains crucial to, and even taken for granted by, contemporary cultural and literary criticism. The founding figure and the intellectual force behind deconstruction was Jacques Derrida. His first widely influential book, Of Grammatology, appeared in French in 1967, and many of his later writings recast or extend the ideas of Of Grammatology for other contexts and issues. Advocates and popularisers saw his ideas as so revolutionary that they put him in the same light as Copernicus, Newton, Einstein, and Freud. Although Derrida was primarily a philosopher, his work had little impact on philosophy until after its shock wave hit literary studies. Deconstruction has since carried its influence far beyond literary studies, not only to philosophy but also to all of the humanities and often to the social sciences.",
+    "stem": "It is stated in the passage that Jacques Derrida’s book Of Grammatology ----.",
+    "options": [
+      "is considered to be the cornerstone of his works",
+      "has had a bigger influence on philosophy than the field of literature",
+      "was an important extension of the ideas of some French philosophers",
+      "dwells upon the ideas of such prominent thinkers like Einstein and Freud",
+      "was considerably influenced by other contexts and issues of his time"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q49",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2021-2-g47-50",
+    "passage": "Deconstruction – the method which claims there is no single explanation of the meaning of a piece of writing – in and of itself, is almost dead, but it retains enormous influence on current critical thinking. While deconstruction itself peaked in the late 1970s, an evolving version of deconstruction has been absorbed by later thinking and often remains crucial to, and even taken for granted by, contemporary cultural and literary criticism. The founding figure and the intellectual force behind deconstruction was Jacques Derrida. His first widely influential book, Of Grammatology, appeared in French in 1967, and many of his later writings recast or extend the ideas of Of Grammatology for other contexts and issues. Advocates and popularisers saw his ideas as so revolutionary that they put him in the same light as Copernicus, Newton, Einstein, and Freud. Although Derrida was primarily a philosopher, his work had little impact on philosophy until after its shock wave hit literary studies. Deconstruction has since carried its influence far beyond literary studies, not only to philosophy but also to all of the humanities and often to the social sciences.",
+    "stem": "Derrida is seen in the same line with Copernicus, Newton, Einstein, and Freud because he ----.",
+    "options": [
+      "was their contemporary",
+      "was as popular as they were",
+      "influenced many other fields of study as they did",
+      "had groundbreaking ideas like them",
+      "was also a philosopher"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q50",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2021-2-g47-50",
+    "passage": "Deconstruction – the method which claims there is no single explanation of the meaning of a piece of writing – in and of itself, is almost dead, but it retains enormous influence on current critical thinking. While deconstruction itself peaked in the late 1970s, an evolving version of deconstruction has been absorbed by later thinking and often remains crucial to, and even taken for granted by, contemporary cultural and literary criticism. The founding figure and the intellectual force behind deconstruction was Jacques Derrida. His first widely influential book, Of Grammatology, appeared in French in 1967, and many of his later writings recast or extend the ideas of Of Grammatology for other contexts and issues. Advocates and popularisers saw his ideas as so revolutionary that they put him in the same light as Copernicus, Newton, Einstein, and Freud. Although Derrida was primarily a philosopher, his work had little impact on philosophy until after its shock wave hit literary studies. Deconstruction has since carried its influence far beyond literary studies, not only to philosophy but also to all of the humanities and often to the social sciences.",
+    "stem": "According to the passage, which of the following is true about deconstruction?",
+    "options": [
+      "It has extended far beyond the boundaries of humanities and social sciences.",
+      "It made literary studies more significant than others.",
+      "It helped Derrida to become a literary critic.",
+      "It was not fully appreciated in some fields of study.",
+      "It has evolved over time and made its way to modern studies as well."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q51",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2021-2-g51-54",
+    "passage": "What goes around comes around. Our greenhouse gas emissions do not just warm the planet, they also acidify the oceans; however, it is a fact that most people are not aware of. Now it turns out that the changes in ocean chemistry they cause will feed back into the climate, further driving up temperatures. This was not always thought to be true. Climatologists had considered that carbon dioxide (CO ) absorbed by the ocean was stored, and unable to affect the climate. But a study now suggests that the acidification it causes will rebound on the entire planet, by acting on tiny marine plants called phytoplankton. These plants produce a chemical called dimethyl sulphide (DMS) that drifts up into the air and reflects sunlight back into space, cooling the planet. Katharina Six and her team at the Max Planck Institute for Meteorology in Hamburg gathered experimental data showing that phytoplankton produce less DMS as seawater becomes less alkaline due to acidification. After entering these figures into climate models, they estimate that 18 percent less DMS will be released from the oceans by the year 2100, compared to pre-industrial times. If the concentration of CO in the atmosphere doubles, which is likely to happen later this century, temperatures are expected to rise between 2 and 4.5°C. Ocean acidification will add between 0.23 and 0.48°C to that figure, Six estimates.",
+    "stem": "According to the passage, greenhouse gas emissions ----.",
+    "options": [
+      "are mainly caused by the rise in acid levels in the oceans",
+      "are responsible for changes in ocean chemistry",
+      "enable oceans to absorb and store carbon dioxide",
+      "are considered to be less harmful than the chemical changes in oceans",
+      "impact the temperatures less than they did in the past"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q52",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2021-2-g51-54",
+    "passage": "What goes around comes around. Our greenhouse gas emissions do not just warm the planet, they also acidify the oceans; however, it is a fact that most people are not aware of. Now it turns out that the changes in ocean chemistry they cause will feed back into the climate, further driving up temperatures. This was not always thought to be true. Climatologists had considered that carbon dioxide (CO ) absorbed by the ocean was stored, and unable to affect the climate. But a study now suggests that the acidification it causes will rebound on the entire planet, by acting on tiny marine plants called phytoplankton. These plants produce a chemical called dimethyl sulphide (DMS) that drifts up into the air and reflects sunlight back into space, cooling the planet. Katharina Six and her team at the Max Planck Institute for Meteorology in Hamburg gathered experimental data showing that phytoplankton produce less DMS as seawater becomes less alkaline due to acidification. After entering these figures into climate models, they estimate that 18 percent less DMS will be released from the oceans by the year 2100, compared to pre-industrial times. If the concentration of CO in the atmosphere doubles, which is likely to happen later this century, temperatures are expected to rise between 2 and 4.5°C. Ocean acidification will add between 0.23 and 0.48°C to that figure, Six estimates.",
+    "stem": "It is understood from the passage that the chemical dimethyl sulphide ----.",
+    "options": [
+      "plays an important role in decreasing the temperatures on Earth",
+      "leads to acidification by reflecting sunlight back",
+      "is produced when marine plants reflect sunlight back into space",
+      "is the direct result of acidification in the oceans",
+      "is produced in less alkaline seawater"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q53",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2021-2-g51-54",
+    "passage": "What goes around comes around. Our greenhouse gas emissions do not just warm the planet, they also acidify the oceans; however, it is a fact that most people are not aware of. Now it turns out that the changes in ocean chemistry they cause will feed back into the climate, further driving up temperatures. This was not always thought to be true. Climatologists had considered that carbon dioxide (CO ) absorbed by the ocean was stored, and unable to affect the climate. But a study now suggests that the acidification it causes will rebound on the entire planet, by acting on tiny marine plants called phytoplankton. These plants produce a chemical called dimethyl sulphide (DMS) that drifts up into the air and reflects sunlight back into space, cooling the planet. Katharina Six and her team at the Max Planck Institute for Meteorology in Hamburg gathered experimental data showing that phytoplankton produce less DMS as seawater becomes less alkaline due to acidification. After entering these figures into climate models, they estimate that 18 percent less DMS will be released from the oceans by the year 2100, compared to pre-industrial times. If the concentration of CO in the atmosphere doubles, which is likely to happen later this century, temperatures are expected to rise between 2 and 4.5°C. Ocean acidification will add between 0.23 and 0.48°C to that figure, Six estimates.",
+    "stem": "According to the data collected by Six and her team, ----.",
+    "options": [
+      "DMS released from the oceans will drop to 18 percent in 2100",
+      "climate models of pre-industrial times indicated 18 percent less acidification",
+      "less production of DMS causes seawater to become less alkaline",
+      "phytoplankton produced more DMS before industrialisation",
+      "the rise in temperatures will be far more than 5°C later this century"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q54",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2021-2-g51-54",
+    "passage": "What goes around comes around. Our greenhouse gas emissions do not just warm the planet, they also acidify the oceans; however, it is a fact that most people are not aware of. Now it turns out that the changes in ocean chemistry they cause will feed back into the climate, further driving up temperatures. This was not always thought to be true. Climatologists had considered that carbon dioxide (CO ) absorbed by the ocean was stored, and unable to affect the climate. But a study now suggests that the acidification it causes will rebound on the entire planet, by acting on tiny marine plants called phytoplankton. These plants produce a chemical called dimethyl sulphide (DMS) that drifts up into the air and reflects sunlight back into space, cooling the planet. Katharina Six and her team at the Max Planck Institute for Meteorology in Hamburg gathered experimental data showing that phytoplankton produce less DMS as seawater becomes less alkaline due to acidification. After entering these figures into climate models, they estimate that 18 percent less DMS will be released from the oceans by the year 2100, compared to pre-industrial times. If the concentration of CO in the atmosphere doubles, which is likely to happen later this century, temperatures are expected to rise between 2 and 4.5°C. Ocean acidification will add between 0.23 and 0.48°C to that figure, Six estimates.",
+    "stem": "What is the main aim of the author of this passage?",
+    "options": [
+      "To prove that greenhouse gas emissions affect the climate more than acidification",
+      "To reveal the major effects of temperature rise on the planet",
+      "To inform the reader about a lesser-known effect of greenhouse gas emissions",
+      "To tell people about the effects of industrialisation on the climate",
+      "To give specific advice about cooling down the planet"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q55",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2021-2-g55-58",
+    "passage": "So far, only two types of mental exertion have been shown to improve or preserve overall cognitive ability. One is musical training. Experts state that listening to and making music is not only an auditory experience; it is a multisensory and motor experience. Playing an instrument changes how the brain interprets and integrates a wide range of sensory information, and making music over a long period of time can change brain function and brain structure. The other is to learn a new language. As for the role of language-learning in brain power, a study carried out among students revealed that attention gets better when a new language is studied intensively even if it is for a short time and it gets even better when more practice is done for longer. The results of the study confirm the cognitive benefits of language-learning and give important and warming messages: firstly, even a short, intensive course can show beneficial effects on some cognitive functions. Secondly, this effect can be maintained through practice. So, we can say that it is never too late to start a mental activity such as learning a new language.",
+    "stem": "One can understand from the passage that playing a musical instrument ----.",
+    "options": [
+      "has a positive impact on how our brain responds to different stimuli",
+      "does not influence our brain functions when done temporarily",
+      "is the best way of preserving cognitive ability",
+      "has little impact on motor skills as it is an auditory experience",
+      "does not have an instant impact on brain functions unlike listening to music"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q56",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2021-2-g55-58",
+    "passage": "So far, only two types of mental exertion have been shown to improve or preserve overall cognitive ability. One is musical training. Experts state that listening to and making music is not only an auditory experience; it is a multisensory and motor experience. Playing an instrument changes how the brain interprets and integrates a wide range of sensory information, and making music over a long period of time can change brain function and brain structure. The other is to learn a new language. As for the role of language-learning in brain power, a study carried out among students revealed that attention gets better when a new language is studied intensively even if it is for a short time and it gets even better when more practice is done for longer. The results of the study confirm the cognitive benefits of language-learning and give important and warming messages: firstly, even a short, intensive course can show beneficial effects on some cognitive functions. Secondly, this effect can be maintained through practice. So, we can say that it is never too late to start a mental activity such as learning a new language.",
+    "stem": "It is pointed out in the passage that learning a new language ----.",
+    "options": [
+      "may help improve attention",
+      "fixes several types of brain damages",
+      "prevents various mental disorders",
+      "could strengthen motor skills",
+      "improves sensory awareness"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q57",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2021-2-g55-58",
+    "passage": "So far, only two types of mental exertion have been shown to improve or preserve overall cognitive ability. One is musical training. Experts state that listening to and making music is not only an auditory experience; it is a multisensory and motor experience. Playing an instrument changes how the brain interprets and integrates a wide range of sensory information, and making music over a long period of time can change brain function and brain structure. The other is to learn a new language. As for the role of language-learning in brain power, a study carried out among students revealed that attention gets better when a new language is studied intensively even if it is for a short time and it gets even better when more practice is done for longer. The results of the study confirm the cognitive benefits of language-learning and give important and warming messages: firstly, even a short, intensive course can show beneficial effects on some cognitive functions. Secondly, this effect can be maintained through practice. So, we can say that it is never too late to start a mental activity such as learning a new language.",
+    "stem": "According to the passage, the study done on students shows that ----.",
+    "options": [
+      "it is possible to improve the brain even with a short, intensive course of language learning",
+      "those who start to learn a new language at a young age eliminate their risk of cognitive disability",
+      "learning a new language requires more practice than playing an instrument",
+      "language learning can improve overall functioning of the brain when practised for a long time",
+      "there are substantial benefits of language learning when it is combined with musical training"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q58",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2021-2-g55-58",
+    "passage": "So far, only two types of mental exertion have been shown to improve or preserve overall cognitive ability. One is musical training. Experts state that listening to and making music is not only an auditory experience; it is a multisensory and motor experience. Playing an instrument changes how the brain interprets and integrates a wide range of sensory information, and making music over a long period of time can change brain function and brain structure. The other is to learn a new language. As for the role of language-learning in brain power, a study carried out among students revealed that attention gets better when a new language is studied intensively even if it is for a short time and it gets even better when more practice is done for longer. The results of the study confirm the cognitive benefits of language-learning and give important and warming messages: firstly, even a short, intensive course can show beneficial effects on some cognitive functions. Secondly, this effect can be maintained through practice. So, we can say that it is never too late to start a mental activity such as learning a new language.",
+    "stem": "Which of the following best describes the author’s attitude towards learning a new language?",
+    "options": [
+      "Encouraging",
+      "Doubtful",
+      "Pessimistic",
+      "Neutral",
+      "Critical"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q59",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2021-2-g59-62",
+    "passage": "When we take medication, some can pass through us intact and go down the toilet. Once in the sewers, these drugs are not removed during the treatment process, and end up in the waterways. To find out how pharmaceutical waste finds its way into aquatic creatures, Erinn Richmond at Monash University in Australia and her colleagues sampled flies, beetles, other insects and spiders from six waterways in the greater Melbourne region. Overall, the group detected 69 medications in the invertebrates. Organisms near wastewater plants contained the highest levels, but low levels were also detected in those from more pristine areas. Richmond presumes river-borne pharmaceuticals probably accumulate in flies and beetles while they are underwater larvae, then transfer to spiders that feed on them after they emerge as adults. Other predators in the food web such as fish, platypuses, birds, bats and frogs may also become cross-contaminated, she says. Her team calculated that trout and platypuses feeding on insects near wastewater plants would consume anti-depressant doses up to half the level normally prescribed to humans. The impacts of this are not certain, but previous studies have found that high-level exposure to anti-depressants causes fish to become less vigilant about avoiding predators. Male birds also seem to sing less to females when exposed to the drugs.",
+    "stem": "It can be understood from the passage that medicine ----.",
+    "options": [
+      "may not be very effective if it is recycled from pharmaceutical waste",
+      "eliminated in the treatment stage still poses a hazard to aquatic creatures and insects",
+      "is likely to threaten some animal populations in water when it reaches waterways without being destroyed",
+      "gives harm to only aquatic creatures whose habitats are confined to areas surrounding wastewater plants",
+      "turns into pharmaceutical waste when it is consumed more than the recommended amount"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q60",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2021-2-g59-62",
+    "passage": "When we take medication, some can pass through us intact and go down the toilet. Once in the sewers, these drugs are not removed during the treatment process, and end up in the waterways. To find out how pharmaceutical waste finds its way into aquatic creatures, Erinn Richmond at Monash University in Australia and her colleagues sampled flies, beetles, other insects and spiders from six waterways in the greater Melbourne region. Overall, the group detected 69 medications in the invertebrates. Organisms near wastewater plants contained the highest levels, but low levels were also detected in those from more pristine areas. Richmond presumes river-borne pharmaceuticals probably accumulate in flies and beetles while they are underwater larvae, then transfer to spiders that feed on them after they emerge as adults. Other predators in the food web such as fish, platypuses, birds, bats and frogs may also become cross-contaminated, she says. Her team calculated that trout and platypuses feeding on insects near wastewater plants would consume anti-depressant doses up to half the level normally prescribed to humans. The impacts of this are not certain, but previous studies have found that high-level exposure to anti-depressants causes fish to become less vigilant about avoiding predators. Male birds also seem to sing less to females when exposed to the drugs.",
+    "stem": "What point does Richmond make about contamination in the passage?",
+    "options": [
+      "It affects invertebrates more than the larvae, flies and beetles if it stems from river-borne pharmaceuticals.",
+      "It can indirectly influence a wide range of predators regardless of whether they live in water or not.",
+      "It is caused mainly by 69 types of medication which are not properly absorbed by the body during treatment.",
+      "It occurs as a result of high anti-depressant consumption in more clean and wealthy districts.",
+      "It can have deadly effects, especially on platypuses and trout as they eat waste polluted by anti-depressants."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q61",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2021-2-g59-62",
+    "passage": "When we take medication, some can pass through us intact and go down the toilet. Once in the sewers, these drugs are not removed during the treatment process, and end up in the waterways. To find out how pharmaceutical waste finds its way into aquatic creatures, Erinn Richmond at Monash University in Australia and her colleagues sampled flies, beetles, other insects and spiders from six waterways in the greater Melbourne region. Overall, the group detected 69 medications in the invertebrates. Organisms near wastewater plants contained the highest levels, but low levels were also detected in those from more pristine areas. Richmond presumes river-borne pharmaceuticals probably accumulate in flies and beetles while they are underwater larvae, then transfer to spiders that feed on them after they emerge as adults. Other predators in the food web such as fish, platypuses, birds, bats and frogs may also become cross-contaminated, she says. Her team calculated that trout and platypuses feeding on insects near wastewater plants would consume anti-depressant doses up to half the level normally prescribed to humans. The impacts of this are not certain, but previous studies have found that high-level exposure to anti-depressants causes fish to become less vigilant about avoiding predators. Male birds also seem to sing less to females when exposed to the drugs.",
+    "stem": "It is stated in the passage that anti-depressants ----.",
+    "options": [
+      "can impact the way male and female spiders interact with each other",
+      "can make fish more vulnerable to attack as prey",
+      "can have similar side effects on platypuses as they have on humans",
+      "have failed to produce noticeable effects on invertebrates",
+      "have more adverse effects on underwater animals than other medication"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q62",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2021-2-g59-62",
+    "passage": "When we take medication, some can pass through us intact and go down the toilet. Once in the sewers, these drugs are not removed during the treatment process, and end up in the waterways. To find out how pharmaceutical waste finds its way into aquatic creatures, Erinn Richmond at Monash University in Australia and her colleagues sampled flies, beetles, other insects and spiders from six waterways in the greater Melbourne region. Overall, the group detected 69 medications in the invertebrates. Organisms near wastewater plants contained the highest levels, but low levels were also detected in those from more pristine areas. Richmond presumes river-borne pharmaceuticals probably accumulate in flies and beetles while they are underwater larvae, then transfer to spiders that feed on them after they emerge as adults. Other predators in the food web such as fish, platypuses, birds, bats and frogs may also become cross-contaminated, she says. Her team calculated that trout and platypuses feeding on insects near wastewater plants would consume anti-depressant doses up to half the level normally prescribed to humans. The impacts of this are not certain, but previous studies have found that high-level exposure to anti-depressants causes fish to become less vigilant about avoiding predators. Male birds also seem to sing less to females when exposed to the drugs.",
+    "stem": "What could be the best title for this passage?",
+    "options": [
+      "How to Detect Medications in Underwater Creatures",
+      "Optional Wastewater Treatment Strategies",
+      "River Pollution Caused by Wastewater Plants",
+      "When Medications Become a Contaminant",
+      "Which Medical Waste Does Affect Invertebrates?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q63",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Sebastian: - Preparing tasty meals in the woods is a wonderful thought. But somehow it’s easy to go overboard with backpacking menus. You think you must pack this in order to eat that and you need all the other items to prepare it properly. Graham: - That’s silly. What the body needs is simple. It needs water more than anything else. In fact, you can survive without food for at least a week. Sebastian: - ---- Graham: - Almost anything you eat out there is going to taste great because you will be very hungry and, after all, you’re outdoors!",
+    "options": [
+      "I don’t think I’m alone on this one, but energy bars, fruit and trail mix will keep you going.",
+      "Think about it: No cooking, no clean up and less to carry on your back.",
+      "Well then, what do you suggest I put into my backpack so as not to starve out there?",
+      "You think so? Don’t you think I should try something less risky then?",
+      "Needless to say, you must have water on a regular basis or the body breaks down."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q64",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Eleanor: - I wonder what might happen if human beings disappeared. Chidi: - Well, I was reading an article about it and it said plant and animal species that have formed close bonds with humanity are the most likely to suffer. Eleanor: - How is that? Chidi: - ---- Eleanor: - I see. So, this probably means they will be outcompeted by other plants and the animals that feed on them will probably vanish too.",
+    "options": [
+      "To be honest, I’m not sure, but one theory holds that intelligent life developed because it helped our ancestors to survive the environmental shocks that they had experienced.",
+      "You know the crops that feed the world are reliant on fertilisers that we use. When we are gone, fertilisers will not be used, and those plants might be replaced by their wild forebears.",
+      "The animals that were closer to us helped individuals and themselves to reproduce in large social groups. This was proof enough that they had good genes.",
+      "The decades following human extinction will be of devastating oil spills, chemical leaks and explosions of varying sizes. I mean all the ticking bombs that humanity has left behind.",
+      "I can say traces of humankind will remain, even millions of years after our end. For instance, microbes will need lots of time to consume all the plastics we've left behind."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q65",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Scott: - On my geography course, we are learning about capital cities of Europe. Can you name any of these cities? Debbie: - The one I’m thinking of is Budapest, the capital of Hungary. Where did the name 'Budapest' come from, by the way? Scott: - ---- Debbie: - Wow! I didn’t know that. So the history of the name 'Budapest' is much simpler than I had expected it would be.",
+    "options": [
+      "I’m not sure where the name comes from, but we can search it on the Internet to find out.",
+      "The name of the capital city has always been Budapest. If you study the history of Hungary, this is one fact you will learn.",
+      "Budapest is made up of two cities separated by the Danube River. One town was Buda and the other Pest; when the cities were merged, so were their names.",
+      "Good question! When I asked my Hungarian friends about it, they told me there are some myths about its origin but they're all just myths anyway.",
+      "Well, someone with a sense of humour claimed it had something to do with the Buddha, but just because they sound the same doesn’t mean they are related!"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q66",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Alison: - Did you know that oysters are used to mitigate coastal erosion and flooding due to the rise in sea levels? Kyle: - ---- Alison: - But those efforts have detrimental effects on near-shore habitats. Constructing breakwater reefs from oysters has been found to support a higher abundance and different communities of fishes. Kyle: - To be honest, I’d never have imagined that oysters could be used to protect shorelines.",
+    "options": [
+      "I know it’s forcing many to migrate to higher ground and leaving millions at risk of demise.",
+      "There are breakwaters and seawalls already in use to prevent such incidences.",
+      "I think certain measures have to be implemented to control oyster harvesting.",
+      "I don’t think oysters would be resilient enough to withstand major changes in sea levels.",
+      "To protect the oyster reefs, there must be a system to ensure their sustainability."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q67",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Paul: - We’ll need to be careful about not getting Dengue Fever on our Central American tour. Sarah: - What’s Dengue Fever? I’ve never heard of that. Paul: - It’s some sort of viral infection spread by mosquitoes. Sarah: - Well, that’s definitely not something I want to get. How about we just stay in larger cities so that we avoid mosquito-infested areas? Paul: - ---- Sarah: - Then let’s read up on how to prevent mosquito bites to avoid getting bitten in the first place.",
+    "options": [
+      "In truth, mosquitoes usually bite during the daytime and are often found indoors.",
+      "Well, Dengue Fever usually causes flu-like symptoms, including fever, muscle and joint pains, nausea and vomiting.",
+      "In fact, the guide book says there are some amazing cities along our tour so I’m absolutely on board with that idea.",
+      "Actually, since mosquitoes breed in artificial water containers like thrown away jars and cans, it’s common in populated urban areas.",
+      "Apparently, treatment involves pain killers, plenty of fluids and even hospitalisation if it’s severe."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q68",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The story of King Solomon meeting the Queen of Sheba inspired a rich literary tradition across Jewish, Christian and Islamic texts, although the geographic origins of the story still puzzle scholars to this day.",
+    "options": [
+      "Still confusing scholars about where it took place, the story of the meeting between King Solomon and the Queen of Sheba gave rise to a rich literary tradition throughout Jewish, Christian and Islamic texts.",
+      "The geographic origins of the story of King Solomon meeting the Queen of Sheba remain a mystery for scholars, although they acknowledge its impact on the rich literary tradition across Jewish, Christian and Islamic texts.",
+      "The scholars studying the rich literary tradition in Jewish, Christian and Islamic texts still remain confused about the story and geographic origins of the meeting between King Solomon and the Queen of Sheba.",
+      "While inspired by the story of the meeting that took place between the King Solomon and the Queen of Sheba, scholars are still confused about the geographic origins of rich traditional Jewish, Christian and Islamic texts.",
+      "The story of King Solomon meeting the Queen of Sheba has prompted scholars to create a rich literary tradition in Jewish, Christian and Islamic texts, but the only thing that has still not been clarified is the exact location of this meeting."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q69",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "As people age, the ability of white blood cells to deal with infections and respond to vaccinations declines, opening the door for illness or inflammation that can lead to chronic disease over time.",
+    "options": [
+      "When people age, chronic diseases caused by illness and inflammation increase because white blood cells dealing with infections and responding to vaccinations diminish in number over time.",
+      "As people age, white blood cells to deal with infections and respond to vaccinations lose their strength, and this causes chronic diseases accompanied with illness and inflammation.",
+      "While aging, people lose the ability to deal with infections and respond to vaccinations due to the decline in their white blood cells, that is why chronic diseases due to inflammation increase over time.",
+      "As people age, white blood cells lose the strength to deal with infections as well as respond to vaccinations, and this may cause illness or inflammation that leads to chronic disease as time progresses.",
+      "Illness and inflammation can lead to chronic diseases as people age and this is because of the white blood cells’ incapacity to deal with infections and respond to vaccinations over time."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q70",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "With bodies rarely above 15 cm long, tarsiers are one of the world’s smallest meat-eating primates living off largely insects, reptiles and birds.",
+    "options": [
+      "Just as tarsiers have small bodies mainly under 15 cm in length, they feed off mainly insects, reptiles and birds as the smallest carnivore primate.",
+      "Tarsiers, which have bodies barely longer than 15 cm, are among the tiniest carnivorous primates consuming mostly insects, reptiles and birds.",
+      "Since tarsiers are under 15 cm in length and they have meat in their diet like insects, reptiles and birds, they are one of the world’s smallest meat-eating primates.",
+      "Living among mostly insects, reptiles and birds, tarsiers are one of the few tiny carnivorous primates and have a body that is barely more than 15 cm in length.",
+      "Tarsiers are one of the world’s smallest primates that prefer meat in the form of mainly insects, reptiles and birds whose bodies are rarely above 15 cm long."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q71",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "While the growth of cities may be associated with increasing prosperity, urban areas demonstrate the world’s most obvious health disparities in both lowand high-income countries.",
+    "options": [
+      "The largest disparities in health are observed in both low- and high-income countries due to increasing prosperity that is connected to the growth of cities.",
+      "As a result of the growth of cities with the purpose of creating more wealth, both low- and high-income countries have developed urban areas with health inequalities in the world.",
+      "Both low- and high-income countries are experiencing the most obvious problem of health inequalities as the growth of cities has produced increasing wealth in urban areas.",
+      "It is possible to link the growth of cities to more wealth; however, urban areas both in low- and high-income countries are places with the most apparent health inequalities in the world.",
+      "The growth of cities is linked to an increase in prosperity as long as there is the apparent issue of urban health discrepancies in both low- and high-income countries of the world."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q72",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many ancient Greek writers told of a race of women warriors who were descended from Ares, the god of war, and the nymph Harmonia. They were said to live without men, wear masculine clothing, and spend their days hunting, farming, and above all fighting. ---- Researchers have only found traces of a people, the Sauromatians, whose women hunted and fought alongside their men. Nevertheless, the myth of the Amazons was popular; classical writers repeated the tales, and artists portrayed the Amazon women prominently in their art.",
+    "options": [
+      "In fact, they were placed in variety of geographical locations, the most mentioned of which is an area near the Black Sea.",
+      "However, there has been no archaeological evidence that proves the existence of such a tribe of women warriors.",
+      "Thus, the women were believed to be the fighters, rulers, and administrators; the men, looked after the home and reared the children.",
+      "So, Amazonian customs generated attention from ancient authors who were drawn to speculations about exotic women.",
+      "Moreover, for most of the writers, the Amazons lived not only far away but also in a distant time usually before or during the Trojan War."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q73",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Toxic behaviour is common in the workplace. In part, it grows from selfishness and callousness that can manifest in extreme form from certain character disorders that do not recede after work hours and are particularly destructive to interpersonal relationships. ---- The spirit of the times plays a role as well. Periods of cultural turbulence, instability and uncertainty tend to stimulate and release hostile behaviours that play on the fears of others. Whether it turns up in the conference room or the home, toxic behaviour has a negative emotional impact beyond its immediate cause.",
+    "options": [
+      "Toxic behaviour can also be the product of work environments where productivity is the only measure for success or where there is an atmosphere of mistrust.",
+      "A toxic boss behaves like a dictator whose rudeness is matched by bullying and the implementation of other offensive actions towards workers.",
+      "Toxic behaviour does not just inflict personal harm, it attacks the systematic well-being of entire groups and organisations alike.",
+      "People who are subjected to toxic behaviour as a target can be adversely physically affected in the long-term.",
+      "Nearly half of all workers in one poll in 1998 reported they were treated rudely at least once a week; a number which increased to 62% in 2016."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q74",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Misinformation is perhaps an inevitable part of the world we live in, but it is not a new problem. ---- Deceiving others can offer an apparent opportunity to gain strategic advantage, to motivate others to action, or to even protect interpersonal bonds. Moreover, people inadvertently have been sharing inaccurate information with one another for thousands of years. However, we currently live in an era in which technology enables information to reach large audiences distributed across the globe, and thus the potential for immediate and widespread effects from misinformation now looms larger than in the past.",
+    "options": [
+      "People have likely told lies to one another for roughly as long as verbal communication has existed.",
+      "Yet, certain patterns of communication and the facilitated spread of information might solve this problem.",
+      "Indeed, misinformation is concerning because of its potential to unduly influence attitudes and behaviour.",
+      "From an ethical perspective, many people worry most about the active promotion of misinformation.",
+      "However, media systems do not censor many types of it before being put in content made available to audiences."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q75",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Adaptive Business Intelligence (ABI) is the discipline of combining prediction, optimisation, and adaptability into a system capable of answering these two fundamental questions: “What is likely to happen in the future?” and “What is the best decision right now?” To build such a system, we first need to understand the methods and techniques that enable prediction, optimisation, and adaptability. At first glance, this subject matter is nothing new, as hundreds of books and articles have been written on business intelligence, prediction methods, optimisation techniques, and so forth. ---- ABI addresses this very issue.",
+    "options": [
+      "This popular statement has been around for years as business managers stored massive amounts of data in the belief that they contain valuable insight.",
+      "Moreover, recent research in psychology indicates widely held beliefs can actually hamper the decision-making process.",
+      "The concept of adaptability is certainly gaining popularity, and not just in the software sector; it can be seen in running shoes or Internet search engines.",
+      "However, none of these has explained how to combine these various technologies into a software system capable of predicting, optimising, and adapting.",
+      "These products are very appealing for individual consumers, because, despite their mass production, they are capable of adapting to the preferences of each unique owner."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q76",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Commercial transactions are one of the most fundamental uses of the Internet and can seem like one of the simplest. (II) Services are bought and sold on a similar basis to physical transactions. (III) Effective automated recommendation systems have been a priority for online retailers to understand, predict and profit from their users’ behaviour. (IV) And with retail goods, much as in many shops or catalogues, items are selected, paid for and then delivery is arranged –either by post, in the case of physical goods, or via download. (V)Behind this, however, lies an administrative and logistical network of immense complexity, above all when it comes to processing financial transactions, ensuring data security and dealing with the proliferating forces of fraud and scamming.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q77",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Brain activity measurements conducted by the University of Ontario showed a clear neurological difference between being present at a show and seeing it on screen. (II)There was far more ‘synchrony’ in the brain waves of those who physically attended a live performance, suggesting greater enjoyment and a stronger sense of connectedness with the music and the people around them.(III)Audiences of virtual gigs are provided with the opportunity of multiple camera angles to choose from, the option of broadcasting their applause and the access to a live chat to make them feel the atmosphere. (IV)But a concert’s impact is not limited to short-term sensory thrills, or pleasurable tricks that live music can play on your mind. (V) Attending concerts lowers the secretion of stress hormone ‘cortisol’ while increasing levels of a steroid called DHEA, which is associated with enhanced immune function, lower cholesterol and improved muscle deposition.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q78",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) It is little surprise studies have suggested that being bilingual can help you learn a new language. (II) This could be as bilingual people realise that there is no intrinsic link between a word and its meaning. (III)Some linguists have also theorised there are differences between brains of polyglots (people who speak more than one language) and monolinguals (those who speak only one).(IV)Some people worry that bringing up a child bilingually means they end up not speaking any language ‘properly’. (V)However, the neuroscience behind this is not clear: researchers are still not in full agreement whether different languages are stored and accessed together or separately in the brain.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q79",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)For almost 40 years, our nearest cosmic neighbour, the Moon, was left alone as we looked somewhere else in the Solar System.(II)That changed in 2013, when China’s Chang’e 3 lander touched down on the lunar surface. (III)Since then there has been an explosion of interest in the Moon.(IV) The search for water as a source of life even on the Moon is a constant point of focus in the context of human exploration. (V)NASA, China and even private companies are racing back to it, with dozens of robotic and human missions being planned.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q80",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Albert Einstein predicted the existence of gravitational waves almost 100 years ago as a result of his general theory of relativity. (II) With the discovery of other galaxies beyond the Milky Way, scientific perception of the universe had suddenly grown. (III) The German-born theoretical physicist had said any accelerating mass should produce ripples in the fabric of space-time that propagate at the speed of light, which essentially means that a change in gravity will spread as waves or ripples through space. (IV) But decades of searching for evidence had drawn a frustrating blank. (V) Yet, on 11 February 2016, it was announced that physicists at the Laser Interferometer Gravitational-Wave Observatory had sensed, for the very first time, a wave emanating from a fraction-of-a-second collision of two black holes located 1.3 billion light years away.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

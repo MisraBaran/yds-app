@@ -1,0 +1,10 @@
+# Kaynak PDF'ler telif nedeniyle git'e girmez
+kaynak/*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db

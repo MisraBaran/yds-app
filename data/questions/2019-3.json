@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2019-3-q01",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Within our solar system, the planet Mars almost certainly had a surface ocean in the past and may still have ---- of it underground.",
+    "options": [
+      "remnants",
+      "attractions",
+      "adjustments",
+      "precautions",
+      "illustrations"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q02",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The fact is that, right now, the Sumatran tiger faces a number of very serious threats, which are putting their very survival in ----.",
+    "options": [
+      "extension",
+      "resistence",
+      "jeopardy",
+      "distinction",
+      "corruption"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q03",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The importance of numbers in Chinese design stems from the ---- influence of the harmonious principles of ying and yang, repeatedly seen in architectural designs.",
+    "options": [
+      "pervasive",
+      "restraining",
+      "insignificant",
+      "disruptive",
+      "dampening ENGLISH"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q04",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The most sophisticated of Cook Islands handicrafts areconsidered to be tivaevae: brightly coloured, ---- embroidered ceremonial cloths, which require a great number of months to make.",
+    "options": [
+      "tediously",
+      "intricately",
+      "persistently",
+      "incidentally",
+      "objectively"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q05",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Starting in 1640, Evliya Çelebi began a career of travel into the far reaches of the Ottoman Empire, which at that time ---- from Hungary in the north to Egypt and Sudan in the south.",
+    "options": [
+      "wandered",
+      "escalated",
+      "stretched",
+      "emigrated",
+      "circulated"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q06",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Assimilation is a voluntary or involuntary process by which individuals or groups completely ---- the traits of another culture, leaving their original cultural and linguistic identities behind.",
+    "options": [
+      "break into",
+      "put away",
+      "make out",
+      "take on",
+      "bring about"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q07",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Summer ice ---- a series of record low levels in recent years as the Arctic ---- twice as fast as the mid-latitudes.",
+    "options": [
+      "hit / was warming",
+      "has hit / has been warming",
+      "hits / had been warming",
+      "will hit / warms",
+      "had hit / had warmed"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q08",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Burials ---- an important role in the beliefs of the Lycians, for they cut hundreds of tombs into the cliff faces and crags that ---- throughout the area.",
+    "options": [
+      "should have held / will be seen",
+      "were able to hold / should be seen",
+      "had to hold / might be seen",
+      "used to hold / have to be seen",
+      "must have held / can be seen"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q09",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "One of the greatest breakthroughs of the 17th century was to understand how and why things move and stop ----, and the key to the problem was that they slow down and stop only when something forces them ---- so.",
+    "options": [
+      "to be moved / having done",
+      "being moved / do",
+      "moving / to do",
+      "having moved / to have done",
+      "to move / doing"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q10",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The Common European Framework of Reference for Languages (CEFR) is intended to overcome the barriers to communication ---- professionals working in the field of modern languages arising ---- the different educational systems in Europe.",
+    "options": [
+      "between / to",
+      "through / into",
+      "with / upon",
+      "among / from",
+      "about / against"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q11",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "People in some countries are brainwashed ---- an early age to love junk food and fast food ---- advertising on television and many other mechanisms.",
+    "options": [
+      "by / about",
+      "from / through",
+      "in / to",
+      "on / for",
+      "with / over"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q12",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Among the drawbacks of aging is a creeping tendency to put on weight, ---- our resting metabolism slows down – by roughly 1 to 2 percent every decade.",
+    "options": [
+      "but",
+      "since",
+      "as if",
+      "if only",
+      "even if"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q13",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Feminism made an important difference to British culture throughout the 20th century ---- the struggle to change unequal gender relations took place in a range of contexts.",
+    "options": [
+      "provided that",
+      "unless",
+      "as",
+      "in case",
+      "as long as"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q14",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Surpassed by tennis in the 19th century, croquet is today more of a recreational activity than competitive sport ---- intense competition has not disappeared entirely in croquet clubs.",
+    "options": [
+      "just as",
+      "even though",
+      "provided that",
+      "so that",
+      "as long as"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q15",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The management of farms in the future will be influenced ---- by climate ---- by global demand and agricultural practices, so the winners will be farmers who modernise their methods and diversify their fields.",
+    "options": [
+      "neither / nor",
+      "as / as",
+      "not only / but also",
+      "rather / than",
+      "so / that"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q16",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- connecting distant empires into an integrated web of commerce, the Silk Road carried infectious diseases that severely affected immunity-free victims.",
+    "options": [
+      "In case of",
+      "Apart from",
+      "In terms of",
+      "On behalf of",
+      "For the purpose of"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q17",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2019-3-g17-21",
+    "passage": "Old blood may damage organs and contribute to ageing. Researchers are trying to reveal the restorative powers of young blood, (17)----brains from ageing. In fact, the effects of blood on ageing were first discovered in experiments that stitched young and old mice together so that they shared circulating blood. Older mice seemed to (18)----such an arrangement, developing healthier organs and becoming protected from age related disease. But younger mice aged prematurely. Such experiments suggest that (19)----young blood can be restorative, there is something in old blood that is actively harmful. Hanadie Yousef at Stanford University in California seems to have identified a protein that is causing some of the damage, and has developed a compound to block it. She has observed that (20)----this antibody, mice were protected from the harmful effects of the old blood. However, we do not yet know what it is about young blood that keeps animals youthful. That has not stopped people (21)---- starting trials to see if blood transfusions can treat age-related diseases.",
+    "stem": null,
+    "options": [
+      "to be prevented",
+      "prevent",
+      "to have prevented",
+      "preventing",
+      "having prevented"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q18",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2019-3-g17-21",
+    "passage": "Old blood may damage organs and contribute to ageing. Researchers are trying to reveal the restorative powers of young blood, (17)----brains from ageing. In fact, the effects of blood on ageing were first discovered in experiments that stitched young and old mice together so that they shared circulating blood. Older mice seemed to (18)----such an arrangement, developing healthier organs and becoming protected from age related disease. But younger mice aged prematurely. Such experiments suggest that (19)----young blood can be restorative, there is something in old blood that is actively harmful. Hanadie Yousef at Stanford University in California seems to have identified a protein that is causing some of the damage, and has developed a compound to block it. She has observed that (20)----this antibody, mice were protected from the harmful effects of the old blood. However, we do not yet know what it is about young blood that keeps animals youthful. That has not stopped people (21)---- starting trials to see if blood transfusions can treat age-related diseases.",
+    "stem": null,
+    "options": [
+      "dispense with",
+      "relate to",
+      "compensate for",
+      "put off",
+      "benefit from"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q19",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2019-3-g17-21",
+    "passage": "Old blood may damage organs and contribute to ageing. Researchers are trying to reveal the restorative powers of young blood, (17)----brains from ageing. In fact, the effects of blood on ageing were first discovered in experiments that stitched young and old mice together so that they shared circulating blood. Older mice seemed to (18)----such an arrangement, developing healthier organs and becoming protected from age related disease. But younger mice aged prematurely. Such experiments suggest that (19)----young blood can be restorative, there is something in old blood that is actively harmful. Hanadie Yousef at Stanford University in California seems to have identified a protein that is causing some of the damage, and has developed a compound to block it. She has observed that (20)----this antibody, mice were protected from the harmful effects of the old blood. However, we do not yet know what it is about young blood that keeps animals youthful. That has not stopped people (21)---- starting trials to see if blood transfusions can treat age-related diseases.",
+    "stem": null,
+    "options": [
+      "while",
+      "until",
+      "when",
+      "as soon as",
+      "after"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q20",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2019-3-g17-21",
+    "passage": "Old blood may damage organs and contribute to ageing. Researchers are trying to reveal the restorative powers of young blood, (17)----brains from ageing. In fact, the effects of blood on ageing were first discovered in experiments that stitched young and old mice together so that they shared circulating blood. Older mice seemed to (18)----such an arrangement, developing healthier organs and becoming protected from age related disease. But younger mice aged prematurely. Such experiments suggest that (19)----young blood can be restorative, there is something in old blood that is actively harmful. Hanadie Yousef at Stanford University in California seems to have identified a protein that is causing some of the damage, and has developed a compound to block it. She has observed that (20)----this antibody, mice were protected from the harmful effects of the old blood. However, we do not yet know what it is about young blood that keeps animals youthful. That has not stopped people (21)---- starting trials to see if blood transfusions can treat age-related diseases.",
+    "stem": null,
+    "options": [
+      "contrary to",
+      "compared to",
+      "similar to",
+      "regardless of",
+      "thanks to"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q21",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2019-3-g17-21",
+    "passage": "Old blood may damage organs and contribute to ageing. Researchers are trying to reveal the restorative powers of young blood, (17)----brains from ageing. In fact, the effects of blood on ageing were first discovered in experiments that stitched young and old mice together so that they shared circulating blood. Older mice seemed to (18)----such an arrangement, developing healthier organs and becoming protected from age related disease. But younger mice aged prematurely. Such experiments suggest that (19)----young blood can be restorative, there is something in old blood that is actively harmful. Hanadie Yousef at Stanford University in California seems to have identified a protein that is causing some of the damage, and has developed a compound to block it. She has observed that (20)----this antibody, mice were protected from the harmful effects of the old blood. However, we do not yet know what it is about young blood that keeps animals youthful. That has not stopped people (21)---- starting trials to see if blood transfusions can treat age-related diseases.",
+    "stem": null,
+    "options": [
+      "by",
+      "for",
+      "in",
+      "from",
+      "with"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q22",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2019-3-g22-26",
+    "passage": "How do you evacuate passengers from a long tunnel through a mountain? The Gotthard Base Tunnel, a railway tunnel through the heart of the Alps in Switzerland, has an emergency evacuation plan. If a fire were to (22)----2,000 metres beneath the Alps, the flames would spread so rapidly that the tunnel would transform into a fiery hell. The nearest exit might still be many kilometres away. The solution is that, (23)----a fire, two emergency stations will allow trains to cross over from one tunnel to the other. (24)----, there are escape routes to a connecting corridor every 325 metres. Ventilation equipment will suck smoke out of the main tunnel and spread fresh air (25)---- corridors running alongside the tunnel. Passengers will exit the train and escape using these corridors, to which the doors can be tightly sealed – a slight overpressure will prevent smoke ingress. The doors are strong enough to stop fire, yet are simple to open – even a child can do it. There they will have to waituntil a rescue train (26)----.",
+    "stem": null,
+    "options": [
+      "fade away",
+      "break out",
+      "fall behind",
+      "go off",
+      "run out"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q23",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2019-3-g22-26",
+    "passage": "How do you evacuate passengers from a long tunnel through a mountain? The Gotthard Base Tunnel, a railway tunnel through the heart of the Alps in Switzerland, has an emergency evacuation plan. If a fire were to (22)----2,000 metres beneath the Alps, the flames would spread so rapidly that the tunnel would transform into a fiery hell. The nearest exit might still be many kilometres away. The solution is that, (23)----a fire, two emergency stations will allow trains to cross over from one tunnel to the other. (24)----, there are escape routes to a connecting corridor every 325 metres. Ventilation equipment will suck smoke out of the main tunnel and spread fresh air (25)---- corridors running alongside the tunnel. Passengers will exit the train and escape using these corridors, to which the doors can be tightly sealed – a slight overpressure will prevent smoke ingress. The doors are strong enough to stop fire, yet are simple to open – even a child can do it. There they will have to waituntil a rescue train (26)----.",
+    "stem": null,
+    "options": [
+      "instead of",
+      "by means of",
+      "apart from",
+      "in case of",
+      "as well as"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q24",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2019-3-g22-26",
+    "passage": "How do you evacuate passengers from a long tunnel through a mountain? The Gotthard Base Tunnel, a railway tunnel through the heart of the Alps in Switzerland, has an emergency evacuation plan. If a fire were to (22)----2,000 metres beneath the Alps, the flames would spread so rapidly that the tunnel would transform into a fiery hell. The nearest exit might still be many kilometres away. The solution is that, (23)----a fire, two emergency stations will allow trains to cross over from one tunnel to the other. (24)----, there are escape routes to a connecting corridor every 325 metres. Ventilation equipment will suck smoke out of the main tunnel and spread fresh air (25)---- corridors running alongside the tunnel. Passengers will exit the train and escape using these corridors, to which the doors can be tightly sealed – a slight overpressure will prevent smoke ingress. The doors are strong enough to stop fire, yet are simple to open – even a child can do it. There they will have to waituntil a rescue train (26)----.",
+    "stem": null,
+    "options": [
+      "To sum up",
+      "In other words",
+      "On the contrary",
+      "However",
+      "In addition"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q25",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2019-3-g22-26",
+    "passage": "How do you evacuate passengers from a long tunnel through a mountain? The Gotthard Base Tunnel, a railway tunnel through the heart of the Alps in Switzerland, has an emergency evacuation plan. If a fire were to (22)----2,000 metres beneath the Alps, the flames would spread so rapidly that the tunnel would transform into a fiery hell. The nearest exit might still be many kilometres away. The solution is that, (23)----a fire, two emergency stations will allow trains to cross over from one tunnel to the other. (24)----, there are escape routes to a connecting corridor every 325 metres. Ventilation equipment will suck smoke out of the main tunnel and spread fresh air (25)---- corridors running alongside the tunnel. Passengers will exit the train and escape using these corridors, to which the doors can be tightly sealed – a slight overpressure will prevent smoke ingress. The doors are strong enough to stop fire, yet are simple to open – even a child can do it. There they will have to waituntil a rescue train (26)----.",
+    "stem": null,
+    "options": [
+      "through",
+      "with",
+      "against",
+      "during",
+      "about"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q26",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2019-3-g22-26",
+    "passage": "How do you evacuate passengers from a long tunnel through a mountain? The Gotthard Base Tunnel, a railway tunnel through the heart of the Alps in Switzerland, has an emergency evacuation plan. If a fire were to (22)----2,000 metres beneath the Alps, the flames would spread so rapidly that the tunnel would transform into a fiery hell. The nearest exit might still be many kilometres away. The solution is that, (23)----a fire, two emergency stations will allow trains to cross over from one tunnel to the other. (24)----, there are escape routes to a connecting corridor every 325 metres. Ventilation equipment will suck smoke out of the main tunnel and spread fresh air (25)---- corridors running alongside the tunnel. Passengers will exit the train and escape using these corridors, to which the doors can be tightly sealed – a slight overpressure will prevent smoke ingress. The doors are strong enough to stop fire, yet are simple to open – even a child can do it. There they will have to waituntil a rescue train (26)----.",
+    "stem": null,
+    "options": [
+      "is arriving",
+      "arrived",
+      "arrives",
+      "will arrive",
+      "was arriving"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q27",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While being physically attractive seems to be a basic requirement for Internet celebrities, ----.",
+    "options": [
+      "they closely monitor the trends in youth culture that place special emphasis on beauty",
+      "their popularity will decline if they cannot create fresh ideas and engage in successful projects",
+      "they are chased by investors hoping to expand their business by associating their products with famous people",
+      "they are often characterised as having the ideal beauty standards",
+      "they earn huge amounts of money thanks to their collaboration with famous brands"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q28",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although Egypt was subject to outside influences, ----.",
+    "options": [
+      "the Egyptians settled on the fertile strip of land created by the Nile in the North African desert",
+      "the role played by the pharaoh, that of a link between men and gods, decreased with the disintegration of power",
+      "the principal characteristics of its culture remained homogenous throughout the course of its long history",
+      "the pyramids were built to testify to the pronounced hierarchical character of the Egyptian society",
+      "Ramses III, who undertook extensive social and administrative reforms, was forced to defend it against fierce attacks"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q29",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Owing to the increasing numbers of individuals and families who could no longer afford to purchase housing, ----.",
+    "options": [
+      "the American nation’s supply of low-cost rental housing was shrinking",
+      "an ample boom was observed in the investment of housing construction",
+      "after the mid-1970s, the poor became more numerous and they got poorer",
+      "homelessness became so visible in the early 1980s in the US",
+      "there was a lack of federal commitment to the production of public housing"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q30",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- unless it is integrated into a meaningful curricular and instructional framework.",
+    "options": [
+      "Technology is regarded to have the potential to improve education",
+      "Technology should be viewed as one tool among many",
+      "The use of technology requires teachers to confront their beliefs about learning",
+      "It is believed that technology has little influence on education",
+      "Technology provides an excellent platform for learning environments"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q31",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though the new methods of Samuel Christian Hahnemann– the creator and developer of the treatment called homeopathy– were initially met with ridicule, ----.",
+    "options": [
+      "the system was based on the idea that substances producing symptoms of sickness in healthy people would have a curative effect",
+      "homeopathic remedies used in holistic treatments were often a fraction of the cost of conventional drugs",
+      "by the time of his death, they were accepted over the world as a result of the great success he had with his new cure",
+      "he was disturbed by the medical system of his time, believing that its cures were crude and some of its strong drugs did more harm than good to patients",
+      "with the formation of the American Medical Association, which restricted alternative practices, homeopathy declined for half a century"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q32",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "A 2003 study of car-crash victims found that those with more fat were less likely to suffer abdominal injuries, ----.",
+    "options": [
+      "so you are more likely to experience some kind of trauma even months after the accident happened",
+      "and no matter what protective measures you may have taken before a possible accident, it may still happen in the end",
+      "since there is no correlation between total weight of passengers and the risk of getting injured",
+      "but the fat-as-airbag principle may not actually be so protective as some people might think it must be",
+      "although one’s body fat can, in fact, act as some sort of shock absorber in violent collisions"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q33",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "People do not have a problem with obsessive compulsive disorder ----.",
+    "options": [
+      "as compulsions are undesired actions that people find themselves forced into doing over and over to reduce anxiety",
+      "when the disorder causes considerable emotional discomfort and a high level of anxiety",
+      "while the approach for treating it is quite similar to the treatments for anxiety, fear, and intense anger",
+      "unless their repetitive thoughts and actions begin to seriously harm their relationships or their sense of freedom",
+      "because it could be very severe and require them to act in collaboration with a therapist or counsellor"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q34",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "----, Alsace's long history of political insecurity and the devastation caused by the two world wars have impoverished the region.",
+    "options": [
+      "Even though its heavy industry is not fully competitive with their more highly developed counterparts in other countries",
+      "While the region became the focus of territorial dispute between France and Germany in the mid-to-late 1800s",
+      "Although its lands are fertile, and the region's iron and coal mines have long constituted a source of wealth",
+      "Unless the region's general population participated heavily in the resistance to Germany’s invasion and conquests",
+      "As the new movements seek to gain greater control over economic and social development and to establish the preservation of Alsatian culture"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q35",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Some Roman baths might have been functioning, at least partially, into the fifth century, ----.",
+    "options": [
+      "so that it was the inability of later ancient administrations to maintain the vast and complicated water systems",
+      "but after many repairs, the Thermae of Agrippa was still open as a luxury establishment in the fifth century",
+      "while after the seventh and eighth centuries, there are signs of bath building greatly slowing",
+      "because as the great baths themselves disappeared, their memory lingered on in the public minds as myths and legends",
+      "thus, many of these baths could be described as charity baths, because they served the clergy as well as the poor"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q36",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Throughout the Tanzimat era, Ottoman statesmen believed that as long as the European powers respected their country’s sovereignty, ----.",
+    "options": [
+      "Ottoman citizens could not tolerate much of the trouble caused by dysfunctional institutions",
+      "they prevented the acquisition of immovable properties within the borders of the state by the citizens of neighbouring countries",
+      "it would be unfeasible to ensure the welfare and happiness of Ottoman citizens who dispersed across three continents",
+      "there was little or no danger in allowing Europeans ever greater access to their country’s economy",
+      "seeking or accepting aid from a foreign power would mean to people nothing more than years of exile in distant lands"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q37",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Accurate measurements in scientific investigations gained more importance in the 17th century, when scientists became aware that only with reliable measurements could they support their theories.",
+    "options": [
+      "Bilim insanlarının 17. yüzyılda teorilerini sadece güvenilir ölçümlerle destekleyebileceklerinin farkına varmasıyla bilimsel araştırmalardaki doğru ölçümler daha fazla önem kazandı.",
+      "Bilimsel araştırmalardaki doğru ölçümler, 17. yüzyılda bilim insanları teorilerinin sadece güvenilir ölçümlerle desteklenebileceğinin farkına varınca çok daha önemli hâle geldi.",
+      "17. yüzyılda bilim insanlarının sadece güvenilir ölçümler sayesinde teorilerini destekleyebileceklerinin farkına varması, bilimsel araştırmalardaki doğru ölçümlere daha fazla önem kazandırdı.",
+      "Bilimsel araştırmalardaki doğru ölçümler, bilim insanlarının sadece güvenilir ölçümlerle teorilerini destekleyebileceklerinin farkına vardıkları 17. yüzyılda daha fazla önem kazandı.",
+      "Bilimsel araştırmalardaki doğru ölçümler, 17. yüzyılda bilim insanları teorilerini sadece güvenilir ölçümlerle destekleyebileceklerinin farkına vardıkları için daha çok önem kazandı."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q38",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Recent studies have shown that chocolate can slow down the signs of skin ageing because cocoa extract is packed with antioxidants that neutralise free radical damage, which can harm collagen production.",
+    "options": [
+      "Kakao özütünün kolajen üretimine zarar veren serbest radikal hasarını ortadan kaldıran antioksidanlarla dolu olduğu ve bu nedenle çikolatanın cilt yaşlanmasının belirtilerini yavaşlattığı yeni yapılan çalışmalarla ortaya konmuştur.",
+      "Yeni yapılan araştırmalar, çikolatanın cilt yaşlanmasının belirtilerini yavaşlatabildiğini göstermektedir çünkü kakao özütü, kolajen üretimine zarar verebilen serbest radikal hasarını ortadan kaldıran antioksidanlarla doludur.",
+      "Çikolata, cilt yaşlanmasının belirtilerini yavaşlatabilmektedir çünkü son yapılan araştırmalar, kolajen üretimine zarar veren serbest radikal hasarını ortadan kaldıran kakao özütünün antioksidanlarla dolu olduğunu göstermektedir.",
+      "Son yapılan araştırmalar, kakao özütü kolajen üretimine zarar verebilen serbest radikal hasarını ortadan kaldıran antioksidanlarla dolu olduğu için cilt yaşlanmasının belirtilerinin çikolata sayesinde yavaşlatılabileceğini göstermektedir.",
+      "Çikolatanın cilt yaşlanmasının belirtilerini yavaşlattığı, kolajen üretimine zarar veren serbest radikal hasarını ortadan kaldıran kakao özütünün antioksidanlarla dolu olduğunu gösteren son çalışmalarla ortaya konmuştur."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q39",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Dolly, the first mammal cloned from the DNA of an adult animal, was regarded as a monumental scientific breakthrough when her birth was announced in early 1997.",
+    "options": [
+      "Dolly, yetişkin bir hayvanın DNA’sından klonlanan ilk memeli olduğundan 1997’nin başında doğumu duyurulduğunda çok büyük bir bilimsel gelişme olarak kabul edildi.",
+      "Doğumu 1997’nin başında duyurulduğu zaman çok büyük bir bilimsel gelişme olarak kabul edilen Dolly, yetişkin bir hayvanın DNA’sından klonlanan ilk memeliydi.",
+      "Yetişkin bir hayvanın DNA’sından klonlanan ilk memeli olan Dolly, çok büyük bir bilimsel gelişme olarak kabul edildi ve doğumu 1997’nin başında duyuruldu.",
+      "Yetişkin bir hayvanın DNA’sından klonlanan ilk memeli olan Dolly, 1997’nin başında doğumu duyurulduğunda çok büyük bir bilimsel gelişme olarak kabul edildi.",
+      "Dolly, yetişkin bir hayvanın DNA’sından klonlanan ilk memeliydi ve 1997’nin başında doğumunun duyurulmasıyla çok büyük bir bilimsel gelişme olarak kabul edildi."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q40",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "İnsanlar et kelimesini ilk kullandıklarında sadece içeceğin karşıtı olarak yiyeceği kastettiler, ve et kelimesi ancak 1300’lerde hayvan eti anlamına karşılık gelmeye başladı.",
+    "options": [
+      "When people first referred to food as opposed to drink they used the word meat, and it was not until the 1300s that they began to use it for animal flesh.",
+      "The first use of the word meat by people simply meant food, which was the opposite of drink, and it was only in the 1300s when it started referring to animal flesh.",
+      "Until the 1300s , the word meat simply meant food for people, as opposed to drink, and only then it started to refer to animal flesh.",
+      "When people first used the word meat, they simply meant food, as opposed to drink, and it was not until the 1300s that it began to refer to animal flesh.",
+      "When people first used the word meat, it basically meant food, the opposite of drink, and it hardly started to refer to animal flesh in the 1300s."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q41",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Çok fazla tuz tüketmek kalp damar hastalıklarını tetikler, ancak çok az tuzun da eşit derecede zararlı etkisi olabilir, bu yüzden yüksek tansiyonu olan kişilerin tuz alımlarını azaltması gerekirken, nüfusun geri kalanının tuzu azaltmaya teşvik edilmesine gerek yoktur.",
+    "options": [
+      "Consumption of too much salt leads to cardiovascular disease, but too little salt may have an equally harmful effect as well; hence, people suffering from high blood pressure must be encouraged to reduce their salt intake, but the rest of the population need not to cut back on salt.",
+      "Too much salt results in cardiovascular disease and too little salt may also have an equally destructive effect, so salt intake should be reduced by people with high blood pressure, though for the rest of the population there is no need to cut back on salt.",
+      "Consuming too much salt promotes cardiovascular disease, but too little salt may have an equally detrimental effect as well; therefore, while people with high blood pressure should reduce their salt intake, the rest of the population do not need to be encouraged to cut back on salt.",
+      "Consuming too much salt, which promotes cardiovascular disease, has an equally detrimental effect as consuming too little salt; hence, people with high blood pressure should consume less salt, whereas the rest of the population do not need to cut back on salt.",
+      "People with high blood pressure should reduce their salt intake, but the rest of the population do not need to cut back on salt because consuming too much salt has an equally harmful effect as consuming too little salt since they promote cardiovascular disease."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q42",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Her davranış hakkında düşünmek ya da her kararı ölçüp biçmek zorunda olsaydık, hareket edemezdik; bu yüzden insan zihni hayatı daha baş edilebilir hâle getiren zihinsel kestirme yollar ile donatılmıştır.",
+    "options": [
+      "If we were to think about every action or weigh up every decision, we would be paralysed, so thanks to the human brain which has been endowed with mental shortcuts, life is more manageable.",
+      "Should we have to think about every action or weigh up every decision we make, we will be paralysed, but the human brain has been endowed with mental shortcuts that make life easier to be managed.",
+      "If the human brain were not endowed with mental shortcuts that make life more manageable, we would be paralysed as we would have to think about every action or weigh up every decision.",
+      "We do not have to think about every action or weigh up every decision, which would make us paralysed, as the human brain has been endowed with mental shortcuts that make life more easily managed.",
+      "If we had to think about every action or weigh up every decision, we would be paralysed; therefore, the human brain has been endowed with mental shortcuts that make life more manageable."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q43",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2019-3-g43-46",
+    "passage": "A recent study suggests that pigeons may not be so bird-brained after all. A team at the University of California has trained the birds to pick out cancerous breast tissue on mammograms. After two weeks of training, using food as motivation, the pigeons were able to correctly identify cancerous tissue 85 per cent of the time. This is a level of accuracy similar to that of human radiologists. \"Research over the past 50 years has shown that pigeons can distinguish identities and emotional expressions on human faces, letters of the alphabet, misshapen pharmaceutical capsules and even paintings by Monet vs Picasso,\" said co-author Edward Wasserman. \"Their visual memory is equally impressive with a proven recall of more than 1,800 images.\" Even after years of training, physicians can sometimes struggle to correctly interpret mammograms. The process is also time-consuming, labour-intensive and expensive. \"Pigeons' sensitivity to diagnostically salient features in medical images suggests that they can provide reliable feedback on many variables at play in the production, manipulation, and viewing of these diagnostically crucial tools, and can assist researchers and engineers as they continue to innovate,\" says the lead reseacher Prof Richard Levenson.",
+    "stem": "It is understood from the passage that pigeons ----.",
+    "options": [
+      "were able to identify cancerous tissue on mammograms even before the training",
+      "were motivated by food in the research as they were accepted as bird-brained",
+      "were fed with food which resembled the cancerous tissue on mammograms",
+      "reached a high percentage of accuracy in identifying cancerous tissue after being trained",
+      "were better than human radiologists in terms of identifying cancerous tissue"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q44",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2019-3-g43-46",
+    "passage": "A recent study suggests that pigeons may not be so bird-brained after all. A team at the University of California has trained the birds to pick out cancerous breast tissue on mammograms. After two weeks of training, using food as motivation, the pigeons were able to correctly identify cancerous tissue 85 per cent of the time. This is a level of accuracy similar to that of human radiologists. \"Research over the past 50 years has shown that pigeons can distinguish identities and emotional expressions on human faces, letters of the alphabet, misshapen pharmaceutical capsules and even paintings by Monet vs Picasso,\" said co-author Edward Wasserman. \"Their visual memory is equally impressive with a proven recall of more than 1,800 images.\" Even after years of training, physicians can sometimes struggle to correctly interpret mammograms. The process is also time-consuming, labour-intensive and expensive. \"Pigeons' sensitivity to diagnostically salient features in medical images suggests that they can provide reliable feedback on many variables at play in the production, manipulation, and viewing of these diagnostically crucial tools, and can assist researchers and engineers as they continue to innovate,\" says the lead reseacher Prof Richard Levenson.",
+    "stem": "According to Edward Wasserman, ----.",
+    "options": [
+      "pigeons can pick out the pharmaceutical capsules which have differences in shape",
+      "pigeons are unable to remember images when there are over 1,800 of them",
+      "letters help pigeons identify the difference between Monet and Picasso paintings",
+      "pigeons are quite good at imitating emotional expressions displayed on human faces",
+      "the capacity of pigeons' visual memory is equal to human visual memory"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q45",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2019-3-g43-46",
+    "passage": "A recent study suggests that pigeons may not be so bird-brained after all. A team at the University of California has trained the birds to pick out cancerous breast tissue on mammograms. After two weeks of training, using food as motivation, the pigeons were able to correctly identify cancerous tissue 85 per cent of the time. This is a level of accuracy similar to that of human radiologists. \"Research over the past 50 years has shown that pigeons can distinguish identities and emotional expressions on human faces, letters of the alphabet, misshapen pharmaceutical capsules and even paintings by Monet vs Picasso,\" said co-author Edward Wasserman. \"Their visual memory is equally impressive with a proven recall of more than 1,800 images.\" Even after years of training, physicians can sometimes struggle to correctly interpret mammograms. The process is also time-consuming, labour-intensive and expensive. \"Pigeons' sensitivity to diagnostically salient features in medical images suggests that they can provide reliable feedback on many variables at play in the production, manipulation, and viewing of these diagnostically crucial tools, and can assist researchers and engineers as they continue to innovate,\" says the lead reseacher Prof Richard Levenson.",
+    "stem": "It is clearly stated in the passage that the interpretation of mammograms ----.",
+    "options": [
+      "provides unreliable feedback unless pigeons are involved",
+      "considers visual memory as the most critical aspect of interpreting images",
+      "comes at a high cost both physically and economically",
+      "requires a more extended training programme to improve validity",
+      "now commonly uses pigeons to assist with the results"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q46",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2019-3-g43-46",
+    "passage": "A recent study suggests that pigeons may not be so bird-brained after all. A team at the University of California has trained the birds to pick out cancerous breast tissue on mammograms. After two weeks of training, using food as motivation, the pigeons were able to correctly identify cancerous tissue 85 per cent of the time. This is a level of accuracy similar to that of human radiologists. \"Research over the past 50 years has shown that pigeons can distinguish identities and emotional expressions on human faces, letters of the alphabet, misshapen pharmaceutical capsules and even paintings by Monet vs Picasso,\" said co-author Edward Wasserman. \"Their visual memory is equally impressive with a proven recall of more than 1,800 images.\" Even after years of training, physicians can sometimes struggle to correctly interpret mammograms. The process is also time-consuming, labour-intensive and expensive. \"Pigeons' sensitivity to diagnostically salient features in medical images suggests that they can provide reliable feedback on many variables at play in the production, manipulation, and viewing of these diagnostically crucial tools, and can assist researchers and engineers as they continue to innovate,\" says the lead reseacher Prof Richard Levenson.",
+    "stem": "It can be inferred from the passage that pigeons ----.",
+    "options": [
+      "can be regarded as the most intelligent bird species considering their success rate",
+      "can accurately spot cancer on medical images, so they are trained for many years",
+      "could be used in diagnosis of some diseases in the future to reach correct interpretations",
+      "should be trained using food for motivation to achieve a high accuracy level in tests",
+      "will definitely play a significant part in the future training of physicians and radiologists"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q47",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2019-3-g47-50",
+    "passage": "During the preschool period, hand-eye coordination progresses to the point of near independence at self-care activities. A four-year-old is learning to handle eating cutlery well and fasten even small buttons. Four-year olds can also handle a pencil competently, copy geometric shapes and letters, and use scissors. By the age of five, a child’s hand-eye coordination appears quite advanced, although it will still continue to be fine-tuned for several more years. He approaches, grasps, and releases objects with precision and accuracy. He may use the same toys as pre-schoolers, but he manipulates them with greater skill and purpose and can complete a familiar jigsaw puzzle with lightning speed. An important milestone at this stage in learning hand-eye coordination is the child’s ability to tie his own shoelaces. At the age of six, a child’s visual orientation changes somewhat. Children of this age and older shift their gaze more frequently than younger children. They also have a tendency to follow the progress of an object rather than looking directly at it, a fact that has been linked to the practice of some six-year-olds using their fingers to mark their places when they are reading. Even when absorbed in tasks, they look away frequently, although their hands remain active.",
+    "stem": "The author clearly states that hand-eye coordination ----.",
+    "options": [
+      "reaches its final level well before the child reaches the age of six",
+      "can hardly be seen in kids that are in the pre-school period",
+      "is ultimately achieved when the child becomes much younger than five",
+      "is apparent in four-year olds as they can use some equipment well",
+      "is said to have been completed when the child does a puzzle very fast"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q48",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2019-3-g47-50",
+    "passage": "During the preschool period, hand-eye coordination progresses to the point of near independence at self-care activities. A four-year-old is learning to handle eating cutlery well and fasten even small buttons. Four-year olds can also handle a pencil competently, copy geometric shapes and letters, and use scissors. By the age of five, a child’s hand-eye coordination appears quite advanced, although it will still continue to be fine-tuned for several more years. He approaches, grasps, and releases objects with precision and accuracy. He may use the same toys as pre-schoolers, but he manipulates them with greater skill and purpose and can complete a familiar jigsaw puzzle with lightning speed. An important milestone at this stage in learning hand-eye coordination is the child’s ability to tie his own shoelaces. At the age of six, a child’s visual orientation changes somewhat. Children of this age and older shift their gaze more frequently than younger children. They also have a tendency to follow the progress of an object rather than looking directly at it, a fact that has been linked to the practice of some six-year-olds using their fingers to mark their places when they are reading. Even when absorbed in tasks, they look away frequently, although their hands remain active.",
+    "stem": "In which of the following does the age or period correctly match the corresponding skill?",
+    "options": [
+      "Pre-school children – almost no autonomy in caring oneself",
+      "Four-year olds – possible use of a spoon to eat independently",
+      "Five-year olds – low to moderate competency in hand-eye coordination",
+      "Six year olds – discernible pause in the improvement in visual orientation",
+      "Children beyond six years of age – lack of preciseness in hand-eye coordination"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q49",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2019-3-g47-50",
+    "passage": "During the preschool period, hand-eye coordination progresses to the point of near independence at self-care activities. A four-year-old is learning to handle eating cutlery well and fasten even small buttons. Four-year olds can also handle a pencil competently, copy geometric shapes and letters, and use scissors. By the age of five, a child’s hand-eye coordination appears quite advanced, although it will still continue to be fine-tuned for several more years. He approaches, grasps, and releases objects with precision and accuracy. He may use the same toys as pre-schoolers, but he manipulates them with greater skill and purpose and can complete a familiar jigsaw puzzle with lightning speed. An important milestone at this stage in learning hand-eye coordination is the child’s ability to tie his own shoelaces. At the age of six, a child’s visual orientation changes somewhat. Children of this age and older shift their gaze more frequently than younger children. They also have a tendency to follow the progress of an object rather than looking directly at it, a fact that has been linked to the practice of some six-year-olds using their fingers to mark their places when they are reading. Even when absorbed in tasks, they look away frequently, although their hands remain active.",
+    "stem": "According to the passage, what does tying shoelaces signify?",
+    "options": [
+      "It shows that the child has obtained total independence in self-care.",
+      "It is a major breakthrough in the process of acquiring hand-eye coordination.",
+      "It is the ultimate achievement that the child can reach in terms of hand-eye coordination.",
+      "By doing it, the child is able to demonstrate a clear change in his/her visual orientation.",
+      "It represents the high speed at which pre-school children could do some manual tasks."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q50",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2019-3-g47-50",
+    "passage": "During the preschool period, hand-eye coordination progresses to the point of near independence at self-care activities. A four-year-old is learning to handle eating cutlery well and fasten even small buttons. Four-year olds can also handle a pencil competently, copy geometric shapes and letters, and use scissors. By the age of five, a child’s hand-eye coordination appears quite advanced, although it will still continue to be fine-tuned for several more years. He approaches, grasps, and releases objects with precision and accuracy. He may use the same toys as pre-schoolers, but he manipulates them with greater skill and purpose and can complete a familiar jigsaw puzzle with lightning speed. An important milestone at this stage in learning hand-eye coordination is the child’s ability to tie his own shoelaces. At the age of six, a child’s visual orientation changes somewhat. Children of this age and older shift their gaze more frequently than younger children. They also have a tendency to follow the progress of an object rather than looking directly at it, a fact that has been linked to the practice of some six-year-olds using their fingers to mark their places when they are reading. Even when absorbed in tasks, they look away frequently, although their hands remain active.",
+    "stem": "Which of the following is the passage mainly concerned with?",
+    "options": [
+      "Phases of development in the acquisition of hand-eye coordination as a key skill",
+      "Differences and similarities between motor development of pre-school and school-age children",
+      "What kind of challenges different developmental periods in childhood lead to",
+      "How pre-school children use their hands and fingers to fulfil certain tasks",
+      "Hand-eye coordination as one of the easily acquired skills for school-age children"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q51",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2019-3-g51-54",
+    "passage": "Dreams defy the laws of physics, the principles of logic, and personal morality, and may reflect fears, frustrations, and personal desires. Often occurring in story form with the dreamer as participant or observer, dreams usually involve several characters, motion, and may include sensations of taste, smell, hearing, or pain. The content of dreams clearly reflects daytime activities, even though these may be distorted to various degrees. ‘Lucid dreaming’, in which the sleeper is actually aware of dreaming while the dream is taking place, is not uncommon. Although research has indicated that everyone dreams during every night of normal sleep, many people do not remember their dreams or they recall only the last dream prior to awakening. However, anything remembered might be useful as some scientists, some of whom are dream analysts, maintain that dreams contain the dreamer’s thoughts or feelings not yet expressed or made conscious. On the other hand, some others have attempted to discount the significance of dreams entirely. For example, one hypothesis holds that dreaming is a simple and unimportant by-product of random stimulation of brain cells activated during REM sleep. Another dream theory suggests that we dream to rid our brains of useless or redundant information.",
+    "stem": "Which of the following is a characteristic of dreams?",
+    "options": [
+      "Dreams rarely express everyday activities in a deformed manner.",
+      "Dreamers are the participants in their dreams most of the time.",
+      "Dreams comply with the general rules of physics, but they counter moral values.",
+      "Fears and disappointments may be a result of bad dreams.",
+      "It is possible for dreamers to have some sensory experience while dreaming."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q52",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2019-3-g51-54",
+    "passage": "Dreams defy the laws of physics, the principles of logic, and personal morality, and may reflect fears, frustrations, and personal desires. Often occurring in story form with the dreamer as participant or observer, dreams usually involve several characters, motion, and may include sensations of taste, smell, hearing, or pain. The content of dreams clearly reflects daytime activities, even though these may be distorted to various degrees. ‘Lucid dreaming’, in which the sleeper is actually aware of dreaming while the dream is taking place, is not uncommon. Although research has indicated that everyone dreams during every night of normal sleep, many people do not remember their dreams or they recall only the last dream prior to awakening. However, anything remembered might be useful as some scientists, some of whom are dream analysts, maintain that dreams contain the dreamer’s thoughts or feelings not yet expressed or made conscious. On the other hand, some others have attempted to discount the significance of dreams entirely. For example, one hypothesis holds that dreaming is a simple and unimportant by-product of random stimulation of brain cells activated during REM sleep. Another dream theory suggests that we dream to rid our brains of useless or redundant information.",
+    "stem": "According to the passage, ‘lucid dreaming’ ----.",
+    "options": [
+      "is a type of dream in which dreamers recognise that they are dreaming",
+      "is apparently the most common type of dream that people have",
+      "is a kind of dream in which dreamers are fully awake",
+      "reveals more subconscious thoughts than common dreams do",
+      "is related with whether the dreamer is having a disturbing dream or not"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q53",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2019-3-g51-54",
+    "passage": "Dreams defy the laws of physics, the principles of logic, and personal morality, and may reflect fears, frustrations, and personal desires. Often occurring in story form with the dreamer as participant or observer, dreams usually involve several characters, motion, and may include sensations of taste, smell, hearing, or pain. The content of dreams clearly reflects daytime activities, even though these may be distorted to various degrees. ‘Lucid dreaming’, in which the sleeper is actually aware of dreaming while the dream is taking place, is not uncommon. Although research has indicated that everyone dreams during every night of normal sleep, many people do not remember their dreams or they recall only the last dream prior to awakening. However, anything remembered might be useful as some scientists, some of whom are dream analysts, maintain that dreams contain the dreamer’s thoughts or feelings not yet expressed or made conscious. On the other hand, some others have attempted to discount the significance of dreams entirely. For example, one hypothesis holds that dreaming is a simple and unimportant by-product of random stimulation of brain cells activated during REM sleep. Another dream theory suggests that we dream to rid our brains of useless or redundant information.",
+    "stem": "Which of the following describes the scientific world’s perspective of dreams?",
+    "options": [
+      "Scientists claim that dreams are important in exploring human psychology even if they are simple by-products.",
+      "Some scientists devalue dreams because people are unable to recollect what they have in their dreams.",
+      "Scientists are far from reaching a prevailing consensus over the value of dreams in human life.",
+      "More scientists than analysts consider dreams as something that can be used to understand people.",
+      "A good majority of scientists consider dreams as a means for freeing our minds from undesirable content."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q54",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2019-3-g51-54",
+    "passage": "Dreams defy the laws of physics, the principles of logic, and personal morality, and may reflect fears, frustrations, and personal desires. Often occurring in story form with the dreamer as participant or observer, dreams usually involve several characters, motion, and may include sensations of taste, smell, hearing, or pain. The content of dreams clearly reflects daytime activities, even though these may be distorted to various degrees. ‘Lucid dreaming’, in which the sleeper is actually aware of dreaming while the dream is taking place, is not uncommon. Although research has indicated that everyone dreams during every night of normal sleep, many people do not remember their dreams or they recall only the last dream prior to awakening. However, anything remembered might be useful as some scientists, some of whom are dream analysts, maintain that dreams contain the dreamer’s thoughts or feelings not yet expressed or made conscious. On the other hand, some others have attempted to discount the significance of dreams entirely. For example, one hypothesis holds that dreaming is a simple and unimportant by-product of random stimulation of brain cells activated during REM sleep. Another dream theory suggests that we dream to rid our brains of useless or redundant information.",
+    "stem": "Which could be the best title for the passage?",
+    "options": [
+      "The Incomprehensible World of Dreams",
+      "The Use of Dreams in Psychoanalysis",
+      "Common Forms of Dreams",
+      "The Effects of Dreaming in Daily Life",
+      "Intellectual Benefits of Having Dreams"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q55",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2019-3-g55-58",
+    "passage": "Various equipment is used in the production and processing of milk and milk products, including milking machines, cream separators, pasteurisers, homogenisers, butter-making equipment, and related items of equipment. The equipment must be easy to clean and designed to prevent contamination of the milk or milk products from dirt, oil, soluble metals, insects, and other foreign materials. Stainless steel, an alloy of chromium and steel, is widely used and is highly satisfactory for direct contact with milk and other food products. If properly used, stainless steel does not affect the flavour and is corrosion-resistant to food products. However, corrosion of stainless steel may be caused by prolonged contact with food or by removal of the protective oxide layer, which must be maintained to provide corrosion resistance. The layer is removed by prolonged contact with chlorine. Stainless steel surfaces must be cleaned regularly after use with detergent solutions, and should be sanitised before use so that excessive chlorine contact will be avoided. Most modern dairy equipment is designed to be cleaned in place, without disassembly, by pumping detergents and cleaning solutions through the entire system. Equipment is specially designed to avoid pockets, to provide smooth surfaces to avoid build-up of the product on food-contact surfaces.",
+    "stem": "Which of the following is one main feature of dairy processing equipment?",
+    "options": [
+      "Protecting dairy products from impurities",
+      "Preventing detergent solutions from changing the taste of the products",
+      "Avoiding prolonged contact of the equipment with milk",
+      "Easing the maintanence of the equipment",
+      "Focusing on the production rather than the products"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q56",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2019-3-g55-58",
+    "passage": "Various equipment is used in the production and processing of milk and milk products, including milking machines, cream separators, pasteurisers, homogenisers, butter-making equipment, and related items of equipment. The equipment must be easy to clean and designed to prevent contamination of the milk or milk products from dirt, oil, soluble metals, insects, and other foreign materials. Stainless steel, an alloy of chromium and steel, is widely used and is highly satisfactory for direct contact with milk and other food products. If properly used, stainless steel does not affect the flavour and is corrosion-resistant to food products. However, corrosion of stainless steel may be caused by prolonged contact with food or by removal of the protective oxide layer, which must be maintained to provide corrosion resistance. The layer is removed by prolonged contact with chlorine. Stainless steel surfaces must be cleaned regularly after use with detergent solutions, and should be sanitised before use so that excessive chlorine contact will be avoided. Most modern dairy equipment is designed to be cleaned in place, without disassembly, by pumping detergents and cleaning solutions through the entire system. Equipment is specially designed to avoid pockets, to provide smooth surfaces to avoid build-up of the product on food-contact surfaces.",
+    "stem": "According to the passage, the most commonly used material in dairy processing equipment ----.",
+    "options": [
+      "can help manufacturers of dairy foods produce tastier products",
+      "is corrosion-proof, even in cases of prolonged contact with corrosive agents",
+      "is a mixture of two different metals to increase durability",
+      "would still be highly resistant to corrosion if the oxide layer were removed",
+      "includes a protective layer that gets hardened when in contact with chlorine"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q57",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2019-3-g55-58",
+    "passage": "Various equipment is used in the production and processing of milk and milk products, including milking machines, cream separators, pasteurisers, homogenisers, butter-making equipment, and related items of equipment. The equipment must be easy to clean and designed to prevent contamination of the milk or milk products from dirt, oil, soluble metals, insects, and other foreign materials. Stainless steel, an alloy of chromium and steel, is widely used and is highly satisfactory for direct contact with milk and other food products. If properly used, stainless steel does not affect the flavour and is corrosion-resistant to food products. However, corrosion of stainless steel may be caused by prolonged contact with food or by removal of the protective oxide layer, which must be maintained to provide corrosion resistance. The layer is removed by prolonged contact with chlorine. Stainless steel surfaces must be cleaned regularly after use with detergent solutions, and should be sanitised before use so that excessive chlorine contact will be avoided. Most modern dairy equipment is designed to be cleaned in place, without disassembly, by pumping detergents and cleaning solutions through the entire system. Equipment is specially designed to avoid pockets, to provide smooth surfaces to avoid build-up of the product on food-contact surfaces.",
+    "stem": "Why is dairy processing equipment designed with smooth surfaces?",
+    "options": [
+      "To make sure that all surface of the equipment is in contact with chlorine",
+      "To speed up the processing of milk and to produce higher quality dairy products",
+      "To facilitate the process of disassembling the equipment for further cleaning",
+      "To prevent the accumulation of dairy products on the surface of the equipment",
+      "To improve safety and to enable manufacturers to clean the equipment without removing the parts"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q58",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2019-3-g55-58",
+    "passage": "Various equipment is used in the production and processing of milk and milk products, including milking machines, cream separators, pasteurisers, homogenisers, butter-making equipment, and related items of equipment. The equipment must be easy to clean and designed to prevent contamination of the milk or milk products from dirt, oil, soluble metals, insects, and other foreign materials. Stainless steel, an alloy of chromium and steel, is widely used and is highly satisfactory for direct contact with milk and other food products. If properly used, stainless steel does not affect the flavour and is corrosion-resistant to food products. However, corrosion of stainless steel may be caused by prolonged contact with food or by removal of the protective oxide layer, which must be maintained to provide corrosion resistance. The layer is removed by prolonged contact with chlorine. Stainless steel surfaces must be cleaned regularly after use with detergent solutions, and should be sanitised before use so that excessive chlorine contact will be avoided. Most modern dairy equipment is designed to be cleaned in place, without disassembly, by pumping detergents and cleaning solutions through the entire system. Equipment is specially designed to avoid pockets, to provide smooth surfaces to avoid build-up of the product on food-contact surfaces.",
+    "stem": "Which could be the best title for the passage?",
+    "options": [
+      "How to Promote Manufactured Dairy Products",
+      "Cleanliness as the Main Criteria for Milking",
+      "Mass Production of Milk and Dairy Products",
+      "Common Causes of Contamination in Dairy Products",
+      "Main Features of the Equipment for Dairy Production"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q59",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2019-3-g59-62",
+    "passage": "Genetic testing of a 90,000-year-old sliver of bone from a 13-year-old girl has provided clear evidence of interbreeding between two distinct groups of early humans, something reseachers had long suspected. Earlier analysis of the girl’s mitochondrial DNA had shown that her mother was of Neanderthal ancestry. In addition to the studies carried out before, the new research, this time led by paleogeneticists at the Max Planck Institute, examined her entire genome. They then compared it to previously sequenced paleogenomes, including those of other ancient humans. The results were unambiguous – the girl’s DNA matched Neanderthal and Denisovan genomes to an equal degree. She had a Neanderthal mother and a Denisovan father. “When I first saw this combined ancestry, I got worried that I had made a mistake in the lab, and that this was somehow a mix-up of two different bones,” says Max Planck’s Viviane Slon. “It was only after repeating the experiments several times, and consistently seeing the same result, that I convinced myself – and my colleagues – that the girl’s mixed ancestry was real.” The team’s finding of a direct offspring of a Neanderthal and a Denisovan implies that individuals from the two groups mixed when they had the opportunity to meet. “Taken together with evidence that Neanderthals and Denisovans also mixed with ancient modern humans,” says Slon, “this suggests that different groups of humans have always mixed when encountering each other.”",
+    "stem": "Which of the following is true of the genetic testing of the old bone mentioned in the passage?",
+    "options": [
+      "This is the first time DNA testing was performed on an old bone to identify interbreeding.",
+      "This is the oldest bone on which mitochondrial testing has been done.",
+      "Previous genetic testing on it contradicted the one done at the Max Planck Institute.",
+      "The findings of the recent research on it have confirmed a long-standing theory.",
+      "The research done at the Max Planck Institute was the first one to involve paleogeneticists in a study to prove interbreeding."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q60",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2019-3-g59-62",
+    "passage": "Genetic testing of a 90,000-year-old sliver of bone from a 13-year-old girl has provided clear evidence of interbreeding between two distinct groups of early humans, something reseachers had long suspected. Earlier analysis of the girl’s mitochondrial DNA had shown that her mother was of Neanderthal ancestry. In addition to the studies carried out before, the new research, this time led by paleogeneticists at the Max Planck Institute, examined her entire genome. They then compared it to previously sequenced paleogenomes, including those of other ancient humans. The results were unambiguous – the girl’s DNA matched Neanderthal and Denisovan genomes to an equal degree. She had a Neanderthal mother and a Denisovan father. “When I first saw this combined ancestry, I got worried that I had made a mistake in the lab, and that this was somehow a mix-up of two different bones,” says Max Planck’s Viviane Slon. “It was only after repeating the experiments several times, and consistently seeing the same result, that I convinced myself – and my colleagues – that the girl’s mixed ancestry was real.” The team’s finding of a direct offspring of a Neanderthal and a Denisovan implies that individuals from the two groups mixed when they had the opportunity to meet. “Taken together with evidence that Neanderthals and Denisovans also mixed with ancient modern humans,” says Slon, “this suggests that different groups of humans have always mixed when encountering each other.”",
+    "stem": "It can be understood from the passage that DNA analysis of old bones ----.",
+    "options": [
+      "provides a valuable insight only if the findings are compared to other sequenced genomes",
+      "reveals a strong resemblance between the DNA of Neanderthals and Denisovans",
+      "often includes mistakes and mix-ups",
+      "had been done previously by other researchers",
+      "had never been attempted at the Max Planck Institute"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q61",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2019-3-g59-62",
+    "passage": "Genetic testing of a 90,000-year-old sliver of bone from a 13-year-old girl has provided clear evidence of interbreeding between two distinct groups of early humans, something reseachers had long suspected. Earlier analysis of the girl’s mitochondrial DNA had shown that her mother was of Neanderthal ancestry. In addition to the studies carried out before, the new research, this time led by paleogeneticists at the Max Planck Institute, examined her entire genome. They then compared it to previously sequenced paleogenomes, including those of other ancient humans. The results were unambiguous – the girl’s DNA matched Neanderthal and Denisovan genomes to an equal degree. She had a Neanderthal mother and a Denisovan father. “When I first saw this combined ancestry, I got worried that I had made a mistake in the lab, and that this was somehow a mix-up of two different bones,” says Max Planck’s Viviane Slon. “It was only after repeating the experiments several times, and consistently seeing the same result, that I convinced myself – and my colleagues – that the girl’s mixed ancestry was real.” The team’s finding of a direct offspring of a Neanderthal and a Denisovan implies that individuals from the two groups mixed when they had the opportunity to meet. “Taken together with evidence that Neanderthals and Denisovans also mixed with ancient modern humans,” says Slon, “this suggests that different groups of humans have always mixed when encountering each other.”",
+    "stem": "The initial attitude of Slon’s colleagues towards her findings can be best described as ----.",
+    "options": [
+      "neutral",
+      "supportive",
+      "sceptical",
+      "envious",
+      "indifferent"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q62",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2019-3-g59-62",
+    "passage": "Genetic testing of a 90,000-year-old sliver of bone from a 13-year-old girl has provided clear evidence of interbreeding between two distinct groups of early humans, something reseachers had long suspected. Earlier analysis of the girl’s mitochondrial DNA had shown that her mother was of Neanderthal ancestry. In addition to the studies carried out before, the new research, this time led by paleogeneticists at the Max Planck Institute, examined her entire genome. They then compared it to previously sequenced paleogenomes, including those of other ancient humans. The results were unambiguous – the girl’s DNA matched Neanderthal and Denisovan genomes to an equal degree. She had a Neanderthal mother and a Denisovan father. “When I first saw this combined ancestry, I got worried that I had made a mistake in the lab, and that this was somehow a mix-up of two different bones,” says Max Planck’s Viviane Slon. “It was only after repeating the experiments several times, and consistently seeing the same result, that I convinced myself – and my colleagues – that the girl’s mixed ancestry was real.” The team’s finding of a direct offspring of a Neanderthal and a Denisovan implies that individuals from the two groups mixed when they had the opportunity to meet. “Taken together with evidence that Neanderthals and Denisovans also mixed with ancient modern humans,” says Slon, “this suggests that different groups of humans have always mixed when encountering each other.”",
+    "stem": "Which of the following conclusions can be drawn based on the results indicated in the passage?",
+    "options": [
+      "Interbreeding among different ethnic groups is not a modern concept.",
+      "It was previously inconceivable that early humans could interbreed.",
+      "More research is needed to conclusively identify the extent of early interbreeding.",
+      "Irregularities in genetic purity in different ethnic groups started in Neanderthal times.",
+      "Researchers do not need to compare the entire genome to identify the extent of interbreeding."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q63",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Daisy: - Thank you for your presentation about the differences between the flu and cold, but I missed the part about how their symptoms differ. Presenter: - Well, when you have a cold, the symptoms show up primarily above your neck, but if it is the flu, you have the symptoms both above and below your neck. Daisy: - ---- Presenter: - Yes!When you have a cold, things get worse slowly, but the flu hits you like a high-speed train.",
+    "options": [
+      "I see. Then, the best thing to do is to rest up when you have a cold.",
+      "Alright, and you also mentioned some facts about their severity.",
+      "So, we can say that the flu and cold have similar impacts.",
+      "I believe you also said that when we have the flu, we have a terrible headache.",
+      "It’s not hard to imagine why so many people confuse cold and the flu."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q64",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Adam: - So anyway, I heard that the registration deadline for summer school is fast approaching. You’d better hurry up and register if you want to take that physics class you’ve been going on and on about. Lara: - ---- Adam: - Wow, that sounds like a fantastic holiday, something I can only dream of. Lara: - Well, if you keep up your good grades like you always have, I’m sure you’ll land a good job after graduation and be able to travel wherever you want someday.",
+    "options": [
+      "Thanks for keeping me on track, but I wish I could go on holiday instead of going to summer school.",
+      "Yeah, I will. Speaking of summer, did I tell you that after summer school I’ve got a trip to China booked? I’m finally going to climb The Great Wall.",
+      "Sure thing. I’m ready to get this physics class out of the way. By the way, did I mention my summer holiday plans?",
+      "I need to get on that soon since I’ve wanted to take this class for ages. So I will have some time to go on holiday this summer.",
+      "Yep, it’s on my to-do list, but there are always so many things keeping me busy that I feel it’s high time for a bit of rest and relaxation."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q65",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Rob: - How lucky that they’ve found over 80 fossilised dinosaur footprints that have survived for over 100 million years in England! Sherry: - ---- Rob: - Well, the animal has to step in a sediment that is pliable enough to record their footprint, but not so pliable that it gets washed away before being protected by another layer of fresh sediment. Sherry: - Is that so? Seems like a lot of luck is involved then.",
+    "options": [
+      "Yes, that’s an incredibly rare find!",
+      "What’s luck got to do with fossilisation?",
+      "What’s the significance of these footprints though?",
+      "Wow! I wish I were lucky enough to discover them.",
+      "I didn’t know England has the type of sediment required for fossilisation."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q66",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Kim: - Hey! Look at what I’ve just read. Did you know that the game darts evolved in the 20th century from military training? Hailey: - Well, I don’t think that’s correct. Darts were in use as early as the Middle Ages. Archers used these heavily weighted hand arrows in close combat. Kim: - How could you possibly know so much about darts? I didn’t know you were a fan! Hailey: - ---- Kim: - Oh, now I know where that interest comes from.",
+    "options": [
+      "Everyone in England knows how darts became a big pub sport about a hundred years ago.",
+      "I was reading a book about Anne Boleyn which has a long part explaining the origins of darts.",
+      "The traditional setting of darts are pubs and bars and this has created several misconceptions about it, concealing its origins in military training.",
+      "You need to read more history so you can know how almost everything we modern people do already existed in this or that form thousands of years ago.",
+      "The National Darts Association is planning to start a campaign to educate the public about darts."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q67",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Mr. Jackson: - The price of the innocent mistakes allowed by our current software-based security is simply too high. Mrs. Swanson: - ---- Mr. Jackson: - Exactly. That’s why our networked world needs better approaches to cybersecurity. Mrs. Swanson: - Yeah. Just patching the software after a cyberattack, and hoping for the best is not good enough.",
+    "options": [
+      "Right. This sort of restructuring is likely to be a sensible solution to our cybersecurity problems.",
+      "I couldn’t agree more. As critical infrastructure becomes more and more interconnected, we create more points of vulnerability that can be exploited.",
+      "Data fraud and cyberattacks, however, are listed in its top five most likely global risks by the World Economic Forum.",
+      "To be honest, software programmers who have many effective ways of protecting a networked society are the best way of dealing with this problem.",
+      "Fortunately, the risk of exposing sensitive personal data has dramatically decreased recently thanks to software innovations."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q68",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Genuine laughter triggers the release of mood-boosting endorphins, which leads to a higher tolerance for pain.",
+    "options": [
+      "Mood-enhancing endorphins are released only when people laugh heartily and thus they can tolerate pain better.",
+      "People can tolerate more pain if their mood is enhanced by endorphins, which cause hearty laughter.",
+      "If people want to enhance their mood, they should laugh heartily and tolerate pain better, which helps them release endorphins.",
+      "To be able to laugh heartily by releasing endorphins that enhance their mood, people have to tolerate pain better.",
+      "When people laugh heartily, their bodies release endorphins that enhance their mood, and they can tolerate pain better."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q69",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Some aspects of juvenile animal behaviour are precursors to adult animal behaviour, while others are vital for the survival of the young animal.",
+    "options": [
+      "Because certain features of juvenile animal behaviour are essential to the survival of the young animal, adult animal behaviour is presupposed by others.",
+      "Though some sides of juvenile animal behaviour are crucial to the survival of a young animal, other aspects predetermine adult animal behaviour.",
+      "Even though some characteristics of juvenile animal behaviour give an example of adult animal behaviour, others are vital to the young animals that survive.",
+      "While a few aspects of juvenile animal behaviour give us a preview of adult animal behaviour, others show us which young animals will survive.",
+      "Although certain features of juvenile animal behaviour predict adult animal behaviour, others determine the likelihood of a young animal surviving."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q70",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "According to a study, 74% of photos we snap on our mobile phones are never looked at again, with selfies being the most easily forgotten shots.",
+    "options": [
+      "Research suggests that it is easy to forget that we have taken a selfie and 74% of such photos are taken with our mobile phones.",
+      "A study suggests that 74% of photos we take using our mobile phones consist of selfies that are not viewed again, which makes us forget them easily.",
+      "It was revealed by a research study that we easily forget to take a look again at 74% of photos we take with our mobile phones and selfies are some of them.",
+      "A study finding pointed out that selfies are among 74% of photos we take which we easily forget to look at again on our mobile phones.",
+      "A study revealed that 74% of photos taken with our mobile phones are not viewed again, including selfies, which are the shots that we forget the most easily."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q71",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although there are no known side effects associated with recommended dosages of saffron preparations in healthy individuals, people with chronic medical conditions should consult with their healthcare professional before taking the herb.",
+    "options": [
+      "If saffron preparations are consumed in sufficient amounts by healthy individuals and provide only benefits, then, it goes without saying that patients with chronic medical conditions can safely take them after consulting their healthcare specialist.",
+      "It is advisable for individuals with chronic medical conditions to see their healthcare specialist prior to taking saffron treatments despite there being no side effects in healthy people when taking the herb in suggested amounts.",
+      "While little is known about the dangers for healthy individuals taking saffron preparations, it is certain that people with chronic medical conditions should approach their healthcare professional before consuming the herb.",
+      "Since healthy individuals can freely take saffron preparations, patients with chronic medical illnesses can, after seeing their healthcare professional, take the herb in recommended dosages.",
+      "Regardless of how much saffron an individual with a chronic medical condition can take after consulting their healthcare specialist, a healthy person has to take only the recommended amounts of the herb to avoid any side effects."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q72",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The decline of England’s wild bees has been linked for the first time to the use of neonicotinoid pesticides on oilseed rape farms. ---- But recently, Ben Woodcock at the Centre for Ecology and Hydrology in Wallingford, UK, and his colleagues have studied data on 62 bee species from 31,800 surveys across more than 4,000 square kilometres of land. They have found that populations across all species declined by average of 7 percent after 2002, when farmers started widely using neonicotinoids on oilseed rape, and species that feed on rapeseed were hit three times as hard as those that do not.",
+    "options": [
+      "Researchers have concluded that many other factors affect bee-to-bee communication, such as climate change and disease.",
+      "These pesticides do not only contribute to the decline in the number of wild bee species, but they also hurt their ability to reproduce.",
+      "The effects such pesticides have on bees have been documented before, but there was no strong evidence focusing particularly on neonicotinoid pesticides.",
+      "Studies done on wild bees that eat plants with neonicotinoid pesticides have not yielded reliable results, so researchers now look for different reasons for bee decline.",
+      "In February 2018, the European Union approved the ban on neonicotinoid pesticides in an effort to protect bees and other valuable pollinator insects."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q73",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Thousands of individual parts make up the modern automobile. Much like the human body, these parts are arranged into several semi-independent systems, each with a different function. ---- The automobile contains similar circulatory systems to cool the engine using fluid (mostly water) and to circulate oil and fuel within the system. The engine ─ the ‘heart’ of the automobile ─ is comprised of pistons, cylinders, tubes to deliver fuel to the cylinders, and other components. Each system is necessary for making the automobile run and reducing noise and pollution.",
+    "options": [
+      "For example, our circulatory system comprises the heart, blood vessels, and blood.",
+      "The major systems of an automobile include the engine, fuel system, transmission, and electrical system.",
+      "When an automobile is designed, the arrangement and type of components depend on various factors.",
+      "Furthermore, the dependence on petroleum fuel of automobiles leads to power struggles and thus influences global politics.",
+      "Automobiles have given great freedom of movement as well as comfort to their owners."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q74",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As elephants walk through the forest or savanna, they leave big footprints behind them. These marks then fill with water, creating microhabitats for other forms of life. Researchers at Germany’s University of Koblenz-Landau analysed the contents of 30 footprints in Uganda. They found at least 61 different micro-invertebrate species, including mites. ---- Nevertheless, the study adds to a body of research suggesting that elephants play vital roles in their ecosystems.",
+    "options": [
+      "Researchers also think that this study serves as one more reminder of what we could lose if the illegal hunting crisis in Africa continues.",
+      "Because elephants weigh upward of 6,000 kilograms, they make quite an impression with their giant footprints.",
+      "Thanks to this study, researchers have proven without doubt that elephant footprints teem with life.",
+      "This work is in its early stage and more needs to be done to understand how heavily the tiny species rely on these footprint worlds.",
+      "The most common species found in these footprints were mayflies, backswimmers, leeches and gastropods."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q75",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Cities are dense with impermeable sidewalks and streets, so the concrete jungle does not exactly absorb excess water during storms. The result: destructive flash floods. To help, a Danish architectural firm has developed a tile-based modular paving system that collects and distributes rainwater. ---- The system captures water from roofs, streets, and parking lots, and delivers it to nearby permeable landscapes – such as garden boxes or park spaces – where it can be absorbed. The firm has already given a few Copenhagen sidewalks a face-lift this year to test out the tiles. But even before that experiment is finished, Toronto and several other cities have put in requests for the rain-draining material.",
+    "options": [
+      "Since permable pavements come in different forms, urban planners in other countries prefer to use a type of porous asphalt to absorb storm run-off.",
+      "Plants could be considered a necessity since they offer many perks to cities including shade, beauty, and habitat for wildlife.",
+      "These tiles resemble a normal paved surface but have small holes in them that funnel storm run-off into horizontally connected channels.",
+      "Roads, sidewalks, and terraces connect people but are often also impermeable to rain or flood waters.",
+      "One concern environmentalists have is preventing storm run-off from mixing with everyday pollutants like fertiliser and sewage."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q76",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Radar and its laser counterpart lidar can detect out-of-sight objects.(II)But haze, rain, smoke and dust throw these tools off by scattering light and radio waves. (III)By using statistical analysis and modeling, researchers reconstruct objects in 3-D. (IV)Now optics researchers at the University of Central Florida have taken advantage of this property to track a moving object hidden by a simulated fog.(V) By analysing subtle changes that an object creates in a pattern of scattered light, the researchers can instantly obtain the object’s direction and speed.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q77",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Current research indicates that there has been an increase in references to health and weight loss in food advertisements. (II)Food advertisers use a range of well-known figures who enjoy widespread recognition to act as spokespeople for a product and recommend it to the public. (III)Especially after 1920, advertisers were aware of the relationship between popular culture idols and their audiences. (IV) Such important early figures included movie stars and popular entertainers. (V)The list was later extended to include television stars and individuals from occupations such as politics, sports, the arts, and business.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q78",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Some people believe that we are a long way away from robots or instruments with artificial intelligence replicating our human intelligence processes and expanding beyond them without human support. (II) A few years before his death, Stephen Hawking, the noted cosmologist and science populariser, warned that artificial intelligence, fully developed, “could spell the end of the human race.” (III) Elon Musk, a private investor in space travel, has issued similar warnings lately. (IV)What both men were concerned about when they expressed their ideas is the military applications of artificial intelligence. (V)Although, so far, there are not high levels of military spending to further advance artificial intelligence, it might be assumed that the actual spending could be obscured due to security concerns.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q79",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Nobody knows exactly where music came from because there are no written records. (II) A good guess would be that thousands of years ago, primitive peoples used music in much the same way as we use it now: to communicate, to pass time while working, to express joy or sadness, or to mark a special occasion.(III)Flutes were among the earliest instruments to be found in all parts of the world. (IV)The first instrument was the one every person is born with—the body. (V)We have voices to sing and shout with, hands to clap, and feet to stamp and this is enough to create melody and rhythm, the two basic elements of music.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q80",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)The naming of constellations dates back to ancient civilisations. (II)In 140 AD the ancient Greek astronomer Claudius Ptolemy catalogued and named 48 constellations visible from Alexandria, Egypt. (III)All but one of those 48, Argo Navis (Argonauts’ Ship), which was subdivided in the 1750s into four separate constellations, are still included in present-day star catalogues. (IV)Stars, nebulae, or galaxies in the same constellation may or may not have anything in common. (V)Many new constellations were named in later centuries, mostly in previously uncharted parts of the sky in the Southern Hemisphere and those with originally Greek names were later changed with Latin equivalents by which they are still known today.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V OSYM001"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

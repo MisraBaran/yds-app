@@ -1,0 +1,1481 @@
+[
+  {
+    "id": "2013-sonbahar-q37",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Paul Fisher, an economist with an interest in science, left his mark in the business world by designing a better ballpoint pen.",
+    "options": [
+      "Daha iyi bir tükenmez kalem tasarlayan iktisatçı Paul Fisher, iş dünyasında fen bilimlerine katkısıyla adını duyurmuştur.",
+      "İş dünyasında iz bırakan iktisatçı Paul Fisher, daha iyi bir tükenmez kalem tasarlamayı, fen bilimlerine ilgisi sayesinde başarmıştır.",
+      "Fen bilimlerine ilgisiyle tanınan iktisatçı Paul Fisher, daha iyi bir tükenmez kalem tasarlayarak iş dünyasında adından söz ettirmiştir.",
+      "Fen bilimlerine ilgi duyan bir iktisatçı olan Paul Fisher, daha iyi bir tükenmez kalem tasarlayarak iş dünyasında iz bırakmıştır.",
+      "Paul Fisher, fen bilimlerine ilgi duyan bir iktisatçı olarak daha iyi bir tükenmez kalem tasarlamış ve böylece iş dünyasında adını duyurmuştur."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q41",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 41
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Make-up artists prepare actors’ faces and bodies for the stage to effectively reflect the physical properties of the characters to be played.",
+    "options": [
+      "Makyözler, canlandırılacak karakterlerin fiziksel özelliklerini etkili bir biçimde yansıtmak için oyuncuların yüzünü ve vücudunu sahne için hazırlar.",
+      "Makyözler, oyuncuların yüzünü ve vücudunu hazırlayarak, canlandırılacak karakterlerin fiziksel özelliklerinin sahnede etkili bir şekilde yansıtılmasını sağlar.",
+      "Makyözler, canlandırılacak karakterlerin fiziksel özelliklerini etkili bir şekilde yansıtabilmek için oyuncuların yüzünü ve vücudunu sahneye hazırlayan kişilerdir.",
+      "Makyözler, canlandırılacak karakterlerin fiziksel özellikleri sahnede tam anlamıyla yansıtılmak istendiği için oyuncuların yüzünü ve vücudunu etkili bir şekilde hazırlar.",
+      "Makyözler, canlandırılacak karakterlerin fiziksel özelliklerini istenilen şekilde yansıtmak amacıyla oyuncuların yüzünü ve vücudunu sahne için etkili hâle getirir."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2013-sonbahar-q42",
+    "source": {
+      "year": 2013,
+      "session": "sonbahar",
+      "number": 42
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "People who apply for professional assistance in coping with stress and pain are generally individuals whose strategies have proven ineffective in managing their problems.",
+    "options": [
+      "Sorunlarını çözmek için geliştirdikleri yöntemler yetersiz kalan bireyler, genellikle stres ve ağrıyla başa çıkma konusunda uzman desteğine başvururlar.",
+      "Stres ve ağrıyla başa çıkmada uzman desteğine başvuran bireyler, genellikle sorunlarını çözmek için kullandıkları yöntemler yetersiz kalan kişilerdir.",
+      "Stres ve ağrı ile başa çıkmak için uzman desteğine başvuranlar, genellikle sorunlarını çözmek için yetersiz yöntemler geliştiren kişilerden oluşmaktadır.",
+      "Bireyler, sorunlarını halletmek için kullandıkları yöntemler yetersiz kaldığında stres ve ağrıyla başa çıkmak için genellikle uzman desteğine başvururlar.",
+      "Bireyler, sorunlarına çare bulma konusunda gereken yöntemleri etkin olarak kullanamadıklarında stres ve ağrıyla başa çıkmak için genellikle uzman desteğine başvururlar."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q37",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "How advertisements affect both the audience and those who rely on advertising for their income is one of the most important debates on the media.",
+    "options": [
+      "Medyayla ilgili en önemli tartışmalardan biri de reklamların hem izleyiciyi hem de reklamlardan kazanç sağlayanları nasıl etkilediği olmuştur.",
+      "Medyayla ilgili en önemli tartışmalardan biri reklamların hem izleyiciyi hem de gelirleri için reklamlara bel bağlayanları nasıl etkilediğidir.",
+      "Reklamların hem izleyiciyi hem de gelirleri için reklamlara bel bağlayanları nasıl etkilediği medyayla ilgili en önemli tartışmalardan biridir.",
+      "Reklamların hem izleyiciyi hem de reklamlardan gelir elde edenleri nasıl etkilediği medya hakkındaki en önemli tartışmalardan birini oluşturmaktadır.",
+      "Reklamlardan gelir elde edenlerin ve izleyicilerin reklamlardan nasıl etkilendikleri medyayla ilgili en önemli tartışmalardan birinin konusudur."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q38",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Advanced data analysis is now on the verge of breaking free of its confines in hospitals and computer labs and making its way into our daily lives.",
+    "options": [
+      "Gelişmiş veri analizi artık sınırlarından kurtulup hastanelerde ve bilgisayar laboratuvarlarında olduğu gibi günlük hayatımıza girmek üzere.",
+      "Hastanelerdeki ve bilgisayar laboratuvarlarındaki sınırlarından kurtuluyor olması, gelişmiş veri analizinin artık günlük hayatımıza gireceğini göstermekte.",
+      "Gelişmiş veri analizi artık hastanelerdeki ve bilgisayar laboratuvarlarındaki sınırlarından kurtulup günlük hayatımıza girmek üzere.",
+      "Hastanelerdeki ve bilgisayar laboratuvarlarındaki sınırlarından kurtulan gelişmiş veri analizi artık günlük hayatımıza girmek üzere.",
+      "Günlük hayatımıza girmek üzere olan gelişmiş veri analizi artık hastanelerdeki ve bilgisayar laboratuvarlarındaki sınırlarından kurtuluyor."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-ilkbahar-q39",
+    "source": {
+      "year": 2014,
+      "session": "ilkbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "It is difficult to find the most suitable dose of drugs to be used to treat illnesses, and virtually all drugs will produce undesirable side effects if too high a dose is given.",
+    "options": [
+      "Hastalıkları tedavi etmede kullanılacak ilaçların en uygun dozunu bulmak zordur ve aşırı yüksek doz verilirse neredeyse bütün ilaçlar istenmeyen yan etkiler doğuracaktır.",
+      "Hastalıkları tedavi ederken kullanılacak ilaçların en uygun dozunu bulmak zordur çünkü aşırı yüksek dozda verildiğinde neredeyse bütün ilaçlar istenmeyen yan etkilere sebep olmaktadır.",
+      "Hastalıkları tedavi ederken kullanılacak ilaçların en uygun dozunu bulmak zordur çünkü aşırı yüksek doz verilirse neredeyse bütün ilaçlar istenmeyen yan etkiler ortaya çıkarmaktadır.",
+      "Hastalıkları tedavi etmede kullanılacak ilaçların en uygun dozunu bulmak zordur ve aşırı yüksek doz kullanımında istenmeyen yan etkilerin ortaya çıkması kaçınılmazdır.",
+      "İstenmeyen yan etkiler neredeyse bütün ilaçlar aşırı yüksek dozda kullanıldığında ortaya çıkar, bu yüzden hastalıkları tedavi etmede kullanılacak ilaçların en uygun dozunu bulmak zordur."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q37",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Textbooks are viewed as a means of presenting established bodies of knowledge to students.",
+    "options": [
+      "Ders kitapları, yerleşmiş olan bilgiyi öğrencilere takdim eden araçlar olarak görülür.",
+      "Yerleşmiş olan bilgi, öğrencilere ders kitapları aracılığıyla aktarılmaktadır.",
+      "Ders kitaplarının yerleşmiş olan bilgiyi öğrencilere aktarma işlevi bulunmaktadır.",
+      "Yerleşmiş olan bilgiyi öğrencilere sunan ders kitapları bir araç olarak görülmektedir.",
+      "Öğrenciler, yerleşmiş olan bilgiyi ders kitapları aracılığıyla edinir."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q38",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many people still use plants as medicine, and about half of medicines bought from a drugstore are obtained directly from plants.",
+    "options": [
+      "Birçok insan bitkileri hâlâ ilaç olarak kullanmakta ve doğrudan bitkilerden elde edilen ilaçlar eczaneden alınan ilaçların yaklaşık yarısını oluşturmaktadır.",
+      "Birçok insan bitkileri hâlâ ilaç olarak kullanmakta ve eczaneden alınan ilaçların yaklaşık yarısı doğrudan bitkilerden elde edilmektedir.",
+      "Bitkiler hâlâ birçok insan tarafından ilaç olarak kullanılmakta ve doğrudan bitkilerden elde edilen ilaçların yaklaşık yarısı eczanelerden alınmaktadır.",
+      "Eczanelerden alınan ilaçların yaklaşık yarısı doğrudan bitkilerden elde edilmekte ve birçok insan bitkileri hâlâ ilaç olarak kullanmaktadır.",
+      "Doğrudan bitkilerden elde edilen ilaçların yaklaşık yarısını birçok insan hâlâ eczanelerden almakta ve kullanmaktadır."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q39",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "How much vision is affected by a cataract depends on the intensity of light entering the eye and the location of the cataract.",
+    "options": [
+      "Katarakt, bulunduğu yere ve göze giren ışığın ne kadar yoğun olduğuna bağlı olarak görüşü etkiler.",
+      "Katarakt nedeniyle görüş, göze giren ışığın yoğunluğuna ve kataraktın yerine bağlı olarak etkilenir.",
+      "Göze giren ışığın yoğunluğu ve kataraktın bulunduğu yer, kataraktlı gözde görüşün ne kadar etkilendiğini belirler.",
+      "Görüşün katarakt nedeniyle etkilenip etkilenmediği, göze giren ışığın yoğunluğuna ve kataraktın bulunduğu yere göre değişir.",
+      "Görüşün katarakt tarafından ne kadar etkilendiği, göze giren ışığın yoğunluğuna ve kataraktın yerine bağlıdır."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q37",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since the reality reflected in documentaries is not natural, documentary filmmakers are aware that their choices shape the meaning they want to convey.",
+    "options": [
+      "Belgesellerde yansıtılan gerçeklik doğal olmadığı için belgesel film yapımcıları, tercihlerinin vermek istedikleri anlamı şekillendirdiğinin farkındadırlar.",
+      "Belgesel film yapımcıları, tercihlerinin vermek istedikleri anlamı şekillendirdiğinin ve bu yüzden belgesellerde ortaya konan gerçekliğin doğal olmadığının farkındadırlar.",
+      "Belgesel film yapımcılarının tercihleri ve vermek istedikleri anlamla şekillenen belgesellerde yansıtılan gerçeklik doğal değildir.",
+      "Belgesel film yapımcılarının vermek istedikleri anlam, tercihlerini şekillendirdiğinde belgesellerde sunulan gerçeklik doğal olmaktan uzaklaşır.",
+      "Belgesel film yapımcıları, belgesellerde yansıtılan gerçekliğin doğal olmadığının farkında oldukları için tercihlerini vermek istedikleri anlama göre şekillendirirler."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q38",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Though international security and global economics constitute the two major traditional issue areas in world politics, some academics now claim that the environment has emerged as the third major issue area.",
+    "options": [
+      "Uluslararası güvenlik ve küresel ekonominin dünya siyasetindeki iki büyük geleneksel sorun olduğu düşünülse de, bazı akademisyenler tarafından çevrenin de üçüncü büyük sorun olarak ortaya çıktığı iddia edilmektedir.",
+      "Uluslararası güvenlik ve küresel ekonomi dünya siyasetinde geleneksel olarak iki önemli sorun alanını teşkil etse de, bazı akademisyenlere göre çevre, artık üçüncü büyük sorun alanını teşkil etmektedir.",
+      "Uluslararası güvenlik ve küresel ekonomi dünya siyasetindeki iki büyük geleneksel sorun alanını teşkil etse de, bazı akademisyenler çevrenin artık üçüncü büyük sorun alanı olarak ortaya çıktığını iddia etmektedirler.",
+      "Uluslararası güvenlik ve küresel ekonomi dünya siyasetinin iki büyük geleneksel sorun alanını teşkil etmektedir ancak bazı akademisyenlerce çevrenin artık üçüncü büyük sorun alanını teşkil ettiği iddia edilmektedir.",
+      "Uluslararası güvenlik ve küresel ekonomi dünya siyasetinde iki büyük geleneksel sorun alanı olsa da, bazı akademisyenler üçüncü büyük sorun alanının da çevre olduğunu iddia etmektedirler."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2015-ilkbahar-q39",
+    "source": {
+      "year": 2015,
+      "session": "ilkbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Bacteria are an essential part of the life cycle because they feed on dead matter, decomposing it and recycling many of the chemical constituents.",
+    "options": [
+      "Bakteriler, ölü maddeleri ayrıştırarak ve kimyasal bileşenlerin çoğunu geri dönüştürerek bu maddelerle beslendiklerinden yaşam döngüsünün temel bir parçasıdır.",
+      "Yaşam döngüsünün temel bir parçası olan bakteriler, ölü maddeleri ayrıştırıp kimyasal bileşenlerin çoğunu geri dönüştürür ve bu maddelerle beslenir.",
+      "Beslenmek için ölü maddelerin kimyasal bileşenlerinin çoğunu geri dönüştürüp bu maddeleri ayrıştırdıklarından bakteriler, yaşam döngüsünün temel bir parçası durumundadır.",
+      "Ölü maddeleri ayrıştırıp kimyasal bileşenlerinin çoğunu geri dönüştürerek beslenen bakteriler, yaşam döngüsünün temel bir parçasıdır.",
+      "Ölü maddeleri ayrıştıran ve kimyasal bileşenlerinin çoğunu geri dönüştüren bakteriler, yaşam döngüsünün temel bir parçası olan bu maddelerle beslenir."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q37",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "The notion of an algorithm, a procedure for arriving at a solution by a sequence of elementary steps, was also familiar to the ancient Greeks, as can be seen in Euclid's algorithm used even today.",
+    "options": [
+      "Bir dizi temel adımla bir çözüme ulaşma prosedürü olan algoritma kavramı, Öklid'in bugün bile kullanılan algoritmasında da görülebileceği üzere antik Yunanlılar tarafından da bilinmekteydi.",
+      "Algoritma kavramı, yani bir dizi temel adımla bir çözüme ulaşma prosedürü, Öklid'in bugün bile kullanılan algoritmasında da görülebileceği gibi antik Yunanlılar döneminde de bilinmekteydi.",
+      "Bir temel adımlar zinciri ile bir çözüme ulaşma prosedürü olan algoritma kavramı, Öklid'in algoritmasında da görülebileceği üzere bugün olduğu gibi antik Yunanlılar zamanında da biliniyordu.",
+      "Bir temel adımlar dizisiyle bir çözüme ulaşma prosedürü olan ve antik Yunanlılar tarafından da bilinen algoritma kavramı, Öklid'in bugün bile kullanılan algoritmasında görülebilir.",
+      "Öklid'in bugün bile kullanılan algoritmasında da görülebileceği üzere antik Yunanlılar tarafından da bilinen algoritma kavramı, bir dizi temel adımla bir çözüme ulaşma prosedürüdür."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q38",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Reptiles and insects have no need to sweat because, unlike mammals, they do not need to maintain a constant body temperature.",
+    "options": [
+      "Memelilerin sabit bir vücut ısısını korumak için terlemeye ihtiyaçları vardır fakat sürüngenler ve böcekler için aynı durum söz konusu değildir.",
+      "Sürüngenler ve böcekler terlemeye ihtiyaç duymaz çünkü memelilerin aksine sabit bir vücut ısısını korumaları gerekmez.",
+      "Memelilerin sabit bir vücut ısısını korumak için terlemeleri gerekmektedir ancak sürüngenlerin ve böceklerin buna ihtiyacı yoktur.",
+      "Sürüngenler ve böcekler, sabit bir vücut ısısını korumaları gerekmediği için, memeliler gibi terlemeye ihtiyaç duymazlar.",
+      "Sürüngenlerin ve böceklerin terlemeye ihtiyaçları yoktur çünkü memelilerde olduğu gibi sabit bir vücut ısısını korumaları gerekmez."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-ilkbahar-q39",
+    "source": {
+      "year": 2016,
+      "session": "ilkbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "It is true that power nourishes all relationships, but only equally shared power can create happy individuals and satisfying marriages.",
+    "options": [
+      "Bütün ilişkileri besleyen şeyin güç olduğu doğrudur, ancak mutlu bireyler ve tatminkâr evlilikler, güç sadece eşit olarak paylaşılırsa yaratılabilir.",
+      "Bütün ilişkilerin güçle beslendiği doğrudur, ancak güç sadece eşit olarak paylaşıldığında mutlu bireyler ve tatminkâr evlilikler yaratabilir.",
+      "Gücün bütün ilişkileri beslediği doğrudur, ancak güç sadece eşit olarak paylaşıldığı takdirde mutlu bireyler ve tatminkâr evlilikler yaratabilir.",
+      "Gücün bütün ilişkileri beslediği doğrudur, ancak mutlu bireyler ve tatminkâr evlilikler sadece eşit olarak paylaşılan güçle yaratılabilir.",
+      "Gücün bütün ilişkileri beslediği doğrudur, ancak sadece eşit olarak paylaşılan güç mutlu bireyler ve tatminkâr evlilikler yaratabilir."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q37",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "James Hansen, a climatologist at Columbia University, critically expressed that as long as fossil fuels are the cheapest fuels in the market, they will continue to be used.",
+    "options": [
+      "James Hansen, fosil yakıtların piyasadaki en ucuz yakıtlar olduğu sürece kullanılmaya devam edileceğini eleştirel bir şekilde ifade ettiğinde Kolombiya Üniversitesi'nde iklim bilimciydi.",
+      "İklim bilimci James Hansen, fosil yakıtların piyasadaki en ucuz yakıtlar olduğu sürece kullanılmaya devam edileceğini Kolombiya Üniversitesi'nde eleştirel bir şekilde ifade etti.",
+      "Kolombiya Üniversitesi'nde iklim bilimci olan James Hansen, fosil yakıtların piyasadaki en ucuz yakıtlar olduğu sürece kullanılmaya devam edileceğini eleştirel bir şekilde ifade etmiştir.",
+      "Fosil yakıtların, piyasadaki en ucuz yakıtlar olduğu sürece, kullanılmaya devam edileceğini eleştirel bir şekilde ifade eden, Kolombiya Üniversitesi'ndeki iklim bilimci James Hansen'dı.",
+      "Kolombiya Üniversitesi'nde iklim bilimci olan James Hansen, fosil yakıtların piyasadaki en ucuz yakıtlar oldukları için kullanılmaya devam edileceğini eleştirel bir şekilde ifade etti."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q38",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "There are over 100 trillion bacteria in our body, most of which are in the guts, and they support essential functions like digestion, immunity and mental health.",
+    "options": [
+      "Sindirim, bağışıklık ve akıl sağlığı gibi önemli fonksiyonları destekleyen ve vücudumuzda çoğunlukla bağırsaklarda bulunan 100 trilyondan fazla bakteri vardır.",
+      "Vücudumuzdaki 100 trilyondan fazla bakterinin çoğu bağırsaklardadır ve bunlar sindirim, bağışıklık ve akıl sağlığı gibi önemli fonksiyonları desteklemektedir.",
+      "Vücudumuzda bulunan 100 trilyonu aşkın bakterinin çoğu bağırsaklarda yaşar ve sindirim, bağışıklık ve akıl sağlığı gibi önemli fonksiyonları destekler.",
+      "Vücudumuzda çoğu bağırsaklarda olan 100 trilyondan fazla bakteri vardır ve bunlar sindirim, bağışıklık ve akıl sağlığı gibi önemli fonksiyonları desteklemektedir.",
+      "Sindirim, bağışıklık ve akıl sağlığı gibi önemli fonksiyonları destekleyen 100 trilyonu aşkın bakteri, vücudumuzda çoğunlukla bağırsaklarda bulunmaktadır."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q39",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although sleep disorder has negative effects on almost all of the occupations throughout the world, it is a particular source of concern for those who work the night shift.",
+    "options": [
+      "Gece vardiyasında çalışanlar için özel bir endişe kaynağı olan uyku bozukluğu, artık tüm dünyada hemen hemen bütün meslekler üzerinde olumsuz etkiler yaratmaktadır.",
+      "Uyku bozukluğu, gece vardiyasında çalışanlar için özel bir endişe kaynağı oluştursa da dünya çapındaki hemen hemen bütün meslekler üzerinde olumsuz etkilere sahiptir.",
+      "Uyku bozukluğu, tüm dünyada neredeyse bütün meslekler üzerinde olumsuz etkilere sahip olmasına rağmen, en çok gece vardiyasında çalışanlar için özel bir endişe kaynağı oluşturmaktadır.",
+      "Uyku bozukluğu, dünya genelindeki hemen hemen bütün meslekler üzerinde olumsuz etkiler oluşturmaktadır ancak gece vardiyasında çalışanlar için özel bir endişe kaynağıdır.",
+      "Uyku bozukluğu, dünya çapında neredeyse bütün meslekler üzerinde olumsuz etkilere sahip olsa da gece vardiyasında çalışanlar için özel bir endişe kaynağıdır."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q37",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "The arrival of the domestic horse in West Africa transformed warfare there and turned the area into a set of kingdoms dependent on the force of cavalry.",
+    "options": [
+      "Batı Afrika’nın atlı asker gücüne bağlı bir dizi krallığa dönüşmesinin nedeni, evcil atların bölgeye gelişi ve oradaki savaş anlayışını değiştirmesidir.",
+      "Batı Afrika’daki savaş anlayışı evcil atların gelişiyle değişti ve bölge atlı asker gücüne dayalı bir dizi krallığa dönüştü.",
+      "Evcil atların Batı Afrika’ya ulaşması oradaki savaş anlayışını değiştirdi ve bölgeyi atlı asker gücüne dayalı bir dizi krallığa dönüştürdü.",
+      "Evcil atların bölgeye ulaşmasıyla savaş anlayışında değişiklikler yaşayan Batı Afrika, atlı asker gücüne dayalı bir dizi krallık hâline geldi.",
+      "Evcil atların Batı Afrika'ya ulaşması oradaki savaş anlayışını değiştirerek bölgenin atlı asker gücüne dayalı bir dizi krallığa dönüşmesine neden oldu."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q38",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "A study carried out at Weill Cornell Medical College has found out how the brain switches between waking and the unconscious, which is promising for rousing people from an unconscious state.",
+    "options": [
+      "Weill Cornell Tıp Fakültesi'nde yapılan ve beynin uyanma ve bilinçaltı arasında nasıl geçiş yaptığını ortaya çıkaran çalışma, insanları bilinçsiz bir durumdan uyandırma konusunda ümit vericidir.",
+      "Weill Cornell Tıp Fakültesi'nde yapılan bir çalışma, beynin uyanma ve bilinçaltı arasında nasıl geçiş yaptığını ortaya çıkardığı için insanları bilinçsiz bir durumdan uyandırma konusunda ümit vadediyor.",
+      "Weill Cornell Tıp Fakültesi'nde, beynin uyanma ve bilinçaltı arasında nasıl geçiş yaptığını ortaya çıkarma ve insanları bilinçsiz bir durumdan uyandırma konusunda ümit vadeden bir çalışma yapılmıştır.",
+      "Beynin uyanma ve bilinçaltı arasında nasıl geçiş yaptığını ortaya çıkaran ve insanları bilinçsiz bir durumdan uyandırma konusunda ümit vadeden bir çalışma, Weill Cornell Tıp Fakültesi'nde yapılmıştır.",
+      "Weill Cornell Tıp Fakültesi'nde yapılan bir çalışma, beynin uyanma ve bilinçaltı arasında nasıl geçiş yaptığını ortaya çıkarmıştır, ki bu insanları bilinçsiz bir durumdan uyandırma konusunda ümit vericidir."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-ilkbahar-q39",
+    "source": {
+      "year": 2017,
+      "session": "ilkbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Widely regarded as Australia’s capital of culture, Melbourne is a vibrant city with various surprises around every corner.",
+    "options": [
+      "Çoğunlukla Avustralya’nın kültür başkenti olarak kabul edilen Melbourne, her köşesinde çeşitli sürprizler barındıran canlı bir kenttir.",
+      "Melbourne’ün çoğunlukla Avustralya’nın kültür başkenti olarak kabul edilmesinin sebebi, bu canlı şehrin her köşesinde çeşitli sürprizler barındırıyor olmasıdır.",
+      "Çoğunlukla Avustralya'nın kültür başkenti olarak kabul edilen Melbourne, canlı olduğu kadar her köşesinde çeşitli sürprizler de barındıran bir kenttir.",
+      "Her köşesinde farklı sürprizler barındıran ve canlı bir kent olan Melbourne, çoğunlukla Avustralya'nın kültür başkenti olarak kabul edilir.",
+      "Melbourne çoğunlukla Avustralya’nın kültür başkenti olarak kabul edilir, çünkü bu canlı şehir her köşesinde çeşitli sürprizler barındırır."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q37",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "New Zealand, separated from other land masses, has unique plant and animal species, which are vulnerable to the impacts of non-native species.",
+    "options": [
+      "Eşsiz bitki ve hayvan türlerinin bulunduğu Yeni Zelanda diğer kara parçalarından ayrıdır, dolayısıyla bu türler yabancı türlerin etkilerine karşı savunmasızdır.",
+      "Yeni Zelanda’nın diğer kara parçalarından ayrı olması, eşsiz bitki ve hayvan türlerini yabancı türlerin etkilerine karşı savunmasız hâle getirmiştir.",
+      "Yeni Zelanda diğer kara parçalarından ayrılmış olsa da yabancı türlerin etkilerine karşı savunmasız hâlde bulunan eşsiz bitki ve hayvan türlerine sahiptir.",
+      "Diğer kara parçalarından ayrı olan Yeni Zelanda, yabancı türlerin etkilerine karşı savunmasız hâlde bulunan eşsiz bitki ve hayvan türlerine sahiptir.",
+      "Yeni Zelanda diğer kara parçalarından ayrı olduğu için burada bulunan eşsiz bitki ve hayvan türleri, yabancı türlerin etkilerine karşı savunmasızdır."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q38",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Believing that sports could be used to promote peace between countries, the French aristocrat Pierre de Coubertin organised the first modern Olympic Games in Athens, in 1896.",
+    "options": [
+      "Fransız aristokrat Pierre de Coubertin, sporun ülkeler arasındaki barışa önayak olması için kullanılabileceğine inanarak 1896'da Atina'da ilk modern Olimpiyat Oyunları'nı düzenledi.",
+      "1896'da, sporun ülkeler arasındaki barışa önayak olması için kullanılabileceği inancıyla ilk modern Olimpiyat Oyunları'nı düzenleyen kişi Fransız aristokrat Pierre de Coubertin'dir.",
+      "Fransız aristokrat Pierre de Coubertin, spor aracılığıyla ülkeler arasındaki barışa önayak olunabileceğine inanarak 1896'da Atina'da ilk modern Olimpiyat Oyunları'nı düzenledi.",
+      "Fransız aristokrat Pierre de Coubertin, sporun ülkeler arasındaki barışa önayak olabileceğine inandığı için 1896'da Atina'da ilk modern Olimpiyat Oyunları'nın düzenlenmesini sağladı.",
+      "İlk modern Olimpiyat Oyunları'nın 1896'da düzenlenmesi, Fransız aristokrat Pierre de Coubertin'in sporun ülkeler arasındaki barışa önayak olması için kullanılabileceği düşüncesine dayanır."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2017-sonbahar-q39",
+    "source": {
+      "year": 2017,
+      "session": "sonbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Originally imported from China in the 12th century, tea has been a significant component of Japanese culture ever since.",
+    "options": [
+      "12. yüzyıldan beri Japon kültürünün önemli bir parçası olan çay, aslında Çin’den getirilmiştir.",
+      "12. yüzyılda aslında Çin'den getirilen çay, o zamandan beri Japon kültürünün önemli bir parçası olmuştur.",
+      "Japon kültürünün önemli bir parçası olan çay, aslında 12. yüzyıldan beri Çin'den getirilmektedir.",
+      "Çay aslında 12. yüzyılda Çin'den getirilse de o zamandan beri Japon kültürünün önemli bir parçası olmuştur.",
+      "Çay aslında 12. yüzyılda Çin’den getirildiğinden beri Japon kültürünün önemli bir parçası olmuştur."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q37",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "As a result of dramatically increased communication between people in recent years, we live in a world that is increasingly multilingual, where languages we speak are no longer confined to a specific geographical area.",
+    "options": [
+      "İnsanlar arasındaki iletişim son yıllarda önemli ölçüde arttı ve bunun sonucunda konuştuğumuz dillerin artık belirli bir coğrafi bölgeyle sınırlandırılmadığı, giderek çok dilli olan bir dünyada yaşıyoruz.",
+      "Son yıllarda insanlar arasındaki iletişimin artması, konuştuğumuz dillerin artık belirli bir coğrafi bölgeye özgü olmadığı, giderek çok dilli hâle gelen bir dünyada yaşamamızın bir sonucudur.",
+      "Konuştuğumuz dillerin artık belirli bir coğrafi bölgeyle sınırlandırılmış olmaması sonucunda giderek çok dilli hâle gelen bir dünyada yaşadığımız için insanlar arasındaki iletişim son yıllarda önemli ölçüde arttı.",
+      "Son yıllarda insanlar arasındaki iletişimin büyük ölçüde artması sonucunda giderek çok dilli olan ve konuştuğumuz dillerin artık belirli bir coğrafi bölgeye özgü olmadığı bir dünyada yaşıyoruz.",
+      "Son yıllarda insanlar arasında önemli ölçüde artan iletişimin bir sonucu olarak, konuştuğumuz dillerin artık belirli bir coğrafi bölgeyle sınırlandırılmadığı, giderek çok dilli olan bir dünyada yaşıyoruz."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q38",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "In the West, meditation is regarded as a cure for depression, as a recipe for happiness, and it is even advised for pain relief when the drugs fail, yet in Asia, it represents a spiritual exploration of the mind.",
+    "options": [
+      "Meditasyon, her ne kadar Batı’da depresyon için bir tedavi, mutluluk için bir reçete olarak görülse ve hatta ilaçlar yetersiz kaldığında ağrıdan kurtulmak için tavsiye edilse de bu uygulama Asya’da, zihnin ruhani bir keşfini simgeler.",
+      "Asya’da zihnin ruhani bir keşfini temsil eden meditasyon, Batı'da depresyon için bir tedavi, mutluluk için bir reçete olarak görülür ve ilaçların ağrıyı gidermediği durumlarda bile tavsiye edilir.",
+      "Batı’da, depresyonun tedavisi, mutluluk için bir reçete olarak görülen ve ilaçların yetersiz kaldığı durumlarda ağrıdan kurtulmak için tavsiye edilen meditasyon, Asya’da zihnin ruhani bir keşfini temsil eder.",
+      "Batı’da meditasyonun depresyon için bir tedavi, mutluluk için bir reçete olarak görülmesine ve hatta ilaçların yetersiz kaldığı durumlarda ağrıdan kurtulmak için tavsiye edilmesine rağmen Asya’da zihnin ruhani bir keşfini simgeler.",
+      "Meditasyon, Batı’da depresyon için bir tedavi, mutluluk için bir reçete olarak görülür ve hatta ilaçlar yetersiz kaldığında ağrıdan kurtulmak için tavsiye edilir ancak Asya’da zihnin ruhani bir keşfini temsil eder."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-3-q39",
+    "source": {
+      "year": 2018,
+      "session": "3",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Persuasive communication designed to arouse fear is usually effective; however, if the message arouses too much fear, the effects may be disruptive and lead people to ignore or reject the information.",
+    "options": [
+      "Korku uyandırmaya yönelik ikna edici iletişim genelde etkilidir ama çok fazla korku yaratan mesajın etkileri rahatsızlık verebilir ve kişiler tarafından bilginin göz ardı edilmesine veya reddedilmesine neden olabilir.",
+      "Korku uyandırmaya yönelik ikna edici iletişim genellikle etkilidir ancak mesaj çok fazla korku yaratırsa, etkileri rahatsız edici olabilir ve kişilerin bilgiyi göz ardı etmesine veya reddetmesine yol açabilir.",
+      "İkna edici iletişim korku uyandırmaya yönelik olursa genellikle etkilidir fakat mesaj gereğinden fazla korku yaratırsa, etkileri rahatsızlık verici olabilir ve bilginin kişiler tarafından göz ardı edilmesiyle veya reddedilmesiyle sonuçlanır.",
+      "İkna etmeye yönelik iletişim korku uyandırdığında genellikle etkilidir ancak mesaj fazla korku yaratırsa, etkileri rahatsızlık verebilir ve bilginin kişiler tarafından göz ardı edilmesine veya reddedilmesine neden olur.",
+      "İkna etmeye yönelik iletişim korku uyandırdığı taktirde genelde etkilidir fakat fazla korku uyandırdığı durumlarda mesajın etkileri rahatsız edici olabilir ve kişilerin bilgiyi göz ardı etmesine veya reddetmesine yol açabilir."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q37",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since the 1970s, media literacy has developed through the work of educators who have implemented programs to explore mass media, popular culture, and communication technologies with children and young people.",
+    "options": [
+      "Medya okuryazarlığı, kitle iletişimini, popüler kültürü ve iletişim teknolojilerini çocuklar ve genç insanlarla keşfetmek için çalışan eğitimcilerin yaptığı programlar sayesinde 1970’lerden beri gelişmektedir.",
+      "1970’lerden beri medya okuryazarlığı, çocuklarla ve genç insanlarla kitle iletişimini, popüler kültürü ve iletişim teknolojilerini keşfetmek için programlar uygulayan eğitimcilerin çalışmaları aracılığıyla gelişmektedir.",
+      "Çocuklar ve genç insanlarla kitle iletişimini, popüler kültürü ve iletişim teknolojilerini keşfetmek için programlar düzenleyen eğitimcilerin çalışmaları sayesinde medya okuryazarlığı 1970’lerden günümüzdeki hâline gelmiştir.",
+      "Medya okuryazarlığının gelişmesi çocuklarla ve genç insanlarla kitle iletişimini, popüler kültürü ve iletişim teknolojilerini keşfetmek için 1970’lerden beri programlar uygulayan eğitimcilerin çalışmaları sayesinde olmuştur.",
+      "Kitle iletişimini, popüler kültürü ve iletişim teknolojilerini keşfetmek üzere 1970’lerden beri çocuklara ve genç insanlara uygulanan programlar eğitimcilerin çalışmalarıyla birlikte medya okuryazarlığını geliştirmiştir. 2018-Y DS Spring/English"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q38",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "As members of households established complex relationships with outsiders during the agrarian era, they came under the influence of new rules, structures, and expectations.",
+    "options": [
+      "Hane fertleri, tarım dönemi boyunca yabancılarla çeşitli ilişkiler kurarak yeni kuralların, yapıların ve beklentilerin etkisi altına girmişlerdir.",
+      "Hane fertlerinin yabancılarla karmaşık ilişkiler kurması tarım dönemine denk gelmiştir ve bu dönemde yeni kurallardan, yapılardan ve beklentilerden etkilenmişlerdir.",
+      "Tarım döneminde hane fertlerinin yabancılarla çeşitli ilişkiler kurmasının sebebi; yeni kuralların, yapıların ve beklentilerin etkisi altına girmiş olmalarıdır.",
+      "Tarım döneminde hane fertleri yabancılarla karmaşık ilişkiler kurdukça yeni kuralların, yapıların ve beklentilerin etkisi altına girmişlerdir.",
+      "Yeni kuralların, yapıların ve beklentilerin etkisi altına giren hane fertleri, tarım döneminde yabancılarla daha karmaşık ilişkiler kurmuşlardır."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-ilkbahar-q39",
+    "source": {
+      "year": 2018,
+      "session": "ilkbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "More than a hundred different studies have shown that there really is a significant relation between happiness and physical health.",
+    "options": [
+      "Yapılan yüzden fazla farklı çalışma göstermiştir ki mutluluk ile beden sağlığı arasında gerçekten önemli bir ilişki bulunabilir.",
+      "Mutluluk ile beden sağlığı arasındaki önemli bir ilişkinin gerçekliği, yüzden fazla farklı çalışma sayesinde ortaya konmuştur.",
+      "Mutluluk ile beden sağlığı arasında gerçekten önemli bir ilişki olup olmadığını göstermek için yüzden fazla farklı çalışma yapılmıştır.",
+      "Yüzden fazla farklı çalışma, mutluluk ile beden sağlığı arasında gerçekten önemli bir ilişki olduğunu göstermiştir.",
+      "Yüzden fazla farklı çalışmaya göre, mutluluk ile beden sağlığı arasında gerçekten önemli bir ilişki olabilir."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q37",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Intelligence, which has been open to a range of definitions due to its abstract nature and thus has become a controversial topic, is usually regarded as a measure of cognitive skills and the ability to solve problems.",
+    "options": [
+      "Çoğunlukla bilişsel becerilerin ve problem çözme yeteneğinin bir ölçütü olarak görülen zekâ, soyut doğasından ötürü bir dizi tanıma açık olduğu için tartışmalı bir konu hâline gelmiştir.",
+      "Zekâ, soyut doğası gereği bir dizi tanıma açık olup tartışmalı bir konu hâline gelse de genellikle bilişsel becerilerin ve problem çözme yeteneğinin bir ölçütü olarak görülmektedir.",
+      "Genellikle bilişsel becerilerin ve problem çözme yeteneğinin bir ölçütü olarak görülen zekânın soyut doğası nedeniyle bir dizi tanıma açık olması, onu tartışılan bir konu hâline getirmiştir.",
+      "Soyut doğasından ötürü bir dizi tanıma açık olan ve bu yüzden tartışmalı bir konu hâline gelen zekâ, genellikle bilişsel becerilerin ve problem çözme yeteneğinin bir ölçütü olarak görülmektedir.",
+      "Zekâ çoğu zaman bilişsel becerilerin ve problem çözme yeteneğinin bir ölçütü olarak görülmüş, soyut doğası gereği bir dizi tanıma açık olmuş ve bundan dolayı tartışmalı bir konu hâline gelmiştir."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q38",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "World War I was supposed to be the war to end all wars, but defeated countries were faced with harsh peace terms, which led to the outbreak of World War II.",
+    "options": [
+      "I. Dünya Savaşı’nın tüm savaşlara son verecek savaş olacağı düşünülüyordu, fakat yenilen ülkelerin ağır barış koşullarıyla karşı karşıya kalması sonucunda II. Dünya Savaşı gerçekleşti.",
+      "Tüm savaşlara son verecek savaş olacağı zannedilen I. Dünya Savaşı’nda yenilen ülkeler ağır barış koşullarıyla karşı karşıya kaldı ve bu durum II. Dünya Savaşı’nın ortaya çıkmasına neden oldu.",
+      "I. Dünya Savaşı’nın tüm savaşları sona erdirecek savaş olacağı zannediliyordu, ancak yenilen ülkeler ağır barış koşullarıyla karşı karşıya kaldı, ki bu da II. Dünya Savaşı’nın ortaya çıkmasına neden oldu.",
+      "II. Dünya Savaşı’nın gerçekleşmesine neden olan şey, I. Dünya Savaşı’nın tüm savaşlara son verecek savaş olacağının düşünülmesine rağmen yenilen ülkelerin ağır barış koşullarıyla karşı karşıya kalmasıydı.",
+      "I. Dünya Savaşı’nın tüm savaşları sona erdirecek savaş olacağına inanılsa da yenilen ülkelerin ağır barış koşullarıyla karşı karşıya kalması, II. Dünya Savaşı’nın ortaya çıkmasına neden oldu."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2018-sonbahar-q39",
+    "source": {
+      "year": 2018,
+      "session": "sonbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Today’s urban developments, coupled with an increasing population, threaten many archaeological sites in Egypt.",
+    "options": [
+      "Günümüzdeki kentsel gelişmeler, nüfus artışının da etkisiyle birlikte, Mısır’daki birçok arkeolojik alan için tehdit oluşturmaktadır.",
+      "Mısır’daki birçok arkeolojik alan, günümüzdeki kentsel gelişmeler ve artmakta olan nüfus yüzünden tehdit altındadır.",
+      "Günümüzdeki kentsel gelişmeler, artmakta olan nüfusla birlikte, Mısır’daki birçok arkeolojik alanı tehdit etmektedir.",
+      "Günümüzdeki kentsel gelişmeler, nüfus artışını beraberinde getirerek Mısır’daki birçok arkeolojik alan için tehdit oluşturmaktadır.",
+      "Günümüzdeki kentsel gelişmelerin artmakta olan nüfusla desteklenmesi, Mısırda'ki birçok arkeolojik alanı tehdit etmektedir."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q37",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "The Morse code, which is a milestone in long-range communication, was designed so that telegraph operators could communicate via electrical signals.",
+    "options": [
+      "Uzun mesafe iletişimde bir dönüm noktası olan Mors alfabesi, telgraf operatörlerinin elektrik sinyalleri aracılığıyla iletişim kurabilmeleri için tasarlanmıştır.",
+      "Uzun mesafe iletişimde bir dönüm noktası olsa da Mors alfabesi ilk olarak telgraf operatörlerinin elektrik sinyalleri yoluyla haberleşmeleri için tasarlanmıştır.",
+      "Telgraf operatörlerinin elektrik sinyalleri aracılığıyla iletişim kurması için tasarlanması, Mors alfabesini uzun mesafe iletişimde bir dönüm noktası hâline getirmiştir.",
+      "Elektrik sinyalleri aracılığıyla telgraf operatörlerinin iletişim kurması için tasarlanan Mors alfabesi, uzun mesafe iletişimin dönüm noktasıdır.",
+      "Uzun mesafe iletişimde bir dönüm noktası olan Mors alfabesinin tasarlanma sebebi, telgraf operatörlerinin elektrik sinyalleriyle iletişim kurabilmelerini sağlamaktı."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q38",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Solving a series of incredibly difficult problems , the Wright brothers created a revolutionary new technology that changed the world in a way that even they could not imagine.",
+    "options": [
+      "Wright kardeşler, kendilerinin bile hayal edemeyeceği bir biçimde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratarak inanılmaz derecede zor bir dizi problemi çözmüşlerdir.",
+      "Wright kardeşler, inanılmaz derecede zor bir dizi problemi çözmüşler ve kendilerinin bile hayal edemeyeceği bir biçimde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmışlardır.",
+      "Wright kardeşlerin inanılmaz derecede zor bir dizi problemi çözerek dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmaları, kendilerinin bile hayal edemeyeceği bir şeydi.",
+      "Wright kardeşler, inanılmaz derecede zor bir dizi problemi çözerek kendilerinin bile hayal edemeyeceği bir şekilde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmışlardır.",
+      "Wright kardeşlerin kendilerinin bile hayal edemeyeceği bir biçimde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmak için yaptıkları şey, inanılmaz derecede zor bir dizi problemi çözmekti."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-1-q39",
+    "source": {
+      "year": 2019,
+      "session": "1",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Every child has an individual learning style, and they learn information best when it is delivered in a mode suited to their style.",
+    "options": [
+      "Her çocuk kendine özgü bir öğrenme şekline sahiptir ve çocuklar bilgiyi en iyi kendi tarzlarına uygun bir biçimde verildiğinde öğrenir.",
+      "Kendine özgü öğrenme şekliyle her çocuk, bilgiyi en iyi kendi tarzına uygun bir biçimde verildiğinde öğrenir.",
+      "Kendine özgü bir öğrenme şekli olan her çocuk, öğrenme tarzına uygun verildiği takdirde bilgiyi en iyi şekilde öğrenir.",
+      "Her çocuk kendine özgü bir öğrenme şekline sahip olduğu için bilgiyi en iyi kendi tarzına uygun bir biçimde verildiğinde öğrenir.",
+      "Her çocuk kendine özgü bir öğrenme şekline sahiptir ve onlar için bilgiyi öğrenmenin en iyi yolu, kendi tarzlarına uygun olanıdır."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q37",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Alternative medicine has become increasingly popular in the Western world since about 1975, and has been the subject of much research ever since.",
+    "options": [
+      "Yaklaşık 1975’ten beri Batı dünyasında gittikçe yaygınlaşan alternatif tıp, bu tarihten itibaren birçok araştırmanın konusu olmuştur.",
+      "Alternatif tıp, Batı dünyasında yaklaşık 1975’ten beri gittikçe popüler hâle gelmiştir ve bu tarihten itibaren pek çok araştırmanın konusu olmuştur.",
+      "Alternatif tıp, Batı dünyasında yaklaşık 1975’ten beri gitgide yaygınlaşarak bu tarihten itibaren çok sayıda araştırmanın konusu olmuştur.",
+      "Yaklaşık 1975’ten beri Batı dünyasında gittikçe artan bir popülerliğe sahip olan alternatif tıp, bu tarihten itibaren birçok araştırmaya konu olmuştur.",
+      "Alternatif tıp, yaklaşık 1975’ten beri Batı dünyasında gitgide tanındığı için bu tarihten itibaren birçok araştırmanın konusu olmuştur."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q38",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Forensic investigators make a permanent record of anything at a crime scene that is relevant to the crime, and not only does this attention prevent dependence on highly unreliable human memory, and it also provides evidence that is likely to be accepted in court.",
+    "options": [
+      "Adli araştırmacıların olay yerinde suç ile ilgili her şeyin kalıcı kaydını tutmaları ve onların bu dikkatleri, oldukça güvenilmez olan insan hafızasına bağımlı olmayı engellemekle kalmaz, mahkemede muhtemelen kabul edilebilecek kanıt da sağlar.",
+      "Olay yerinde suç ile ilgili her şeyin kalıcı kaydını tutan adli araştırmacılar ve onların bu dikkatleri, oldukça güvenilmez olan insan hafızasına bağımlı olmayı engellemekle birlikte mahkemeye muhtemelen kabul edilebilecek kanıt sağlar.",
+      "Adli araştırmacılar, olay yerinde suç ile ilgili her şeyin kalıcı kaydını tutarlar ve bu dikkat sadece oldukça güvenilmez olan insan hafızasına bağımlı olmayı engellemekle kalmaz aynı zamanda mahkemede muhtemelen kabul edilebilecek kanıt da sağlar.",
+      "Adli araştırmacılar, olay yerinde suç ile ilgili her şeyin kalıcı kaydını dikkatle tutarlar ve bu, hem oldukça güvenilmez olan insan hafızasına bağımlı olmalarını engeller hem de mahkemede muhtemelen kabul edilebilecek kanıt sunmalarını sağlar.",
+      "Adli araştırmacılar olay yerinde suç ile ilgili her şeyin kalıcı kaydını dikkatli bir şekilde tutarak hem oldukça güvenilmez olan insan hafızasına bağımlı olmaktan kaçınırlar hem de mahkemede muhtemelen kabul edilebilecek kanıt elde ederler."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-2-q39",
+    "source": {
+      "year": 2019,
+      "session": "2",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Bullying has been documented in almost every culture around the world, though there is evidence that it may be more prevalent in some countries than in others.",
+    "options": [
+      "Dünya genelinde neredeyse bütün ülkelerde zorbalığa dair kanıtlar bulunmaktadır ancak bazı kültürlerde diğerlerinde olduğundan daha yaygın olabileceği ispat edilmiştir.",
+      "Dünya genelinde neredeyse her kültürde kanıtları olan zorbalığın bazı ülkelerde diğerlerinde olduğundan daha yaygın olabileceği ispat edilmiştir.",
+      "Dünya genelinde neredeyse her kültürde bulunduğu ispat edilmiş olsa da zorbalığın bazı ülkelerde diğerlerine oranla daha yaygın olduğuna dair kanıtlar bulunmuştur.",
+      "Zorbalığın dünya çapında neredeyse her kültürde var olduğu ispat edilmiştir ancak bazı ülkelerde diğerlerinde olduğundan daha yaygın olabileceğine dair kanıtlar bulunmaktadır.",
+      "Bazı ülkelerde diğerlerine oranla daha yaygın olabileceğine dair kanıtlar bulunan zorbalığın, dünya genelinde neredeyse her kültürde var olduğu ispat edilmiştir."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q37",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Accurate measurements in scientific investigations gained more importance in the 17th century, when scientists became aware that only with reliable measurements could they support their theories.",
+    "options": [
+      "Bilim insanlarının 17. yüzyılda teorilerini sadece güvenilir ölçümlerle destekleyebileceklerinin farkına varmasıyla bilimsel araştırmalardaki doğru ölçümler daha fazla önem kazandı.",
+      "Bilimsel araştırmalardaki doğru ölçümler, 17. yüzyılda bilim insanları teorilerinin sadece güvenilir ölçümlerle desteklenebileceğinin farkına varınca çok daha önemli hâle geldi.",
+      "17. yüzyılda bilim insanlarının sadece güvenilir ölçümler sayesinde teorilerini destekleyebileceklerinin farkına varması, bilimsel araştırmalardaki doğru ölçümlere daha fazla önem kazandırdı.",
+      "Bilimsel araştırmalardaki doğru ölçümler, bilim insanlarının sadece güvenilir ölçümlerle teorilerini destekleyebileceklerinin farkına vardıkları 17. yüzyılda daha fazla önem kazandı.",
+      "Bilimsel araştırmalardaki doğru ölçümler, 17. yüzyılda bilim insanları teorilerini sadece güvenilir ölçümlerle destekleyebileceklerinin farkına vardıkları için daha çok önem kazandı."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q38",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Recent studies have shown that chocolate can slow down the signs of skin ageing because cocoa extract is packed with antioxidants that neutralise free radical damage, which can harm collagen production.",
+    "options": [
+      "Kakao özütünün kolajen üretimine zarar veren serbest radikal hasarını ortadan kaldıran antioksidanlarla dolu olduğu ve bu nedenle çikolatanın cilt yaşlanmasının belirtilerini yavaşlattığı yeni yapılan çalışmalarla ortaya konmuştur.",
+      "Yeni yapılan araştırmalar, çikolatanın cilt yaşlanmasının belirtilerini yavaşlatabildiğini göstermektedir çünkü kakao özütü, kolajen üretimine zarar verebilen serbest radikal hasarını ortadan kaldıran antioksidanlarla doludur.",
+      "Çikolata, cilt yaşlanmasının belirtilerini yavaşlatabilmektedir çünkü son yapılan araştırmalar, kolajen üretimine zarar veren serbest radikal hasarını ortadan kaldıran kakao özütünün antioksidanlarla dolu olduğunu göstermektedir.",
+      "Son yapılan araştırmalar, kakao özütü kolajen üretimine zarar verebilen serbest radikal hasarını ortadan kaldıran antioksidanlarla dolu olduğu için cilt yaşlanmasının belirtilerinin çikolata sayesinde yavaşlatılabileceğini göstermektedir.",
+      "Çikolatanın cilt yaşlanmasının belirtilerini yavaşlattığı, kolajen üretimine zarar veren serbest radikal hasarını ortadan kaldıran kakao özütünün antioksidanlarla dolu olduğunu gösteren son çalışmalarla ortaya konmuştur."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2019-3-q39",
+    "source": {
+      "year": 2019,
+      "session": "3",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Dolly, the first mammal cloned from the DNA of an adult animal, was regarded as a monumental scientific breakthrough when her birth was announced in early 1997.",
+    "options": [
+      "Dolly, yetişkin bir hayvanın DNA’sından klonlanan ilk memeli olduğundan 1997’nin başında doğumu duyurulduğunda çok büyük bir bilimsel gelişme olarak kabul edildi.",
+      "Doğumu 1997’nin başında duyurulduğu zaman çok büyük bir bilimsel gelişme olarak kabul edilen Dolly, yetişkin bir hayvanın DNA’sından klonlanan ilk memeliydi.",
+      "Yetişkin bir hayvanın DNA’sından klonlanan ilk memeli olan Dolly, çok büyük bir bilimsel gelişme olarak kabul edildi ve doğumu 1997’nin başında duyuruldu.",
+      "Yetişkin bir hayvanın DNA’sından klonlanan ilk memeli olan Dolly, 1997’nin başında doğumu duyurulduğunda çok büyük bir bilimsel gelişme olarak kabul edildi.",
+      "Dolly, yetişkin bir hayvanın DNA’sından klonlanan ilk memeliydi ve 1997’nin başında doğumunun duyurulmasıyla çok büyük bir bilimsel gelişme olarak kabul edildi."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q37",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because volcanic activity has usually been extremely violent and destructive, in the past there were some cultures believing that eruptions and tremblings had to be the fault of humans.",
+    "options": [
+      "Volkanik faaliyetler genellikle aşırı derecede şiddetli ve yıkıcı oldukları için geçmişte patlamaların ve sarsılmaların insanların hatasından kaynaklandığını düşünen bazı kültürler vardı.",
+      "Volkanik faaliyetlerin genellikle aşırı derecede şiddetli ve yıkıcı olmasından dolayı geçmişte bazı kültürler patlamaların ve sarsılmaların insanların hatasından kaynaklandığına inanıyordu.",
+      "Genellikle aşırı derecede şiddetli ve yıkıcı olan volkanik faaliyetler yüzünden geçmişte yaşanan patlamaların ve sarsılmaların insanların hatasından kaynaklandığına inanan bazı kültürler vardı.",
+      "Geçmişte patlamaların ve sarsılmaların insanların hatasından kaynaklandığına inanan kültürler olmasının sebebi, bazı volkanik faaliyetlerin genellikle son derece şiddetli ve yıkıcı olmasıydı.",
+      "Geçmişte patlamaların ve sarsılmaların insanların hatasından kaynaklandığına inanan bazı kültürlerin olması, volkanik faaliyetlerin genellikle son derece şiddetli ve yıkıcı olmasından kaynaklanıyordu."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q38",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "According to a recent report, early adopters of enterprise artificial intelligence have shown a bigger improvement in productivity and performance compared to those that have yet to explore this exciting new field.",
+    "options": [
+      "Yeni bir rapora göre, yapay zekâ girişimini önceden benimseyenler, bu heyecan verici yeni alanı henüz keşfetmemiş olanlara kıyasla verimlilik ve performans bakımından daha büyük bir gelişme göstermiştir.",
+      "Yeni hazırlanan bir rapora göre, yapay zekâ girişimini daha keşfetmemiş olanların aksine, bu heyecan verici yeni alanı önceden kullanmaya başlayanlar verimlilik ve performans konularında daha çok ilerleme kaydetmiştir.",
+      "Yeni bir rapora göre, yeni ve heyecan verici yapay zekâ girişimini önceden benimseyenlerin, bu alanı henüz keşfetmeyenlere göre, verimlilik ve performans açısından çok daha fazla ilerleme kaydettiği görülmüştür.",
+      "Yeni hazırlanan bir rapor, yapay zekâ girişimini önceden edinenlerin, bu heyecan verici yeni alanı keşfetmeyenlerle karşılaştırıldığında verimlilik ve performans bakımından daha fazla gelişme ortaya koyduğunu göstermiştir.",
+      "Yeni bir rapor, yapay zekâ girişimini önceden benimseyenlerde verimlilik ve performans alanındaki gelişmelerin bu yeni ve heyecan verici alanı keşfetmeyenlere kıyasla daha fazla olduğunu göstermiştir."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2020-1-q39",
+    "source": {
+      "year": 2020,
+      "session": "1",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "One of the biggest difficulties of a manager is possibly demonstrating leadership in a context where those being directed neither believe they need to be organised, nor are motivated to cooperate with the administration.",
+    "options": [
+      "Bir yönetici için muhtemelen en büyük zorluklardan biri, yönetilenlerin ya organize edilmeleri gerektiğine inanmadıkları ya da yönetimle işbirliği yapmaya istekli olmadıkları bir ortamda liderlik göstermektir.",
+      "Bir yöneticinin en büyük zorluklarından biri muhtemelen, yönetilenlerin ne organize edilmeleri gerektiğine inandıkları ne de yönetimle işbirliği yapmaya istekli oldukları bir ortamda liderlik göstermektir.",
+      "Bir yöneticinin yaşayabileceği en büyük zorluklardan biri muhtemelen, organize edilmeye ihtiyaç duymayanların ve yönetimle işbirliği yapmayanların olduğu bir ortamda liderlik göstermektir.",
+      "Bir yönetici olmanın muhtemel en büyük zorluğu, yönetilenlerin organize edilme gereksinimi duymadıkları için yönetimle işbirliği yapmaya istekli olmadığı bir ortamda liderlik göstermektir.",
+      "Bir yöneticinin yaşayabileceği en büyük zorluk muhtemelen, yönetilenleri ne organize olmaya inandırabildiği ne de yönetimle işbirliği yapmaya motive edebildiği bir ortamda liderlik göstermektir."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q37",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "One of the difficulties of studying African literature is that for much of the history of Africa, the societies were non-literate and thus relied on oral traditions to pass their stories to the coming generations.",
+    "options": [
+      "Afrika edebiyatını incelemenin zorluklarından biri, Afrika tarihinin büyük bir bölümünde toplumların okuryazar olmamalarından dolayı hikâyelerini gelecek nesillere sözlü gelenek yoluyla aktarmayı tercih etmeleridir.",
+      "Afrika tarihinin büyük bir bölümünde toplumların okuryazar olmamaları sebebiyle hikâyelerini gelecek nesillere aktarmak için sözlü geleneklere bağlı kalması, Afrika edebiyatını incelemenin zorluklarından birini oluşturmaktadır.",
+      "Afrika edebiyatını incelerken karşılaşılan zorluklardan biri, Afrika tarihinin büyük bir bölümüne bakıldığında toplumların okuryazar olmamaları ve hikâyelerini gelecek nesillere sözlü geleneklere bağlı kalarak aktarmalarıdır.",
+      "Afrika edebiyatını incelemenin zorluklarından biri, Afrika tarihinin büyük bir bölümünde toplumların okuryazar olmamaları ve dolayısıyla hikâyelerini gelecek nesillere aktarmak için sözlü geleneklere bağlı kalmalarıdır.",
+      "Afrika tarihinin büyük bir bölümünde toplumlar okuryazar olmadıklarından hikâyelerini gelecek nesillere aktarmak için sözlü geleneklere bağlıydılar ve bu durum Afrika edebiyatını incelemenin zorluklarından birini oluşturmaktadır."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q38",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Being overweight after turning 60 may increase the risk of Alzheimer’s disease, but by losing weight, people may be able to hinder ageing of their brains and reduce the likelihood of memory problems later on.",
+    "options": [
+      "Aşırı kilolu olmak, 60 yaşına gelindiğinde Alzheimer hastalığı riskini artırabilmektedir fakat kilo veren insanlar beyinlerinin yaşlanmasını engelleyerek sonrasında yaşanacak olan hafıza problemleri olasılığını azaltabilirler.",
+      "60 yaşından sonra aşırı kilolu olmak, Alzheimer hastalığı riskini artırabilir ancak kilo vererek beyinlerinin yaşlanmasının önüne geçebilen insanlar sonrasında yaşanacak olan hafıza problemleri olasılığını azaltabilirler.",
+      "60 yaşına geldikten sonra aşırı kilolu olanlar, Alzheimer hastalığı riskini artırabilmektedir fakat insanlar kilo vererek beynin yaşlanmasının önüne geçtiğinde sonrasında yaşanacak olan hafıza problemleri olasılığını azaltabilirler.",
+      "60 yaşına geldikten sonra aşırı kilolu olmak, Alzheimer hastalığı riskini artırabilir ancak insanlar kilo vererek beyinlerinin yaşlanmasının önüne geçebilir ve sonrasında hafıza problemleri yaşama olasılığını azaltabilirler.",
+      "60 yaş sonrası kilolu olmak, Alzheimer hastalığı riskini artırsa da insanlar beyinlerinin yaşlanmasını engellemek ve sonrasında hafıza problemleri yaşama olasılığını azaltmak için kilo verebilirler."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-1-q39",
+    "source": {
+      "year": 2021,
+      "session": "1",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "As well as being low in calories, vegetables are a rich source of vitamins and minerals and can help reduce the risk of many health problems.",
+    "options": [
+      "Zengin bir vitamin ve mineral kaynağı olan sebzeler aynı zamanda düşük kalorili olduğu için birçok sağlık sorunu riskinin azaltılmasına yardımcı olabilir.",
+      "Sebzeler, düşük kalorili olmakla birlikte zengin bir vitamin ve mineral kaynağı olduğu için birçok sağlık sorunu riskinin azaltılmasına yardımcı olur.",
+      "Düşük kalorili olmalarının yanı sıra sebzeler, zengin bir vitamin ve mineral kaynağıdır ve pek çok sağlık sorunu riskinin azaltılmasına yardımcı olabilir.",
+      "Pek çok sağlık sorunu riskinin azaltılmasına yardımcı olan sebzeler, zengin bir vitamin ve mineral kaynağı olmakla birlikte düşük kalorilidir.",
+      "Sebzeler sadece düşük kalorili olmakla kalmayıp aynı zamanda zengin bir vitamin ve mineral kaynağıdır ve birçok sağlık sorunu riskinin azaltılmasına yardımcı olmaktadır."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q37",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "In 1991, two German mountaineers discovered the mummy and personal artefacts of a man now called as Ötzi the Iceman in the Ötztal Alps, which were well-preserved in the ice for 5,300 years.",
+    "options": [
+      "1991 yılında iki Alman dağcı Ötztal Alplerinde bir adamın 5300 yıl boyunca buz içinde oldukça iyi bir şekilde korunmuş mumyasını ve kişisel eşyalarını bulmuşlardır ve bu adam günümüzde Buz Adam Ötzi olarak anılmaktadır.",
+      "1991 yılında iki Alman dağcı Ötztal Alplerinde, günümüzde Buz Adam Ötzi olarak anılan bir adamın 5300 yıl boyunca buz içinde oldukça iyi bir şekilde korunmuş mumyasını ve kişisel eşyalarını buldular.",
+      "Günümüzde Buz Adam Ötzi olarak anılan bir adamın 5300 yıl boyunca buz içinde oldukça iyi bir şekilde korunmuş mumyası ve kişisel eşyaları, iki Alman dağcı tarafından 1991 yılında Ötztal Alplerinde bulunmuştur.",
+      "İki Alman dağcı tarafından 1991 yılında Ötztal Alplerinde bulunan ve günümüzde Buz Adam Ötzi olarak anılan bir adamın mumyası ve kişisel eşyaları, 5300 yıl boyunca buz içinde oldukça iyi bir şekilde korunmuştur.",
+      "1991 yılında Ötztal Alplerinde iki Alman dağcı tarafından 5300 yıl boyunca buz altında oldukça iyi bir şekilde korunmuş mumyası ve kişisel eşyaları bulunan adam, günümüzde Buz Adam Ötzi olarak anılmaktadır."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q38",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Because salt is indispensable to life, and uniquely flavours foods, humans have been preoccupied with it since the beginning of recorded history.",
+    "options": [
+      "İnsanlar, tarih kayıt altına alınmaya başladığından bu yana tuzla yakından ilgilenmişlerdir çünkü yaşam için vazgeçilmez olan tuz, yiyecekleri eşsiz bir şekilde tatlandırmaktadır.",
+      "İnsanlar kayıt altına alınan tarihin başlangıcından itibaren yaşam için vazgeçilmez olan ve yiyeceklere eşsiz bir tat veren tuzla yakından ilgilenmişlerdir.",
+      "İnsanların kayıt altına alınan tarihin başlangıcından beri tuzla yakından ilgilenmesinin nedeni yiyeceklere eşsiz bir biçimde tat vermesinin yanı sıra yaşam için de vazgeçilmez olmasıdır.",
+      "Tuz, yaşam için vazgeçilmez olduğu ve yiyeceklere eşsiz bir biçimde tat verdiği için insanlar kayıt altına alınan tarihin başlangıcından beri tuzla yakından ilgilenmişlerdir.",
+      "Yiyecekleri eşsiz bir biçimde tatlandıran tuz, yaşam için vazgeçilmez olduğundan, tarihin ilk kayıt altına alındığı andan itibaren insanoğlunu fazlasıyla ilgilendirmiştir."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2021-2-q39",
+    "source": {
+      "year": 2021,
+      "session": "2",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Objectivity refers to perceiving and describing something from as neutral and unbiased a perspective as possible in order to produce observations that can be verified by a trained community of observers.",
+    "options": [
+      "Nesnellik, bir şeyi olabildiğince tarafsız ve önyargısız bir bakış açısı üzerinden algılayıp betimlemenin yanı sıra söz konusu şeyin eğitimli bir gözlemciler topluluğu tarafından doğrulanabilmesi anlamına gelmektedir.",
+      "Nesnellikten kastedilen, eğitimli bir gözlemciler topluluğu tarafından gözlemlenebilecek algılamaları ve betimlemeleri ortaya koymak ve bunun için mümkün olduğunca tarafsız ve önyargısız bakış açıları üretmektir.",
+      "Eğitimli bir gözlemciler topluluğu tarafından doğrulanabilecek gözlemler ortaya koyabilmek için bir şeyi mümkün olduğunca tarafsız ve önyargısız bir bakış açısıyla algılamak ve betimlemek gerekmektedir ve bu da nesnellik olarak tanımlanır.",
+      "Nesnellik, eğitimli bir gözlemciler topluluğu tarafından doğrulanabilecek gözlemler ortaya koymak için bir şeyi mümkün olduğunca tarafsız ve önyargısız bir bakış açısıyla algılamak ve betimlemek anlamını taşımaktadır.",
+      "Bir şeyi mümkün olduğunca tarafsız ve önyargısız bir bakış açısıyla algılamak ve betimlemek, nesnelliğin eğitimli bir gözlemciler topluluğu tarafından gözlemlenebilecek şekilde ortaya koyulmasına bağlıdır."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

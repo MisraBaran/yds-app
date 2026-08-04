@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2014-sonbahar-q01",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The story of creating power begins with the ---- of the most obvious natural resources around us – water and wind.",
+    "options": [
+      "termination",
+      "estimation",
+      "perception",
+      "exploitation",
+      "elaboration"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q02",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Since a modern company cannot survive without information and computer technologies, they have become an ---- part of any commercial venture or worldwide business system.",
+    "options": [
+      "unavailable",
+      "infrequent",
+      "intact",
+      "unbearable",
+      "inseparable"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q03",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Without knowing distances ----, it can be difficult to plan a journey, so maps are very beneficial tools for people to find their way easily.",
+    "options": [
+      "accurately",
+      "suspiciously",
+      "innovatively",
+      "rapidly",
+      "controversially LİZCE"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q04",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Exposure to sunshine enables the production of vitamin D in our skin, and this ---- the growth and maintenance of healthy bones and teeth.",
+    "options": [
+      "deteriorates",
+      "declares",
+      "promotes",
+      "articulates",
+      "differentiates"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q05",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "How a person ---- stress is more important than the number of stressors in that person’s life.",
+    "options": [
+      "copes with",
+      "relies on",
+      "leads to",
+      "puts aside",
+      "pertains to"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q06",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "A stroke occurs when the blood supply of an area of brain cells is ---- for a long period of time, resulting in the death of the cells from lack of oxygen and nutrients.",
+    "options": [
+      "set up",
+      "cut off",
+      "put down",
+      "left out",
+      "taken over"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q07",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The famous artist Raphael’s final works ---- so good that museums like the Prado and the Louvre ---- a whole exhibition to them.",
+    "options": [
+      "were / have dedicated",
+      "should have been / dedicate",
+      "are / had dedicated",
+      "would be / are dedicating",
+      "have been / will have dedicated"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q08",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "If the soldiers ---- at the beginning of the siege of Rhodes Island, they ---- to Crete or somewhere else with their treasures.",
+    "options": [
+      "surrender / must have been transported",
+      "would surrender / could be transported",
+      "had surrendered / might have been transported",
+      "used to surrender / could have transported",
+      "could surrender / should have been transported"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q09",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "A new type of airport X-ray scanner ---- lately by an innovative company ---- the contents of bottles.",
+    "options": [
+      "has been built / to detect",
+      "was built / to have detected",
+      "will be built / being detected",
+      "had been built / having detected",
+      "is built / to be detected"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q10",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The study of visual illusions is critical ---- understanding the basic mechanisms of sensory perception and advancing cures ---- neurological diseases.",
+    "options": [
+      "off / toward",
+      "at / with",
+      "in / about",
+      "to / for",
+      "on / from"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q11",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- the chaos that arose after the political and economic changes in the Union of Soviet Socialist Republics, the newly formed republics were anxious to make deals ---- foreign investors.",
+    "options": [
+      "During / with",
+      "After / upon",
+      "Through / off",
+      "Before / into",
+      "Until / from"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q12",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "By the age of three, a child’s brain is almost fully grown ---- her bones and muscles are still underdeveloped.",
+    "options": [
+      "since",
+      "but",
+      "if",
+      "unless",
+      "once"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q13",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- the world has been changing more rapidly than ever before, managers and other employees throughout an organization must perform at higher and higher levels.",
+    "options": [
+      "Because",
+      "In case",
+      "As if",
+      "Although",
+      "Unless"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q14",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- evidence of the civilization of the ancient Egypt was apparent everywhere, little was known of its detailed history until its hieroglyphic writing was deciphered in the early 19th century.",
+    "options": [
+      "Since",
+      "Just as",
+      "Although",
+      "Given that",
+      "Only if"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q15",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "One central question in acupuncture is ---- the needles reduce pain ---- patients are simply responding to suggestions.",
+    "options": [
+      "whether / or",
+      "neither / nor",
+      "either / or",
+      "so / that",
+      "as / as"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q16",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Being very significant ---- economical and geopolitical aspects, control of the Bosphorus was always demanded by many countries.",
+    "options": [
+      "in spite of",
+      "rather than",
+      "instead of",
+      "regardless of",
+      "in terms of"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q17",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2014-sonbahar-g17-21",
+    "passage": "To look inside an ant nest is to think about an alien civilization. The busy mass of worker ants (17)---- an upturned stone is both strangely similar to human society and strikingly different. (18)---- us, ants build structures, find food, defend their societies and manage waste. They (19)---- well-organized to do all these. For example, leaf-cutting ants have special waste disposal areas for storing hazardous waste and a team of ‘waste-disposal ants’ dedicated to keeping the nest clean. But ants (20)---- this familiar end result in a very different way to humans. Human societies have centralized control. In other words, someone tells us what to do. Ants, (21)----, have decentralized control, and neither the queen nor any other ant directs work. They are the ultimate self-starters, following specific, but flexible, rules in certain situations.",
+    "stem": null,
+    "options": [
+      "beneath",
+      "off",
+      "towards",
+      "against",
+      "through"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q18",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2014-sonbahar-g17-21",
+    "passage": "To look inside an ant nest is to think about an alien civilization. The busy mass of worker ants (17)---- an upturned stone is both strangely similar to human society and strikingly different. (18)---- us, ants build structures, find food, defend their societies and manage waste. They (19)---- well-organized to do all these. For example, leaf-cutting ants have special waste disposal areas for storing hazardous waste and a team of ‘waste-disposal ants’ dedicated to keeping the nest clean. But ants (20)---- this familiar end result in a very different way to humans. Human societies have centralized control. In other words, someone tells us what to do. Ants, (21)----, have decentralized control, and neither the queen nor any other ant directs work. They are the ultimate self-starters, following specific, but flexible, rules in certain situations.",
+    "stem": null,
+    "options": [
+      "Despite",
+      "Instead of",
+      "Due to",
+      "Like",
+      "Thanks to"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q19",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2014-sonbahar-g17-21",
+    "passage": "To look inside an ant nest is to think about an alien civilization. The busy mass of worker ants (17)---- an upturned stone is both strangely similar to human society and strikingly different. (18)---- us, ants build structures, find food, defend their societies and manage waste. They (19)---- well-organized to do all these. For example, leaf-cutting ants have special waste disposal areas for storing hazardous waste and a team of ‘waste-disposal ants’ dedicated to keeping the nest clean. But ants (20)---- this familiar end result in a very different way to humans. Human societies have centralized control. In other words, someone tells us what to do. Ants, (21)----, have decentralized control, and neither the queen nor any other ant directs work. They are the ultimate self-starters, following specific, but flexible, rules in certain situations.",
+    "stem": null,
+    "options": [
+      "must be",
+      "used to be",
+      "should have been",
+      "will have been",
+      "might be"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q20",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2014-sonbahar-g17-21",
+    "passage": "To look inside an ant nest is to think about an alien civilization. The busy mass of worker ants (17)---- an upturned stone is both strangely similar to human society and strikingly different. (18)---- us, ants build structures, find food, defend their societies and manage waste. They (19)---- well-organized to do all these. For example, leaf-cutting ants have special waste disposal areas for storing hazardous waste and a team of ‘waste-disposal ants’ dedicated to keeping the nest clean. But ants (20)---- this familiar end result in a very different way to humans. Human societies have centralized control. In other words, someone tells us what to do. Ants, (21)----, have decentralized control, and neither the queen nor any other ant directs work. They are the ultimate self-starters, following specific, but flexible, rules in certain situations.",
+    "stem": null,
+    "options": [
+      "defeat",
+      "regret",
+      "achieve",
+      "select",
+      "host"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q21",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2014-sonbahar-g17-21",
+    "passage": "To look inside an ant nest is to think about an alien civilization. The busy mass of worker ants (17)---- an upturned stone is both strangely similar to human society and strikingly different. (18)---- us, ants build structures, find food, defend their societies and manage waste. They (19)---- well-organized to do all these. For example, leaf-cutting ants have special waste disposal areas for storing hazardous waste and a team of ‘waste-disposal ants’ dedicated to keeping the nest clean. But ants (20)---- this familiar end result in a very different way to humans. Human societies have centralized control. In other words, someone tells us what to do. Ants, (21)----, have decentralized control, and neither the queen nor any other ant directs work. They are the ultimate self-starters, following specific, but flexible, rules in certain situations.",
+    "stem": null,
+    "options": [
+      "in contrast",
+      "in addition",
+      "accordingly",
+      "for instance",
+      "in short"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q22",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2014-sonbahar-g22-26",
+    "passage": "There is an important difference between good teaching and effective teaching. Good teaching refers to a process of instruction (22)---- effective teaching refers to the outcomes of instruction. Among other things, a good teacher is one who provides a review at the start of a new lesson, states reasonable objectives, (23)---- an appropriate level of lesson difficulty, engages students in the learning process (24)---- emphasizing important points during instruction. Good teaching focuses on the processes and procedures that a teacher uses while preparing for and delivering instruction. But effective teaching goes one step (25)---- the process of teaching. It focuses on whether students actually learn from instruction. An effective teacher is, therefore, one whose students learn what they (26)----.",
+    "stem": null,
+    "options": [
+      "while",
+      "provided that",
+      "even if",
+      "because",
+      "until"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q23",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2014-sonbahar-g22-26",
+    "passage": "There is an important difference between good teaching and effective teaching. Good teaching refers to a process of instruction (22)---- effective teaching refers to the outcomes of instruction. Among other things, a good teacher is one who provides a review at the start of a new lesson, states reasonable objectives, (23)---- an appropriate level of lesson difficulty, engages students in the learning process (24)---- emphasizing important points during instruction. Good teaching focuses on the processes and procedures that a teacher uses while preparing for and delivering instruction. But effective teaching goes one step (25)---- the process of teaching. It focuses on whether students actually learn from instruction. An effective teacher is, therefore, one whose students learn what they (26)----.",
+    "stem": null,
+    "options": [
+      "disputes",
+      "conquers",
+      "renews",
+      "maintains",
+      "claims"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q24",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2014-sonbahar-g22-26",
+    "passage": "There is an important difference between good teaching and effective teaching. Good teaching refers to a process of instruction (22)---- effective teaching refers to the outcomes of instruction. Among other things, a good teacher is one who provides a review at the start of a new lesson, states reasonable objectives, (23)---- an appropriate level of lesson difficulty, engages students in the learning process (24)---- emphasizing important points during instruction. Good teaching focuses on the processes and procedures that a teacher uses while preparing for and delivering instruction. But effective teaching goes one step (25)---- the process of teaching. It focuses on whether students actually learn from instruction. An effective teacher is, therefore, one whose students learn what they (26)----.",
+    "stem": null,
+    "options": [
+      "except for",
+      "in spite of",
+      "owing to",
+      "as well as",
+      "instead of"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q25",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2014-sonbahar-g22-26",
+    "passage": "There is an important difference between good teaching and effective teaching. Good teaching refers to a process of instruction (22)---- effective teaching refers to the outcomes of instruction. Among other things, a good teacher is one who provides a review at the start of a new lesson, states reasonable objectives, (23)---- an appropriate level of lesson difficulty, engages students in the learning process (24)---- emphasizing important points during instruction. Good teaching focuses on the processes and procedures that a teacher uses while preparing for and delivering instruction. But effective teaching goes one step (25)---- the process of teaching. It focuses on whether students actually learn from instruction. An effective teacher is, therefore, one whose students learn what they (26)----.",
+    "stem": null,
+    "options": [
+      "under",
+      "against",
+      "beyond",
+      "without",
+      "off"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q26",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2014-sonbahar-g22-26",
+    "passage": "There is an important difference between good teaching and effective teaching. Good teaching refers to a process of instruction (22)---- effective teaching refers to the outcomes of instruction. Among other things, a good teacher is one who provides a review at the start of a new lesson, states reasonable objectives, (23)---- an appropriate level of lesson difficulty, engages students in the learning process (24)---- emphasizing important points during instruction. Good teaching focuses on the processes and procedures that a teacher uses while preparing for and delivering instruction. But effective teaching goes one step (25)---- the process of teaching. It focuses on whether students actually learn from instruction. An effective teacher is, therefore, one whose students learn what they (26)----.",
+    "stem": null,
+    "options": [
+      "should have been taught",
+      "had been taught",
+      "was taught",
+      "might have been taught",
+      "have been taught"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q27",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the Internet can present threats ----.",
+    "options": [
+      "psychological research suggests that most people use the Internet in ways to enhance their social relationships and personal well-being",
+      "growing numbers of people are reluctant to rely on e-mail both for business and keeping in touch with friends and relatives",
+      "critics worry that the Internet typically offers more than superficial contact with strangers",
+      "the fact that young people often know more about computers than their parents do can add to concerns",
+      "computer use can account for the low academic achievement of students"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q28",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even if DNA may have influence on our moral character ----.",
+    "options": [
+      "it is widely believed that we are products of our social and cultural environment",
+      "such moral understandings are often regulated by religious and legal taboos of various kinds",
+      "thinking of ethics often begins with assumptions about human nature",
+      "people debate whether being moral is simply a matter of obeying social norms",
+      "the story of ethics is to some extent a description of attempts to legalize morality"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q29",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As long as there are sufficiently large volumes of information ----.",
+    "options": [
+      "it is easy to get a machine to learn to do complicated things",
+      "the complexity arises from the vast numbers of connections within the system",
+      "human-like machines have begun to influence every realm of life",
+      "people would need to change their ideas about what artificial intelligence means",
+      "people have expressed their concerns about privacy in an age of computerised systems"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q30",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "As the age of children rises, needing less care ----.",
+    "options": [
+      "mothers pay more attention to the quality of pre-school education",
+      "mothers who have more than two children tend to have some psychological problems",
+      "part-time work has developed because of women’s preference to work more",
+      "mothers can gradually shift from part-time to full-time work",
+      "the low level of care provided by governments becomes an important factor"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q31",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "In spite of the current Japanese dominance of the region ----.",
+    "options": [
+      "the importance of regional economic blocs is likely to continue to increase in Tokyo",
+      "the China-based economy of Asia is rapidly emerging as a new centre for industry and commerce",
+      "Japan is one of the world’s most unstable geological zones, and Japan experiences more than 1,000 earthquakes per year",
+      "culture and religion can also form different types of national sub-groups",
+      "Japan has had an enviable record for growth and prosperity"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q32",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Spending money on others can provide happiness ----.",
+    "options": [
+      "even when you use your own hard-earned cash",
+      "once people in poor countries have tried to meet their own basic needs",
+      "although the tendency to experience joy from helping is part of human nature",
+      "after children can get pleasure from helping others",
+      "whereas charities make it easy for donors to see how their contributions are used"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q33",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "All parents struggle to find the right balance between encouragement and discipline ----.",
+    "options": [
+      "when it comes to raising their kids",
+      "although they already know the causes",
+      "since they have accomplished this important duty",
+      "because neighbours always complain about their children",
+      "as children need to be loved by their parents"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q34",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- your body will be supplied with higher levels of energy and become more resistant to diseases.",
+    "options": [
+      "Just as a number of supplements can be used to make up for calcium deficiency",
+      "Even if you change your eating habits and avoid living a stressful life",
+      "Although you have routine blood-pressure or cholesterol level checks",
+      "Once you get used to consuming vitamin-rich vegetables like broccoli and cabbage",
+      "Unless you strengthen your muscles and bones through regular exercise"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q35",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Parasites live on or inside other living beings ----.",
+    "options": [
+      "and there are more than 1,000 types that can live inside humans",
+      "so some animals prefer to spend most of their time alone",
+      "although animals are the only living things with muscles and nerves for movement and sensation",
+      "because defensive animals have avoidance methods such as speed and colour",
+      "but the heat of cold-blooded animals comes from outside the body"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q36",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "We often forget the value of things surrounding us ----.",
+    "options": [
+      "for some aspects of life inspire pride in our cultural heritage",
+      "even if people avoid paying attention to old crafts and skills that were once crucial",
+      "and only when seen through the eyes of tourists do we revalue our culture",
+      "since some rituals and ceremonies have been so common in some civilizations",
+      "so we learn to appreciate more fully the importance of culture"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q37",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Textbooks are viewed as a means of presenting established bodies of knowledge to students.",
+    "options": [
+      "Ders kitapları, yerleşmiş olan bilgiyi öğrencilere takdim eden araçlar olarak görülür.",
+      "Yerleşmiş olan bilgi, öğrencilere ders kitapları aracılığıyla aktarılmaktadır.",
+      "Ders kitaplarının yerleşmiş olan bilgiyi öğrencilere aktarma işlevi bulunmaktadır.",
+      "Yerleşmiş olan bilgiyi öğrencilere sunan ders kitapları bir araç olarak görülmektedir.",
+      "Öğrenciler, yerleşmiş olan bilgiyi ders kitapları aracılığıyla edinir."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q38",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many people still use plants as medicine, and about half of medicines bought from a drugstore are obtained directly from plants.",
+    "options": [
+      "Birçok insan bitkileri hâlâ ilaç olarak kullanmakta ve doğrudan bitkilerden elde edilen ilaçlar eczaneden alınan ilaçların yaklaşık yarısını oluşturmaktadır.",
+      "Birçok insan bitkileri hâlâ ilaç olarak kullanmakta ve eczaneden alınan ilaçların yaklaşık yarısı doğrudan bitkilerden elde edilmektedir.",
+      "Bitkiler hâlâ birçok insan tarafından ilaç olarak kullanılmakta ve doğrudan bitkilerden elde edilen ilaçların yaklaşık yarısı eczanelerden alınmaktadır.",
+      "Eczanelerden alınan ilaçların yaklaşık yarısı doğrudan bitkilerden elde edilmekte ve birçok insan bitkileri hâlâ ilaç olarak kullanmaktadır.",
+      "Doğrudan bitkilerden elde edilen ilaçların yaklaşık yarısını birçok insan hâlâ eczanelerden almakta ve kullanmaktadır."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q39",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "How much vision is affected by a cataract depends on the intensity of light entering the eye and the location of the cataract.",
+    "options": [
+      "Katarakt, bulunduğu yere ve göze giren ışığın ne kadar yoğun olduğuna bağlı olarak görüşü etkiler.",
+      "Katarakt nedeniyle görüş, göze giren ışığın yoğunluğuna ve kataraktın yerine bağlı olarak etkilenir.",
+      "Göze giren ışığın yoğunluğu ve kataraktın bulunduğu yer, kataraktlı gözde görüşün ne kadar etkilendiğini belirler.",
+      "Görüşün katarakt nedeniyle etkilenip etkilenmediği, göze giren ışığın yoğunluğuna ve kataraktın bulunduğu yere göre değişir.",
+      "Görüşün katarakt tarafından ne kadar etkilendiği, göze giren ışığın yoğunluğuna ve kataraktın yerine bağlıdır."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q40",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Hem zaman alıcı hem de sağlıksız olduğu için bazı sebzeleri pişirirken mümkün olduğunca kaçınılması gereken şeylerden biri, onları haşlamaktır.",
+    "options": [
+      "Since boiling some vegetables is both time-consuming and unhealthy, you should avoid boiling them as much as possible.",
+      "As it is both time-consuming and unhealthy, one of the things that should be avoided as much as possible while cooking some vegetables is boiling them.",
+      "The only way of cooking some vegetables to be avoided as much as possible is boiling them, because boiling is both time-consuming and unhealthy.",
+      "Both time-consuming and unhealthy, boiling must be avoided as much as possible while cooking some vegetables.",
+      "Although boiling some vegetables is both time-consuming and unhealthy, it cannot be avoided in some situations."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q41",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "2010'da yapılan bir araştırma, on yıl düzenli olarak cep telefonu kullanmış olan kişilerin belirli tümörlerin gelişiminde daha büyük bir riskle karşı karşıya olduklarını ortaya çıkarmıştır.",
+    "options": [
+      "A study carried out in 2010 revealed that people who have used mobile phones regularly for 10 years face a higher risk of developing certain tumours.",
+      "A study that was carried out in 2010 suggests that people who have used mobile phones constantly for 10 years are in greater danger of developing certain tumours.",
+      "In 2010, a study was carried out revealing the fact that people who face a higher risk of developing certain tumours are the ones who have used mobile phones regularly for 10 years.",
+      "People who have used mobile phones for 10 years face a higher risk of developing certain tumours, and this was revealed by a study carried out in 2010.",
+      "In 2010, it was found in a study that people who used mobile phones periodically for 10 years faced a higher risk of developing certain tumours."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q42",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "20. yüzyılda Birleşik Devletler’de meydana gelen ortalama yaşam süresindeki 30 yıllık artış, iyileştirilen tıbbi bakım sayesindeydi.",
+    "options": [
+      "Improved medical care contributed to a 30-year increase in life expectancy that occurred in the United States during the 20th century.",
+      "The 30-year increase in life expectancy that occurred in the United States during the 20th century was due to improved medical care.",
+      "The 20th century saw a 30-year increase in life expectancy in the United States owing to improved medical care.",
+      "Thanks to improved medical care, a 30-year increase in life expectancy occurred in the United States in the 20th century.",
+      "In the 20th century, there occurred a 30-year increase in life expectancy in the United States because of improved medical care."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q43",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g43-46",
+    "passage": "A garment factory complex in Savar, Bangladesh, Rana Plaza, collapsed on 24 April 2013. The collapse of Rana Plaza, a structurally deficient eight-story building, was a local disaster with global implications. Bangladesh is the world’s second biggest manufacturer of ready-made garments (RMG) after China. The industry is responsible for nearly 80% of the country’s exports, earning $19 billion annually, or about 13% of its GDP (Gross Domestic Product). Some 4 million Bangladeshis – mostly undereducated villagers – work in the country’s RMG trade, making T-shirts and jeans for top international brands. Pictures of the collapse put an intimate face on what is, in Bangladesh, a crucial but poorly regulated and often dangerous industry. In early June 2013, six weeks after Rana Plaza fell, a photographer and a reporter teamed up to trace the backstories of the Rana Plaza survivors and victims to try to learn how they lived and died. What they found out was that Bangladesh’s RMG workers follow a common developing-world pattern: leave the familiarity of the village for the harsh uncertainty of the city in the hope that higher urban wages translate into a better life for their families and for later generations. What sets Bangladeshi garment workers apart is that they lose their lives on the job with depressing frequency.",
+    "stem": "It can be inferred from the passage that ----.",
+    "options": [
+      "the collapse of the Rana Plaza should have attracted more attention worldwide",
+      "there were far more workers in the Rana Plaza than the building could handle",
+      "the Rana Plaza was not properly constructed",
+      "the Bangladeshi government has always prioritized the conditions of workers in the RMG industry",
+      "the workers in the Rana Plaza did not have a reputation for producing high-quality garments"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q44",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g43-46",
+    "passage": "A garment factory complex in Savar, Bangladesh, Rana Plaza, collapsed on 24 April 2013. The collapse of Rana Plaza, a structurally deficient eight-story building, was a local disaster with global implications. Bangladesh is the world’s second biggest manufacturer of ready-made garments (RMG) after China. The industry is responsible for nearly 80% of the country’s exports, earning $19 billion annually, or about 13% of its GDP (Gross Domestic Product). Some 4 million Bangladeshis – mostly undereducated villagers – work in the country’s RMG trade, making T-shirts and jeans for top international brands. Pictures of the collapse put an intimate face on what is, in Bangladesh, a crucial but poorly regulated and often dangerous industry. In early June 2013, six weeks after Rana Plaza fell, a photographer and a reporter teamed up to trace the backstories of the Rana Plaza survivors and victims to try to learn how they lived and died. What they found out was that Bangladesh’s RMG workers follow a common developing-world pattern: leave the familiarity of the village for the harsh uncertainty of the city in the hope that higher urban wages translate into a better life for their families and for later generations. What sets Bangladeshi garment workers apart is that they lose their lives on the job with depressing frequency.",
+    "stem": "It is clear from the passage that ----.",
+    "options": [
+      "there are 4 million undereducated villagers in Bangladesh, still waiting to be employed",
+      "China produces better quality garments than Bangladesh",
+      "the RMG industry had to be halted in Bangladesh after the collapse",
+      "ready-made garments comprise the largest share of Bangladesh's exports",
+      "workers in Bangladesh can earn more by working extra hours in RMG industry"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q45",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g43-46",
+    "passage": "A garment factory complex in Savar, Bangladesh, Rana Plaza, collapsed on 24 April 2013. The collapse of Rana Plaza, a structurally deficient eight-story building, was a local disaster with global implications. Bangladesh is the world’s second biggest manufacturer of ready-made garments (RMG) after China. The industry is responsible for nearly 80% of the country’s exports, earning $19 billion annually, or about 13% of its GDP (Gross Domestic Product). Some 4 million Bangladeshis – mostly undereducated villagers – work in the country’s RMG trade, making T-shirts and jeans for top international brands. Pictures of the collapse put an intimate face on what is, in Bangladesh, a crucial but poorly regulated and often dangerous industry. In early June 2013, six weeks after Rana Plaza fell, a photographer and a reporter teamed up to trace the backstories of the Rana Plaza survivors and victims to try to learn how they lived and died. What they found out was that Bangladesh’s RMG workers follow a common developing-world pattern: leave the familiarity of the village for the harsh uncertainty of the city in the hope that higher urban wages translate into a better life for their families and for later generations. What sets Bangladeshi garment workers apart is that they lose their lives on the job with depressing frequency.",
+    "stem": "According to the passage, ----.",
+    "options": [
+      "the working conditions of the deceased have been investigated by the authorities",
+      "many international brands ceased business with Bangladesh after the disaster",
+      "pictures of the disaster revealed the truth hidden from developed countries",
+      "people were let back into the disaster area six weeks later",
+      "there are very few governmental controls in the RMG industry"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q46",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g43-46",
+    "passage": "A garment factory complex in Savar, Bangladesh, Rana Plaza, collapsed on 24 April 2013. The collapse of Rana Plaza, a structurally deficient eight-story building, was a local disaster with global implications. Bangladesh is the world’s second biggest manufacturer of ready-made garments (RMG) after China. The industry is responsible for nearly 80% of the country’s exports, earning $19 billion annually, or about 13% of its GDP (Gross Domestic Product). Some 4 million Bangladeshis – mostly undereducated villagers – work in the country’s RMG trade, making T-shirts and jeans for top international brands. Pictures of the collapse put an intimate face on what is, in Bangladesh, a crucial but poorly regulated and often dangerous industry. In early June 2013, six weeks after Rana Plaza fell, a photographer and a reporter teamed up to trace the backstories of the Rana Plaza survivors and victims to try to learn how they lived and died. What they found out was that Bangladesh’s RMG workers follow a common developing-world pattern: leave the familiarity of the village for the harsh uncertainty of the city in the hope that higher urban wages translate into a better life for their families and for later generations. What sets Bangladeshi garment workers apart is that they lose their lives on the job with depressing frequency.",
+    "stem": "The author points out that the RMG-workers in Bangladesh differ from other developing-country workers in that ----.",
+    "options": [
+      "they are brave enough to leave their villages",
+      "the mortality rates among them are higher",
+      "they dedicate their work to later generations",
+      "they are not intimidated by uncertainties in the city",
+      "they need to work much harder and longer hours"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q47",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g47-50",
+    "passage": "Research reveals that a changing character can influence life satisfaction even more than economic disturbance. A study investigated how evolving character traits relate to life satisfaction. Researchers assessed 8,625 people aged 15 to 93 at two points, four years apart. They measured the Big Five personality traits (openness to experience, agreeableness, conscientiousness, extroversion and neuroticism) and tracked fluctuations in external aspects of subjects’ lives, including marital status, income and employment status. The data reveal that the participants’ character changed during those four years at least as much as demographic factors, such as marital status or employment. And those small personality shifts were more closely tied to life satisfaction than the other indicators were. For instance, people who grew less agreeable reported less fulfilled in life than they had felt four years earlier, whereas those who became more open reported greater contentment. This study did not attempt to find out what caused the subjects’ personalities to transform, but other recent work has shown that certain experiences can change specific traits. For instance, psychological trauma – such as that experienced by combat soldiers – has been linked with decreases in agreeableness and conscientiousness.",
+    "stem": "The study mentioned in the passage reveals that ----.",
+    "options": [
+      "a person’s personality remains stable from early adulthood to old age",
+      "certain shifts in personality over time can contribute to life satisfaction",
+      "among the Big Five personality traits, openness and extroversion start to decline in old age",
+      "greater job satisfaction decreases neuroticism and increases extroversion",
+      "some personality traits are more prone to change than others"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q48",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g47-50",
+    "passage": "Research reveals that a changing character can influence life satisfaction even more than economic disturbance. A study investigated how evolving character traits relate to life satisfaction. Researchers assessed 8,625 people aged 15 to 93 at two points, four years apart. They measured the Big Five personality traits (openness to experience, agreeableness, conscientiousness, extroversion and neuroticism) and tracked fluctuations in external aspects of subjects’ lives, including marital status, income and employment status. The data reveal that the participants’ character changed during those four years at least as much as demographic factors, such as marital status or employment. And those small personality shifts were more closely tied to life satisfaction than the other indicators were. For instance, people who grew less agreeable reported less fulfilled in life than they had felt four years earlier, whereas those who became more open reported greater contentment. This study did not attempt to find out what caused the subjects’ personalities to transform, but other recent work has shown that certain experiences can change specific traits. For instance, psychological trauma – such as that experienced by combat soldiers – has been linked with decreases in agreeableness and conscientiousness.",
+    "stem": "It is understood from the passage that an increase in openness is ----.",
+    "options": [
+      "the outcome of stronger relationships",
+      "a consequence of personal contentment",
+      "expected to result in more happiness in life",
+      "enhanced by greater job satisfaction",
+      "considered as the most important personality trait"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q49",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g47-50",
+    "passage": "Research reveals that a changing character can influence life satisfaction even more than economic disturbance. A study investigated how evolving character traits relate to life satisfaction. Researchers assessed 8,625 people aged 15 to 93 at two points, four years apart. They measured the Big Five personality traits (openness to experience, agreeableness, conscientiousness, extroversion and neuroticism) and tracked fluctuations in external aspects of subjects’ lives, including marital status, income and employment status. The data reveal that the participants’ character changed during those four years at least as much as demographic factors, such as marital status or employment. And those small personality shifts were more closely tied to life satisfaction than the other indicators were. For instance, people who grew less agreeable reported less fulfilled in life than they had felt four years earlier, whereas those who became more open reported greater contentment. This study did not attempt to find out what caused the subjects’ personalities to transform, but other recent work has shown that certain experiences can change specific traits. For instance, psychological trauma – such as that experienced by combat soldiers – has been linked with decreases in agreeableness and conscientiousness.",
+    "stem": "It can be inferred from the passage that ----.",
+    "options": [
+      "personality change occurs mainly in combat soldiers, and they become more agreeable individuals",
+      "psychological trauma is the main reason why we experience shifts in personality traits",
+      "what we experience as well as changes in personality traits have an effect on life satisfaction",
+      "demographic factors, such as marital status or employment do not change as much as personality traits among older adults",
+      "self-reports from people aged 15 to 93 suggest that adult personality is static after a certain age"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q50",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g47-50",
+    "passage": "Research reveals that a changing character can influence life satisfaction even more than economic disturbance. A study investigated how evolving character traits relate to life satisfaction. Researchers assessed 8,625 people aged 15 to 93 at two points, four years apart. They measured the Big Five personality traits (openness to experience, agreeableness, conscientiousness, extroversion and neuroticism) and tracked fluctuations in external aspects of subjects’ lives, including marital status, income and employment status. The data reveal that the participants’ character changed during those four years at least as much as demographic factors, such as marital status or employment. And those small personality shifts were more closely tied to life satisfaction than the other indicators were. For instance, people who grew less agreeable reported less fulfilled in life than they had felt four years earlier, whereas those who became more open reported greater contentment. This study did not attempt to find out what caused the subjects’ personalities to transform, but other recent work has shown that certain experiences can change specific traits. For instance, psychological trauma – such as that experienced by combat soldiers – has been linked with decreases in agreeableness and conscientiousness.",
+    "stem": "What could be the best title for the passage?",
+    "options": [
+      "How We Grow over Time",
+      "How to Change our Personality Traits",
+      "Economic Concerns versus Life Satisfaction",
+      "Life Satisfaction Linked to Personality Changes",
+      "Forces of Personality Change"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q51",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g51-54",
+    "passage": "Both beginners and specialists in ancient studies often ask why bathing was so important to Roman society. This question might be an easy one, but there are no easy and definite answers. Bathing was a significant part of their lives, an institution rooted in the structure of their day. The Roman day normally reserved the afternoon for leisure. Already, by the end of the Republic, spending the latter part of the afternoon, after a light lunch and siesta, in the public baths had become a tradition, a comforting part of urban life and national identity. But why did bathing become a daily habit in the first place? The first and most important is the pleasure factor. At its most basic, bathing is physically and psychologically satisfying. Warm, moist air and water relax the body and clear the mind. Another factor that helps account for the popularity of baths is the well-entrenched belief in the ancient world that baths were good for health. Bathing was considered a serious therapeutic measure and received full support from ancient medicine. Finally there is also a basic economic explanation. Baths were built in such large numbers because running a public bath was seen a sensible lucrative business proposition.",
+    "stem": "According to the passage, Roman baths ----.",
+    "options": [
+      "had to wait till the end of the Republican era to gain its deserved popularity",
+      "are found interesting by both novices and experts in ancient studies",
+      "were the place for Romans to go on occasions when they did not prefer siesta for their leisure",
+      "in both town and country had the same design as well as abundance",
+      "became a significant part of the daily life, resulting in the formation of an institution to run public baths"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q52",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g51-54",
+    "passage": "Both beginners and specialists in ancient studies often ask why bathing was so important to Roman society. This question might be an easy one, but there are no easy and definite answers. Bathing was a significant part of their lives, an institution rooted in the structure of their day. The Roman day normally reserved the afternoon for leisure. Already, by the end of the Republic, spending the latter part of the afternoon, after a light lunch and siesta, in the public baths had become a tradition, a comforting part of urban life and national identity. But why did bathing become a daily habit in the first place? The first and most important is the pleasure factor. At its most basic, bathing is physically and psychologically satisfying. Warm, moist air and water relax the body and clear the mind. Another factor that helps account for the popularity of baths is the well-entrenched belief in the ancient world that baths were good for health. Bathing was considered a serious therapeutic measure and received full support from ancient medicine. Finally there is also a basic economic explanation. Baths were built in such large numbers because running a public bath was seen a sensible lucrative business proposition.",
+    "stem": "It is clear from the passage that what made Roman baths an indispensable part of the life ----.",
+    "options": [
+      "had a lot to do with the fact that Romans failed to find any leisure activities other than siesta",
+      "is a combination of reasons related to economic, physical and psychological well-being",
+      "focussed specifically on health benefits of the activity itself",
+      "still applies to the popularity they bear to this day",
+      "could be explained by the fact that it was cost-effective"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q53",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g51-54",
+    "passage": "Both beginners and specialists in ancient studies often ask why bathing was so important to Roman society. This question might be an easy one, but there are no easy and definite answers. Bathing was a significant part of their lives, an institution rooted in the structure of their day. The Roman day normally reserved the afternoon for leisure. Already, by the end of the Republic, spending the latter part of the afternoon, after a light lunch and siesta, in the public baths had become a tradition, a comforting part of urban life and national identity. But why did bathing become a daily habit in the first place? The first and most important is the pleasure factor. At its most basic, bathing is physically and psychologically satisfying. Warm, moist air and water relax the body and clear the mind. Another factor that helps account for the popularity of baths is the well-entrenched belief in the ancient world that baths were good for health. Bathing was considered a serious therapeutic measure and received full support from ancient medicine. Finally there is also a basic economic explanation. Baths were built in such large numbers because running a public bath was seen a sensible lucrative business proposition.",
+    "stem": "The author of the passage gives specific reasons in an attempt to explain ----.",
+    "options": [
+      "how it was possible for Roman baths to survive up to today",
+      "what methods were used by ancient Roman businessmen to run baths",
+      "why bathing became a popular trend in ancient Rome",
+      "when Roman baths became a ‘must-have’ part of the society",
+      "in what terms Roman baths could be deemed good for health"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q54",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g51-54",
+    "passage": "Both beginners and specialists in ancient studies often ask why bathing was so important to Roman society. This question might be an easy one, but there are no easy and definite answers. Bathing was a significant part of their lives, an institution rooted in the structure of their day. The Roman day normally reserved the afternoon for leisure. Already, by the end of the Republic, spending the latter part of the afternoon, after a light lunch and siesta, in the public baths had become a tradition, a comforting part of urban life and national identity. But why did bathing become a daily habit in the first place? The first and most important is the pleasure factor. At its most basic, bathing is physically and psychologically satisfying. Warm, moist air and water relax the body and clear the mind. Another factor that helps account for the popularity of baths is the well-entrenched belief in the ancient world that baths were good for health. Bathing was considered a serious therapeutic measure and received full support from ancient medicine. Finally there is also a basic economic explanation. Baths were built in such large numbers because running a public bath was seen a sensible lucrative business proposition.",
+    "stem": "What could be the best title for the passage?",
+    "options": [
+      "Development of Roman Baths",
+      "Bathing Rituals and Activities in Ancient Rome",
+      "Popularity of Roman Bathing Culture",
+      "Architecture of Roman Baths",
+      "Differences between Urban and Country Baths in Ancient Rome"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q55",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g55-58",
+    "passage": "Nicole Mantie and her husband Dean bought a house, with a bathroom in a terrible state. The bathroom needed an urgent fixing. But after hearing their friend’s stories of a magical five-star safari, they decided to go for it instead of fixing the bathroom. Although going on a safari sounds less sensible than investing in a better bathroom, a decade of scientific research reveals the surprising wisdom of their decision. Studies show that people get more happiness from buying experiences than buying material things. Why? Experiences are more likely to bring us together with other people while material things are enjoyed alone. In one study, researchers from the University of Colorado discovered that pairs of strangers enjoyed talking more when they discussed experiential (versus material) purchases. Nicole and her husband recount getting kissed by a giraffe while on safari. No matter what your opinion about a giraffe’s kiss is, you must admit that this experience makes for a more surprising story than having a new bathroom.",
+    "stem": "The couple mentioned in the passage ----.",
+    "options": [
+      "had to spend a lot more money than they had originally intended when they went on a safari",
+      "had already been seeking out memorable activities before they bought a house",
+      "were satisfied with the decision they made when its consequences are taken into account",
+      "would have been more pleased if they had renovated their bathroom instead of going on a safari",
+      "were invited to take part in more safaris after their pleasant experiences"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q56",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g55-58",
+    "passage": "Nicole Mantie and her husband Dean bought a house, with a bathroom in a terrible state. The bathroom needed an urgent fixing. But after hearing their friend’s stories of a magical five-star safari, they decided to go for it instead of fixing the bathroom. Although going on a safari sounds less sensible than investing in a better bathroom, a decade of scientific research reveals the surprising wisdom of their decision. Studies show that people get more happiness from buying experiences than buying material things. Why? Experiences are more likely to bring us together with other people while material things are enjoyed alone. In one study, researchers from the University of Colorado discovered that pairs of strangers enjoyed talking more when they discussed experiential (versus material) purchases. Nicole and her husband recount getting kissed by a giraffe while on safari. No matter what your opinion about a giraffe’s kiss is, you must admit that this experience makes for a more surprising story than having a new bathroom.",
+    "stem": "One can infer from the passage that ----.",
+    "options": [
+      "when compared with experiential purchases, material purchases cost a lot more",
+      "people are more likely to enjoy spending money on experiences than purchasing material goods",
+      "the author is opposed to the idea that experiencing unusual events can make us feel happier than buying things",
+      "material purchases have long lasting effects while experiential purchases do not",
+      "people should be better prepared when they make material purchases"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q57",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g55-58",
+    "passage": "Nicole Mantie and her husband Dean bought a house, with a bathroom in a terrible state. The bathroom needed an urgent fixing. But after hearing their friend’s stories of a magical five-star safari, they decided to go for it instead of fixing the bathroom. Although going on a safari sounds less sensible than investing in a better bathroom, a decade of scientific research reveals the surprising wisdom of their decision. Studies show that people get more happiness from buying experiences than buying material things. Why? Experiences are more likely to bring us together with other people while material things are enjoyed alone. In one study, researchers from the University of Colorado discovered that pairs of strangers enjoyed talking more when they discussed experiential (versus material) purchases. Nicole and her husband recount getting kissed by a giraffe while on safari. No matter what your opinion about a giraffe’s kiss is, you must admit that this experience makes for a more surprising story than having a new bathroom.",
+    "stem": "Getting a kiss from a giraffe ----.",
+    "options": [
+      "symbolizes an unusual experience to be shared with friends",
+      "was what made Nicole and Dean love safaris",
+      "costs more than renovating one's old bathroom",
+      "is less of a topic to talk with strangers than mend the bathroom",
+      "is encouraged by the staff of University of Colorado"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q58",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g55-58",
+    "passage": "Nicole Mantie and her husband Dean bought a house, with a bathroom in a terrible state. The bathroom needed an urgent fixing. But after hearing their friend’s stories of a magical five-star safari, they decided to go for it instead of fixing the bathroom. Although going on a safari sounds less sensible than investing in a better bathroom, a decade of scientific research reveals the surprising wisdom of their decision. Studies show that people get more happiness from buying experiences than buying material things. Why? Experiences are more likely to bring us together with other people while material things are enjoyed alone. In one study, researchers from the University of Colorado discovered that pairs of strangers enjoyed talking more when they discussed experiential (versus material) purchases. Nicole and her husband recount getting kissed by a giraffe while on safari. No matter what your opinion about a giraffe’s kiss is, you must admit that this experience makes for a more surprising story than having a new bathroom.",
+    "stem": "What could be the best title for this passage?",
+    "options": [
+      "The Superiority of Experiences over Material Goods",
+      "When to Make Profitable Purchases",
+      "The Studies on Couples’ Spending Choices",
+      "How Choices Influence Marriage",
+      "The Effects of Material Goods on Our Lives"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q59",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g59-62",
+    "passage": "The polygraph, or the lie detector as it is often referred to, measures autonomic nervous system activity by sensors attached to different parts of the body. The sensors measure changes in breathing, cardiac activity and sweating. The indicators only show physiological changes, usually induced by emotion. The machine amplifies signals picked up from sensors placed at specific parts of the body. It detects not lies, but physical changes that are the results of specific emotions. People are asked ‘hot’ or relevant questions as well as ‘cool’ or control questions. The assumption is that for innocent people there is no physical difference in the way they respond to relevant and control questions. The other assumption is that suspect can be identified if he or she exhibits physical changes in his or her body. Therefore, suspects who are to be tested by polygraph use certain drugs to suppress autonomic nervous system activity and make any physiological recording inconclusive. More worryingly, people can be trained to defeat the test with a range of techniques. Tests would therefore not only be highly unreliable but counterproductive: alienating and misclassifying the innocent and letting the guilty get away without receiving the punishment he or she deserves.",
+    "stem": "It is pointed out in the passage that the polygraph ----.",
+    "options": [
+      "is a reliable device used in various fields",
+      "can detect effectively when someone is notably telling lies",
+      "measures physical changes in the body triggered by emotion",
+      "is better at detecting guilty people than those who are innocent",
+      "has a very complicated application, which makes it hard to detect people who react very quickly"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q60",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g59-62",
+    "passage": "The polygraph, or the lie detector as it is often referred to, measures autonomic nervous system activity by sensors attached to different parts of the body. The sensors measure changes in breathing, cardiac activity and sweating. The indicators only show physiological changes, usually induced by emotion. The machine amplifies signals picked up from sensors placed at specific parts of the body. It detects not lies, but physical changes that are the results of specific emotions. People are asked ‘hot’ or relevant questions as well as ‘cool’ or control questions. The assumption is that for innocent people there is no physical difference in the way they respond to relevant and control questions. The other assumption is that suspect can be identified if he or she exhibits physical changes in his or her body. Therefore, suspects who are to be tested by polygraph use certain drugs to suppress autonomic nervous system activity and make any physiological recording inconclusive. More worryingly, people can be trained to defeat the test with a range of techniques. Tests would therefore not only be highly unreliable but counterproductive: alienating and misclassifying the innocent and letting the guilty get away without receiving the punishment he or she deserves.",
+    "stem": "According to the passage, ----.",
+    "options": [
+      "the polygraph cannot prove precisely if someone is guilty or not",
+      "drug addicts tend to perform better on the test",
+      "detecting emotional changes is easier than physiological ones",
+      "the polygraph detects not only lies but also physical changes in the body",
+      "the polygraph is the latest development in lie detection, which has been quite popular"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q61",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g59-62",
+    "passage": "The polygraph, or the lie detector as it is often referred to, measures autonomic nervous system activity by sensors attached to different parts of the body. The sensors measure changes in breathing, cardiac activity and sweating. The indicators only show physiological changes, usually induced by emotion. The machine amplifies signals picked up from sensors placed at specific parts of the body. It detects not lies, but physical changes that are the results of specific emotions. People are asked ‘hot’ or relevant questions as well as ‘cool’ or control questions. The assumption is that for innocent people there is no physical difference in the way they respond to relevant and control questions. The other assumption is that suspect can be identified if he or she exhibits physical changes in his or her body. Therefore, suspects who are to be tested by polygraph use certain drugs to suppress autonomic nervous system activity and make any physiological recording inconclusive. More worryingly, people can be trained to defeat the test with a range of techniques. Tests would therefore not only be highly unreliable but counterproductive: alienating and misclassifying the innocent and letting the guilty get away without receiving the punishment he or she deserves.",
+    "stem": "One can conclude from the passage that ----.",
+    "options": [
+      "the polygraph is able to keep records for a long time",
+      "the parts of the body to which sensors will be attached should be determined faultlessly",
+      "there has been a dramatic increase in the number of drugs used to fake the polygraph",
+      "so many people have been trained to detect lies",
+      "if the polygraph is to be used, it requires far more improvement"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q62",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2014-sonbahar-g59-62",
+    "passage": "The polygraph, or the lie detector as it is often referred to, measures autonomic nervous system activity by sensors attached to different parts of the body. The sensors measure changes in breathing, cardiac activity and sweating. The indicators only show physiological changes, usually induced by emotion. The machine amplifies signals picked up from sensors placed at specific parts of the body. It detects not lies, but physical changes that are the results of specific emotions. People are asked ‘hot’ or relevant questions as well as ‘cool’ or control questions. The assumption is that for innocent people there is no physical difference in the way they respond to relevant and control questions. The other assumption is that suspect can be identified if he or she exhibits physical changes in his or her body. Therefore, suspects who are to be tested by polygraph use certain drugs to suppress autonomic nervous system activity and make any physiological recording inconclusive. More worryingly, people can be trained to defeat the test with a range of techniques. Tests would therefore not only be highly unreliable but counterproductive: alienating and misclassifying the innocent and letting the guilty get away without receiving the punishment he or she deserves.",
+    "stem": "It can be understood from the passage that the author ----.",
+    "options": [
+      "tries to explain why the use of polygraph is open to doubt",
+      "criticizes courts using the polygraph as a proof",
+      "favours the use of the polygraph even though it causes ambiguity",
+      "informs the reader that the polygraph, on its own, is able to both record and detect accurately",
+      "aims to encourage people to use the polygraph for specific purposes"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q63",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Martin: - I read Tom Jenkinson has built his entire career out of doing the unexpected. Jack: - ---- Martin: - No, not necessarily. I think he doesn’t want to repeat himself or imitate his predecessors. Jack: - It must be really interesting and challenging for him.",
+    "options": [
+      "I’m sure teenage girls are passionate fans of him.",
+      "That sounds disappointing. Why bother to please others?",
+      "It is just the atmosphere of the scenes that makes him so amazing.",
+      "Does it mean that his all life is based on surprising the others?",
+      "Then, he must be really proud of himself."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q64",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Ceyhun: - I haven’t been feeling very well for a long time. I’ve tried hard but cannot help feeling less and less happy. Kemal: - It sounds like depression. Maybe you need some changes in your life. Experts believe that living in the country may be relaxing for your mind. Ceyhun: - ---- Kemal: - I quite agree with you. I hope you’ll be alright soon.",
+    "options": [
+      "Interesting, that makes sense. Perhaps I should now focus more on my retirement and settling down in a village.",
+      "Do you really think I’m going to suffer from depression? I wonder whether you know any psychologists I can see.",
+      "So that means living in the countryside will refresh me, as it may provide wonderful views. Yet, I can’t decide what to do.",
+      "I’m not ready to give up my urban living. I suspect those experts haven’t made an evidence-based comparison of urban living and country living.",
+      "It must be due to plenty of stress factors in cities. I’ve heard of many studies confirming the link between social strain and mental illness."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q65",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Allison: - ---- Jill: - I’d recommend you to study the latter since it is a language spoken worldwide, with official status in a great number of countries, holding the second place only after English. Allison: - Wow, I didn’t know that it had that many speakers around the world. Jill: - Yes, and besides, I think you will find it much easier considering you can also speak French, having an extensive amount of vocabulary in common.",
+    "options": [
+      "I am so much interested in languages and linguistics that I want to learn about the evolution of languages but don’t know with what to start.",
+      "My parents are going to support me if I plan to pursue an academic career abroad. But I can’t decide where to go to study.",
+      "Do you have any idea which of the two is a more appropriate place for an international student: Brazil or Argentina?",
+      "I was considering how it would be if I settled down in a totally new country once I am done with the work and get retired.",
+      "I have decided to take up learning a new foreign language but I’m finding it a bit confusing to choose between German and Spanish."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q66",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Yavuz: - Did you ever think about how huge the Universe really is? We’re merely one small part of an enormous system. Ebru: - No, I haven’t really given any thought to it. Yavuz: - ---- Ebru: - Oh, wow! That’s really fantastic. Tell me more. Yavuz: - I can’t remember much now, but soon I'll share with you any information I learn.",
+    "options": [
+      "You probably haven’t thought about it before because you’ve never read much about this topic.",
+      "Well, you really should think about it. Don’t you care about the Universe?",
+      "I don’t want to think about it anymore because it confuses me a lot.",
+      "Are you even listening to me? Please try to pay more attention.",
+      "Me neither, until I started taking this astronomy course. We’re learning a lot of interesting facts about outer space."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q67",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Dilek: - Do you think the digital age will bring an end to libraries? Selin: - ---- Dilek: - I never thought about it like that. So, you mean libraries actually encourage the digital age. Selin: - Exactly, the future offers hope by placing libraries in a broader context as key parts of the information society rather than just rooms full of books.",
+    "options": [
+      "I don’t know, but to my mind, using a mouse to control a cursor is as important as learning to understand letters on a page.",
+      "I am not certain whether tomorrow’s libraries will be able to offer access to the shared space of the network.",
+      "Today, some libraries are being handed over to voluntary groups or charities, so the answer of your questions depends on their steps.",
+      "Sooner or later, we’ll find ourselves at a point in time where the library will either become extinct or evolve into something fitter for the modern age.",
+      "Definitely not. For me, they offer a lot more than just books; they are information centres and the Internet access points for a wide community."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q68",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Crime is not unique to urban life, and violence occurs in families far more often than on the streets.",
+    "options": [
+      "Crime is not peculiar to cities, and there is more violence at homes than on the streets.",
+      "Crime can be found everywhere except in cities, and street violence occurs less often than family violence.",
+      "Crime is not limited to city life, and violence on the streets takes place a lot more frequently than among families.",
+      "The source of crime in urban life comes from families in which violence occurs far more than on the streets.",
+      "Violence occurs not only in families but also on the streets, so urban life is not the only place where crime occurs."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q69",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "When people suffer from difficulty in eating because of illness, they are advised to have concentrated liquid formulas since they are easily swallowed.",
+    "options": [
+      "As concentrated liquid formulas do not cause any difficulty in swallowing, people who find it hard to eat due to illness are advised to use them.",
+      "Concentrated liquid formulas are very practical to swallow, so they are recommended to ill people, especially those who have problems with eating.",
+      "If a person cannot eat easily because of illness, he or she should have concentrated liquid formulas, as illness affects them immensely.",
+      "Illness may cause difficulty in eating, but people can overcome it using concentrated liquid formulas that are easy to swallow.",
+      "Concentrated liquid formulas contribute a lot to solving the problem of eating resulting from illness, as they are convenient for easy swallowing."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q70",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The importance of language is not only that it allows us to communicate, but also that it gives us an identity, without which we would not know who we are.",
+    "options": [
+      "Language, through which we can communicate, is important to our knowledge of who we are because it gives us an identity.",
+      "The reason why language is important is not that it allows us to communicate but that it enables us to have an identity with which we know who we are.",
+      "Language, with which we associate ourselves, is important because it both allows us to communicate and to know who we are.",
+      "If it were not for language, with which we can communicate and obtain our identity, we would not be able to know the importance of who we are.",
+      "Language is important not only because it allows us to communicate, but also because it provides us with an identity, which enables us to know who we are."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q71",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "The way that scientists compare colour vision in different types of animals is by counting the colour photoreceptors in their eyes.",
+    "options": [
+      "The colour vision of different animals can be compared by counting their photoreceptors, a method put forward by many scientists.",
+      "There are many ways of comparing the colour vision of different animals, yet scientists are mainly using one specific technique; counting the colour photoreceptors in their eyes.",
+      "In order to compare different animals’ colour vision, scientists count the colour photoreceptors in the eyes of the animals.",
+      "If anyone is interested in making a comparison among animals’ colour vision, they should count the colour photoreceptors in their eyes.",
+      "The colour photoreceptors in the eyes of different animals give lots of information about their colour vision, according to the scientists."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q72",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "No one on the planet is going to escape the effects of global warming and for billions the resulting environmental deterioration is going to make life considerably more difficult. ---- The question is whether we will ever be able to achieve a worthwhile international consensus that allows us to do this with any degree of effectiveness.",
+    "options": [
+      "Without US ratification, emissions from all the industrial countries could rise significantly soon.",
+      "It is too late now to put the clock back, but we can at least attempt to reduce the worst impacts of global warming.",
+      "The more global warming continues to attract the public attention, the closer we are to finding a solution.",
+      "The latter includes ways of using the oceans as a dumping ground for atmospheric carbon dioxide.",
+      "In terms of greenhouse gas emissions, things are getting steadily worse, not better."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q73",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "One of the first microscopes was built by a lensmaker in the Netherlands in 1590. It was a simple device with one lens. In 1625, Italian scientist Galileo Galilei made the first compound microscope. ---- The magnified view appears as a so-called ‘virtual image’ behind the target. Many microscopes today also have a light source behind the target to illuminate it.",
+    "options": [
+      "It had one lens to create an image of the target and another to make it bigger.",
+      "While it was very useful then, it did not take long for more advanced ones to come.",
+      "Galilei, himself, did not believe that he could magnify views on lens.",
+      "This microscope gave the impression that it could pave the way for new microscopes.",
+      "Microscopes have been used in a variety of fields including forensics, metallurgy and medical microbiology."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q74",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Between 4000 and 2000 BC, the first urban civilizations arose independently along the Tigris, the Nile, the Indus and the Yellow River. All of these great rivers are prone to seasonal variations in flow, with flood alternating with drought. ---- Once this technology was developed, farmers found that they could move into drier areas, such as southern Mesopotamia.",
+    "options": [
+      "Archaeologists have found sites where one Sumerian city was built on top of an earlier one, separated by a layer of mud swept over in a flood.",
+      "Although most humans lived in small hunting bands, some pre-farming peoples worked out a very different strategy of survival.",
+      "To maximize agricultural production, it was necessary to build dams to store the flood waters in reservoirs to water the fields during the dry season.",
+      "Constructing such schemes required an accurate calendar to predict when the floods would come, and a high degree of social organization.",
+      "It was here that first people first began to cultivate crops, kick starting a global revolution in the way humans live."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q75",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "It was only about a century ago that Jules Verne fantasized about people travelling around the world in only 80 days. Much of what we take for granted today results from technology that has been developed only within the last century. Before then, change occurred slowly. ---- Travellers commonly fly from New York to London in six-and-a-half hours, and communications are almost instantaneous.",
+    "options": [
+      "Demand for new products, services and technology has little impact on international transport.",
+      "Moreover, the cost of improved communications and transportation has risen more slowly than the speed of travel.",
+      "But conducting business on an international level involves greater distances than it did in the previous century.",
+      "Speed restrictions now make international business more expensive to undertake.",
+      "In recent years, however, the pace of technological advances has accelerated at a fast rate."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q76",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) When US athlete Frank Jarvis clocked 11 seconds to win the 100m at the Olympic final in Paris in 1900, it was considered a miracle. (II) Today, such a time would not even qualify an athlete for the English Schools Senior Boys’ National Standard of 10.9 seconds. (III) So what has changed? (IV) The most significant factor is the change in body shape in elite athletes – they have longer legs and arms, and it gives them an advantage from the mid-point of the race onwards. (V) However, swimmers have to use four times as much energy as runners to cover the same distance.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q77",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Children, like adults, use three visible cues – race, gender and age – to arrange their social world. (II) The next step might be to see whether living in multilingual countries can change this early tendency. (III) They prefer to make friends with kids similar to them based on these traits. (IV) New research, however, shows that language accents may be equally important in guiding youngsters’ social decisions. (V) In fact, accents may be even more meaningful than race in signifying whether someone belongs in your social group.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q78",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Material that makes its way from short-term memory to long-term memory enters a storehouse of almost unlimited capacity. (II) Like a new file we save on a hard drive, the information in the long-term memory is filled and coded so that we can retrieve it when we need it. (III) Repeating a word several times, for example, is a popular strategy to keep information in short-term memory. (IV) Evidence of the existence of long-term memory comes from a number of sources. (V) For example, people with certain kinds of brain damage have no lasting recall of new information after the damage, although people and events stored in memory before the injury remain intact.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q79",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) The traditional image of the computer gamer is of a teenage boy addicted to sitting in the dark in front of a screen. (II) Actually, an increasing percentage of users and buyers of computer games are women, who are thought to be attracted by the appearance of sophisticated simulation games. (III) It has been argued that unlike film or television, computers permit greater interaction between users. (IV) Furthermore, the majority of computer gamers have an avarage age around 30. (V) Some two-fifths of the most frequent players are over 35.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2014-sonbahar-q80",
+    "source": {
+      "year": 2014,
+      "session": "sonbahar",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) Sand particles and dust from the roads make up a large proportion of air pollution. (II) The composition of household dust will vary from place to place, but it mostly consists of organic matter that naturally comes off people, pets, plants and anything else that lives in our homes. (III) The main components include human skin flakes, fibres from plants, clothing and furnishings, smoke and oil droplets from cooking. (IV) Our hobbies also add a personal signature to house dust. (V) Woodworkers have wood dust in their homes, cooks make savoury dust, while readers produce papery particles.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V TEST BİTTİ. 0 CEVAPLARINIZI KONTROL EDİNİZ. SINAVDA UYULA 1. Sınav salonları kamera ile kayıt altına alınacaktır. Kam rına uymadığı tespit edilen adayların sınavları ÖSYM 2. Cep telefonu ile sınava girmek kesinlikle yasaktır. Ça sayarı, kol veya cep saati gibi her türlü bilgisayar özelliği kâğıdı, defter, kitap, sözlük, sözlük işlevi olan elektronik ay vb. araçlarla sınava girmek kesinlikle yasaktır. Bu araçlar nağına yazılacak, bu adayların sınavı geçersiz sayılacak kulaklık, küpe, broş vb. takı, herhangi bir metal eşya tüketim malzemeleri de sınava getirilemez. Adaylar sı 3. Bu sınav için verilen toplam cevaplama süresi 150 dakikad adayın sınavdan çıkmasına kesinlikle izin verilmeyecekti mamlarsanız cevap kâğıdınızı ve soru kitapçığınızı sal Bildirilen sürelere aykırı davranışlardan adayın kendis 4. Sınav salonundan ayrılan aday, her ne sebeple olursa 5. Sınav süresince görevlilerle konuşmak, görevlilere soru s kından ve alçak sesle konuşmaları ayrıca adayların birbir 6. Sınav sırasında, görevlilerin her türlü uyarısına uymak zor sınav kurallarına uymanıza bağlıdır. Kurallara aykırı dav kimlik bilgileri Salon Sınav Tutanağına yazılacak ve sınav 7. Sınav sırasında kopya çeken, çekmeye kalkışan, kopya Salon Sınav Tutanağına yazılacak ve bu adayların sınavl Adayların test sorularına verdikleri cevapların dağılımları bi edilen bulgular bireysel veya toplu olarak kopya çekildiğin geçersiz sayılacak ayrıca 2 yıl boyunca ÖSYM tarafından Sınav görevlileri bir salondaki sınavın, kurallara uygun biç nu raporlarında bildirdiği takdirde, ÖSYM bu salonda sına 8. Cevap kâğıdında doldurmanız gereken alanlar bulunmak tarafından görülmeyecek şekilde tutmanız gerekmektedir bütün işaretlemelerde kurşun kalem kullanılacaktır. Sına olması gerekir. Soru kitapçığına işaretlenen cevaplar geç 9. Soru kitapçığınızı alır almaz kapağında bulunan ilgili ala olup olmadığını, kitapçıkta basım hatalarının bulunup bulu nan soru kitapçık numarasının, kitapçığın ön kapağında ba ediniz. Soru kitapçığınızın sayfası eksik veya basımı hata Size verilen soru kitapçığının numarasını cevap kâğıd kodlayınız. Cevap kâğıdınızdaki “Soru kitapçık numara Soru kitapçığı üzerinde yer alan Soru Kitapçık Numara 10. Sınav sonunda soru kitapçıkları toplanacak ve ÖSYM’de nız. Soru kitapçığının bir sayfası bile eksik çıkarsa sınavın 11. Cevap kâğıdına ve soru kitapçığına yazılması ve işaretle ması hâlinde sınavınızın değerlendirilmesi mümkün olam size aittir. 12. Soru kitapçığının sayfalarındaki boş yerleri müsvedde için 13. Soruları ve/veya bu sorulara verdiğiniz cevapları ayrı bir k 14. Sınav salonundan ayrılmadan önce, soru kitapçığınızı, lerine eksiksiz olarak teslim etmeyi unutmayınız. Bu testlerin her hakkı saklıdır. Hangi amaçla olursa olsun, testlerin tamamın fotoğrafının çekilmesi, herhangi bir yolla çoğaltılması, yayımlanması ya da ku doğacak tüm mali külfeti peşinen kabullenmiş sayılır. ACAK KURALLAR mera kayıtlarının incelenmesinden sonra sınav kurallaYönetim Kurulunca geçersiz sayılacaktır. ağrı cihazı, telsiz, fotoğraf makinesi vb. araçlarla; cep bilgibulunan cihazlarla; silah ve benzeri teçhizatla; müsvedde ygıt, hesap cetveli, hesap makinesi, pergel, açıölçer, cetvel rla sınava girmiş adayların adı mutlaka Salon Sınav Tutaktır. Sınava kalem, silgi, kalemtıraş, saat vb. araçla ve a ile girmek de kesinlikle yasaktır. Yiyecek, içecek vb. ınava şeffaf şişe içerisinde su getirebilecektir. dır. Sınav başladıktan sonra ilk 110 ve son 15 dakika içinde ir. Bu süreler dışında, cevaplamayı sınav bitmeden talon görevlilerine teslim ederek salonu terk edebilirsiniz. si sorumludur. a olsun, tekrar sınava alınmayacaktır. sormak yasaktır. Aynı şekilde görevlilerin de adaylarla yarinden kalem, silgi vb. şeyleri istemeleri kesinlikle yasaktır. rundasınız. Sınavınızın geçerli sayılması, her şeyden önce, vranışta bulunanların ve yapılacak uyarılara uymayanların vları geçersiz sayılacaktır. veren, kopya çekilmesine yardım edenlerin kimlik bilgileri ları geçersiz sayılacaktır. ilgi işlem yöntemleriyle incelenecek, bu incelemelerden elde ni gösterirse kopya eylemine katılan adayın/adayların sınavı düzenlenen tüm sınavlara başvurusu yasaklanabilecektir. çimde yapılmadığını, toplu kopya girişiminde bulunulduğuava giren tüm adayların sınavını geçersiz sayabilir. ktadır. Bu alanları doldurunuz. Cevap kâğıdınızı başkaları r. Cevap kâğıdına yazılacak her türlü yazıda ve yapılacak av süresi bittiğinde cevapların cevap kâğıdına işaretlenmiş çerli değildir. anları doldurunuz. Size söylendiği zaman sayfaların eksik unmadığını ve soru kitapçığının her sayfasında basılı buluasılı soru kitapçık numarasıyla aynı olup olmadığını kontrol alıysa değiştirilmesi için salon başkanına başvurunuz. dınızdaki “Soru Kitapçık Numarası” alanına yazınız ve amı doğru kodladım.” kutucuğunu işaretleyiniz. asını doğru kodladığınızı beyan eden alanı imzalayınız. e incelenecektir. Soru kitapçığınızın sayfalarını koparmayınız geçersiz sayılacaktır. enmesi gereken bilgilerde bir eksiklik ve/veya yanlışlık olmamaktadır, bu husustaki özen yükümlülüğü ve sorumluluk n kullanabilirsiniz. kâğıda yazıp bu kâğıdı dışarı çıkarmanız kesinlikle yasaktır. cevap kâğıdınızı ve sınava giriş belgenizi salon görevlinın veya bir kısmının Merkezimizin yazılı izni olmadan kopya edilmesi, ullanılması yasaktır. Bu yasağa uymayanlar gerekli cezai sorumluluğu ve"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]

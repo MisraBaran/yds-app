@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "2016-sonbahar-q01",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 1
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "There is new ---- that dinosaurs were warm-blooded like birds and mammals rather than cold-blooded like reptiles.",
+    "options": [
+      "compulsion",
+      "frustration",
+      "evidence",
+      "significance",
+      "fulfillment"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q02",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 2
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The tendency towards increasingly bitter chocolate has its origins in the ---- fall in cocoa prices in the 1980s.",
+    "options": [
+      "dramatic",
+      "permanent",
+      "empirical",
+      "subtle",
+      "hectic"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q03",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 3
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "An understanding of the physiology of stress does not ---- clarify its meaning, thus several models have been constructed in an attempt to better define and explain it.",
+    "options": [
+      "arguably",
+      "jointly",
+      "eventually",
+      "completely",
+      "desperately CE TESTİ"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q04",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 4
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "That we have the ability to detect and ---- minute differences in the fat content of food suggests that this ability must have had considerable evolutionary importance.",
+    "options": [
+      "discriminate",
+      "hinder",
+      "undermine",
+      "tackle",
+      "protect"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q05",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 5
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Children who are securely attached to their mother by the time they enter their second year of life are better equipped to ---- new experiences and relationships.",
+    "options": [
+      "depend on",
+      "turn down",
+      "refrain from",
+      "cope with",
+      "carry out"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q06",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 6
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The success of advertising ultimately ---- whether it influences consumer behaviour.",
+    "options": [
+      "breaks in",
+      "disposes of",
+      "gives away",
+      "rests on",
+      "tears apart"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q07",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 7
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although Immanuel Kant, one of the greatest thinkers in the history of philosophy, ---- many pieces of technical terminology to articulate the themes of his critical philosophy, perhaps none ---- more pervasive than a priori.",
+    "options": [
+      "was introducing / was",
+      "introduced / is",
+      "had introduced / had been",
+      "used to introduce / has been",
+      "had been introducing / would be"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q08",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 8
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "In cultures that ---- up to more recent times, we ---- further clues to past beliefs.",
+    "options": [
+      "will survive / need to find",
+      "had survived / could find",
+      "survived / would find",
+      "survive / used to find",
+      "have survived / may find"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q09",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 9
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "The Internet provides a platform which enables new products ---- more rapidly since it is possible ---- new ideas and concepts through online research.",
+    "options": [
+      "being developed / testing",
+      "to develop / to have tested",
+      "developing / to be tested",
+      "to be developed / to test",
+      "having developed / being tested"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q10",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 10
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Education plays an important role ---- improving people's health, and educated people are more likely to be informed consumers of health care, gathering information ---- diseases and potential treatments.",
+    "options": [
+      "to / upon",
+      "in / on",
+      "at / about",
+      "with / from",
+      "for / over"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q11",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 11
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Excluding minor skin cancers, breast cancer is the single most common type of cancer ---- women based ---- American Cancer Society data.",
+    "options": [
+      "in / from",
+      "with / for",
+      "among / upon",
+      "within / about",
+      "on / of"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q12",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 12
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- some people produce irresistibly scented sweat that insects can detect from 30 m away, they are especially attractive to mosquitoes.",
+    "options": [
+      "Until",
+      "As",
+      "Whereas",
+      "Whether",
+      "Before"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q13",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 13
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- using renewable energy is potentially a means of combating global warming, renewable energy facilities can be very expensive to establish.",
+    "options": [
+      "Unless",
+      "Although",
+      "Just as",
+      "Until",
+      "When"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q14",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 14
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Standard Mail Transfer Protocol employs an elaborate letter-and-number code that tells each computer station what it must do with a message ---- it can reach its destination.",
+    "options": [
+      "as though",
+      "in case",
+      "so that",
+      "even if",
+      "now that"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q15",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 15
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "Leonardo da Vinci’s drawings for machines are ---- accurate ---- it has been possible for modern engineers to build some of them.",
+    "options": [
+      "so / that",
+      "as / as",
+      "either / or",
+      "more / than",
+      "neither / nor"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q16",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 16
+    },
+    "type": "vocabulary",
+    "groupId": null,
+    "passage": null,
+    "stem": "---- the promising prospects that carbon capture and storage technology offers to prevent air pollution, it is still a rather new technique requiring much more research before it can be utilized on a large scale.",
+    "options": [
+      "Owing to",
+      "Rather than",
+      "In spite of",
+      "Similar to",
+      "Except for"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q17",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 17
+    },
+    "type": "cloze",
+    "groupId": "2016-sonbahar-g17-21",
+    "passage": "Great Britain was one of the most powerful nations in the world in the 18th century. Itled the world in (17)---- new sources of energy for making textiles and concentrating the process in factories. This was the Industrial Revolution. In New England, America, small factories first appeared in the 1790s. Thereafter, the proportion of manufacturing carried out in northern factories steadily rose (18)---- individual and primitive ways of production. By 1850, Americans were pioneering ways (19)---- clocks and firearms using interchangeable, machine-made parts.Goods poured out of New England and midwestern factories, and they spread (20)---- the world. Industrialization fell behind in the South, (21)---- it was not unknown.",
+    "stem": null,
+    "options": [
+      "accelerating",
+      "utilising",
+      "challenging",
+      "eliminating",
+      "recruiting"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q18",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 18
+    },
+    "type": "cloze",
+    "groupId": "2016-sonbahar-g17-21",
+    "passage": "Great Britain was one of the most powerful nations in the world in the 18th century. Itled the world in (17)---- new sources of energy for making textiles and concentrating the process in factories. This was the Industrial Revolution. In New England, America, small factories first appeared in the 1790s. Thereafter, the proportion of manufacturing carried out in northern factories steadily rose (18)---- individual and primitive ways of production. By 1850, Americans were pioneering ways (19)---- clocks and firearms using interchangeable, machine-made parts.Goods poured out of New England and midwestern factories, and they spread (20)---- the world. Industrialization fell behind in the South, (21)---- it was not unknown.",
+    "stem": null,
+    "options": [
+      "as a result of",
+      "such as",
+      "by means of",
+      "due to",
+      "as opposed to"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q19",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 19
+    },
+    "type": "cloze",
+    "groupId": "2016-sonbahar-g17-21",
+    "passage": "Great Britain was one of the most powerful nations in the world in the 18th century. Itled the world in (17)---- new sources of energy for making textiles and concentrating the process in factories. This was the Industrial Revolution. In New England, America, small factories first appeared in the 1790s. Thereafter, the proportion of manufacturing carried out in northern factories steadily rose (18)---- individual and primitive ways of production. By 1850, Americans were pioneering ways (19)---- clocks and firearms using interchangeable, machine-made parts.Goods poured out of New England and midwestern factories, and they spread (20)---- the world. Industrialization fell behind in the South, (21)---- it was not unknown.",
+    "stem": null,
+    "options": [
+      "to mass-produce",
+      "to have mass-produced",
+      "having mass-produced",
+      "to be mass-produced",
+      "mass-produce"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q20",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 20
+    },
+    "type": "cloze",
+    "groupId": "2016-sonbahar-g17-21",
+    "passage": "Great Britain was one of the most powerful nations in the world in the 18th century. Itled the world in (17)---- new sources of energy for making textiles and concentrating the process in factories. This was the Industrial Revolution. In New England, America, small factories first appeared in the 1790s. Thereafter, the proportion of manufacturing carried out in northern factories steadily rose (18)---- individual and primitive ways of production. By 1850, Americans were pioneering ways (19)---- clocks and firearms using interchangeable, machine-made parts.Goods poured out of New England and midwestern factories, and they spread (20)---- the world. Industrialization fell behind in the South, (21)---- it was not unknown.",
+    "stem": null,
+    "options": [
+      "on",
+      "beyond",
+      "across",
+      "against",
+      "towards"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q21",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 21
+    },
+    "type": "cloze",
+    "groupId": "2016-sonbahar-g17-21",
+    "passage": "Great Britain was one of the most powerful nations in the world in the 18th century. Itled the world in (17)---- new sources of energy for making textiles and concentrating the process in factories. This was the Industrial Revolution. In New England, America, small factories first appeared in the 1790s. Thereafter, the proportion of manufacturing carried out in northern factories steadily rose (18)---- individual and primitive ways of production. By 1850, Americans were pioneering ways (19)---- clocks and firearms using interchangeable, machine-made parts.Goods poured out of New England and midwestern factories, and they spread (20)---- the world. Industrialization fell behind in the South, (21)---- it was not unknown.",
+    "stem": null,
+    "options": [
+      "as if",
+      "though",
+      "in case",
+      "only if",
+      "just as"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q22",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 22
+    },
+    "type": "cloze",
+    "groupId": "2016-sonbahar-g22-26",
+    "passage": "Reading does not come naturally; it is a difficult skill that must be acquired painfully. (22)---- learnt, however, it is rarely, if ever, forgotten. So, we do not have to worry about forgetting how to read because the skill is (23)---- established in our long-term memory banks. (24)---- the retention of the reading skill in permanent memory, an entirely different type of memory is required during the active process of reading itself. While reading, we must retain a 'short-term working memory' for what has just been read. Some of the information acquired while reading (25)---- to long-term memory but much is remembered for just long enough to enable you to understand the text. Memories must somehow be represented physically in the brain. Brain chemistry and structure is altered by experience, and the stability of these physiochemical changes can be associated (26)---- the retention duration of memory.",
+    "stem": null,
+    "options": [
+      "Unless",
+      "Once",
+      "Until",
+      "Before",
+      "Though"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q23",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 23
+    },
+    "type": "cloze",
+    "groupId": "2016-sonbahar-g22-26",
+    "passage": "Reading does not come naturally; it is a difficult skill that must be acquired painfully. (22)---- learnt, however, it is rarely, if ever, forgotten. So, we do not have to worry about forgetting how to read because the skill is (23)---- established in our long-term memory banks. (24)---- the retention of the reading skill in permanent memory, an entirely different type of memory is required during the active process of reading itself. While reading, we must retain a 'short-term working memory' for what has just been read. Some of the information acquired while reading (25)---- to long-term memory but much is remembered for just long enough to enable you to understand the text. Memories must somehow be represented physically in the brain. Brain chemistry and structure is altered by experience, and the stability of these physiochemical changes can be associated (26)---- the retention duration of memory.",
+    "stem": null,
+    "options": [
+      "coincidentally",
+      "scarcely",
+      "firmly",
+      "moderately",
+      "severely"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q24",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 24
+    },
+    "type": "cloze",
+    "groupId": "2016-sonbahar-g22-26",
+    "passage": "Reading does not come naturally; it is a difficult skill that must be acquired painfully. (22)---- learnt, however, it is rarely, if ever, forgotten. So, we do not have to worry about forgetting how to read because the skill is (23)---- established in our long-term memory banks. (24)---- the retention of the reading skill in permanent memory, an entirely different type of memory is required during the active process of reading itself. While reading, we must retain a 'short-term working memory' for what has just been read. Some of the information acquired while reading (25)---- to long-term memory but much is remembered for just long enough to enable you to understand the text. Memories must somehow be represented physically in the brain. Brain chemistry and structure is altered by experience, and the stability of these physiochemical changes can be associated (26)---- the retention duration of memory.",
+    "stem": null,
+    "options": [
+      "Thanks to",
+      "In terms of",
+      "On behalf of",
+      "Despite",
+      "According to"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q25",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 25
+    },
+    "type": "cloze",
+    "groupId": "2016-sonbahar-g22-26",
+    "passage": "Reading does not come naturally; it is a difficult skill that must be acquired painfully. (22)---- learnt, however, it is rarely, if ever, forgotten. So, we do not have to worry about forgetting how to read because the skill is (23)---- established in our long-term memory banks. (24)---- the retention of the reading skill in permanent memory, an entirely different type of memory is required during the active process of reading itself. While reading, we must retain a 'short-term working memory' for what has just been read. Some of the information acquired while reading (25)---- to long-term memory but much is remembered for just long enough to enable you to understand the text. Memories must somehow be represented physically in the brain. Brain chemistry and structure is altered by experience, and the stability of these physiochemical changes can be associated (26)---- the retention duration of memory.",
+    "stem": null,
+    "options": [
+      "may be committed",
+      "used to be committed",
+      "would be committed",
+      "had better be committed",
+      "must be committed"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q26",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 26
+    },
+    "type": "cloze",
+    "groupId": "2016-sonbahar-g22-26",
+    "passage": "Reading does not come naturally; it is a difficult skill that must be acquired painfully. (22)---- learnt, however, it is rarely, if ever, forgotten. So, we do not have to worry about forgetting how to read because the skill is (23)---- established in our long-term memory banks. (24)---- the retention of the reading skill in permanent memory, an entirely different type of memory is required during the active process of reading itself. While reading, we must retain a 'short-term working memory' for what has just been read. Some of the information acquired while reading (25)---- to long-term memory but much is remembered for just long enough to enable you to understand the text. Memories must somehow be represented physically in the brain. Brain chemistry and structure is altered by experience, and the stability of these physiochemical changes can be associated (26)---- the retention duration of memory.",
+    "stem": null,
+    "options": [
+      "at",
+      "for",
+      "into",
+      "with",
+      "upon"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q27",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 27
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Some estimates indicate that sea levels could rise globally by at least one metre by 2080 ----.",
+    "options": [
+      "if municipalities immediately take preventive measures",
+      "though this anticipation is uniform around the world",
+      "unless a sudden rise in sea levels threatens most cities",
+      "since glaciers melt and warmer seas expand",
+      "as coastal areas at extremely low elevations are the most prone to disaster"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q28",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 28
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The world's cities are home to more than half of the global population ----.",
+    "options": [
+      "so they are facing unprecedented pressure and demand for investment in infrastructure and urban development",
+      "until they gain recognition as one of the fastest developing regional players in the local sector",
+      "since firms around the world are trying hard to sign a contract to get involved in cities' recreation process",
+      "so that new industrial projects can be designed to deal with the problems resulting from overpopulation",
+      "but governments hope that public transportation systems will encourage people to get out of their cars"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q29",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 29
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "When someone feels upset about a life event, telling them to cheer up actually makes them feel worse, ----.",
+    "options": [
+      "although pain and sadness are complicated and unpredictable emotions",
+      "since emotional support in stressful situations has positive consequences",
+      "because it simply reminds them that their emotions do not conform to societal expectations",
+      "for it is not easy to get it right, but we should all try",
+      "but we all have unique coping strategies and individual preferences"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q30",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 30
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Parts of Antarctica are claimed by seven nations: Argentina, Australia, Chile, France, New Zealand, Norway, and the United Kingdom, ----.",
+    "options": [
+      "given that Antarctica is generally described as having two parts, West Antarctica and East Antarctica",
+      "but Antarctica is located in the far south, and is extremely cold, even during the summer",
+      "therefore, it ranks fifth in size among the world’s continents, being larger than Australia or Europe",
+      "for example, about 98 percent of the land area is permanently covered with ice",
+      "however, their territories are not recognized by the international community"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q31",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 31
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Children learn that some types of lying are permissible and encouraged; ----.",
+    "options": [
+      "for example, they can pretend to be happy with a gift they dislike to avoid hurting the giver's feelings",
+      "however, lying to protect oneself from punishment is a behaviour that appears in very young children",
+      "therefore, lying to others is most often seen as an interpersonal failure because it damages trust",
+      "on the contrary, it may seem reasonable to assume that the maintenance of social interaction can require lying",
+      "as a result, parents are generally upset about their children's lying since it is considered socially unacceptable"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q32",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 32
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although there is no standard definition for a smartphone, ----.",
+    "options": [
+      "it is a mobile phone with advanced functions in its basic sense",
+      "the first smartphone had a calendar, a calculator, and fax capabilities",
+      "its applications are not often included when you buy it",
+      "whether the smartphone will simply be a computer in the future is not certain",
+      "the number of people using smartphones is increasing day by day"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q33",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 33
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although the first railroads date back to the mid-16th century used by horsedrawn mining vehicles, ----.",
+    "options": [
+      "in 1916, the world's longest continuous rail line was completed – the 5,600-mile Trans-Siberian railroad took 25 years to build",
+      "railroads continue to dominate as freight carriers in the US and in the rest of the industrialised world",
+      "it was in the early 1800s when they began to really proliferate and push the Industrial Revolution into high gear",
+      "trains still rank higher than most other means of transportation as efficient carriers of freight and passengers",
+      "rail lines crisscrossing South America in the late 1800s helped strengthen the Latin American economy"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q34",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 34
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "While some hunter-gatherer communities exist even today ----.",
+    "options": [
+      "hunter-gatherer communities lived by searching out food and other things they needed rather than growing or manufacturing them",
+      "the era of hunter-gatherers ended about ten thousand years ago with the appearance of the first agricultural societies",
+      "all hunter-gatherers lived during what is called the 'Palaeolithic Era', which means the era of 'Old Stone Age'",
+      "many gathered the resources they needed for food, for shelter and clothing, and for ritual activities and other purposes",
+      "scholars usually study the physical remains from hunter-gatherer communities in the absence of written evidence"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q35",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 35
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "It is not an easy decision for company founders to sell their businesses ----.",
+    "options": [
+      "no matter how much wealth a good sales deal promises to bring to the owner",
+      "as long as successful entrepreneurs can build companies with great values",
+      "even though some employees feel betrayed after a company has been sold",
+      "thanks to being really optimistic about the bright future of their company",
+      "since whether to sell relies partly on the attitudes of their new customers"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q36",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 36
+    },
+    "type": "sentence_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "After securing political and economic stability and overcoming severe flooding, ----.",
+    "options": [
+      "about half of Thailand’s workforce is employed in the agriculture sector",
+      "the Thai economy depends mainly on automotive and electronics manufacturing",
+      "Thailand is now becoming attractive to foreign investors with its ability to recover",
+      "the majority of the population in Thailand are ethnic Thais besides a large ethnic Chinese minority",
+      "Thailand also exports processed foods like frozen shrimp and canned pineapple"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q37",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 37
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "James Hansen, a climatologist at Columbia University, critically expressed that as long as fossil fuels are the cheapest fuels in the market, they will continue to be used.",
+    "options": [
+      "James Hansen, fosil yakıtların piyasadaki en ucuz yakıtlar olduğu sürece kullanılmaya devam edileceğini eleştirel bir şekilde ifade ettiğinde Kolombiya Üniversitesi'nde iklim bilimciydi.",
+      "İklim bilimci James Hansen, fosil yakıtların piyasadaki en ucuz yakıtlar olduğu sürece kullanılmaya devam edileceğini Kolombiya Üniversitesi'nde eleştirel bir şekilde ifade etti.",
+      "Kolombiya Üniversitesi'nde iklim bilimci olan James Hansen, fosil yakıtların piyasadaki en ucuz yakıtlar olduğu sürece kullanılmaya devam edileceğini eleştirel bir şekilde ifade etmiştir.",
+      "Fosil yakıtların, piyasadaki en ucuz yakıtlar olduğu sürece, kullanılmaya devam edileceğini eleştirel bir şekilde ifade eden, Kolombiya Üniversitesi'ndeki iklim bilimci James Hansen'dı.",
+      "Kolombiya Üniversitesi'nde iklim bilimci olan James Hansen, fosil yakıtların piyasadaki en ucuz yakıtlar oldukları için kullanılmaya devam edileceğini eleştirel bir şekilde ifade etti."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q38",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 38
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "There are over 100 trillion bacteria in our body, most of which are in the guts, and they support essential functions like digestion, immunity and mental health.",
+    "options": [
+      "Sindirim, bağışıklık ve akıl sağlığı gibi önemli fonksiyonları destekleyen ve vücudumuzda çoğunlukla bağırsaklarda bulunan 100 trilyondan fazla bakteri vardır.",
+      "Vücudumuzdaki 100 trilyondan fazla bakterinin çoğu bağırsaklardadır ve bunlar sindirim, bağışıklık ve akıl sağlığı gibi önemli fonksiyonları desteklemektedir.",
+      "Vücudumuzda bulunan 100 trilyonu aşkın bakterinin çoğu bağırsaklarda yaşar ve sindirim, bağışıklık ve akıl sağlığı gibi önemli fonksiyonları destekler.",
+      "Vücudumuzda çoğu bağırsaklarda olan 100 trilyondan fazla bakteri vardır ve bunlar sindirim, bağışıklık ve akıl sağlığı gibi önemli fonksiyonları desteklemektedir.",
+      "Sindirim, bağışıklık ve akıl sağlığı gibi önemli fonksiyonları destekleyen 100 trilyonu aşkın bakteri, vücudumuzda çoğunlukla bağırsaklarda bulunmaktadır."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q39",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 39
+    },
+    "type": "translation_en_tr",
+    "groupId": null,
+    "passage": null,
+    "stem": "Although sleep disorder has negative effects on almost all of the occupations throughout the world, it is a particular source of concern for those who work the night shift.",
+    "options": [
+      "Gece vardiyasında çalışanlar için özel bir endişe kaynağı olan uyku bozukluğu, artık tüm dünyada hemen hemen bütün meslekler üzerinde olumsuz etkiler yaratmaktadır.",
+      "Uyku bozukluğu, gece vardiyasında çalışanlar için özel bir endişe kaynağı oluştursa da dünya çapındaki hemen hemen bütün meslekler üzerinde olumsuz etkilere sahiptir.",
+      "Uyku bozukluğu, tüm dünyada neredeyse bütün meslekler üzerinde olumsuz etkilere sahip olmasına rağmen, en çok gece vardiyasında çalışanlar için özel bir endişe kaynağı oluşturmaktadır.",
+      "Uyku bozukluğu, dünya genelindeki hemen hemen bütün meslekler üzerinde olumsuz etkiler oluşturmaktadır ancak gece vardiyasında çalışanlar için özel bir endişe kaynağıdır.",
+      "Uyku bozukluğu, dünya çapında neredeyse bütün meslekler üzerinde olumsuz etkilere sahip olsa da gece vardiyasında çalışanlar için özel bir endişe kaynağıdır."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q40",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 40
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Albert Einstein, ışığın sürekli bir dalgadan ziyade küçük enerji parçacıklarından, diğer bir deyişle fotonlardan oluştuğunun düşünülebileceği fikrini ortaya koyduğu için 1921'de fizik dalında Nobel Ödülü'nü kazanmıştır.",
+    "options": [
+      "Albert Einstein's winning the Nobel Prize in physics in 1921 is due to his idea that light can be thought of as being composed of tiny particles of energy, or photons, rather than as one continuous wave.",
+      "Albert Einstein proposed that light can be thought of as being composed of small particles of energy, or photons, rather than as one continuous wave, and he won the Nobel Prize in physics in 1921.",
+      "Albert Einstein put forward the idea that light can be thought of as being composed of tiny particles of energy, or photons, rather than as one continuous wave, and therefore won the Nobel Prize in physics in 1921.",
+      "Albert Einstein won the Nobel Prize in physics in 1921 when he proposed that light can be thought of as being composed of little particles of energy, or photons, rather than as one continuous wave.",
+      "Albert Einstein won the Nobel Prize in physics in 1921 for introducing the idea that light can be thought of as being composed of tiny particles of energy, or photons, rather than as one continuous wave."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q41",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 41
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Rüzgar basit tabirle yüksek basınç bölgelerinden daha alçak basınç bölgelerine hava akışı anlamına gelir ve sıvılarla aynı fizik kanunlarına tabidir.",
+    "options": [
+      "What is simply meant by wind is that it is the flow of air from areas of high pressure to those of lower pressure, and it obeys the same laws of physics as fluids.",
+      "The meaning of wind is simply the flow of air from high pressure areas to the areas of lower pressure in addition to following the same physics laws just as fluids do.",
+      "Wind simply means the flow of air from areas of high pressure to those of lower pressure, and it obeys the same laws of physics as fluids.",
+      "Because wind obeys the same laws of physics as fluids, it simply means the flow of air from areas of high pressure to those of lower pressure.",
+      "Wind flows from high pressure areas to lower pressure areas, which simply means that it obeys the same laws of physics as fluids."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q42",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 42
+    },
+    "type": "translation_tr_en",
+    "groupId": null,
+    "passage": null,
+    "stem": "Başarılı bir portre ressamı olan Samuel Morse elektromanyetizmayı ilk duyduğunda mesajların bir kablo üzerinden elektrik aracılığıyla nasıl gönderilebileceği üzerine hemen çalışmaya başlamıştır.",
+    "options": [
+      "As soon as Samuel Morse, a brilliant portrait artist, had heard about electromagnetism, he at once started to study how electricity could be used to send messages over a wire.",
+      "Samuel Morse, who quickly began studying how messages could be sent over a wire through electricity when he first heard about electromagnetism, was a skillful portrait artist.",
+      "When Samuel Morse, an accomplished portrait artist, first heard about electromagnetism, he immediately began studying how messages could be sent over a wire via electricity.",
+      "Having heard about electromagnetism for the first time, Samuel Morse, who was a proficient portrait artist, quickly began studying how messages could be sent over a wire through electricity.",
+      "What made Samuel Morse, a talented portrait artist, immediately begin studying how messages could be sent over a wire using electricity was that he learned of electromagnetism."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q43",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 43
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g43-46",
+    "passage": "Who is the greatest genius of all time? As a scientist, I believe that we should first define what genius is to answer that question. Traditionally, it is the ability to be more creative and skilled than anyone else, or the first to glimpse new shores of knowledge. The history of science and technology is rich with great minds, but who is the greatest? For me, it is close between Einstein and Newton, but in Newton's time, there were not many people doing science. However, at the start of the 20th century, when Einstein was working, there were lots of other great scientists such as Paul Dirac, Wener Heisenberg, Niels Bohr and several others. Even amongst them, Einstein was considered special. Some people may say this is a lazy choice, but I have thought long about it, and I feel it is right. The three theories that he published in four papers are some of the greatest ideas ever to come out of the human mind – he proved that atoms exist with his paper on Brownian motion, discovered the fact that light is made up of packets of energy, and the whole field of cosmology and most of modern astronomy were born from Einstein's General Theory of Relativity. He changed forever the way we understand our Universe. Even now, when we talk about the possibility of a big idea changing science, we say \"we need another Einstein\".",
+    "stem": "It is clear from the passage that in order to be a genius, one needs to ----.",
+    "options": [
+      "have the necessary traits that allow him or her to be more innovative and talented than others",
+      "come up with papers which can lead to remarkable scientific breakthroughs",
+      "be the one with the highest level of understanding of a scientific subject",
+      "follow the footsteps of Einstein or Newton, two of the greatest minds in the history of science",
+      "become knowledgeable in multiple fields of science during his or her career"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q44",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 44
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g43-46",
+    "passage": "Who is the greatest genius of all time? As a scientist, I believe that we should first define what genius is to answer that question. Traditionally, it is the ability to be more creative and skilled than anyone else, or the first to glimpse new shores of knowledge. The history of science and technology is rich with great minds, but who is the greatest? For me, it is close between Einstein and Newton, but in Newton's time, there were not many people doing science. However, at the start of the 20th century, when Einstein was working, there were lots of other great scientists such as Paul Dirac, Wener Heisenberg, Niels Bohr and several others. Even amongst them, Einstein was considered special. Some people may say this is a lazy choice, but I have thought long about it, and I feel it is right. The three theories that he published in four papers are some of the greatest ideas ever to come out of the human mind – he proved that atoms exist with his paper on Brownian motion, discovered the fact that light is made up of packets of energy, and the whole field of cosmology and most of modern astronomy were born from Einstein's General Theory of Relativity. He changed forever the way we understand our Universe. Even now, when we talk about the possibility of a big idea changing science, we say \"we need another Einstein\".",
+    "stem": "Why does the author nominate Einstein instead of Newton as the greatest genius of all time?",
+    "options": [
+      "Newton failed to make a difference when compared to other scientists of his time no matter how significant his works and findings were.",
+      "Einstein earned a reputation as the most special one of the great geniuses of his time while Newton did not have many competitors.",
+      "Einstein had the privilege of collaborating with some of the most successful scientists of his period, including Dirac, Heisenberg and Bohr.",
+      "Einstein seems to have been more industrious with the theories he developed while Newton was not very inventive.",
+      "Einstein, with his papers, contributed a lot more to the way we see the Universe than Newton."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q45",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 45
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g43-46",
+    "passage": "Who is the greatest genius of all time? As a scientist, I believe that we should first define what genius is to answer that question. Traditionally, it is the ability to be more creative and skilled than anyone else, or the first to glimpse new shores of knowledge. The history of science and technology is rich with great minds, but who is the greatest? For me, it is close between Einstein and Newton, but in Newton's time, there were not many people doing science. However, at the start of the 20th century, when Einstein was working, there were lots of other great scientists such as Paul Dirac, Wener Heisenberg, Niels Bohr and several others. Even amongst them, Einstein was considered special. Some people may say this is a lazy choice, but I have thought long about it, and I feel it is right. The three theories that he published in four papers are some of the greatest ideas ever to come out of the human mind – he proved that atoms exist with his paper on Brownian motion, discovered the fact that light is made up of packets of energy, and the whole field of cosmology and most of modern astronomy were born from Einstein's General Theory of Relativity. He changed forever the way we understand our Universe. Even now, when we talk about the possibility of a big idea changing science, we say \"we need another Einstein\".",
+    "stem": "Scientists say \"we need another Einstein\" when ----.",
+    "options": [
+      "they talk about the existence of atoms, as it was proved by one of the theories proposed by Einstein",
+      "they make reference to one of the ideas presented in the General Theory of Relativity",
+      "there is a need for some vision that is supposed to make a substantial change in science",
+      "they want to underline the fact that Einstein can be considered as the father of cosmology and modern astronomy",
+      "there is a need to establish the relationship between the light and energy"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q46",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 46
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g43-46",
+    "passage": "Who is the greatest genius of all time? As a scientist, I believe that we should first define what genius is to answer that question. Traditionally, it is the ability to be more creative and skilled than anyone else, or the first to glimpse new shores of knowledge. The history of science and technology is rich with great minds, but who is the greatest? For me, it is close between Einstein and Newton, but in Newton's time, there were not many people doing science. However, at the start of the 20th century, when Einstein was working, there were lots of other great scientists such as Paul Dirac, Wener Heisenberg, Niels Bohr and several others. Even amongst them, Einstein was considered special. Some people may say this is a lazy choice, but I have thought long about it, and I feel it is right. The three theories that he published in four papers are some of the greatest ideas ever to come out of the human mind – he proved that atoms exist with his paper on Brownian motion, discovered the fact that light is made up of packets of energy, and the whole field of cosmology and most of modern astronomy were born from Einstein's General Theory of Relativity. He changed forever the way we understand our Universe. Even now, when we talk about the possibility of a big idea changing science, we say \"we need another Einstein\".",
+    "stem": "Which of the following best describes the author's attitude toward Einstein?",
+    "options": [
+      "indifferent",
+      "satirical",
+      "impartial",
+      "appreciating",
+      "disappointed"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q47",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 47
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g47-50",
+    "passage": "Growing state intervention in education has been, in part at least, a response to globalization. Increasing global integration has at least partially demolished the walls around national economies and made it more difficult for governments to protect industries against foreign competition. One of the few ways in which governments can increase the international competitiveness is through investment in humans by putting resources into education and training. This particularly applies to the old industrial societies. Their traditional manufacturing industries cannot compete with those of developing countries where labour costs are far lower. This also applies to clerical work and data processing. The industrial societies can compete only by upgrading their skills and improving their knowledge and experience. This also means that it is the more highly educated members of these societies who will flourish. According to a study, those who can only do routine production and service work will lose out, while it is the highly educated 'symbolic analysts' ─ scientists, consultants, engineers, financial experts, and all those who can manipulate oral and visible symbols ─ whose skills and knowledge are in global demand. The implication is that inequality will be more related to the level of education than ever before.",
+    "stem": "Why do governments invest more in education and training?",
+    "options": [
+      "To take the education system under control",
+      "To provide a healthy integration of the society with the rest of the world",
+      "To be able to compete with other nations",
+      "To help stop the globalization process",
+      "To avoid the impact of successful companies from rival countries"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q48",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 48
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g47-50",
+    "passage": "Growing state intervention in education has been, in part at least, a response to globalization. Increasing global integration has at least partially demolished the walls around national economies and made it more difficult for governments to protect industries against foreign competition. One of the few ways in which governments can increase the international competitiveness is through investment in humans by putting resources into education and training. This particularly applies to the old industrial societies. Their traditional manufacturing industries cannot compete with those of developing countries where labour costs are far lower. This also applies to clerical work and data processing. The industrial societies can compete only by upgrading their skills and improving their knowledge and experience. This also means that it is the more highly educated members of these societies who will flourish. According to a study, those who can only do routine production and service work will lose out, while it is the highly educated 'symbolic analysts' ─ scientists, consultants, engineers, financial experts, and all those who can manipulate oral and visible symbols ─ whose skills and knowledge are in global demand. The implication is that inequality will be more related to the level of education than ever before.",
+    "stem": "The old industrial societies find it hard to battle with the developing countries because ----.",
+    "options": [
+      "it is cost-effective to hire labour there",
+      "their manufacturing industries are outdated",
+      "developing countries have a higher level of state intervention in education",
+      "they have been exposed to more foreign influence than developing countries",
+      "they have only focused on the service sector"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q49",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 49
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g47-50",
+    "passage": "Growing state intervention in education has been, in part at least, a response to globalization. Increasing global integration has at least partially demolished the walls around national economies and made it more difficult for governments to protect industries against foreign competition. One of the few ways in which governments can increase the international competitiveness is through investment in humans by putting resources into education and training. This particularly applies to the old industrial societies. Their traditional manufacturing industries cannot compete with those of developing countries where labour costs are far lower. This also applies to clerical work and data processing. The industrial societies can compete only by upgrading their skills and improving their knowledge and experience. This also means that it is the more highly educated members of these societies who will flourish. According to a study, those who can only do routine production and service work will lose out, while it is the highly educated 'symbolic analysts' ─ scientists, consultants, engineers, financial experts, and all those who can manipulate oral and visible symbols ─ whose skills and knowledge are in global demand. The implication is that inequality will be more related to the level of education than ever before.",
+    "stem": "It can be understood from the study mentioned in the passage that ----.",
+    "options": [
+      "manual workers will become the most important ring of the labour chain for the first time",
+      "more and more state intervention in education is going to be needed",
+      "the level of education has never been more important than now in terms of inequality",
+      "clerical work and data processing will be paid more attention in the coming years",
+      "globalization has actually not been so influential in blurring the walls around national economies"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q50",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 50
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g47-50",
+    "passage": "Growing state intervention in education has been, in part at least, a response to globalization. Increasing global integration has at least partially demolished the walls around national economies and made it more difficult for governments to protect industries against foreign competition. One of the few ways in which governments can increase the international competitiveness is through investment in humans by putting resources into education and training. This particularly applies to the old industrial societies. Their traditional manufacturing industries cannot compete with those of developing countries where labour costs are far lower. This also applies to clerical work and data processing. The industrial societies can compete only by upgrading their skills and improving their knowledge and experience. This also means that it is the more highly educated members of these societies who will flourish. According to a study, those who can only do routine production and service work will lose out, while it is the highly educated 'symbolic analysts' ─ scientists, consultants, engineers, financial experts, and all those who can manipulate oral and visible symbols ─ whose skills and knowledge are in global demand. The implication is that inequality will be more related to the level of education than ever before.",
+    "stem": "What could be the best title for the passage?",
+    "options": [
+      "State Intervention in Education",
+      "Education and Globalization",
+      "Industrialization for Globalization",
+      "Education in Developing Countries",
+      "Future of Education in Industrial Societies"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q51",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 51
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g51-54",
+    "passage": "Australia experienced the worst and most consistent period of drought in its recorded history over much of the past decade. The Murray River failed to reach the sea for the first time ever in 2002. Fires swept much of the country, and dust storms covered major cities for days. Australia's sheep population dropped by 50 percent, and rice and cotton production collapsed in some years. The drought ended in 2010 with heavy rains and flooding. Australia's Millennium Drought is a wake-up call for residents of the drought-plagued southwestern US where droughts have devastating consequences to the region and to the nation. The US can avoid the worst, however, if they pay attention to Australia's experience and learn the right lesson. Both Australia and the US have dry regions where thirsty cities and irrigated agriculture are exhausting water supplies and damaging ecosytems. The Colorado River no longer flows to the sea in most years. Changing global climate in both countries increases the risk of drought. As the climate continues to change, smart water planning may help ease the impacts of unexpected and severe droughts in the US that now appear inevitable.",
+    "stem": "As a result of Australia's Millennium Drought, ----.",
+    "options": [
+      "people were not able to cope with heavy rains and flooding",
+      "more people began to utilize the Murray River",
+      "the government came up with plans to restore water",
+      "fires and dust storms triggered the climate change",
+      "there was a sharp decline in livestock and agricultural production"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q52",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 52
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g51-54",
+    "passage": "Australia experienced the worst and most consistent period of drought in its recorded history over much of the past decade. The Murray River failed to reach the sea for the first time ever in 2002. Fires swept much of the country, and dust storms covered major cities for days. Australia's sheep population dropped by 50 percent, and rice and cotton production collapsed in some years. The drought ended in 2010 with heavy rains and flooding. Australia's Millennium Drought is a wake-up call for residents of the drought-plagued southwestern US where droughts have devastating consequences to the region and to the nation. The US can avoid the worst, however, if they pay attention to Australia's experience and learn the right lesson. Both Australia and the US have dry regions where thirsty cities and irrigated agriculture are exhausting water supplies and damaging ecosytems. The Colorado River no longer flows to the sea in most years. Changing global climate in both countries increases the risk of drought. As the climate continues to change, smart water planning may help ease the impacts of unexpected and severe droughts in the US that now appear inevitable.",
+    "stem": "It is clear from the passage that the southwestern US ----.",
+    "options": [
+      "has already taken some precautions for the anticipated drought",
+      "bears certain resemblance to some parts of Australia in their proneness to climatic devastation",
+      "is likely to experience a more severe drought when compared to Australia",
+      "is luckier than Australia in terms of geographical characteristics",
+      "tries to make the Colorado River flow to the sea again"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q53",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 53
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g51-54",
+    "passage": "Australia experienced the worst and most consistent period of drought in its recorded history over much of the past decade. The Murray River failed to reach the sea for the first time ever in 2002. Fires swept much of the country, and dust storms covered major cities for days. Australia's sheep population dropped by 50 percent, and rice and cotton production collapsed in some years. The drought ended in 2010 with heavy rains and flooding. Australia's Millennium Drought is a wake-up call for residents of the drought-plagued southwestern US where droughts have devastating consequences to the region and to the nation. The US can avoid the worst, however, if they pay attention to Australia's experience and learn the right lesson. Both Australia and the US have dry regions where thirsty cities and irrigated agriculture are exhausting water supplies and damaging ecosytems. The Colorado River no longer flows to the sea in most years. Changing global climate in both countries increases the risk of drought. As the climate continues to change, smart water planning may help ease the impacts of unexpected and severe droughts in the US that now appear inevitable.",
+    "stem": "Which of the following can be inferred from the passage?",
+    "options": [
+      "The US inevitably experiences the impacts of a drought despite their smart water planning systems.",
+      "If the US does not collaborate with Australia, it may not recover from the approaching drought.",
+      "The US seems to be ignorant of the warnings concerning a possible drought.",
+      "The US should produce effective solutions to drought since its climate is more threatening than that of Australia.",
+      "One positive outcome of the Millennium Drought is that it can call public attention to climate change."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q54",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 54
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g51-54",
+    "passage": "Australia experienced the worst and most consistent period of drought in its recorded history over much of the past decade. The Murray River failed to reach the sea for the first time ever in 2002. Fires swept much of the country, and dust storms covered major cities for days. Australia's sheep population dropped by 50 percent, and rice and cotton production collapsed in some years. The drought ended in 2010 with heavy rains and flooding. Australia's Millennium Drought is a wake-up call for residents of the drought-plagued southwestern US where droughts have devastating consequences to the region and to the nation. The US can avoid the worst, however, if they pay attention to Australia's experience and learn the right lesson. Both Australia and the US have dry regions where thirsty cities and irrigated agriculture are exhausting water supplies and damaging ecosytems. The Colorado River no longer flows to the sea in most years. Changing global climate in both countries increases the risk of drought. As the climate continues to change, smart water planning may help ease the impacts of unexpected and severe droughts in the US that now appear inevitable.",
+    "stem": "What is the main purpose of the passage?",
+    "options": [
+      "Revealing the basic similarities between the Murray River and the Colorado River",
+      "Criticising the reluctance of the US to take action to prevent a possible drought",
+      "Pointing to the need for the US to take lessons from the drought in Australia",
+      "Emphasizing the disastrous effects of the drought experienced in Australia",
+      "Explaining how to save limited water supplies and ecosystems destroyed in both Australia and the US"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q55",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 55
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g55-58",
+    "passage": "Greenland faces a great risk of losing substantial amounts of its glaciers, which could result in more sea level rise. One of these immense glaciers that drain the vast Greenland ice sheet has recently begun to retreat. It could eventually contribute half a metre to sea level rise. Some of Greenland's glaciers rest in deep fjords, and as the water warms, their leading edges melt. The ice within them is also moving towards the sea faster ─ so more is being dumped in the sea. The process began with the vast Jakobshavn glacier in the west, followed by the Petermann and Humboldt in the north. Recently, it has been announced that the Zachariæ Isstrøm glacier in the north-east began to retreat in 2012 and its flow towards the sea has also accelerated. \"Now it's unstable and it's going to retreat even more,\" says Jeremie Mouginot of the University of California. The next glacier to the north, Nioghalvfjerdsfjorden, could follow suit. The floating ice shelf that protects it is thinning and could soon be lost. Most of the ice shelves in the seas around Greenland have already disappeared. \"The melt will add millimetres to sea levels over the coming decades,\" says Mouginot.",
+    "stem": "It is clearly stated in the passage that Greenland's glaciers ----.",
+    "options": [
+      "have slowed down their movement towards sea",
+      "started to melt first with Petermann and Humboldt glaciers",
+      "have caused an increase in sea levels because of melting",
+      "have begun to melt from the middle to the edges",
+      "used to rest in fjords before they moved towards the sea"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q56",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 56
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g55-58",
+    "passage": "Greenland faces a great risk of losing substantial amounts of its glaciers, which could result in more sea level rise. One of these immense glaciers that drain the vast Greenland ice sheet has recently begun to retreat. It could eventually contribute half a metre to sea level rise. Some of Greenland's glaciers rest in deep fjords, and as the water warms, their leading edges melt. The ice within them is also moving towards the sea faster ─ so more is being dumped in the sea. The process began with the vast Jakobshavn glacier in the west, followed by the Petermann and Humboldt in the north. Recently, it has been announced that the Zachariæ Isstrøm glacier in the north-east began to retreat in 2012 and its flow towards the sea has also accelerated. \"Now it's unstable and it's going to retreat even more,\" says Jeremie Mouginot of the University of California. The next glacier to the north, Nioghalvfjerdsfjorden, could follow suit. The floating ice shelf that protects it is thinning and could soon be lost. Most of the ice shelves in the seas around Greenland have already disappeared. \"The melt will add millimetres to sea levels over the coming decades,\" says Mouginot.",
+    "stem": "According to the passage, lately, it has been declared that ----.",
+    "options": [
+      "when the Zachariæ Isstrøm glacier started to retreat is unknown",
+      "the Zachariæ Isstrøm glacier has already begun to dump all its ice at sea",
+      "the Zachariæ Isstrøm glacier is currently in a steady position",
+      "the Zachariæ Isstrøm glacier will presumably continue retreating",
+      "the Zachariæ Isstrøm glacier stopped melting in the year of 2012"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q57",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 57
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g55-58",
+    "passage": "Greenland faces a great risk of losing substantial amounts of its glaciers, which could result in more sea level rise. One of these immense glaciers that drain the vast Greenland ice sheet has recently begun to retreat. It could eventually contribute half a metre to sea level rise. Some of Greenland's glaciers rest in deep fjords, and as the water warms, their leading edges melt. The ice within them is also moving towards the sea faster ─ so more is being dumped in the sea. The process began with the vast Jakobshavn glacier in the west, followed by the Petermann and Humboldt in the north. Recently, it has been announced that the Zachariæ Isstrøm glacier in the north-east began to retreat in 2012 and its flow towards the sea has also accelerated. \"Now it's unstable and it's going to retreat even more,\" says Jeremie Mouginot of the University of California. The next glacier to the north, Nioghalvfjerdsfjorden, could follow suit. The floating ice shelf that protects it is thinning and could soon be lost. Most of the ice shelves in the seas around Greenland have already disappeared. \"The melt will add millimetres to sea levels over the coming decades,\" says Mouginot.",
+    "stem": "The underlined word \"accelerated\" is closest in meaning to ----.",
+    "options": [
+      "evolved",
+      "increased",
+      "emerged",
+      "altered",
+      "expired"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q58",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 58
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g55-58",
+    "passage": "Greenland faces a great risk of losing substantial amounts of its glaciers, which could result in more sea level rise. One of these immense glaciers that drain the vast Greenland ice sheet has recently begun to retreat. It could eventually contribute half a metre to sea level rise. Some of Greenland's glaciers rest in deep fjords, and as the water warms, their leading edges melt. The ice within them is also moving towards the sea faster ─ so more is being dumped in the sea. The process began with the vast Jakobshavn glacier in the west, followed by the Petermann and Humboldt in the north. Recently, it has been announced that the Zachariæ Isstrøm glacier in the north-east began to retreat in 2012 and its flow towards the sea has also accelerated. \"Now it's unstable and it's going to retreat even more,\" says Jeremie Mouginot of the University of California. The next glacier to the north, Nioghalvfjerdsfjorden, could follow suit. The floating ice shelf that protects it is thinning and could soon be lost. Most of the ice shelves in the seas around Greenland have already disappeared. \"The melt will add millimetres to sea levels over the coming decades,\" says Mouginot.",
+    "stem": "What does the passage mainly focus on?",
+    "options": [
+      "How to prevent Greenland's glaciers from melting",
+      "The comparison of Greenland's different glaciers",
+      "The consequence of melting in Greenland's glaciers",
+      "Research on Greenland's glaciers",
+      "The disappearance of ice shelves around Greenland"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q59",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 59
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g59-62",
+    "passage": "Imagine a world where every child owns a microscope. A clever new method to fold a single sheet of paper to create a microscope may bring that dream closer to reality. In the Foldscope, invented by Stanford University engineers, folded paper creates a structure, which holds a lens and a LED in alignment. As users look, adjust the lens and change the focus, they can magnify objects more than 2,000 times with this simple, affordable and easily portable assembly. This level of magnification is close to what you can achieve with most laboratory microscopes. Leading developer Manu Prakash originally saw the Foldscope as an inexpensive way to diagnose diseases in developing countries. But he soon realized it could also help excite a new generation of scientists. \"You learn to appreciate the microscopic world by actually exploring it yourself,\" he says. The inventors launched a beta test to see how the invention works in real practice. More than 11,000 applicants from 130 countries – ranging from six-year-olds to scientists nominated for the Nobel Prize – volunteered to use the Foldscope for an original research project. They plan to study bee parasites and identify micro-fossils. Reproducing those experiments may inspire students to make their own discoveries. If only every biology book had a Foldscope as the last page because we are not just imparting knowledge, but we are also imparting the tools to gain that knowledge.",
+    "stem": "It is stated in the passage that the Foldscope ----.",
+    "options": [
+      "is an original method to fold paper that children might favour",
+      "is a new kind of magnifier that can also work without a lens or a LED",
+      "is an easy-to-carry microscope whose primary material is paper",
+      "can magnify objects better than many microscopes used in laboratories",
+      "can also be created by children as it has quite a simple design"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q60",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 60
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g59-62",
+    "passage": "Imagine a world where every child owns a microscope. A clever new method to fold a single sheet of paper to create a microscope may bring that dream closer to reality. In the Foldscope, invented by Stanford University engineers, folded paper creates a structure, which holds a lens and a LED in alignment. As users look, adjust the lens and change the focus, they can magnify objects more than 2,000 times with this simple, affordable and easily portable assembly. This level of magnification is close to what you can achieve with most laboratory microscopes. Leading developer Manu Prakash originally saw the Foldscope as an inexpensive way to diagnose diseases in developing countries. But he soon realized it could also help excite a new generation of scientists. \"You learn to appreciate the microscopic world by actually exploring it yourself,\" he says. The inventors launched a beta test to see how the invention works in real practice. More than 11,000 applicants from 130 countries – ranging from six-year-olds to scientists nominated for the Nobel Prize – volunteered to use the Foldscope for an original research project. They plan to study bee parasites and identify micro-fossils. Reproducing those experiments may inspire students to make their own discoveries. If only every biology book had a Foldscope as the last page because we are not just imparting knowledge, but we are also imparting the tools to gain that knowledge.",
+    "stem": "It is clear from the passage that Manu Prakash ----.",
+    "options": [
+      "believes that the Foldscope might soon replace the classical microscopes in laboratories",
+      "initially considered the Foldscope as a cheap way of detecting diseases",
+      "devised the Foldscope to help the new generation of scientists who look for excitement",
+      "invented the Foldscope as he was highly interested in microscopic world",
+      "thinks that students are inspired by the scientists who are candidates for the Nobel Prize"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q61",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 61
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g59-62",
+    "passage": "Imagine a world where every child owns a microscope. A clever new method to fold a single sheet of paper to create a microscope may bring that dream closer to reality. In the Foldscope, invented by Stanford University engineers, folded paper creates a structure, which holds a lens and a LED in alignment. As users look, adjust the lens and change the focus, they can magnify objects more than 2,000 times with this simple, affordable and easily portable assembly. This level of magnification is close to what you can achieve with most laboratory microscopes. Leading developer Manu Prakash originally saw the Foldscope as an inexpensive way to diagnose diseases in developing countries. But he soon realized it could also help excite a new generation of scientists. \"You learn to appreciate the microscopic world by actually exploring it yourself,\" he says. The inventors launched a beta test to see how the invention works in real practice. More than 11,000 applicants from 130 countries – ranging from six-year-olds to scientists nominated for the Nobel Prize – volunteered to use the Foldscope for an original research project. They plan to study bee parasites and identify micro-fossils. Reproducing those experiments may inspire students to make their own discoveries. If only every biology book had a Foldscope as the last page because we are not just imparting knowledge, but we are also imparting the tools to gain that knowledge.",
+    "stem": "It is pointed out in the passage that ----.",
+    "options": [
+      "the beta test showed that the Foldscope could work well in real practice",
+      "a remarkable variety of people were willing to use the Foldscope in their studies",
+      "the Foldscope produces the most reliable results in the study of bee parasites or micro-fossils",
+      "scientists nominated for the Nobel Prize helped the six-year-olds to use the Foldscope in the beta test",
+      "many similar experiments were reproduced to see the efficiency of the Foldscope"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q62",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 62
+    },
+    "type": "reading",
+    "groupId": "2016-sonbahar-g59-62",
+    "passage": "Imagine a world where every child owns a microscope. A clever new method to fold a single sheet of paper to create a microscope may bring that dream closer to reality. In the Foldscope, invented by Stanford University engineers, folded paper creates a structure, which holds a lens and a LED in alignment. As users look, adjust the lens and change the focus, they can magnify objects more than 2,000 times with this simple, affordable and easily portable assembly. This level of magnification is close to what you can achieve with most laboratory microscopes. Leading developer Manu Prakash originally saw the Foldscope as an inexpensive way to diagnose diseases in developing countries. But he soon realized it could also help excite a new generation of scientists. \"You learn to appreciate the microscopic world by actually exploring it yourself,\" he says. The inventors launched a beta test to see how the invention works in real practice. More than 11,000 applicants from 130 countries – ranging from six-year-olds to scientists nominated for the Nobel Prize – volunteered to use the Foldscope for an original research project. They plan to study bee parasites and identify micro-fossils. Reproducing those experiments may inspire students to make their own discoveries. If only every biology book had a Foldscope as the last page because we are not just imparting knowledge, but we are also imparting the tools to gain that knowledge.",
+    "stem": "The author is of the opinion that the Foldscope ----.",
+    "options": [
+      "needs to be greatly improved to be used in original research projects",
+      "should go beyond biology books and used in laboratories to make detailed studies like those on micro-fossils",
+      "has become very popular just because the scientists nominated for the Nobel Prize have been using it",
+      "was originally designed to be used at schools but now it is being utilized especially for medical purposes",
+      "might be a good educational tool that can dramatically foster scientific endeavour"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q63",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 63
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Radio Presenter: - So, here we have Dr. Henstridge from the University of Edinburgh who analyses people's brains in his lab. How do you persuade people to agree to donate their brain after death? Dr. Henstridge: - These are people who participated in a project 70 years ago in which they had their IQ tested. We then sent them a letter so they had the opportunity to think about it with their family without any pressure. Radio Presenter: - ---- Dr. Henstridge: - It is the only one where we have a good idea about their intelligence levels when they were young.",
+    "options": [
+      "What kind of information is gained in your project by analysing donated brains?",
+      "Can you tell us a bit about the profile of those people who donated their brain?",
+      "What's the difference between IQ in the childhood and in the old age?",
+      "How long are you planning to pursue this research?",
+      "There are several other brain banks, why is yours different?"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q64",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 64
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Journalist: - Can you tell us briefly what accounting is? Accountant: - Basically, accounting is a body of principles for recording financial information related to a company's resources and its use in meeting the company's goals. Journalist: - ---- Accountant: - Preparation for the field is provided by secondary schools, business schools, or universities.",
+    "options": [
+      "Why is accounting critical to the functioning of companies?",
+      "Why did you choose to be an accountant?",
+      "What makes a successful accountant?",
+      "What does it take to be an accountant?",
+      "What are the generally-accepted accounting principles?"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q65",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 65
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Erkan: - According to the psychology magazine I was reading yesterday, people love betting on the World Cup, but making predictions about uncertain events actually reduces the enjoyment in them. Nergis: - Why is that? I believe that when you bet in favor of a team, you support that team during the game, and it makes the experience more meaningful and fun for you. Erkan: - ---- Nergis: - It really doesn't make any sense to me. I think the satisfaction one can get from making the right choice can balance that out.",
+    "options": [
+      "Some people focus on potential gains in life and play to win, while others try to prevent negative outcomes and just want to avoid losing.",
+      "Psychologists say the opposite. They say the possibility of being wrong in your prediction hangs over your head, so you can't enjoy the game.",
+      "Well, it was mentioned in an article that people's anxiety level increases when they watch sports events and that people with heart problems should stay away from going to stadiums.",
+      "You may have a point there, but remember that betting on football matches puts even more pressure on the players in the field.",
+      "The authors of the article acknowledge that betting on sports events like football can make a person win huge sums of money as well."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q66",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 66
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Bilge: - I can't believe there are still some people who think the wealthy have limitless leisure time. Kerem: - ---- Bilge: - Yes, I do. The well-off people I know work 80 hours per week inventing and producing things. Kerem: - It seems they don't really have so much free time after all.",
+    "options": [
+      "Do you think they'd like to have a lot of leisure time?",
+      "Do you feel it is unfair for us to have limited leisure time unlike them?",
+      "Do you think they are rich because they have wealthy families?",
+      "I don't think having a lot of free time means resting a lot, do you?",
+      "I see you disagree with what they say, don't you?"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q67",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 67
+    },
+    "type": "dialogue",
+    "groupId": null,
+    "passage": null,
+    "stem": "Kemal: - Can you have a look at this headline? It says ear genes are linked to musical talent. What does that mean? Onur: - Well, it suggests musical talent may partly be due to genes determining the structure of the inner ear. Kemal: - ---- Onur: - OK. If you have an excellent inner ear structure, you can play the tunes you hear without looking at the notes.",
+    "options": [
+      "What do you mean in layman's terms?",
+      "Do you think this can change later with new research?",
+      "Are you interested in the link between genes and talent?",
+      "Do you really believe that genes can have an impact on musical talent?",
+      "Doesn't it sound incredible that genes can be that important?"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q68",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 68
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Many districts in Arizona are considering the possibility of lowering the age of partial responsibility to 12 due to the increase in the number of crimes committed by criminals under the age of 14.",
+    "options": [
+      "Many local authorities in Arizona are thinking of lowering the age of partial responsibility to 12 in order to prevent crimes committed by criminals under the age of 14.",
+      "Crimes committed by those under the age of 14 are becoming more common, and thus many localities in Arizona are thinking of lowering the age of partial responsibility to 12.",
+      "The possibility of lowering the age of partial responsibility to 12 is being discussed in many regions of Arizona because of the immensely growing number of crimes committed by 14-year-old individuals.",
+      "The increasing number of criminals under the age of 14 has led to an agreement in localities in Arizona to lower the age of partial responsibility to 12.",
+      "Criminals under the age of 14 are committing more crimes than ever before, which will probably force the authorities in Arizona to consider lowering the age of partial responsibility to 12."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q69",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 69
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Even though there is sufficient water available to cover the demands of the world population, there is a shortage of clean water due to increased pollution.",
+    "options": [
+      "We are consuming clean water in order to satisfy our demands but there is increasing contamination all over the world.",
+      "It is necessary to have sufficient water to cover the demands of all people as increased pollution causes a shortage of clean water.",
+      "Increased contamination leads to a shortage of clean water in spite of the availability of water enough to meet the needs of the world population.",
+      "Despite increased pollution and a shortage of water, there should be enough water to satisfy the demands of people.",
+      "Because of increased pollution and a shortage of water, we should find enough resources to satisfy our water demand."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q70",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 70
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Despite the fact that obesity is one of the biggest causes of preventable deaths after smoking and is linked to chronic diseases, obesity rates keep increasing.",
+    "options": [
+      "Although chronic diseases that are associated with obesity and smoking can be avoided, the number of people who die of obesity and who become chronically ill goes up.",
+      "The number of people who suffer from obesity continues to rise even though, along with smoking, it is one of the major factors that account for avoidable deaths and causes long-term diseases.",
+      "In spite of being one of the major causes of deaths that can be avoided and resulting in serious diseases, the number of people who are obese is still higher than the number of people who smoke.",
+      "The rate of obesity and the number of people who smoke continue to go up even though they are the main causes of deaths that can be prevented and are connected with chronic diseases.",
+      "Obesity and smoking are illnesses that can lead to preventable deaths, and they are associated with chronic diseases; however, people still continue to suffer from obesity and smoking-related diseases."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q71",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 71
+    },
+    "type": "restatement",
+    "groupId": null,
+    "passage": null,
+    "stem": "Like other interventions, hypnotheraphy can be regarded as effective only if it proves more powerful than a placebo.",
+    "options": [
+      "Hypnotheraphy is similar to other practices in that it is considered as effective as a placebo.",
+      "Similar to other treatments, hypnotheraphy could be influential even if a placebo is actually stronger.",
+      "Provided that hypnotheraphy becomes stronger than a placebo, it can be considered as effective as other applications.",
+      "Even if hypnotheraphy acts as a placebo, it may be as effective as many other treatments.",
+      "Although it is like other practices, hypnotheraphy can be more effective than a placebo."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q72",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 72
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "Floating and flying above us are not only the usual suspects – birds, bats, insects – but countless microscopic creatures as well. The discipline of aeroecology explores how animals, plants and other organisms live in, move through and interact with the aerosphere. ---- Instruments are now so precise that these technical observations can spot a single bee at about 45 km away.",
+    "options": [
+      "How animals are sensing, using and adapting to changes in atmospheric conditions is not interesting for some people.",
+      "A whole world of invisible creatures inhabit the aerosphere, which contains more than 100,000 living things.",
+      "Air, as an environment, can lead to surprising interactions between living and non-living things.",
+      "There are still many mysterious organisms that ecologists cannot define.",
+      "This science has seen huge gains because of the growing ability to track air movement with radar and telemetry."
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q73",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 73
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "People strive for success, which motivates them to continuously strive for greater achievements. However, the strength of this motivation can vary greatly from person to person. ---- People lacking self-confidence tend to give up on a task much sooner than people with a strong belief in their own abilities. People's levels of motivation are also connected to their beliefs concerning the causes of events.",
+    "options": [
+      "Among other things, it depends on the value an individual places on his or her own performance.",
+      "While some sources of motivation are biological and directly promote survival, others are learned.",
+      "Because emotions can both trigger and maintain behaviour, they are motivators of human actions.",
+      "External incentives also act as a motivator for a certain type of behaviour or action.",
+      "The concept of motivation explains why people strive to achieve particular goals."
+    ],
+    "answer": 0,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q74",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 74
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "For thousands of years, man and wolf have been together as allies and companions. A natural instinct that bonds them still exists. Drawing on human interactions with wolves, a team of doctors came up with wolf therapy to work towards repairing the empathy and self-esteem deficits among young adults. ---- The progress they make builds their motivation to complete the program and reduces the risk of reverting back to old harmful habits.",
+    "options": [
+      "Wolves have been rescued from dire circumstances, including abuse, neglect and abandonment.",
+      "Treatment centres are technologically advanced and have perfect facilities.",
+      "The treatment is designed to ease depression, anxiety and stress among those in the rehabilitation programs.",
+      "One of the challenges that therapists face is the difficulty in obtaining permission to capture wild animals.",
+      "A wolf has a unique capacity for engaging people's emotions and breaking through their defense mechanisms."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q75",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 75
+    },
+    "type": "paragraph_completion",
+    "groupId": null,
+    "passage": null,
+    "stem": "The way that interpersonal attraction develops is related partly to how we select a mate. Typically, men prefer women with the classic shapely body figure, probably because it signifies youthfulness, good health and fertility. However, there are cultural and ecological influences. ---- In modern Western societies, where heaviness may indicate ill health, men prefer slimmer women.",
+    "options": [
+      "In the United States, a woman's physical beauty is considered to be an ultimately important factor in partner-choosing.",
+      "In traditional agricultural societies, being thin may mean having a serious disease, so men prefer their women to be heavier.",
+      "If a woman lacks fertility in Far Eastern societies, this may deter men from choosing her as a wife.",
+      "Youthful appearance, body and facial symmetry have all become points of interest for American men.",
+      "Traditional societies have the conception that good genes cannot find their place in heavy bodies, which cause women to lose youthfulness."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q76",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 76
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) T he brain is very good at warning us for threats, and it is also skillful at letting us know when a threat no longer exists.(II) However, sometimes this system fails, and unpleasant associations stick around leading to a malfunction thought to be at the root of post-traumatic stress disorder. (III) New research has identified a neuronal circuit responsible for the brain's ability to get rid of bad memories. (IV) The hunt to find medication that can slow or halt the progression of Alzheimer's disease is on. (V) This finding could have implications for treating a broad range of anxiety disorders including post-traumatic stress disorder.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q77",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 77
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) The cuttlefish is brilliant at hiding itself from enemies in water. (II) It can change the colour, pattern and texture of its skin to blend in with almost any environment, making it all but invisible to predators. (III)Now, a team of researchers at Harvard University has moved a step closer to unlocking the secrets of this master of disguise, and potentially creating better camouflage for the military. (IV) The cuttlefish's skin is loaded with neurally-controlled, pigmented organs called chromatophores. (V) As well as being used in military camouflage, the team says the findings could also have applications in materials for paints, cosmetics or even consumer electronics.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q78",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 78
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) A French company has just developed an artificial heart which has been approved for human testing in many countries. (II) This artificial heart weighs 900 g and consists of two chambers separated by a biological layer. (III) The heart is energised by two lithium batteries, providing over 230 million heartbeats, which corresponds to a five-year life. (IV)If the heart is used universally, it could save the lives of more than 100,000 people suffering from various heart diseases that can now only be cured by a donor heart. (V) Previous attempts to produce a similar device have led to a decrease in heart transplants.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q79",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 79
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I) In 1493, when Christopher Columbus started his second voyage to the Americas, he took sugar cane with him. (II) He planted the continent's first sugar cane in Hispaniola, the site, not coincidentally, of a great slave revolt a few hundred years later. (III)Within decades mills producing sugar proliferated in Jamaica and Cuba, where rainforest had been cleared and the native population had been eliminated by disease or war, or enslaved. (IV) Tobacco and cotton were also grown in the 1700s on Barbados Island plantations by the slaves.(V) The Portuguese created an effective but brutal model, making Brazil into an early boom colony, with more than 100,000 slaves producing tons of sugar.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  },
+  {
+    "id": "2016-sonbahar-q80",
+    "source": {
+      "year": 2016,
+      "session": "sonbahar",
+      "number": 80
+    },
+    "type": "irrelevant_sentence",
+    "groupId": null,
+    "passage": null,
+    "stem": "(I)Most house plants need a period of rest during the year when watering must be reduced.(II)The rest period is brought on by the reduction in available light at certain times of the year. (III) When a plant is not watered enough, the soil in the pot becomes quite dry and compacted. (IV)Giving excess water at this time inevitably encourages plant growth. (V) However, if this is not supported by adequate light, it results in poor growth.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V TEST BİTTİ. CEVAPLARINIZI KONTROL EDİNİZ. OSYM001"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "vocab": [],
+    "stats": {
+      "seen": 0,
+      "correct": 0,
+      "lastSeen": null,
+      "interval": 0,
+      "ease": 2.5
+    }
+  }
+]
