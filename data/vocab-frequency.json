@@ -2222,6 +2222,129 @@
     ]
   },
   {
+    "word": "experience",
+    "count": 193,
+    "examCount": 17,
+    "questionIds": [
+      "2013-sonbahar-q10",
+      "2013-sonbahar-q22",
+      "2013-sonbahar-q23",
+      "2013-sonbahar-q24",
+      "2013-sonbahar-q25",
+      "2013-sonbahar-q26",
+      "2013-sonbahar-q52",
+      "2013-sonbahar-q53",
+      "2013-sonbahar-q58",
+      "2013-sonbahar-q77",
+      "2013-sonbahar-q78",
+      "2014-ilkbahar-q05",
+      "2014-ilkbahar-q35",
+      "2014-ilkbahar-q41",
+      "2014-ilkbahar-q51",
+      "2014-ilkbahar-q52",
+      "2014-ilkbahar-q53",
+      "2014-ilkbahar-q54",
+      "2014-ilkbahar-q63",
+      "2014-ilkbahar-q69",
+      "2014-sonbahar-q31",
+      "2014-sonbahar-q32",
+      "2014-sonbahar-q47",
+      "2014-sonbahar-q48",
+      "2014-sonbahar-q49",
+      "2014-sonbahar-q50",
+      "2014-sonbahar-q55",
+      "2014-sonbahar-q56",
+      "2014-sonbahar-q57",
+      "2014-sonbahar-q58",
+      "2015-ilkbahar-q28",
+      "2015-ilkbahar-q43",
+      "2016-ilkbahar-q29",
+      "2016-sonbahar-q05",
+      "2016-sonbahar-q22",
+      "2016-sonbahar-q23",
+      "2016-sonbahar-q24",
+      "2016-sonbahar-q25",
+      "2016-sonbahar-q26",
+      "2016-sonbahar-q47",
+      "2016-sonbahar-q48",
+      "2016-sonbahar-q49",
+      "2016-sonbahar-q50",
+      "2016-sonbahar-q51",
+      "2016-sonbahar-q52",
+      "2016-sonbahar-q53",
+      "2016-sonbahar-q54",
+      "2016-sonbahar-q65",
+      "2017-ilkbahar-q31",
+      "2017-ilkbahar-q36",
+      "2017-ilkbahar-q47",
+      "2017-ilkbahar-q66",
+      "2017-ilkbahar-q72",
+      "2017-ilkbahar-q73",
+      "2017-ilkbahar-q75",
+      "2017-ilkbahar-q79",
+      "2017-sonbahar-q03",
+      "2017-sonbahar-q04",
+      "2017-sonbahar-q67",
+      "2017-sonbahar-q79",
+      "2018-3-q32",
+      "2018-3-q55",
+      "2018-3-q56",
+      "2018-3-q57",
+      "2018-3-q58",
+      "2018-3-q61",
+      "2018-ilkbahar-q27",
+      "2018-ilkbahar-q43",
+      "2018-ilkbahar-q44",
+      "2018-ilkbahar-q45",
+      "2018-ilkbahar-q46",
+      "2018-ilkbahar-q71",
+      "2018-sonbahar-q42",
+      "2018-sonbahar-q66",
+      "2018-sonbahar-q75",
+      "2018-sonbahar-q79",
+      "2019-1-q30",
+      "2019-1-q32",
+      "2019-1-q33",
+      "2019-1-q47",
+      "2019-1-q63",
+      "2019-1-q65",
+      "2019-2-q06",
+      "2019-2-q44",
+      "2019-2-q61",
+      "2019-2-q64",
+      "2019-3-q32",
+      "2019-3-q51",
+      "2020-1-q41",
+      "2020-1-q43",
+      "2020-1-q44",
+      "2020-1-q45",
+      "2020-1-q46",
+      "2020-1-q47",
+      "2020-1-q48",
+      "2020-1-q49",
+      "2020-1-q50",
+      "2020-1-q69",
+      "2020-1-q73",
+      "2021-1-q27",
+      "2021-1-q28",
+      "2021-1-q32",
+      "2021-1-q59",
+      "2021-1-q60",
+      "2021-1-q61",
+      "2021-1-q62",
+      "2021-1-q73",
+      "2021-2-q28",
+      "2021-2-q40",
+      "2021-2-q43",
+      "2021-2-q55",
+      "2021-2-q56",
+      "2021-2-q57",
+      "2021-2-q58",
+      "2021-2-q64",
+      "2021-2-q71"
+    ]
+  },
+  {
     "word": "often",
     "count": 193,
     "examCount": 17,
@@ -3219,112 +3342,6 @@
       "2021-2-q59",
       "2021-2-q68",
       "2021-2-q78"
-    ]
-  },
-  {
-    "word": "experience",
-    "count": 152,
-    "examCount": 17,
-    "questionIds": [
-      "2013-sonbahar-q10",
-      "2013-sonbahar-q22",
-      "2013-sonbahar-q23",
-      "2013-sonbahar-q24",
-      "2013-sonbahar-q25",
-      "2013-sonbahar-q26",
-      "2013-sonbahar-q52",
-      "2013-sonbahar-q53",
-      "2013-sonbahar-q58",
-      "2014-ilkbahar-q05",
-      "2014-ilkbahar-q35",
-      "2014-ilkbahar-q41",
-      "2014-ilkbahar-q51",
-      "2014-ilkbahar-q52",
-      "2014-ilkbahar-q53",
-      "2014-ilkbahar-q54",
-      "2014-ilkbahar-q63",
-      "2014-ilkbahar-q69",
-      "2014-sonbahar-q31",
-      "2014-sonbahar-q32",
-      "2014-sonbahar-q47",
-      "2014-sonbahar-q48",
-      "2014-sonbahar-q49",
-      "2014-sonbahar-q50",
-      "2014-sonbahar-q55",
-      "2014-sonbahar-q56",
-      "2014-sonbahar-q57",
-      "2014-sonbahar-q58",
-      "2015-ilkbahar-q28",
-      "2016-ilkbahar-q29",
-      "2016-sonbahar-q05",
-      "2016-sonbahar-q22",
-      "2016-sonbahar-q23",
-      "2016-sonbahar-q24",
-      "2016-sonbahar-q25",
-      "2016-sonbahar-q26",
-      "2016-sonbahar-q47",
-      "2016-sonbahar-q48",
-      "2016-sonbahar-q49",
-      "2016-sonbahar-q50",
-      "2016-sonbahar-q51",
-      "2016-sonbahar-q52",
-      "2016-sonbahar-q53",
-      "2016-sonbahar-q54",
-      "2016-sonbahar-q65",
-      "2017-ilkbahar-q31",
-      "2017-ilkbahar-q36",
-      "2017-ilkbahar-q66",
-      "2017-ilkbahar-q72",
-      "2017-ilkbahar-q73",
-      "2017-ilkbahar-q75",
-      "2017-sonbahar-q03",
-      "2017-sonbahar-q04",
-      "2017-sonbahar-q67",
-      "2017-sonbahar-q79",
-      "2018-3-q32",
-      "2018-3-q55",
-      "2018-3-q56",
-      "2018-3-q57",
-      "2018-3-q58",
-      "2018-3-q61",
-      "2018-ilkbahar-q27",
-      "2018-ilkbahar-q43",
-      "2018-ilkbahar-q44",
-      "2018-ilkbahar-q45",
-      "2018-ilkbahar-q46",
-      "2018-sonbahar-q42",
-      "2018-sonbahar-q66",
-      "2018-sonbahar-q75",
-      "2018-sonbahar-q79",
-      "2019-1-q30",
-      "2019-1-q33",
-      "2019-1-q63",
-      "2019-1-q65",
-      "2019-2-q06",
-      "2019-2-q64",
-      "2019-3-q32",
-      "2019-3-q51",
-      "2020-1-q43",
-      "2020-1-q44",
-      "2020-1-q45",
-      "2020-1-q46",
-      "2020-1-q69",
-      "2020-1-q73",
-      "2021-1-q27",
-      "2021-1-q28",
-      "2021-1-q32",
-      "2021-1-q59",
-      "2021-1-q60",
-      "2021-1-q61",
-      "2021-1-q62",
-      "2021-1-q73",
-      "2021-2-q28",
-      "2021-2-q40",
-      "2021-2-q55",
-      "2021-2-q56",
-      "2021-2-q57",
-      "2021-2-q58",
-      "2021-2-q71"
     ]
   },
   {
@@ -5937,6 +5954,50 @@
     ]
   },
   {
+    "word": "pay",
+    "count": 106,
+    "examCount": 14,
+    "questionIds": [
+      "2013-sonbahar-q34",
+      "2014-ilkbahar-q51",
+      "2014-ilkbahar-q52",
+      "2014-ilkbahar-q53",
+      "2014-ilkbahar-q54",
+      "2014-sonbahar-q30",
+      "2014-sonbahar-q36",
+      "2014-sonbahar-q66",
+      "2015-ilkbahar-q43",
+      "2015-ilkbahar-q44",
+      "2015-ilkbahar-q45",
+      "2015-ilkbahar-q46",
+      "2015-ilkbahar-q51",
+      "2016-ilkbahar-q22",
+      "2016-ilkbahar-q69",
+      "2016-sonbahar-q49",
+      "2016-sonbahar-q51",
+      "2016-sonbahar-q52",
+      "2016-sonbahar-q53",
+      "2016-sonbahar-q54",
+      "2017-ilkbahar-q32",
+      "2017-ilkbahar-q44",
+      "2017-sonbahar-q19",
+      "2017-sonbahar-q79",
+      "2018-ilkbahar-q51",
+      "2018-ilkbahar-q67",
+      "2018-ilkbahar-q73",
+      "2018-sonbahar-q77",
+      "2019-1-q49",
+      "2019-2-q45",
+      "2019-2-q59",
+      "2019-2-q60",
+      "2019-2-q61",
+      "2019-2-q62",
+      "2021-1-q73",
+      "2021-2-q32",
+      "2021-2-q76"
+    ]
+  },
+  {
     "word": "event",
     "count": 105,
     "examCount": 14,
@@ -6320,47 +6381,6 @@
     ]
   },
   {
-    "word": "pay",
-    "count": 103,
-    "examCount": 14,
-    "questionIds": [
-      "2013-sonbahar-q34",
-      "2014-ilkbahar-q51",
-      "2014-ilkbahar-q52",
-      "2014-ilkbahar-q53",
-      "2014-ilkbahar-q54",
-      "2014-sonbahar-q30",
-      "2014-sonbahar-q66",
-      "2015-ilkbahar-q43",
-      "2015-ilkbahar-q44",
-      "2015-ilkbahar-q45",
-      "2015-ilkbahar-q46",
-      "2015-ilkbahar-q51",
-      "2016-ilkbahar-q22",
-      "2016-sonbahar-q49",
-      "2016-sonbahar-q51",
-      "2016-sonbahar-q52",
-      "2016-sonbahar-q53",
-      "2016-sonbahar-q54",
-      "2017-ilkbahar-q32",
-      "2017-ilkbahar-q44",
-      "2017-sonbahar-q19",
-      "2017-sonbahar-q79",
-      "2018-ilkbahar-q67",
-      "2018-ilkbahar-q73",
-      "2018-sonbahar-q77",
-      "2019-1-q49",
-      "2019-2-q45",
-      "2019-2-q59",
-      "2019-2-q60",
-      "2019-2-q61",
-      "2019-2-q62",
-      "2021-1-q73",
-      "2021-2-q32",
-      "2021-2-q76"
-    ]
-  },
-  {
     "word": "every",
     "count": 102,
     "examCount": 17,
@@ -6449,6 +6469,103 @@
       "2021-1-q58",
       "2021-1-q70",
       "2021-2-q30"
+    ]
+  },
+  {
+    "word": "try",
+    "count": 102,
+    "examCount": 17,
+    "questionIds": [
+      "2013-sonbahar-q30",
+      "2013-sonbahar-q38",
+      "2013-sonbahar-q64",
+      "2014-ilkbahar-q27",
+      "2014-ilkbahar-q43",
+      "2014-ilkbahar-q44",
+      "2014-ilkbahar-q45",
+      "2014-ilkbahar-q46",
+      "2014-ilkbahar-q63",
+      "2014-ilkbahar-q65",
+      "2014-ilkbahar-q75",
+      "2014-sonbahar-q32",
+      "2014-sonbahar-q43",
+      "2014-sonbahar-q44",
+      "2014-sonbahar-q45",
+      "2014-sonbahar-q46",
+      "2014-sonbahar-q62",
+      "2014-sonbahar-q64",
+      "2014-sonbahar-q66",
+      "2015-ilkbahar-q47",
+      "2015-ilkbahar-q64",
+      "2015-ilkbahar-q67",
+      "2016-ilkbahar-q06",
+      "2016-ilkbahar-q08",
+      "2016-ilkbahar-q27",
+      "2016-ilkbahar-q51",
+      "2016-ilkbahar-q63",
+      "2016-ilkbahar-q70",
+      "2016-ilkbahar-q71",
+      "2016-ilkbahar-q75",
+      "2016-sonbahar-q28",
+      "2016-sonbahar-q29",
+      "2016-sonbahar-q52",
+      "2016-sonbahar-q65",
+      "2017-ilkbahar-q36",
+      "2017-ilkbahar-q66",
+      "2017-sonbahar-q43",
+      "2017-sonbahar-q55",
+      "2017-sonbahar-q56",
+      "2017-sonbahar-q57",
+      "2017-sonbahar-q58",
+      "2017-sonbahar-q59",
+      "2017-sonbahar-q60",
+      "2017-sonbahar-q61",
+      "2017-sonbahar-q62",
+      "2017-sonbahar-q64",
+      "2017-sonbahar-q75",
+      "2018-3-q42",
+      "2018-3-q48",
+      "2018-3-q60",
+      "2018-3-q64",
+      "2018-3-q65",
+      "2018-3-q66",
+      "2018-ilkbahar-q22",
+      "2018-ilkbahar-q23",
+      "2018-ilkbahar-q24",
+      "2018-ilkbahar-q25",
+      "2018-ilkbahar-q26",
+      "2018-ilkbahar-q47",
+      "2018-ilkbahar-q50",
+      "2018-ilkbahar-q52",
+      "2018-ilkbahar-q58",
+      "2018-sonbahar-q28",
+      "2018-sonbahar-q63",
+      "2019-1-q49",
+      "2019-1-q51",
+      "2019-1-q52",
+      "2019-1-q53",
+      "2019-1-q54",
+      "2019-1-q63",
+      "2019-1-q65",
+      "2019-1-q66",
+      "2019-1-q67",
+      "2019-2-q50",
+      "2019-2-q61",
+      "2019-2-q64",
+      "2019-2-q67",
+      "2019-3-q17",
+      "2019-3-q18",
+      "2019-3-q19",
+      "2019-3-q20",
+      "2019-3-q21",
+      "2020-1-q51",
+      "2020-1-q52",
+      "2020-1-q53",
+      "2020-1-q54",
+      "2020-1-q65",
+      "2020-1-q80",
+      "2021-1-q66",
+      "2021-2-q63"
     ]
   },
   {
@@ -7312,6 +7429,82 @@
       "2021-1-q11",
       "2021-2-q30",
       "2021-2-q63"
+    ]
+  },
+  {
+    "word": "play",
+    "count": 94,
+    "examCount": 15,
+    "questionIds": [
+      "2013-sonbahar-q30",
+      "2013-sonbahar-q41",
+      "2013-sonbahar-q55",
+      "2013-sonbahar-q56",
+      "2013-sonbahar-q57",
+      "2013-sonbahar-q58",
+      "2013-sonbahar-q63",
+      "2013-sonbahar-q65",
+      "2013-sonbahar-q78",
+      "2013-sonbahar-q80",
+      "2014-ilkbahar-q66",
+      "2014-ilkbahar-q76",
+      "2014-ilkbahar-q79",
+      "2015-ilkbahar-q09",
+      "2015-ilkbahar-q30",
+      "2015-ilkbahar-q34",
+      "2015-ilkbahar-q66",
+      "2016-ilkbahar-q62",
+      "2016-ilkbahar-q69",
+      "2016-sonbahar-q10",
+      "2016-sonbahar-q65",
+      "2016-sonbahar-q67",
+      "2017-ilkbahar-q55",
+      "2017-ilkbahar-q56",
+      "2017-ilkbahar-q57",
+      "2017-ilkbahar-q58",
+      "2017-sonbahar-q49",
+      "2017-sonbahar-q72",
+      "2018-3-q47",
+      "2018-3-q48",
+      "2018-3-q49",
+      "2018-3-q50",
+      "2018-ilkbahar-q67",
+      "2018-ilkbahar-q73",
+      "2018-sonbahar-q35",
+      "2018-sonbahar-q43",
+      "2018-sonbahar-q44",
+      "2018-sonbahar-q45",
+      "2018-sonbahar-q46",
+      "2018-sonbahar-q51",
+      "2018-sonbahar-q73",
+      "2019-1-q08",
+      "2019-1-q13",
+      "2019-1-q34",
+      "2019-1-q43",
+      "2019-1-q44",
+      "2019-1-q45",
+      "2019-1-q46",
+      "2019-1-q49",
+      "2019-1-q63",
+      "2019-3-q28",
+      "2019-3-q43",
+      "2019-3-q44",
+      "2019-3-q45",
+      "2019-3-q46",
+      "2019-3-q74",
+      "2020-1-q36",
+      "2020-1-q49",
+      "2020-1-q75",
+      "2021-1-q31",
+      "2021-1-q77",
+      "2021-2-q07",
+      "2021-2-q52",
+      "2021-2-q55",
+      "2021-2-q56",
+      "2021-2-q57",
+      "2021-2-q58",
+      "2021-2-q73",
+      "2021-2-q77"
     ]
   },
   {
@@ -9164,6 +9357,85 @@
     ]
   },
   {
+    "word": "focus",
+    "count": 81,
+    "examCount": 16,
+    "questionIds": [
+      "2013-sonbahar-q47",
+      "2013-sonbahar-q48",
+      "2013-sonbahar-q49",
+      "2013-sonbahar-q50",
+      "2014-ilkbahar-q69",
+      "2014-sonbahar-q22",
+      "2014-sonbahar-q23",
+      "2014-sonbahar-q24",
+      "2014-sonbahar-q25",
+      "2014-sonbahar-q26",
+      "2014-sonbahar-q52",
+      "2014-sonbahar-q64",
+      "2015-ilkbahar-q36",
+      "2016-ilkbahar-q11",
+      "2016-ilkbahar-q32",
+      "2016-sonbahar-q48",
+      "2016-sonbahar-q58",
+      "2016-sonbahar-q59",
+      "2016-sonbahar-q60",
+      "2016-sonbahar-q61",
+      "2016-sonbahar-q62",
+      "2016-sonbahar-q65",
+      "2017-ilkbahar-q49",
+      "2017-ilkbahar-q66",
+      "2017-ilkbahar-q75",
+      "2017-sonbahar-q63",
+      "2017-sonbahar-q67",
+      "2017-sonbahar-q74",
+      "2018-3-q15",
+      "2018-3-q41",
+      "2018-3-q44",
+      "2018-3-q55",
+      "2018-3-q57",
+      "2018-3-q61",
+      "2018-3-q72",
+      "2018-ilkbahar-q11",
+      "2018-ilkbahar-q22",
+      "2018-ilkbahar-q23",
+      "2018-ilkbahar-q24",
+      "2018-ilkbahar-q25",
+      "2018-ilkbahar-q26",
+      "2018-ilkbahar-q31",
+      "2018-ilkbahar-q52",
+      "2018-ilkbahar-q59",
+      "2018-ilkbahar-q60",
+      "2018-ilkbahar-q61",
+      "2018-ilkbahar-q62",
+      "2018-ilkbahar-q75",
+      "2018-ilkbahar-q80",
+      "2018-sonbahar-q10",
+      "2018-sonbahar-q28",
+      "2018-sonbahar-q67",
+      "2018-sonbahar-q75",
+      "2018-sonbahar-q77",
+      "2019-1-q51",
+      "2019-1-q52",
+      "2019-1-q53",
+      "2019-1-q54",
+      "2019-1-q65",
+      "2019-3-q34",
+      "2019-3-q55",
+      "2019-3-q72",
+      "2020-1-q30",
+      "2020-1-q36",
+      "2021-1-q08",
+      "2021-1-q30",
+      "2021-1-q35",
+      "2021-1-q62",
+      "2021-1-q67",
+      "2021-1-q71",
+      "2021-2-q46",
+      "2021-2-q79"
+    ]
+  },
+  {
     "word": "industry",
     "count": 81,
     "examCount": 16,
@@ -10337,6 +10609,81 @@
     ]
   },
   {
+    "word": "identify",
+    "count": 76,
+    "examCount": 16,
+    "questionIds": [
+      "2013-sonbahar-q27",
+      "2013-sonbahar-q32",
+      "2013-sonbahar-q59",
+      "2013-sonbahar-q60",
+      "2013-sonbahar-q61",
+      "2013-sonbahar-q62",
+      "2013-sonbahar-q72",
+      "2013-sonbahar-q75",
+      "2014-ilkbahar-q59",
+      "2014-ilkbahar-q60",
+      "2014-ilkbahar-q61",
+      "2014-ilkbahar-q62",
+      "2014-sonbahar-q59",
+      "2014-sonbahar-q60",
+      "2014-sonbahar-q61",
+      "2014-sonbahar-q62",
+      "2015-ilkbahar-q75",
+      "2016-ilkbahar-q35",
+      "2016-sonbahar-q59",
+      "2016-sonbahar-q60",
+      "2016-sonbahar-q61",
+      "2016-sonbahar-q62",
+      "2016-sonbahar-q76",
+      "2017-sonbahar-q34",
+      "2017-sonbahar-q43",
+      "2017-sonbahar-q44",
+      "2017-sonbahar-q45",
+      "2017-sonbahar-q46",
+      "2017-sonbahar-q47",
+      "2017-sonbahar-q48",
+      "2017-sonbahar-q49",
+      "2017-sonbahar-q50",
+      "2017-sonbahar-q59",
+      "2017-sonbahar-q60",
+      "2017-sonbahar-q61",
+      "2017-sonbahar-q62",
+      "2018-3-q63",
+      "2018-3-q66",
+      "2018-ilkbahar-q11",
+      "2018-ilkbahar-q69",
+      "2018-sonbahar-q11",
+      "2019-1-q55",
+      "2019-1-q56",
+      "2019-1-q57",
+      "2019-1-q58",
+      "2019-1-q59",
+      "2019-1-q60",
+      "2019-1-q61",
+      "2019-1-q62",
+      "2019-1-q68",
+      "2019-1-q72",
+      "2019-2-q05",
+      "2019-2-q75",
+      "2019-3-q17",
+      "2019-3-q18",
+      "2019-3-q19",
+      "2019-3-q20",
+      "2019-3-q21",
+      "2019-3-q43",
+      "2019-3-q44",
+      "2019-3-q45",
+      "2019-3-q46",
+      "2019-3-q59",
+      "2019-3-q62",
+      "2020-1-q36",
+      "2021-1-q34",
+      "2021-1-q53",
+      "2021-2-q35"
+    ]
+  },
+  {
     "word": "limit",
     "count": 76,
     "examCount": 15,
@@ -10817,72 +11164,6 @@
     ]
   },
   {
-    "word": "play",
-    "count": 74,
-    "examCount": 15,
-    "questionIds": [
-      "2013-sonbahar-q30",
-      "2013-sonbahar-q41",
-      "2013-sonbahar-q56",
-      "2013-sonbahar-q63",
-      "2013-sonbahar-q65",
-      "2013-sonbahar-q78",
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q76",
-      "2015-ilkbahar-q09",
-      "2015-ilkbahar-q30",
-      "2015-ilkbahar-q34",
-      "2015-ilkbahar-q66",
-      "2016-ilkbahar-q62",
-      "2016-ilkbahar-q69",
-      "2016-sonbahar-q10",
-      "2016-sonbahar-q65",
-      "2016-sonbahar-q67",
-      "2017-ilkbahar-q55",
-      "2017-ilkbahar-q56",
-      "2017-ilkbahar-q57",
-      "2017-ilkbahar-q58",
-      "2017-sonbahar-q49",
-      "2017-sonbahar-q72",
-      "2018-3-q47",
-      "2018-3-q48",
-      "2018-3-q49",
-      "2018-3-q50",
-      "2018-ilkbahar-q67",
-      "2018-ilkbahar-q73",
-      "2018-sonbahar-q35",
-      "2018-sonbahar-q43",
-      "2018-sonbahar-q44",
-      "2018-sonbahar-q45",
-      "2018-sonbahar-q46",
-      "2018-sonbahar-q51",
-      "2018-sonbahar-q73",
-      "2019-1-q08",
-      "2019-1-q13",
-      "2019-1-q34",
-      "2019-1-q43",
-      "2019-1-q44",
-      "2019-1-q45",
-      "2019-1-q46",
-      "2019-1-q49",
-      "2019-3-q28",
-      "2019-3-q43",
-      "2019-3-q44",
-      "2019-3-q45",
-      "2019-3-q46",
-      "2019-3-q74",
-      "2020-1-q36",
-      "2020-1-q49",
-      "2020-1-q75",
-      "2021-1-q31",
-      "2021-1-q77",
-      "2021-2-q07",
-      "2021-2-q52",
-      "2021-2-q73",
-      "2021-2-q77"
-    ]
-  },
-  {
     "word": "surface",
     "count": 74,
     "examCount": 10,
@@ -11245,6 +11526,72 @@
       "2021-2-q63",
       "2021-2-q79",
       "2021-2-q80"
+    ]
+  },
+  {
+    "word": "carry",
+    "count": 71,
+    "examCount": 14,
+    "questionIds": [
+      "2013-sonbahar-q03",
+      "2013-sonbahar-q12",
+      "2013-sonbahar-q34",
+      "2013-sonbahar-q39",
+      "2013-sonbahar-q79",
+      "2014-ilkbahar-q60",
+      "2014-sonbahar-q41",
+      "2015-ilkbahar-q35",
+      "2015-ilkbahar-q51",
+      "2015-ilkbahar-q52",
+      "2015-ilkbahar-q53",
+      "2015-ilkbahar-q54",
+      "2015-ilkbahar-q73",
+      "2015-ilkbahar-q78",
+      "2016-ilkbahar-q05",
+      "2016-sonbahar-q05",
+      "2016-sonbahar-q17",
+      "2016-sonbahar-q18",
+      "2016-sonbahar-q19",
+      "2016-sonbahar-q20",
+      "2016-sonbahar-q21",
+      "2016-sonbahar-q59",
+      "2017-ilkbahar-q38",
+      "2017-ilkbahar-q55",
+      "2017-sonbahar-q11",
+      "2018-3-q51",
+      "2018-3-q52",
+      "2018-3-q53",
+      "2018-3-q54",
+      "2018-3-q55",
+      "2018-3-q56",
+      "2018-3-q57",
+      "2018-3-q58",
+      "2018-ilkbahar-q70",
+      "2018-ilkbahar-q73",
+      "2019-1-q55",
+      "2019-1-q56",
+      "2019-1-q57",
+      "2019-1-q58",
+      "2019-2-q17",
+      "2019-2-q18",
+      "2019-2-q19",
+      "2019-2-q20",
+      "2019-2-q21",
+      "2019-3-q16",
+      "2019-3-q59",
+      "2019-3-q60",
+      "2019-3-q61",
+      "2019-3-q62",
+      "2021-2-q29",
+      "2021-2-q47",
+      "2021-2-q48",
+      "2021-2-q49",
+      "2021-2-q50",
+      "2021-2-q55",
+      "2021-2-q56",
+      "2021-2-q57",
+      "2021-2-q58",
+      "2021-2-q63"
     ]
   },
   {
@@ -13164,63 +13511,39 @@
     ]
   },
   {
-    "word": "carry",
+    "word": "buy",
     "count": 63,
-    "examCount": 12,
+    "examCount": 10,
     "questionIds": [
-      "2013-sonbahar-q03",
-      "2013-sonbahar-q12",
-      "2013-sonbahar-q34",
-      "2013-sonbahar-q39",
-      "2013-sonbahar-q79",
-      "2014-ilkbahar-q60",
-      "2014-sonbahar-q41",
-      "2015-ilkbahar-q35",
-      "2015-ilkbahar-q51",
-      "2015-ilkbahar-q52",
-      "2015-ilkbahar-q53",
-      "2015-ilkbahar-q54",
-      "2015-ilkbahar-q73",
-      "2015-ilkbahar-q78",
-      "2016-sonbahar-q05",
-      "2016-sonbahar-q17",
-      "2016-sonbahar-q18",
-      "2016-sonbahar-q19",
-      "2016-sonbahar-q20",
-      "2016-sonbahar-q21",
-      "2016-sonbahar-q59",
-      "2017-ilkbahar-q38",
-      "2017-ilkbahar-q55",
-      "2017-sonbahar-q11",
-      "2018-3-q51",
-      "2018-3-q52",
-      "2018-3-q53",
-      "2018-3-q54",
-      "2018-3-q55",
-      "2018-3-q56",
-      "2018-3-q57",
-      "2018-3-q58",
-      "2018-ilkbahar-q70",
-      "2018-ilkbahar-q73",
-      "2019-1-q55",
-      "2019-1-q56",
-      "2019-1-q57",
-      "2019-1-q58",
-      "2019-3-q16",
-      "2019-3-q59",
-      "2019-3-q60",
-      "2019-3-q61",
-      "2019-3-q62",
-      "2021-2-q29",
-      "2021-2-q47",
-      "2021-2-q48",
-      "2021-2-q49",
-      "2021-2-q50",
-      "2021-2-q55",
-      "2021-2-q56",
-      "2021-2-q57",
-      "2021-2-q58",
-      "2021-2-q63"
+      "2014-sonbahar-q38",
+      "2014-sonbahar-q55",
+      "2014-sonbahar-q56",
+      "2014-sonbahar-q57",
+      "2014-sonbahar-q58",
+      "2015-ilkbahar-q43",
+      "2015-ilkbahar-q44",
+      "2015-ilkbahar-q45",
+      "2015-ilkbahar-q46",
+      "2016-ilkbahar-q09",
+      "2016-ilkbahar-q59",
+      "2016-ilkbahar-q60",
+      "2016-ilkbahar-q61",
+      "2016-ilkbahar-q62",
+      "2016-sonbahar-q32",
+      "2017-ilkbahar-q27",
+      "2017-sonbahar-q17",
+      "2017-sonbahar-q18",
+      "2017-sonbahar-q19",
+      "2017-sonbahar-q20",
+      "2017-sonbahar-q21",
+      "2018-3-q65",
+      "2019-1-q47",
+      "2019-1-q48",
+      "2019-1-q49",
+      "2019-1-q50",
+      "2019-2-q71",
+      "2019-2-q74",
+      "2021-2-q76"
     ]
   },
   {
@@ -13691,71 +14014,6 @@
     ]
   },
   {
-    "word": "identify",
-    "count": 62,
-    "examCount": 14,
-    "questionIds": [
-      "2013-sonbahar-q27",
-      "2013-sonbahar-q59",
-      "2013-sonbahar-q60",
-      "2013-sonbahar-q61",
-      "2013-sonbahar-q62",
-      "2013-sonbahar-q72",
-      "2013-sonbahar-q75",
-      "2014-ilkbahar-q59",
-      "2014-ilkbahar-q60",
-      "2014-ilkbahar-q61",
-      "2014-ilkbahar-q62",
-      "2014-sonbahar-q59",
-      "2014-sonbahar-q60",
-      "2014-sonbahar-q61",
-      "2014-sonbahar-q62",
-      "2015-ilkbahar-q75",
-      "2016-ilkbahar-q35",
-      "2016-sonbahar-q59",
-      "2016-sonbahar-q60",
-      "2016-sonbahar-q61",
-      "2016-sonbahar-q62",
-      "2016-sonbahar-q76",
-      "2017-sonbahar-q34",
-      "2017-sonbahar-q43",
-      "2017-sonbahar-q44",
-      "2017-sonbahar-q45",
-      "2017-sonbahar-q46",
-      "2017-sonbahar-q47",
-      "2017-sonbahar-q48",
-      "2017-sonbahar-q49",
-      "2017-sonbahar-q50",
-      "2018-3-q63",
-      "2018-3-q66",
-      "2018-ilkbahar-q69",
-      "2019-1-q55",
-      "2019-1-q56",
-      "2019-1-q57",
-      "2019-1-q58",
-      "2019-1-q59",
-      "2019-1-q60",
-      "2019-1-q61",
-      "2019-1-q62",
-      "2019-1-q68",
-      "2019-1-q72",
-      "2019-3-q17",
-      "2019-3-q18",
-      "2019-3-q19",
-      "2019-3-q20",
-      "2019-3-q21",
-      "2019-3-q43",
-      "2019-3-q44",
-      "2019-3-q45",
-      "2019-3-q46",
-      "2019-3-q59",
-      "2019-3-q62",
-      "2020-1-q36",
-      "2021-1-q53",
-      "2021-2-q35"
-    ]
-  },
-  {
     "word": "stress",
     "count": 62,
     "examCount": 12,
@@ -13903,6 +14161,62 @@
       "2021-2-q61",
       "2021-2-q62",
       "2021-2-q70"
+    ]
+  },
+  {
+    "word": "compare",
+    "count": 60,
+    "examCount": 16,
+    "questionIds": [
+      "2013-sonbahar-q55",
+      "2013-sonbahar-q71",
+      "2014-ilkbahar-q03",
+      "2014-ilkbahar-q30",
+      "2014-ilkbahar-q53",
+      "2014-ilkbahar-q71",
+      "2014-sonbahar-q56",
+      "2014-sonbahar-q71",
+      "2016-ilkbahar-q17",
+      "2016-ilkbahar-q18",
+      "2016-ilkbahar-q19",
+      "2016-ilkbahar-q20",
+      "2016-ilkbahar-q21",
+      "2016-ilkbahar-q53",
+      "2016-sonbahar-q44",
+      "2016-sonbahar-q52",
+      "2017-ilkbahar-q53",
+      "2017-ilkbahar-q56",
+      "2017-sonbahar-q69",
+      "2018-3-q44",
+      "2018-3-q48",
+      "2018-3-q58",
+      "2018-3-q61",
+      "2018-ilkbahar-q75",
+      "2018-sonbahar-q43",
+      "2018-sonbahar-q44",
+      "2018-sonbahar-q45",
+      "2018-sonbahar-q46",
+      "2019-1-q59",
+      "2019-1-q60",
+      "2019-1-q61",
+      "2019-1-q62",
+      "2019-2-q40",
+      "2019-2-q50",
+      "2019-2-q55",
+      "2019-3-q20",
+      "2019-3-q59",
+      "2019-3-q60",
+      "2019-3-q61",
+      "2019-3-q62",
+      "2020-1-q38",
+      "2020-1-q49",
+      "2020-1-q62",
+      "2020-1-q75",
+      "2021-1-q67",
+      "2021-2-q51",
+      "2021-2-q52",
+      "2021-2-q53",
+      "2021-2-q54"
     ]
   },
   {
@@ -14407,67 +14721,6 @@
       "2021-2-q52",
       "2021-2-q53",
       "2021-2-q54"
-    ]
-  },
-  {
-    "word": "try",
-    "count": 59,
-    "examCount": 15,
-    "questionIds": [
-      "2014-ilkbahar-q27",
-      "2014-ilkbahar-q65",
-      "2014-ilkbahar-q75",
-      "2014-sonbahar-q32",
-      "2014-sonbahar-q43",
-      "2014-sonbahar-q44",
-      "2014-sonbahar-q45",
-      "2014-sonbahar-q46",
-      "2014-sonbahar-q62",
-      "2014-sonbahar-q64",
-      "2014-sonbahar-q66",
-      "2015-ilkbahar-q67",
-      "2016-ilkbahar-q51",
-      "2016-sonbahar-q29",
-      "2016-sonbahar-q52",
-      "2016-sonbahar-q65",
-      "2017-ilkbahar-q36",
-      "2017-ilkbahar-q66",
-      "2017-sonbahar-q55",
-      "2017-sonbahar-q56",
-      "2017-sonbahar-q57",
-      "2017-sonbahar-q58",
-      "2017-sonbahar-q59",
-      "2017-sonbahar-q60",
-      "2017-sonbahar-q61",
-      "2017-sonbahar-q62",
-      "2017-sonbahar-q64",
-      "2017-sonbahar-q75",
-      "2018-3-q42",
-      "2018-3-q60",
-      "2018-3-q66",
-      "2018-ilkbahar-q50",
-      "2018-ilkbahar-q52",
-      "2018-sonbahar-q28",
-      "2018-sonbahar-q63",
-      "2019-1-q49",
-      "2019-1-q51",
-      "2019-1-q52",
-      "2019-1-q53",
-      "2019-1-q54",
-      "2019-1-q65",
-      "2019-1-q66",
-      "2019-1-q67",
-      "2019-2-q61",
-      "2019-2-q64",
-      "2019-2-q67",
-      "2020-1-q51",
-      "2020-1-q52",
-      "2020-1-q53",
-      "2020-1-q54",
-      "2020-1-q65",
-      "2020-1-q80",
-      "2021-1-q66",
-      "2021-2-q63"
     ]
   },
   {
@@ -15716,6 +15969,51 @@
     ]
   },
   {
+    "word": "consume",
+    "count": 55,
+    "examCount": 11,
+    "questionIds": [
+      "2014-sonbahar-q34",
+      "2014-sonbahar-q40",
+      "2016-ilkbahar-q28",
+      "2016-ilkbahar-q59",
+      "2016-ilkbahar-q60",
+      "2016-ilkbahar-q61",
+      "2016-ilkbahar-q62",
+      "2016-ilkbahar-q77",
+      "2016-sonbahar-q69",
+      "2017-sonbahar-q09",
+      "2018-ilkbahar-q13",
+      "2018-ilkbahar-q51",
+      "2018-ilkbahar-q52",
+      "2018-ilkbahar-q53",
+      "2018-ilkbahar-q54",
+      "2018-sonbahar-q51",
+      "2018-sonbahar-q69",
+      "2019-2-q40",
+      "2019-3-q41",
+      "2019-3-q43",
+      "2019-3-q44",
+      "2019-3-q45",
+      "2019-3-q46",
+      "2019-3-q71",
+      "2020-1-q52",
+      "2021-1-q75",
+      "2021-2-q09",
+      "2021-2-q22",
+      "2021-2-q23",
+      "2021-2-q24",
+      "2021-2-q25",
+      "2021-2-q26",
+      "2021-2-q59",
+      "2021-2-q60",
+      "2021-2-q61",
+      "2021-2-q62",
+      "2021-2-q64",
+      "2021-2-q70"
+    ]
+  },
+  {
     "word": "main",
     "count": 55,
     "examCount": 16,
@@ -16614,6 +16912,55 @@
     ]
   },
   {
+    "word": "emerge",
+    "count": 52,
+    "examCount": 12,
+    "questionIds": [
+      "2014-sonbahar-q31",
+      "2015-ilkbahar-q38",
+      "2015-ilkbahar-q55",
+      "2015-ilkbahar-q56",
+      "2015-ilkbahar-q57",
+      "2015-ilkbahar-q58",
+      "2016-sonbahar-q57",
+      "2017-ilkbahar-q11",
+      "2017-ilkbahar-q70",
+      "2017-sonbahar-q17",
+      "2017-sonbahar-q18",
+      "2017-sonbahar-q19",
+      "2017-sonbahar-q20",
+      "2017-sonbahar-q21",
+      "2018-3-q01",
+      "2018-3-q09",
+      "2018-3-q32",
+      "2018-sonbahar-q13",
+      "2019-1-q47",
+      "2019-1-q48",
+      "2019-1-q49",
+      "2019-1-q50",
+      "2019-2-q36",
+      "2020-1-q17",
+      "2020-1-q18",
+      "2020-1-q19",
+      "2020-1-q20",
+      "2020-1-q21",
+      "2020-1-q35",
+      "2021-1-q43",
+      "2021-1-q44",
+      "2021-1-q45",
+      "2021-1-q46",
+      "2021-2-q17",
+      "2021-2-q18",
+      "2021-2-q19",
+      "2021-2-q20",
+      "2021-2-q21",
+      "2021-2-q59",
+      "2021-2-q60",
+      "2021-2-q61",
+      "2021-2-q62"
+    ]
+  },
+  {
     "word": "genetic",
     "count": 52,
     "examCount": 11,
@@ -17336,6 +17683,61 @@
       "2021-2-q28",
       "2021-2-q31",
       "2021-2-q32"
+    ]
+  },
+  {
+    "word": "associate",
+    "count": 50,
+    "examCount": 15,
+    "questionIds": [
+      "2013-sonbahar-q55",
+      "2013-sonbahar-q56",
+      "2013-sonbahar-q57",
+      "2013-sonbahar-q58",
+      "2014-ilkbahar-q51",
+      "2014-ilkbahar-q52",
+      "2014-ilkbahar-q53",
+      "2014-ilkbahar-q54",
+      "2014-sonbahar-q70",
+      "2015-ilkbahar-q79",
+      "2016-ilkbahar-q61",
+      "2016-sonbahar-q22",
+      "2016-sonbahar-q23",
+      "2016-sonbahar-q24",
+      "2016-sonbahar-q25",
+      "2016-sonbahar-q26",
+      "2016-sonbahar-q70",
+      "2018-3-q72",
+      "2018-ilkbahar-q74",
+      "2018-sonbahar-q30",
+      "2018-sonbahar-q43",
+      "2018-sonbahar-q44",
+      "2018-sonbahar-q45",
+      "2018-sonbahar-q46",
+      "2019-1-q43",
+      "2019-1-q44",
+      "2019-1-q45",
+      "2019-1-q46",
+      "2019-1-q69",
+      "2019-2-q59",
+      "2019-2-q60",
+      "2019-2-q61",
+      "2019-2-q62",
+      "2019-3-q27",
+      "2019-3-q71",
+      "2020-1-q35",
+      "2021-1-q22",
+      "2021-1-q23",
+      "2021-1-q24",
+      "2021-1-q25",
+      "2021-1-q26",
+      "2021-1-q43",
+      "2021-1-q44",
+      "2021-1-q45",
+      "2021-1-q46",
+      "2021-1-q48",
+      "2021-2-q71",
+      "2021-2-q77"
     ]
   },
   {
@@ -18071,7 +18473,7 @@
     ]
   },
   {
-    "word": "perhap",
+    "word": "perhaps",
     "count": 49,
     "examCount": 13,
     "questionIds": [
@@ -18679,6 +19081,59 @@
     ]
   },
   {
+    "word": "rely",
+    "count": 48,
+    "examCount": 15,
+    "questionIds": [
+      "2013-sonbahar-q66",
+      "2013-sonbahar-q68",
+      "2014-ilkbahar-q17",
+      "2014-ilkbahar-q18",
+      "2014-ilkbahar-q19",
+      "2014-ilkbahar-q20",
+      "2014-ilkbahar-q21",
+      "2014-ilkbahar-q37",
+      "2014-ilkbahar-q58",
+      "2014-sonbahar-q05",
+      "2014-sonbahar-q27",
+      "2015-ilkbahar-q25",
+      "2015-ilkbahar-q69",
+      "2016-ilkbahar-q53",
+      "2016-sonbahar-q35",
+      "2017-ilkbahar-q27",
+      "2018-ilkbahar-q47",
+      "2018-ilkbahar-q48",
+      "2018-ilkbahar-q49",
+      "2018-ilkbahar-q50",
+      "2018-sonbahar-q22",
+      "2018-sonbahar-q43",
+      "2018-sonbahar-q44",
+      "2018-sonbahar-q45",
+      "2018-sonbahar-q46",
+      "2018-sonbahar-q48",
+      "2018-sonbahar-q62",
+      "2019-1-q36",
+      "2019-1-q43",
+      "2019-1-q44",
+      "2019-1-q45",
+      "2019-1-q46",
+      "2019-2-q67",
+      "2019-3-q74",
+      "2020-1-q40",
+      "2021-1-q37",
+      "2021-1-q47",
+      "2021-1-q48",
+      "2021-1-q49",
+      "2021-1-q50",
+      "2021-1-q51",
+      "2021-1-q52",
+      "2021-1-q53",
+      "2021-1-q54",
+      "2021-1-q73",
+      "2021-2-q06"
+    ]
+  },
+  {
     "word": "south",
     "count": 48,
     "examCount": 12,
@@ -19173,52 +19628,6 @@
     ]
   },
   {
-    "word": "compar",
-    "count": 46,
-    "examCount": 15,
-    "questionIds": [
-      "2013-sonbahar-q55",
-      "2013-sonbahar-q71",
-      "2014-ilkbahar-q03",
-      "2014-ilkbahar-q30",
-      "2014-ilkbahar-q53",
-      "2014-ilkbahar-q71",
-      "2014-sonbahar-q56",
-      "2014-sonbahar-q71",
-      "2016-ilkbahar-q53",
-      "2016-sonbahar-q44",
-      "2016-sonbahar-q52",
-      "2017-ilkbahar-q53",
-      "2017-ilkbahar-q56",
-      "2017-sonbahar-q69",
-      "2018-3-q44",
-      "2018-3-q61",
-      "2018-ilkbahar-q75",
-      "2018-sonbahar-q43",
-      "2018-sonbahar-q44",
-      "2018-sonbahar-q45",
-      "2018-sonbahar-q46",
-      "2019-1-q59",
-      "2019-1-q60",
-      "2019-1-q61",
-      "2019-1-q62",
-      "2019-2-q40",
-      "2019-2-q55",
-      "2019-3-q20",
-      "2019-3-q59",
-      "2019-3-q60",
-      "2019-3-q61",
-      "2019-3-q62",
-      "2020-1-q38",
-      "2020-1-q49",
-      "2020-1-q75",
-      "2021-2-q51",
-      "2021-2-q52",
-      "2021-2-q53",
-      "2021-2-q54"
-    ]
-  },
-  {
     "word": "deal",
     "count": 46,
     "examCount": 16,
@@ -19327,56 +19736,6 @@
       "2020-1-q34",
       "2021-1-q11",
       "2021-1-q34"
-    ]
-  },
-  {
-    "word": "focu",
-    "count": 46,
-    "examCount": 16,
-    "questionIds": [
-      "2013-sonbahar-q47",
-      "2014-ilkbahar-q69",
-      "2014-sonbahar-q64",
-      "2015-ilkbahar-q36",
-      "2016-ilkbahar-q32",
-      "2016-sonbahar-q58",
-      "2016-sonbahar-q59",
-      "2016-sonbahar-q60",
-      "2016-sonbahar-q61",
-      "2016-sonbahar-q62",
-      "2016-sonbahar-q65",
-      "2017-ilkbahar-q49",
-      "2017-ilkbahar-q66",
-      "2017-sonbahar-q63",
-      "2018-3-q41",
-      "2018-3-q55",
-      "2018-3-q57",
-      "2018-3-q72",
-      "2018-ilkbahar-q22",
-      "2018-ilkbahar-q23",
-      "2018-ilkbahar-q24",
-      "2018-ilkbahar-q25",
-      "2018-ilkbahar-q26",
-      "2018-ilkbahar-q59",
-      "2018-ilkbahar-q60",
-      "2018-ilkbahar-q61",
-      "2018-ilkbahar-q62",
-      "2018-ilkbahar-q75",
-      "2018-sonbahar-q10",
-      "2018-sonbahar-q28",
-      "2018-sonbahar-q75",
-      "2019-1-q65",
-      "2019-3-q34",
-      "2020-1-q30",
-      "2020-1-q36",
-      "2021-1-q08",
-      "2021-1-q30",
-      "2021-1-q35",
-      "2021-1-q62",
-      "2021-1-q67",
-      "2021-1-q71",
-      "2021-2-q46",
-      "2021-2-q79"
     ]
   },
   {
@@ -20019,6 +20378,37 @@
     ]
   },
   {
+    "word": "fly",
+    "count": 44,
+    "examCount": 10,
+    "questionIds": [
+      "2013-sonbahar-q27",
+      "2013-sonbahar-q78",
+      "2014-sonbahar-q75",
+      "2015-ilkbahar-q47",
+      "2015-ilkbahar-q48",
+      "2015-ilkbahar-q49",
+      "2015-ilkbahar-q50",
+      "2016-ilkbahar-q32",
+      "2016-sonbahar-q72",
+      "2018-ilkbahar-q59",
+      "2018-ilkbahar-q60",
+      "2018-ilkbahar-q61",
+      "2018-ilkbahar-q62",
+      "2018-ilkbahar-q78",
+      "2019-1-q74",
+      "2019-2-q67",
+      "2021-1-q55",
+      "2021-1-q56",
+      "2021-1-q57",
+      "2021-1-q58",
+      "2021-2-q59",
+      "2021-2-q60",
+      "2021-2-q61",
+      "2021-2-q62"
+    ]
+  },
+  {
     "word": "free",
     "count": 44,
     "examCount": 11,
@@ -20301,6 +20691,52 @@
       "2020-1-q29",
       "2021-2-q63",
       "2021-2-q64"
+    ]
+  },
+  {
+    "word": "worry",
+    "count": 44,
+    "examCount": 13,
+    "questionIds": [
+      "2014-sonbahar-q27",
+      "2015-ilkbahar-q75",
+      "2016-ilkbahar-q66",
+      "2016-sonbahar-q22",
+      "2016-sonbahar-q23",
+      "2016-sonbahar-q24",
+      "2016-sonbahar-q25",
+      "2016-sonbahar-q26",
+      "2017-ilkbahar-q59",
+      "2018-3-q28",
+      "2018-3-q59",
+      "2018-3-q60",
+      "2018-3-q61",
+      "2018-3-q62",
+      "2018-ilkbahar-q67",
+      "2018-sonbahar-q22",
+      "2018-sonbahar-q23",
+      "2018-sonbahar-q24",
+      "2018-sonbahar-q25",
+      "2018-sonbahar-q26",
+      "2019-1-q27",
+      "2019-1-q65",
+      "2019-2-q47",
+      "2019-2-q48",
+      "2019-2-q49",
+      "2019-2-q50",
+      "2019-2-q64",
+      "2019-3-q59",
+      "2019-3-q60",
+      "2019-3-q61",
+      "2019-3-q62",
+      "2020-1-q35",
+      "2020-1-q43",
+      "2020-1-q44",
+      "2020-1-q45",
+      "2020-1-q46",
+      "2020-1-q65",
+      "2021-2-q74",
+      "2021-2-q78"
     ]
   },
   {
@@ -20948,7 +21384,7 @@
     ]
   },
   {
-    "word": "seriou",
+    "word": "serious",
     "count": 43,
     "examCount": 16,
     "questionIds": [
@@ -21079,53 +21515,6 @@
       "2021-1-q58",
       "2021-1-q63",
       "2021-2-q65"
-    ]
-  },
-  {
-    "word": "trie",
-    "count": 43,
-    "examCount": 12,
-    "questionIds": [
-      "2013-sonbahar-q30",
-      "2013-sonbahar-q38",
-      "2013-sonbahar-q64",
-      "2014-ilkbahar-q43",
-      "2014-ilkbahar-q44",
-      "2014-ilkbahar-q45",
-      "2014-ilkbahar-q46",
-      "2014-ilkbahar-q63",
-      "2015-ilkbahar-q47",
-      "2015-ilkbahar-q64",
-      "2016-ilkbahar-q06",
-      "2016-ilkbahar-q08",
-      "2016-ilkbahar-q27",
-      "2016-ilkbahar-q63",
-      "2016-ilkbahar-q70",
-      "2016-ilkbahar-q71",
-      "2016-ilkbahar-q75",
-      "2016-sonbahar-q28",
-      "2017-sonbahar-q43",
-      "2017-sonbahar-q58",
-      "2018-3-q42",
-      "2018-3-q48",
-      "2018-3-q64",
-      "2018-3-q65",
-      "2018-3-q66",
-      "2018-ilkbahar-q22",
-      "2018-ilkbahar-q23",
-      "2018-ilkbahar-q24",
-      "2018-ilkbahar-q25",
-      "2018-ilkbahar-q26",
-      "2018-ilkbahar-q47",
-      "2018-ilkbahar-q58",
-      "2018-sonbahar-q63",
-      "2019-1-q63",
-      "2019-2-q50",
-      "2019-3-q17",
-      "2019-3-q18",
-      "2019-3-q19",
-      "2019-3-q20",
-      "2019-3-q21"
     ]
   },
   {
@@ -21463,48 +21852,6 @@
       "2019-3-q73",
       "2021-1-q69",
       "2021-2-q30"
-    ]
-  },
-  {
-    "word": "experienc",
-    "count": 41,
-    "examCount": 12,
-    "questionIds": [
-      "2013-sonbahar-q77",
-      "2013-sonbahar-q78",
-      "2014-ilkbahar-q41",
-      "2014-sonbahar-q47",
-      "2014-sonbahar-q48",
-      "2014-sonbahar-q49",
-      "2014-sonbahar-q50",
-      "2015-ilkbahar-q43",
-      "2016-sonbahar-q51",
-      "2016-sonbahar-q52",
-      "2016-sonbahar-q53",
-      "2016-sonbahar-q54",
-      "2017-ilkbahar-q47",
-      "2017-ilkbahar-q79",
-      "2018-3-q32",
-      "2018-3-q55",
-      "2018-3-q56",
-      "2018-3-q57",
-      "2018-3-q58",
-      "2018-ilkbahar-q71",
-      "2019-1-q32",
-      "2019-1-q47",
-      "2019-2-q44",
-      "2019-2-q61",
-      "2020-1-q41",
-      "2020-1-q43",
-      "2020-1-q44",
-      "2020-1-q45",
-      "2020-1-q46",
-      "2020-1-q47",
-      "2020-1-q48",
-      "2020-1-q49",
-      "2020-1-q50",
-      "2021-2-q43",
-      "2021-2-q64"
     ]
   },
   {
@@ -21867,6 +22214,51 @@
     ]
   },
   {
+    "word": "vary",
+    "count": 41,
+    "examCount": 12,
+    "questionIds": [
+      "2013-sonbahar-q58",
+      "2013-sonbahar-q61",
+      "2014-ilkbahar-q33",
+      "2014-ilkbahar-q74",
+      "2014-sonbahar-q80",
+      "2016-sonbahar-q73",
+      "2017-ilkbahar-q50",
+      "2017-ilkbahar-q65",
+      "2017-ilkbahar-q77",
+      "2018-3-q74",
+      "2018-ilkbahar-q15",
+      "2018-sonbahar-q30",
+      "2018-sonbahar-q41",
+      "2018-sonbahar-q76",
+      "2019-2-q22",
+      "2019-2-q23",
+      "2019-2-q24",
+      "2019-2-q25",
+      "2019-2-q26",
+      "2019-2-q59",
+      "2019-2-q60",
+      "2019-2-q61",
+      "2019-2-q62",
+      "2019-2-q74",
+      "2020-1-q34",
+      "2020-1-q43",
+      "2020-1-q44",
+      "2020-1-q45",
+      "2020-1-q46",
+      "2020-1-q47",
+      "2020-1-q48",
+      "2020-1-q49",
+      "2020-1-q50",
+      "2021-1-q02",
+      "2021-1-q36",
+      "2021-1-q67",
+      "2021-1-q78",
+      "2021-2-q64"
+    ]
+  },
+  {
     "word": "access",
     "count": 40,
     "examCount": 13,
@@ -22002,51 +22394,6 @@
     ]
   },
   {
-    "word": "associat",
-    "count": 40,
-    "examCount": 14,
-    "questionIds": [
-      "2013-sonbahar-q55",
-      "2013-sonbahar-q56",
-      "2013-sonbahar-q57",
-      "2013-sonbahar-q58",
-      "2014-ilkbahar-q51",
-      "2014-ilkbahar-q52",
-      "2014-ilkbahar-q53",
-      "2014-ilkbahar-q54",
-      "2015-ilkbahar-q79",
-      "2016-ilkbahar-q61",
-      "2016-sonbahar-q22",
-      "2016-sonbahar-q23",
-      "2016-sonbahar-q24",
-      "2016-sonbahar-q25",
-      "2016-sonbahar-q26",
-      "2016-sonbahar-q70",
-      "2018-3-q72",
-      "2018-ilkbahar-q74",
-      "2018-sonbahar-q30",
-      "2018-sonbahar-q43",
-      "2018-sonbahar-q44",
-      "2018-sonbahar-q45",
-      "2018-sonbahar-q46",
-      "2019-1-q69",
-      "2019-2-q59",
-      "2019-2-q60",
-      "2019-2-q61",
-      "2019-2-q62",
-      "2019-3-q27",
-      "2019-3-q71",
-      "2020-1-q35",
-      "2021-1-q43",
-      "2021-1-q44",
-      "2021-1-q45",
-      "2021-1-q46",
-      "2021-1-q48",
-      "2021-2-q71",
-      "2021-2-q77"
-    ]
-  },
-  {
     "word": "battery",
     "count": 40,
     "examCount": 4,
@@ -22117,45 +22464,6 @@
       "2021-1-q48",
       "2021-1-q49",
       "2021-1-q50"
-    ]
-  },
-  {
-    "word": "emerg",
-    "count": 40,
-    "examCount": 11,
-    "questionIds": [
-      "2014-sonbahar-q31",
-      "2015-ilkbahar-q38",
-      "2015-ilkbahar-q55",
-      "2015-ilkbahar-q56",
-      "2015-ilkbahar-q57",
-      "2015-ilkbahar-q58",
-      "2016-sonbahar-q57",
-      "2017-ilkbahar-q11",
-      "2017-sonbahar-q17",
-      "2017-sonbahar-q18",
-      "2017-sonbahar-q19",
-      "2017-sonbahar-q20",
-      "2017-sonbahar-q21",
-      "2018-3-q01",
-      "2018-3-q09",
-      "2018-sonbahar-q13",
-      "2019-2-q36",
-      "2020-1-q17",
-      "2020-1-q18",
-      "2020-1-q19",
-      "2020-1-q20",
-      "2020-1-q21",
-      "2020-1-q35",
-      "2021-1-q43",
-      "2021-1-q44",
-      "2021-1-q45",
-      "2021-1-q46",
-      "2021-2-q17",
-      "2021-2-q18",
-      "2021-2-q19",
-      "2021-2-q20",
-      "2021-2-q21"
     ]
   },
   {
@@ -22503,53 +22811,6 @@
     ]
   },
   {
-    "word": "stat",
-    "count": 40,
-    "examCount": 13,
-    "questionIds": [
-      "2013-sonbahar-q45",
-      "2013-sonbahar-q48",
-      "2013-sonbahar-q53",
-      "2013-sonbahar-q56",
-      "2014-ilkbahar-q45",
-      "2014-ilkbahar-q47",
-      "2014-ilkbahar-q51",
-      "2015-ilkbahar-q44",
-      "2015-ilkbahar-q49",
-      "2015-ilkbahar-q51",
-      "2015-ilkbahar-q58",
-      "2016-ilkbahar-q44",
-      "2016-ilkbahar-q47",
-      "2016-ilkbahar-q52",
-      "2016-ilkbahar-q55",
-      "2016-ilkbahar-q59",
-      "2016-sonbahar-q55",
-      "2016-sonbahar-q59",
-      "2017-ilkbahar-q55",
-      "2017-ilkbahar-q59",
-      "2018-3-q43",
-      "2018-3-q49",
-      "2018-3-q52",
-      "2018-3-q60",
-      "2018-ilkbahar-q61",
-      "2019-1-q53",
-      "2019-2-q17",
-      "2019-2-q18",
-      "2019-2-q19",
-      "2019-2-q20",
-      "2019-2-q21",
-      "2019-2-q49",
-      "2019-2-q56",
-      "2019-2-q59",
-      "2019-3-q45",
-      "2021-1-q51",
-      "2021-1-q52",
-      "2021-2-q43",
-      "2021-2-q48",
-      "2021-2-q61"
-    ]
-  },
-  {
     "word": "suffer",
     "count": 40,
     "examCount": 16,
@@ -22708,48 +22969,6 @@
       "2021-2-q60",
       "2021-2-q61",
       "2021-2-q62"
-    ]
-  },
-  {
-    "word": "worry",
-    "count": 40,
-    "examCount": 13,
-    "questionIds": [
-      "2014-sonbahar-q27",
-      "2015-ilkbahar-q75",
-      "2016-ilkbahar-q66",
-      "2016-sonbahar-q22",
-      "2016-sonbahar-q23",
-      "2016-sonbahar-q24",
-      "2016-sonbahar-q25",
-      "2016-sonbahar-q26",
-      "2017-ilkbahar-q59",
-      "2018-3-q28",
-      "2018-3-q59",
-      "2018-3-q60",
-      "2018-3-q61",
-      "2018-3-q62",
-      "2018-ilkbahar-q67",
-      "2018-sonbahar-q22",
-      "2018-sonbahar-q23",
-      "2018-sonbahar-q24",
-      "2018-sonbahar-q25",
-      "2018-sonbahar-q26",
-      "2019-1-q27",
-      "2019-1-q65",
-      "2019-2-q64",
-      "2019-3-q59",
-      "2019-3-q60",
-      "2019-3-q61",
-      "2019-3-q62",
-      "2020-1-q35",
-      "2020-1-q43",
-      "2020-1-q44",
-      "2020-1-q45",
-      "2020-1-q46",
-      "2020-1-q65",
-      "2021-2-q74",
-      "2021-2-q78"
     ]
   },
   {
@@ -23365,38 +23584,6 @@
     ]
   },
   {
-    "word": "consum",
-    "count": 38,
-    "examCount": 9,
-    "questionIds": [
-      "2014-sonbahar-q34",
-      "2014-sonbahar-q40",
-      "2016-ilkbahar-q28",
-      "2016-sonbahar-q69",
-      "2017-sonbahar-q09",
-      "2018-ilkbahar-q51",
-      "2018-ilkbahar-q52",
-      "2018-ilkbahar-q53",
-      "2018-ilkbahar-q54",
-      "2018-sonbahar-q69",
-      "2019-3-q41",
-      "2019-3-q43",
-      "2019-3-q44",
-      "2019-3-q45",
-      "2019-3-q46",
-      "2019-3-q71",
-      "2021-1-q75",
-      "2021-2-q09",
-      "2021-2-q22",
-      "2021-2-q23",
-      "2021-2-q24",
-      "2021-2-q25",
-      "2021-2-q26",
-      "2021-2-q59",
-      "2021-2-q70"
-    ]
-  },
-  {
     "word": "estimate",
     "count": 38,
     "examCount": 9,
@@ -23674,7 +23861,7 @@
     ]
   },
   {
-    "word": "famou",
+    "word": "famous",
     "count": 37,
     "examCount": 11,
     "questionIds": [
@@ -23890,7 +24077,7 @@
     ]
   },
   {
-    "word": "statu",
+    "word": "status",
     "count": 37,
     "examCount": 9,
     "questionIds": [
@@ -24062,35 +24249,6 @@
       "2021-2-q53",
       "2021-2-q54",
       "2021-2-q60"
-    ]
-  },
-  {
-    "word": "buy",
-    "count": 36,
-    "examCount": 8,
-    "questionIds": [
-      "2014-sonbahar-q38",
-      "2014-sonbahar-q55",
-      "2014-sonbahar-q56",
-      "2014-sonbahar-q57",
-      "2014-sonbahar-q58",
-      "2015-ilkbahar-q43",
-      "2015-ilkbahar-q44",
-      "2015-ilkbahar-q45",
-      "2015-ilkbahar-q46",
-      "2016-ilkbahar-q09",
-      "2016-ilkbahar-q59",
-      "2016-ilkbahar-q60",
-      "2016-ilkbahar-q61",
-      "2016-ilkbahar-q62",
-      "2016-sonbahar-q32",
-      "2018-3-q65",
-      "2019-1-q47",
-      "2019-1-q48",
-      "2019-1-q49",
-      "2019-1-q50",
-      "2019-2-q74",
-      "2021-2-q76"
     ]
   },
   {
@@ -24321,48 +24479,6 @@
       "2021-2-q53",
       "2021-2-q54",
       "2021-2-q73"
-    ]
-  },
-  {
-    "word": "rely",
-    "count": 36,
-    "examCount": 14,
-    "questionIds": [
-      "2013-sonbahar-q68",
-      "2014-ilkbahar-q37",
-      "2014-sonbahar-q05",
-      "2014-sonbahar-q27",
-      "2015-ilkbahar-q25",
-      "2015-ilkbahar-q69",
-      "2016-ilkbahar-q53",
-      "2016-sonbahar-q35",
-      "2018-ilkbahar-q47",
-      "2018-ilkbahar-q48",
-      "2018-ilkbahar-q49",
-      "2018-ilkbahar-q50",
-      "2018-sonbahar-q22",
-      "2018-sonbahar-q43",
-      "2018-sonbahar-q44",
-      "2018-sonbahar-q45",
-      "2018-sonbahar-q46",
-      "2018-sonbahar-q48",
-      "2018-sonbahar-q62",
-      "2019-1-q36",
-      "2019-1-q45",
-      "2019-2-q67",
-      "2019-3-q74",
-      "2020-1-q40",
-      "2021-1-q37",
-      "2021-1-q47",
-      "2021-1-q48",
-      "2021-1-q49",
-      "2021-1-q50",
-      "2021-1-q51",
-      "2021-1-q52",
-      "2021-1-q53",
-      "2021-1-q54",
-      "2021-1-q73",
-      "2021-2-q06"
     ]
   },
   {
@@ -25018,6 +25134,41 @@
     ]
   },
   {
+    "word": "supply",
+    "count": 35,
+    "examCount": 9,
+    "questionIds": [
+      "2014-sonbahar-q06",
+      "2014-sonbahar-q34",
+      "2016-ilkbahar-q17",
+      "2016-ilkbahar-q18",
+      "2016-ilkbahar-q19",
+      "2016-ilkbahar-q20",
+      "2016-ilkbahar-q21",
+      "2016-sonbahar-q51",
+      "2016-sonbahar-q52",
+      "2016-sonbahar-q53",
+      "2016-sonbahar-q54",
+      "2018-3-q63",
+      "2018-sonbahar-q22",
+      "2018-sonbahar-q23",
+      "2018-sonbahar-q24",
+      "2018-sonbahar-q25",
+      "2018-sonbahar-q26",
+      "2019-1-q55",
+      "2019-1-q56",
+      "2019-1-q57",
+      "2019-1-q58",
+      "2019-3-q29",
+      "2020-1-q17",
+      "2020-1-q18",
+      "2020-1-q19",
+      "2020-1-q20",
+      "2020-1-q21",
+      "2021-1-q56"
+    ]
+  },
+  {
     "word": "tunnel",
     "count": 35,
     "examCount": 1,
@@ -25027,45 +25178,6 @@
       "2019-3-q24",
       "2019-3-q25",
       "2019-3-q26"
-    ]
-  },
-  {
-    "word": "vary",
-    "count": 35,
-    "examCount": 11,
-    "questionIds": [
-      "2013-sonbahar-q58",
-      "2013-sonbahar-q61",
-      "2014-ilkbahar-q33",
-      "2014-ilkbahar-q74",
-      "2014-sonbahar-q80",
-      "2016-sonbahar-q73",
-      "2017-ilkbahar-q50",
-      "2017-ilkbahar-q65",
-      "2017-ilkbahar-q77",
-      "2018-3-q74",
-      "2018-ilkbahar-q15",
-      "2018-sonbahar-q30",
-      "2018-sonbahar-q41",
-      "2018-sonbahar-q76",
-      "2019-2-q22",
-      "2019-2-q23",
-      "2019-2-q24",
-      "2019-2-q25",
-      "2019-2-q26",
-      "2019-2-q59",
-      "2019-2-q60",
-      "2019-2-q61",
-      "2019-2-q62",
-      "2019-2-q74",
-      "2020-1-q34",
-      "2020-1-q43",
-      "2020-1-q44",
-      "2020-1-q45",
-      "2020-1-q46",
-      "2021-1-q02",
-      "2021-1-q67",
-      "2021-1-q78"
     ]
   },
   {
@@ -25163,6 +25275,41 @@
       "2021-2-q24",
       "2021-2-q25",
       "2021-2-q26"
+    ]
+  },
+  {
+    "word": "destroy",
+    "count": 34,
+    "examCount": 12,
+    "questionIds": [
+      "2013-sonbahar-q72",
+      "2015-ilkbahar-q69",
+      "2016-ilkbahar-q27",
+      "2016-sonbahar-q54",
+      "2017-ilkbahar-q42",
+      "2017-sonbahar-q44",
+      "2018-3-q42",
+      "2018-3-q74",
+      "2018-ilkbahar-q16",
+      "2018-ilkbahar-q55",
+      "2018-ilkbahar-q56",
+      "2018-ilkbahar-q57",
+      "2018-ilkbahar-q58",
+      "2019-1-q56",
+      "2019-1-q74",
+      "2019-1-q76",
+      "2019-1-q78",
+      "2020-1-q51",
+      "2020-1-q52",
+      "2020-1-q53",
+      "2020-1-q54",
+      "2021-1-q22",
+      "2021-1-q23",
+      "2021-1-q24",
+      "2021-1-q25",
+      "2021-1-q26",
+      "2021-1-q46",
+      "2021-2-q59"
     ]
   },
   {
@@ -25531,6 +25678,44 @@
     ]
   },
   {
+    "word": "display",
+    "count": 33,
+    "examCount": 8,
+    "questionIds": [
+      "2013-sonbahar-q22",
+      "2013-sonbahar-q23",
+      "2013-sonbahar-q24",
+      "2013-sonbahar-q25",
+      "2013-sonbahar-q26",
+      "2014-ilkbahar-q17",
+      "2014-ilkbahar-q18",
+      "2014-ilkbahar-q19",
+      "2014-ilkbahar-q20",
+      "2014-ilkbahar-q21",
+      "2014-ilkbahar-q61",
+      "2015-ilkbahar-q51",
+      "2015-ilkbahar-q52",
+      "2015-ilkbahar-q53",
+      "2015-ilkbahar-q54",
+      "2017-sonbahar-q05",
+      "2017-sonbahar-q22",
+      "2017-sonbahar-q23",
+      "2017-sonbahar-q24",
+      "2017-sonbahar-q25",
+      "2017-sonbahar-q26",
+      "2017-sonbahar-q71",
+      "2018-ilkbahar-q75",
+      "2018-sonbahar-q35",
+      "2018-sonbahar-q43",
+      "2018-sonbahar-q44",
+      "2018-sonbahar-q45",
+      "2018-sonbahar-q46",
+      "2018-sonbahar-q79",
+      "2019-1-q59",
+      "2019-3-q44"
+    ]
+  },
+  {
     "word": "feed",
     "count": 33,
     "examCount": 9,
@@ -25778,40 +25963,6 @@
       "2020-1-q52",
       "2020-1-q53",
       "2020-1-q54"
-    ]
-  },
-  {
-    "word": "supply",
-    "count": 33,
-    "examCount": 8,
-    "questionIds": [
-      "2014-sonbahar-q06",
-      "2014-sonbahar-q34",
-      "2016-ilkbahar-q17",
-      "2016-ilkbahar-q18",
-      "2016-ilkbahar-q19",
-      "2016-ilkbahar-q20",
-      "2016-ilkbahar-q21",
-      "2016-sonbahar-q51",
-      "2016-sonbahar-q52",
-      "2016-sonbahar-q53",
-      "2016-sonbahar-q54",
-      "2018-3-q63",
-      "2018-sonbahar-q22",
-      "2018-sonbahar-q23",
-      "2018-sonbahar-q24",
-      "2018-sonbahar-q25",
-      "2018-sonbahar-q26",
-      "2019-1-q55",
-      "2019-1-q56",
-      "2019-1-q57",
-      "2019-1-q58",
-      "2019-3-q29",
-      "2020-1-q17",
-      "2020-1-q18",
-      "2020-1-q19",
-      "2020-1-q20",
-      "2020-1-q21"
     ]
   },
   {
@@ -26102,44 +26253,6 @@
       "2021-2-q48",
       "2021-2-q49",
       "2021-2-q50"
-    ]
-  },
-  {
-    "word": "display",
-    "count": 32,
-    "examCount": 8,
-    "questionIds": [
-      "2013-sonbahar-q22",
-      "2013-sonbahar-q23",
-      "2013-sonbahar-q24",
-      "2013-sonbahar-q25",
-      "2013-sonbahar-q26",
-      "2014-ilkbahar-q17",
-      "2014-ilkbahar-q18",
-      "2014-ilkbahar-q19",
-      "2014-ilkbahar-q20",
-      "2014-ilkbahar-q21",
-      "2014-ilkbahar-q61",
-      "2015-ilkbahar-q51",
-      "2015-ilkbahar-q52",
-      "2015-ilkbahar-q53",
-      "2015-ilkbahar-q54",
-      "2017-sonbahar-q05",
-      "2017-sonbahar-q22",
-      "2017-sonbahar-q23",
-      "2017-sonbahar-q24",
-      "2017-sonbahar-q25",
-      "2017-sonbahar-q26",
-      "2017-sonbahar-q71",
-      "2018-ilkbahar-q75",
-      "2018-sonbahar-q35",
-      "2018-sonbahar-q43",
-      "2018-sonbahar-q44",
-      "2018-sonbahar-q45",
-      "2018-sonbahar-q46",
-      "2018-sonbahar-q79",
-      "2019-1-q59",
-      "2019-3-q44"
     ]
   },
   {
@@ -26786,39 +26899,6 @@
     ]
   },
   {
-    "word": "destroy",
-    "count": 31,
-    "examCount": 11,
-    "questionIds": [
-      "2013-sonbahar-q72",
-      "2015-ilkbahar-q69",
-      "2016-ilkbahar-q27",
-      "2016-sonbahar-q54",
-      "2017-sonbahar-q44",
-      "2018-3-q42",
-      "2018-3-q74",
-      "2018-ilkbahar-q16",
-      "2018-ilkbahar-q55",
-      "2018-ilkbahar-q56",
-      "2018-ilkbahar-q57",
-      "2018-ilkbahar-q58",
-      "2019-1-q56",
-      "2019-1-q74",
-      "2019-1-q76",
-      "2020-1-q51",
-      "2020-1-q52",
-      "2020-1-q53",
-      "2020-1-q54",
-      "2021-1-q22",
-      "2021-1-q23",
-      "2021-1-q24",
-      "2021-1-q25",
-      "2021-1-q26",
-      "2021-1-q46",
-      "2021-2-q59"
-    ]
-  },
-  {
     "word": "expose",
     "count": 31,
     "examCount": 10,
@@ -26881,31 +26961,6 @@
       "2021-1-q48",
       "2021-1-q49",
       "2021-1-q50"
-    ]
-  },
-  {
-    "word": "fly",
-    "count": 31,
-    "examCount": 8,
-    "questionIds": [
-      "2013-sonbahar-q27",
-      "2014-sonbahar-q75",
-      "2015-ilkbahar-q47",
-      "2015-ilkbahar-q48",
-      "2015-ilkbahar-q49",
-      "2015-ilkbahar-q50",
-      "2016-ilkbahar-q32",
-      "2018-ilkbahar-q59",
-      "2018-ilkbahar-q60",
-      "2018-ilkbahar-q61",
-      "2018-ilkbahar-q62",
-      "2018-ilkbahar-q78",
-      "2019-2-q67",
-      "2021-1-q57",
-      "2021-2-q59",
-      "2021-2-q60",
-      "2021-2-q61",
-      "2021-2-q62"
     ]
   },
   {
@@ -27935,6 +27990,22 @@
     ]
   },
   {
+    "word": "virus",
+    "count": 30,
+    "examCount": 5,
+    "questionIds": [
+      "2014-ilkbahar-q28",
+      "2018-3-q42",
+      "2018-sonbahar-q29",
+      "2019-1-q17",
+      "2019-1-q18",
+      "2019-1-q19",
+      "2019-1-q20",
+      "2019-1-q21",
+      "2020-1-q78"
+    ]
+  },
+  {
     "word": "acid",
     "count": 29,
     "examCount": 7,
@@ -28560,7 +28631,7 @@
     ]
   },
   {
-    "word": "previou",
+    "word": "previous",
     "count": 29,
     "examCount": 11,
     "questionIds": [
@@ -29943,32 +30014,6 @@
       "2021-1-q48",
       "2021-1-q49",
       "2021-1-q50"
-    ]
-  },
-  {
-    "word": "buie",
-    "count": 27,
-    "examCount": 6,
-    "questionIds": [
-      "2014-sonbahar-q55",
-      "2014-sonbahar-q56",
-      "2014-sonbahar-q57",
-      "2014-sonbahar-q58",
-      "2016-ilkbahar-q59",
-      "2016-ilkbahar-q60",
-      "2016-ilkbahar-q61",
-      "2016-ilkbahar-q62",
-      "2017-ilkbahar-q27",
-      "2017-sonbahar-q17",
-      "2017-sonbahar-q18",
-      "2017-sonbahar-q19",
-      "2017-sonbahar-q20",
-      "2017-sonbahar-q21",
-      "2019-1-q47",
-      "2019-1-q48",
-      "2019-1-q49",
-      "2019-1-q50",
-      "2019-2-q71"
     ]
   },
   {
@@ -31545,6 +31590,33 @@
     ]
   },
   {
+    "word": "apply",
+    "count": 25,
+    "examCount": 14,
+    "questionIds": [
+      "2013-sonbahar-q42",
+      "2014-ilkbahar-q63",
+      "2014-sonbahar-q52",
+      "2015-ilkbahar-q80",
+      "2016-ilkbahar-q16",
+      "2016-ilkbahar-q77",
+      "2016-sonbahar-q47",
+      "2016-sonbahar-q48",
+      "2016-sonbahar-q49",
+      "2016-sonbahar-q50",
+      "2017-ilkbahar-q56",
+      "2017-sonbahar-q67",
+      "2018-3-q30",
+      "2018-3-q67",
+      "2018-ilkbahar-q77",
+      "2018-sonbahar-q17",
+      "2019-1-q74",
+      "2019-2-q29",
+      "2019-2-q62",
+      "2021-1-q72"
+    ]
+  },
+  {
     "word": "bee",
     "count": 25,
     "examCount": 4,
@@ -32477,32 +32549,6 @@
     ]
   },
   {
-    "word": "apply",
-    "count": 24,
-    "examCount": 14,
-    "questionIds": [
-      "2013-sonbahar-q42",
-      "2014-ilkbahar-q63",
-      "2014-sonbahar-q52",
-      "2015-ilkbahar-q80",
-      "2016-ilkbahar-q16",
-      "2016-ilkbahar-q77",
-      "2016-sonbahar-q47",
-      "2016-sonbahar-q48",
-      "2016-sonbahar-q49",
-      "2016-sonbahar-q50",
-      "2017-ilkbahar-q56",
-      "2017-sonbahar-q67",
-      "2018-3-q30",
-      "2018-3-q67",
-      "2018-ilkbahar-q77",
-      "2018-sonbahar-q17",
-      "2019-1-q74",
-      "2019-2-q62",
-      "2021-1-q72"
-    ]
-  },
-  {
     "word": "artificial",
     "count": 24,
     "examCount": 10,
@@ -33219,20 +33265,6 @@
     ]
   },
   {
-    "word": "viru",
-    "count": 24,
-    "examCount": 3,
-    "questionIds": [
-      "2014-ilkbahar-q28",
-      "2019-1-q17",
-      "2019-1-q18",
-      "2019-1-q19",
-      "2019-1-q20",
-      "2019-1-q21",
-      "2020-1-q78"
-    ]
-  },
-  {
     "word": "advance",
     "count": 23,
     "examCount": 11,
@@ -33885,6 +33917,26 @@
       "2019-1-q60",
       "2019-1-q61",
       "2019-1-q62"
+    ]
+  },
+  {
+    "word": "modify",
+    "count": 23,
+    "examCount": 5,
+    "questionIds": [
+      "2016-ilkbahar-q17",
+      "2016-ilkbahar-q18",
+      "2016-ilkbahar-q19",
+      "2016-ilkbahar-q20",
+      "2016-ilkbahar-q21",
+      "2017-sonbahar-q70",
+      "2018-ilkbahar-q22",
+      "2018-ilkbahar-q23",
+      "2018-ilkbahar-q24",
+      "2018-ilkbahar-q25",
+      "2018-ilkbahar-q26",
+      "2019-1-q16",
+      "2020-1-q78"
     ]
   },
   {
@@ -34566,7 +34618,7 @@
     ]
   },
   {
-    "word": "dangerou",
+    "word": "dangerous",
     "count": 22,
     "examCount": 9,
     "questionIds": [
@@ -34988,25 +35040,6 @@
       "2021-1-q24",
       "2021-1-q25",
       "2021-1-q26"
-    ]
-  },
-  {
-    "word": "modify",
-    "count": 22,
-    "examCount": 4,
-    "questionIds": [
-      "2016-ilkbahar-q17",
-      "2016-ilkbahar-q18",
-      "2016-ilkbahar-q19",
-      "2016-ilkbahar-q20",
-      "2016-ilkbahar-q21",
-      "2018-ilkbahar-q22",
-      "2018-ilkbahar-q23",
-      "2018-ilkbahar-q24",
-      "2018-ilkbahar-q25",
-      "2018-ilkbahar-q26",
-      "2019-1-q16",
-      "2020-1-q78"
     ]
   },
   {
@@ -36843,7 +36876,7 @@
     ]
   },
   {
-    "word": "nervou",
+    "word": "nervous",
     "count": 20,
     "examCount": 6,
     "questionIds": [
@@ -36951,29 +36984,6 @@
       "2018-sonbahar-q60",
       "2018-sonbahar-q61",
       "2018-sonbahar-q62"
-    ]
-  },
-  {
-    "word": "plaie",
-    "count": 20,
-    "examCount": 5,
-    "questionIds": [
-      "2013-sonbahar-q55",
-      "2013-sonbahar-q56",
-      "2013-sonbahar-q57",
-      "2013-sonbahar-q58",
-      "2014-ilkbahar-q66",
-      "2014-ilkbahar-q79",
-      "2018-sonbahar-q43",
-      "2018-sonbahar-q44",
-      "2018-sonbahar-q45",
-      "2018-sonbahar-q46",
-      "2019-1-q63",
-      "2021-2-q07",
-      "2021-2-q55",
-      "2021-2-q56",
-      "2021-2-q57",
-      "2021-2-q58"
     ]
   },
   {
@@ -37186,29 +37196,6 @@
       "2020-1-q72",
       "2021-1-q36",
       "2021-1-q76"
-    ]
-  },
-  {
-    "word": "studie",
-    "count": 20,
-    "examCount": 7,
-    "questionIds": [
-      "2013-sonbahar-q38",
-      "2014-ilkbahar-q59",
-      "2014-ilkbahar-q60",
-      "2014-ilkbahar-q61",
-      "2014-ilkbahar-q62",
-      "2016-sonbahar-q42",
-      "2018-3-q67",
-      "2018-3-q71",
-      "2018-3-q76",
-      "2019-2-q73",
-      "2021-1-q37",
-      "2021-1-q51",
-      "2021-1-q52",
-      "2021-1-q53",
-      "2021-1-q54",
-      "2021-2-q68"
     ]
   },
   {
@@ -37887,32 +37874,6 @@
     ]
   },
   {
-    "word": "focus",
-    "count": 19,
-    "examCount": 9,
-    "questionIds": [
-      "2013-sonbahar-q47",
-      "2013-sonbahar-q48",
-      "2013-sonbahar-q49",
-      "2013-sonbahar-q50",
-      "2014-sonbahar-q52",
-      "2016-ilkbahar-q11",
-      "2016-sonbahar-q48",
-      "2017-sonbahar-q67",
-      "2017-sonbahar-q74",
-      "2018-3-q15",
-      "2018-3-q44",
-      "2018-3-q61",
-      "2018-ilkbahar-q11",
-      "2018-ilkbahar-q31",
-      "2018-ilkbahar-q52",
-      "2018-ilkbahar-q80",
-      "2018-sonbahar-q67",
-      "2019-3-q55",
-      "2019-3-q72"
-    ]
-  },
-  {
     "word": "gender",
     "count": 19,
     "examCount": 8,
@@ -38310,6 +38271,30 @@
       "2019-2-q25",
       "2019-2-q26",
       "2019-2-q80"
+    ]
+  },
+  {
+    "word": "satisfy",
+    "count": 19,
+    "examCount": 7,
+    "questionIds": [
+      "2014-sonbahar-q51",
+      "2014-sonbahar-q52",
+      "2014-sonbahar-q53",
+      "2014-sonbahar-q54",
+      "2014-sonbahar-q55",
+      "2016-ilkbahar-q39",
+      "2016-sonbahar-q69",
+      "2017-sonbahar-q02",
+      "2017-sonbahar-q57",
+      "2018-3-q55",
+      "2018-3-q56",
+      "2018-3-q57",
+      "2018-3-q58",
+      "2018-3-q68",
+      "2019-1-q47",
+      "2019-1-q77",
+      "2020-1-q12"
     ]
   },
   {
@@ -39076,6 +39061,30 @@
     ]
   },
   {
+    "word": "dry",
+    "count": 18,
+    "examCount": 6,
+    "questionIds": [
+      "2014-sonbahar-q74",
+      "2016-sonbahar-q51",
+      "2016-sonbahar-q52",
+      "2016-sonbahar-q53",
+      "2016-sonbahar-q54",
+      "2016-sonbahar-q80",
+      "2017-ilkbahar-q10",
+      "2018-3-q75",
+      "2019-1-q27",
+      "2019-1-q55",
+      "2019-1-q56",
+      "2019-1-q57",
+      "2019-1-q58",
+      "2020-1-q51",
+      "2020-1-q52",
+      "2020-1-q53",
+      "2020-1-q54"
+    ]
+  },
+  {
     "word": "effectively",
     "count": 18,
     "examCount": 9,
@@ -39499,7 +39508,7 @@
     ]
   },
   {
-    "word": "obviou",
+    "word": "obvious",
     "count": 18,
     "examCount": 8,
     "questionIds": [
@@ -39686,7 +39695,7 @@
     ]
   },
   {
-    "word": "religiou",
+    "word": "religious",
     "count": 18,
     "examCount": 7,
     "questionIds": [
@@ -40156,7 +40165,7 @@
     ]
   },
   {
-    "word": "columbu",
+    "word": "columbus",
     "count": 17,
     "examCount": 3,
     "questionIds": [
@@ -40204,29 +40213,6 @@
       "2017-ilkbahar-q52",
       "2017-ilkbahar-q53",
       "2017-ilkbahar-q54"
-    ]
-  },
-  {
-    "word": "consume",
-    "count": 17,
-    "examCount": 7,
-    "questionIds": [
-      "2016-ilkbahar-q59",
-      "2016-ilkbahar-q60",
-      "2016-ilkbahar-q61",
-      "2016-ilkbahar-q62",
-      "2016-ilkbahar-q77",
-      "2018-ilkbahar-q13",
-      "2018-sonbahar-q51",
-      "2019-2-q40",
-      "2019-3-q41",
-      "2020-1-q52",
-      "2021-2-q09",
-      "2021-2-q59",
-      "2021-2-q60",
-      "2021-2-q61",
-      "2021-2-q62",
-      "2021-2-q64"
     ]
   },
   {
@@ -41011,7 +40997,7 @@
     ]
   },
   {
-    "word": "plu",
+    "word": "plus",
     "count": 17,
     "examCount": 4,
     "questionIds": [
@@ -42049,24 +42035,6 @@
     ]
   },
   {
-    "word": "focuse",
-    "count": 16,
-    "examCount": 4,
-    "questionIds": [
-      "2014-sonbahar-q22",
-      "2014-sonbahar-q23",
-      "2014-sonbahar-q24",
-      "2014-sonbahar-q25",
-      "2014-sonbahar-q26",
-      "2017-ilkbahar-q75",
-      "2018-sonbahar-q77",
-      "2019-1-q51",
-      "2019-1-q52",
-      "2019-1-q53",
-      "2019-1-q54"
-    ]
-  },
-  {
     "word": "forget",
     "count": 16,
     "examCount": 7,
@@ -43096,7 +43064,7 @@
     ]
   },
   {
-    "word": "consciou",
+    "word": "conscious",
     "count": 15,
     "examCount": 6,
     "questionIds": [
@@ -44327,7 +44295,7 @@
     ]
   },
   {
-    "word": "venu",
+    "word": "venus",
     "count": 15,
     "examCount": 1,
     "questionIds": [
@@ -44551,25 +44519,6 @@
     ]
   },
   {
-    "word": "compare",
-    "count": 14,
-    "examCount": 7,
-    "questionIds": [
-      "2014-sonbahar-q71",
-      "2016-ilkbahar-q17",
-      "2016-ilkbahar-q18",
-      "2016-ilkbahar-q19",
-      "2016-ilkbahar-q20",
-      "2016-ilkbahar-q21",
-      "2018-3-q48",
-      "2018-3-q58",
-      "2019-2-q50",
-      "2019-3-q62",
-      "2020-1-q62",
-      "2021-1-q67"
-    ]
-  },
-  {
     "word": "corrosion",
     "count": 14,
     "examCount": 1,
@@ -44738,7 +44687,7 @@
     ]
   },
   {
-    "word": "enormou",
+    "word": "enormous",
     "count": 14,
     "examCount": 9,
     "questionIds": [
@@ -44935,25 +44884,6 @@
       "2018-3-q80",
       "2019-2-q76",
       "2019-3-q27"
-    ]
-  },
-  {
-    "word": "identifie",
-    "count": 14,
-    "examCount": 8,
-    "questionIds": [
-      "2013-sonbahar-q32",
-      "2016-ilkbahar-q35",
-      "2017-sonbahar-q59",
-      "2017-sonbahar-q60",
-      "2017-sonbahar-q61",
-      "2017-sonbahar-q62",
-      "2018-ilkbahar-q11",
-      "2018-sonbahar-q11",
-      "2019-2-q05",
-      "2019-2-q75",
-      "2019-3-q43",
-      "2021-1-q34"
     ]
   },
   {
@@ -46172,26 +46102,6 @@
     ]
   },
   {
-    "word": "dry",
-    "count": 13,
-    "examCount": 5,
-    "questionIds": [
-      "2014-sonbahar-q74",
-      "2016-sonbahar-q51",
-      "2016-sonbahar-q52",
-      "2016-sonbahar-q53",
-      "2016-sonbahar-q54",
-      "2016-sonbahar-q80",
-      "2017-ilkbahar-q10",
-      "2018-3-q75",
-      "2019-1-q27",
-      "2019-1-q55",
-      "2019-1-q56",
-      "2019-1-q57",
-      "2019-1-q58"
-    ]
-  },
-  {
     "word": "dust",
     "count": 13,
     "examCount": 5,
@@ -46292,24 +46202,6 @@
       "2018-sonbahar-q56",
       "2018-sonbahar-q57",
       "2018-sonbahar-q58"
-    ]
-  },
-  {
-    "word": "flie",
-    "count": 13,
-    "examCount": 5,
-    "questionIds": [
-      "2013-sonbahar-q78",
-      "2015-ilkbahar-q47",
-      "2015-ilkbahar-q48",
-      "2015-ilkbahar-q49",
-      "2015-ilkbahar-q50",
-      "2016-sonbahar-q72",
-      "2019-1-q74",
-      "2021-1-q55",
-      "2021-1-q56",
-      "2021-1-q57",
-      "2021-1-q58"
     ]
   },
   {
@@ -46650,7 +46542,7 @@
     ]
   },
   {
-    "word": "numerou",
+    "word": "numerous",
     "count": 13,
     "examCount": 7,
     "questionIds": [
@@ -46990,24 +46882,6 @@
     ]
   },
   {
-    "word": "satisfy",
-    "count": 13,
-    "examCount": 5,
-    "questionIds": [
-      "2014-sonbahar-q55",
-      "2016-sonbahar-q69",
-      "2017-sonbahar-q02",
-      "2017-sonbahar-q57",
-      "2018-3-q55",
-      "2018-3-q56",
-      "2018-3-q57",
-      "2018-3-q58",
-      "2018-3-q68",
-      "2019-1-q47",
-      "2019-1-q77"
-    ]
-  },
-  {
     "word": "strategic",
     "count": 13,
     "examCount": 2,
@@ -47157,6 +47031,24 @@
       "2016-ilkbahar-q52",
       "2016-ilkbahar-q53",
       "2016-ilkbahar-q54"
+    ]
+  },
+  {
+    "word": "accompany",
+    "count": 12,
+    "examCount": 8,
+    "questionIds": [
+      "2016-ilkbahar-q30",
+      "2018-ilkbahar-q77",
+      "2018-sonbahar-q29",
+      "2019-1-q44",
+      "2019-2-q70",
+      "2020-1-q43",
+      "2020-1-q45",
+      "2020-1-q76",
+      "2021-1-q59",
+      "2021-1-q61",
+      "2021-2-q69"
     ]
   },
   {
@@ -47399,7 +47291,7 @@
     ]
   },
   {
-    "word": "cancerou",
+    "word": "cancerous",
     "count": 12,
     "examCount": 1,
     "questionIds": [
@@ -47792,25 +47684,6 @@
     ]
   },
   {
-    "word": "emerge",
-    "count": 12,
-    "examCount": 5,
-    "questionIds": [
-      "2017-ilkbahar-q70",
-      "2018-3-q09",
-      "2018-3-q32",
-      "2019-1-q47",
-      "2019-1-q48",
-      "2019-1-q49",
-      "2019-1-q50",
-      "2021-1-q43",
-      "2021-2-q59",
-      "2021-2-q60",
-      "2021-2-q61",
-      "2021-2-q62"
-    ]
-  },
-  {
     "word": "endorphin",
     "count": 12,
     "examCount": 2,
@@ -48048,6 +47921,18 @@
       "2017-ilkbahar-q65",
       "2018-sonbahar-q40",
       "2019-3-q75"
+    ]
+  },
+  {
+    "word": "genius",
+    "count": 12,
+    "examCount": 2,
+    "questionIds": [
+      "2016-sonbahar-q43",
+      "2016-sonbahar-q44",
+      "2016-sonbahar-q45",
+      "2016-sonbahar-q46",
+      "2019-1-q30"
     ]
   },
   {
@@ -48501,25 +48386,6 @@
       "2019-1-q49",
       "2020-1-q33",
       "2021-2-q78"
-    ]
-  },
-  {
-    "word": "relie",
-    "count": 12,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q66",
-      "2014-ilkbahar-q17",
-      "2014-ilkbahar-q18",
-      "2014-ilkbahar-q19",
-      "2014-ilkbahar-q20",
-      "2014-ilkbahar-q21",
-      "2014-ilkbahar-q58",
-      "2017-ilkbahar-q27",
-      "2019-1-q43",
-      "2019-1-q44",
-      "2019-1-q45",
-      "2019-1-q46"
     ]
   },
   {
@@ -49786,18 +49652,6 @@
     ]
   },
   {
-    "word": "geniu",
-    "count": 11,
-    "examCount": 2,
-    "questionIds": [
-      "2016-sonbahar-q43",
-      "2016-sonbahar-q44",
-      "2016-sonbahar-q45",
-      "2016-sonbahar-q46",
-      "2019-1-q30"
-    ]
-  },
-  {
     "word": "god",
     "count": 11,
     "examCount": 6,
@@ -49915,6 +49769,24 @@
       "2014-ilkbahar-q77",
       "2017-ilkbahar-q08",
       "2018-ilkbahar-q77"
+    ]
+  },
+  {
+    "word": "imply",
+    "count": 11,
+    "examCount": 5,
+    "questionIds": [
+      "2016-ilkbahar-q57",
+      "2017-ilkbahar-q67",
+      "2019-3-q59",
+      "2019-3-q60",
+      "2019-3-q61",
+      "2019-3-q62",
+      "2020-1-q61",
+      "2021-1-q51",
+      "2021-1-q52",
+      "2021-1-q53",
+      "2021-1-q54"
     ]
   },
   {
@@ -50895,7 +50767,7 @@
     ]
   },
   {
-    "word": "theophrastu",
+    "word": "theophrastus",
     "count": 11,
     "examCount": 2,
     "questionIds": [
@@ -51086,23 +50958,6 @@
     ]
   },
   {
-    "word": "accompany",
-    "count": 10,
-    "examCount": 7,
-    "questionIds": [
-      "2018-ilkbahar-q77",
-      "2018-sonbahar-q29",
-      "2019-1-q44",
-      "2019-2-q70",
-      "2020-1-q43",
-      "2020-1-q45",
-      "2020-1-q76",
-      "2021-1-q59",
-      "2021-1-q61",
-      "2021-2-q69"
-    ]
-  },
-  {
     "word": "accus",
     "count": 10,
     "examCount": 3,
@@ -51250,23 +51105,6 @@
       "2018-3-q60",
       "2018-3-q61",
       "2018-3-q62"
-    ]
-  },
-  {
-    "word": "associate",
-    "count": 10,
-    "examCount": 3,
-    "questionIds": [
-      "2014-sonbahar-q70",
-      "2019-1-q43",
-      "2019-1-q44",
-      "2019-1-q45",
-      "2019-1-q46",
-      "2021-1-q22",
-      "2021-1-q23",
-      "2021-1-q24",
-      "2021-1-q25",
-      "2021-1-q26"
     ]
   },
   {
@@ -51613,7 +51451,7 @@
     ]
   },
   {
-    "word": "curiou",
+    "word": "curious",
     "count": 10,
     "examCount": 3,
     "questionIds": [
@@ -51818,6 +51656,23 @@
       "2018-3-q80",
       "2018-ilkbahar-q58",
       "2021-2-q40"
+    ]
+  },
+  {
+    "word": "diversify",
+    "count": 10,
+    "examCount": 4,
+    "questionIds": [
+      "2019-2-q77",
+      "2019-3-q15",
+      "2021-1-q47",
+      "2021-1-q48",
+      "2021-1-q49",
+      "2021-1-q50",
+      "2021-2-q43",
+      "2021-2-q44",
+      "2021-2-q45",
+      "2021-2-q46"
     ]
   },
   {
@@ -54219,6 +54074,22 @@
     ]
   },
   {
+    "word": "convey",
+    "count": 9,
+    "examCount": 6,
+    "questionIds": [
+      "2014-ilkbahar-q04",
+      "2015-ilkbahar-q37",
+      "2017-sonbahar-q55",
+      "2017-sonbahar-q56",
+      "2017-sonbahar-q57",
+      "2017-sonbahar-q58",
+      "2018-sonbahar-q75",
+      "2019-2-q19",
+      "2020-1-q64"
+    ]
+  },
+  {
     "word": "creation",
     "count": 9,
     "examCount": 3,
@@ -55181,7 +55052,7 @@
     ]
   },
   {
-    "word": "mysteriou",
+    "word": "mysterious",
     "count": 9,
     "examCount": 5,
     "questionIds": [
@@ -56529,21 +56400,6 @@
     ]
   },
   {
-    "word": "carrie",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2015-ilkbahar-q53",
-      "2016-ilkbahar-q05",
-      "2019-1-q58",
-      "2019-2-q17",
-      "2019-2-q18",
-      "2019-2-q19",
-      "2019-2-q20",
-      "2019-2-q21"
-    ]
-  },
-  {
     "word": "cheaper",
     "count": 8,
     "examCount": 3,
@@ -56736,21 +56592,6 @@
       "2018-sonbahar-q62",
       "2019-2-q79",
       "2019-3-q71"
-    ]
-  },
-  {
-    "word": "convey",
-    "count": 8,
-    "examCount": 5,
-    "questionIds": [
-      "2014-ilkbahar-q04",
-      "2015-ilkbahar-q37",
-      "2017-sonbahar-q55",
-      "2017-sonbahar-q56",
-      "2017-sonbahar-q57",
-      "2017-sonbahar-q58",
-      "2019-2-q19",
-      "2020-1-q64"
     ]
   },
   {
@@ -57295,7 +57136,7 @@
     ]
   },
   {
-    "word": "hazardou",
+    "word": "hazardous",
     "count": 8,
     "examCount": 4,
     "questionIds": [
@@ -58394,6 +58235,17 @@
       "2018-3-q58",
       "2019-3-q76",
       "2021-2-q08"
+    ]
+  },
+  {
+    "word": "signify",
+    "count": 8,
+    "examCount": 4,
+    "questionIds": [
+      "2014-sonbahar-q77",
+      "2016-sonbahar-q75",
+      "2019-3-q49",
+      "2021-1-q08"
     ]
   },
   {
@@ -60036,7 +59888,7 @@
     ]
   },
   {
-    "word": "hippocampu",
+    "word": "hippocampus",
     "count": 7,
     "examCount": 1,
     "questionIds": [
@@ -60137,20 +59989,6 @@
       "2019-1-q20",
       "2019-1-q21",
       "2019-3-q16"
-    ]
-  },
-  {
-    "word": "imply",
-    "count": 7,
-    "examCount": 4,
-    "questionIds": [
-      "2016-ilkbahar-q57",
-      "2017-ilkbahar-q67",
-      "2019-3-q59",
-      "2019-3-q60",
-      "2019-3-q61",
-      "2019-3-q62",
-      "2020-1-q61"
     ]
   },
   {
@@ -61380,16 +61218,6 @@
       "2019-1-q45",
       "2019-1-q46",
       "2019-1-q58"
-    ]
-  },
-  {
-    "word": "signify",
-    "count": 7,
-    "examCount": 3,
-    "questionIds": [
-      "2016-sonbahar-q75",
-      "2019-3-q49",
-      "2021-1-q08"
     ]
   },
   {
@@ -62803,7 +62631,7 @@
     ]
   },
   {
-    "word": "contentiou",
+    "word": "contentious",
     "count": 6,
     "examCount": 2,
     "questionIds": [
@@ -62842,7 +62670,7 @@
     ]
   },
   {
-    "word": "continuou",
+    "word": "continuous",
     "count": 6,
     "examCount": 1,
     "questionIds": [
@@ -63123,19 +62951,6 @@
       "2013-sonbahar-q53",
       "2013-sonbahar-q54",
       "2019-1-q36"
-    ]
-  },
-  {
-    "word": "diversify",
-    "count": 6,
-    "examCount": 3,
-    "questionIds": [
-      "2019-2-q77",
-      "2019-3-q15",
-      "2021-1-q47",
-      "2021-1-q48",
-      "2021-1-q49",
-      "2021-1-q50"
     ]
   },
   {
@@ -63662,7 +63477,7 @@
     ]
   },
   {
-    "word": "generou",
+    "word": "generous",
     "count": 6,
     "examCount": 2,
     "questionIds": [
@@ -64238,6 +64053,16 @@
     ]
   },
   {
+    "word": "justify",
+    "count": 6,
+    "examCount": 3,
+    "questionIds": [
+      "2015-ilkbahar-q30",
+      "2020-1-q50",
+      "2021-1-q69"
+    ]
+  },
+  {
     "word": "kassel",
     "count": 6,
     "examCount": 1,
@@ -64644,7 +64469,7 @@
     ]
   },
   {
-    "word": "notoriou",
+    "word": "notorious",
     "count": 6,
     "examCount": 2,
     "questionIds": [
@@ -65360,19 +65185,6 @@
     ]
   },
   {
-    "word": "saie",
-    "count": 6,
-    "examCount": 6,
-    "questionIds": [
-      "2015-ilkbahar-q67",
-      "2017-ilkbahar-q58",
-      "2018-sonbahar-q21",
-      "2019-1-q65",
-      "2019-3-q71",
-      "2020-1-q64"
-    ]
-  },
-  {
     "word": "san",
     "count": 6,
     "examCount": 2,
@@ -65391,19 +65203,6 @@
     "questionIds": [
       "2018-sonbahar-q66",
       "2021-2-q67"
-    ]
-  },
-  {
-    "word": "satisfie",
-    "count": 6,
-    "examCount": 3,
-    "questionIds": [
-      "2014-sonbahar-q51",
-      "2014-sonbahar-q52",
-      "2014-sonbahar-q53",
-      "2014-sonbahar-q54",
-      "2016-ilkbahar-q39",
-      "2020-1-q12"
     ]
   },
   {
@@ -65917,6 +65716,19 @@
     ]
   },
   {
+    "word": "terrify",
+    "count": 6,
+    "examCount": 3,
+    "questionIds": [
+      "2017-sonbahar-q72",
+      "2018-3-q59",
+      "2018-3-q60",
+      "2018-3-q61",
+      "2018-3-q62",
+      "2018-ilkbahar-q10"
+    ]
+  },
+  {
     "word": "thrive",
     "count": 6,
     "examCount": 2,
@@ -66034,7 +65846,7 @@
     ]
   },
   {
-    "word": "underlie",
+    "word": "underly",
     "count": 6,
     "examCount": 4,
     "questionIds": [
@@ -66135,20 +65947,7 @@
     ]
   },
   {
-    "word": "varie",
-    "count": 6,
-    "examCount": 3,
-    "questionIds": [
-      "2020-1-q47",
-      "2020-1-q48",
-      "2020-1-q49",
-      "2020-1-q50",
-      "2021-1-q36",
-      "2021-2-q64"
-    ]
-  },
-  {
-    "word": "versu",
+    "word": "versus",
     "count": 6,
     "examCount": 2,
     "questionIds": [
@@ -66182,15 +65981,6 @@
       "2015-ilkbahar-q44",
       "2015-ilkbahar-q45",
       "2015-ilkbahar-q46"
-    ]
-  },
-  {
-    "word": "viruse",
-    "count": 6,
-    "examCount": 2,
-    "questionIds": [
-      "2018-3-q42",
-      "2018-sonbahar-q29"
     ]
   },
   {
@@ -66693,7 +66483,7 @@
     ]
   },
   {
-    "word": "anxiou",
+    "word": "anxious",
     "count": 5,
     "examCount": 2,
     "questionIds": [
@@ -67420,7 +67210,7 @@
     ]
   },
   {
-    "word": "censu",
+    "word": "census",
     "count": 5,
     "examCount": 1,
     "questionIds": [
@@ -67897,7 +67687,7 @@
     ]
   },
   {
-    "word": "copernicu",
+    "word": "copernicus",
     "count": 5,
     "examCount": 1,
     "questionIds": [
@@ -68207,7 +67997,7 @@
     ]
   },
   {
-    "word": "deliciou",
+    "word": "delicious",
     "count": 5,
     "examCount": 1,
     "questionIds": [
@@ -68493,17 +68283,6 @@
       "2019-1-q46",
       "2019-2-q62",
       "2019-3-q12"
-    ]
-  },
-  {
-    "word": "drie",
-    "count": 5,
-    "examCount": 1,
-    "questionIds": [
-      "2020-1-q51",
-      "2020-1-q52",
-      "2020-1-q53",
-      "2020-1-q54"
     ]
   },
   {
@@ -68841,7 +68620,7 @@
     ]
   },
   {
-    "word": "eucalyptu",
+    "word": "eucalyptus",
     "count": 5,
     "examCount": 1,
     "questionIds": [
@@ -69592,6 +69371,17 @@
     ]
   },
   {
+    "word": "horrify",
+    "count": 5,
+    "examCount": 1,
+    "questionIds": [
+      "2018-3-q59",
+      "2018-3-q60",
+      "2018-3-q61",
+      "2018-3-q62"
+    ]
+  },
+  {
     "word": "humboldt",
     "count": 5,
     "examCount": 1,
@@ -69792,7 +69582,7 @@
     ]
   },
   {
-    "word": "indigenou",
+    "word": "indigenous",
     "count": 5,
     "examCount": 4,
     "questionIds": [
@@ -70406,7 +70196,7 @@
     ]
   },
   {
-    "word": "lobbie",
+    "word": "lobby",
     "count": 5,
     "examCount": 1,
     "questionIds": [
@@ -71207,7 +70997,7 @@
     ]
   },
   {
-    "word": "nucleu",
+    "word": "nucleus",
     "count": 5,
     "examCount": 2,
     "questionIds": [
@@ -71216,6 +71006,15 @@
       "2015-ilkbahar-q60",
       "2015-ilkbahar-q61",
       "2015-ilkbahar-q62"
+    ]
+  },
+  {
+    "word": "obey",
+    "count": 5,
+    "examCount": 2,
+    "questionIds": [
+      "2014-sonbahar-q28",
+      "2016-sonbahar-q41"
     ]
   },
   {
@@ -73223,6 +73022,18 @@
     ]
   },
   {
+    "word": "stat",
+    "count": 5,
+    "examCount": 1,
+    "questionIds": [
+      "2019-2-q17",
+      "2019-2-q18",
+      "2019-2-q19",
+      "2019-2-q20",
+      "2019-2-q21"
+    ]
+  },
+  {
     "word": "steamboat",
     "count": 5,
     "examCount": 1,
@@ -73404,7 +73215,7 @@
     ]
   },
   {
-    "word": "surplu",
+    "word": "surplus",
     "count": 5,
     "examCount": 1,
     "questionIds": [
@@ -73582,18 +73393,6 @@
       "2018-3-q19",
       "2018-3-q20",
       "2018-3-q21"
-    ]
-  },
-  {
-    "word": "terrifie",
-    "count": 5,
-    "examCount": 2,
-    "questionIds": [
-      "2018-3-q59",
-      "2018-3-q60",
-      "2018-3-q61",
-      "2018-3-q62",
-      "2018-ilkbahar-q10"
     ]
   },
   {
@@ -74179,7 +73978,7 @@
     ]
   },
   {
-    "word": "venomou",
+    "word": "venomous",
     "count": 5,
     "examCount": 1,
     "questionIds": [
@@ -74246,7 +74045,7 @@
     ]
   },
   {
-    "word": "virtuou",
+    "word": "virtuous",
     "count": 5,
     "examCount": 2,
     "questionIds": [
@@ -75492,7 +75291,7 @@
     ]
   },
   {
-    "word": "cautiou",
+    "word": "cautious",
     "count": 4,
     "examCount": 4,
     "questionIds": [
@@ -75638,7 +75437,7 @@
     ]
   },
   {
-    "word": "citru",
+    "word": "citrus",
     "count": 4,
     "examCount": 1,
     "questionIds": [
@@ -75898,7 +75697,7 @@
     ]
   },
   {
-    "word": "consensu",
+    "word": "consensus",
     "count": 4,
     "examCount": 4,
     "questionIds": [
@@ -75920,7 +75719,7 @@
     ]
   },
   {
-    "word": "contagiou",
+    "word": "contagious",
     "count": 4,
     "examCount": 1,
     "questionIds": [
@@ -76486,17 +76285,6 @@
     ]
   },
   {
-    "word": "diversifie",
-    "count": 4,
-    "examCount": 1,
-    "questionIds": [
-      "2021-2-q43",
-      "2021-2-q44",
-      "2021-2-q45",
-      "2021-2-q46"
-    ]
-  },
-  {
     "word": "dominat",
     "count": 4,
     "examCount": 3,
@@ -76989,7 +76777,7 @@
     ]
   },
   {
-    "word": "fabulou",
+    "word": "fabulous",
     "count": 4,
     "examCount": 1,
     "questionIds": [
@@ -77345,7 +77133,7 @@
     ]
   },
   {
-    "word": "genu",
+    "word": "genus",
     "count": 4,
     "examCount": 1,
     "questionIds": [
@@ -77699,17 +77487,6 @@
     ]
   },
   {
-    "word": "horrifie",
-    "count": 4,
-    "examCount": 1,
-    "questionIds": [
-      "2018-3-q59",
-      "2018-3-q60",
-      "2018-3-q61",
-      "2018-3-q62"
-    ]
-  },
-  {
     "word": "hotel",
     "count": 4,
     "examCount": 2,
@@ -77834,17 +77611,6 @@
       "2017-sonbahar-q52",
       "2017-sonbahar-q53",
       "2017-sonbahar-q54"
-    ]
-  },
-  {
-    "word": "implie",
-    "count": 4,
-    "examCount": 1,
-    "questionIds": [
-      "2021-1-q51",
-      "2021-1-q52",
-      "2021-1-q53",
-      "2021-1-q54"
     ]
   },
   {
@@ -78219,15 +77985,6 @@
       "2018-3-q65",
       "2019-3-q11",
       "2020-1-q02"
-    ]
-  },
-  {
-    "word": "justify",
-    "count": 4,
-    "examCount": 2,
-    "questionIds": [
-      "2020-1-q50",
-      "2021-1-q69"
     ]
   },
   {
@@ -78609,7 +78366,7 @@
     ]
   },
   {
-    "word": "meticulou",
+    "word": "meticulous",
     "count": 4,
     "examCount": 1,
     "questionIds": [
@@ -78730,7 +78487,7 @@
     ]
   },
   {
-    "word": "misclassifie",
+    "word": "misclassify",
     "count": 4,
     "examCount": 1,
     "questionIds": [
@@ -79054,14 +78811,6 @@
     ]
   },
   {
-    "word": "obey",
-    "count": 4,
-    "examCount": 1,
-    "questionIds": [
-      "2016-sonbahar-q41"
-    ]
-  },
-  {
     "word": "objectivity",
     "count": 4,
     "examCount": 2,
@@ -79256,7 +79005,7 @@
     ]
   },
   {
-    "word": "papyru",
+    "word": "papyrus",
     "count": 4,
     "examCount": 1,
     "questionIds": [
@@ -80029,7 +79778,7 @@
     ]
   },
   {
-    "word": "rigorou",
+    "word": "rigorous",
     "count": 4,
     "examCount": 1,
     "questionIds": [
@@ -81145,7 +80894,7 @@
     ]
   },
   {
-    "word": "unambiguou",
+    "word": "unambiguous",
     "count": 4,
     "examCount": 1,
     "questionIds": [
@@ -81189,7 +80938,7 @@
     ]
   },
   {
-    "word": "unconsciou",
+    "word": "unconscious",
     "count": 4,
     "examCount": 2,
     "questionIds": [
@@ -81584,17 +81333,6 @@
       "2016-ilkbahar-q44",
       "2016-ilkbahar-q45",
       "2016-ilkbahar-q46"
-    ]
-  },
-  {
-    "word": "worrie",
-    "count": 4,
-    "examCount": 1,
-    "questionIds": [
-      "2019-2-q47",
-      "2019-2-q48",
-      "2019-2-q49",
-      "2019-2-q50"
     ]
   },
   {
@@ -82064,7 +81802,7 @@
     ]
   },
   {
-    "word": "claudiu",
+    "word": "claudius",
     "count": 3,
     "examCount": 2,
     "questionIds": [
@@ -82401,15 +82139,6 @@
       "2014-sonbahar-q28",
       "2017-ilkbahar-q31",
       "2021-1-q67"
-    ]
-  },
-  {
-    "word": "destroie",
-    "count": 3,
-    "examCount": 2,
-    "questionIds": [
-      "2017-ilkbahar-q42",
-      "2019-1-q78"
     ]
   },
   {
@@ -83502,16 +83231,6 @@
     ]
   },
   {
-    "word": "paie",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2014-sonbahar-q36",
-      "2016-ilkbahar-q69",
-      "2018-ilkbahar-q51"
-    ]
-  },
-  {
     "word": "palaeontologist",
     "count": 3,
     "examCount": 2,
@@ -84067,7 +83786,7 @@
     ]
   },
   {
-    "word": "superstitiou",
+    "word": "superstitious",
     "count": 3,
     "examCount": 1,
     "questionIds": [
@@ -84103,7 +83822,7 @@
     ]
   },
   {
-    "word": "synonymou",
+    "word": "synonymous",
     "count": 3,
     "examCount": 2,
     "questionIds": [
@@ -84493,15 +84212,6 @@
     "questionIds": [
       "2018-3-q53",
       "2020-1-q42"
-    ]
-  },
-  {
-    "word": "accompanie",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2016-ilkbahar-q30",
-      "2021-1-q61"
     ]
   },
   {
@@ -85001,7 +84711,7 @@
     ]
   },
   {
-    "word": "bosphoru",
+    "word": "bosphorus",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -85089,7 +84799,7 @@
     ]
   },
   {
-    "word": "bullie",
+    "word": "bully",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -85200,7 +84910,7 @@
     ]
   },
   {
-    "word": "carnivorou",
+    "word": "carnivorous",
     "count": 2,
     "examCount": 1,
     "questionIds": [
@@ -87195,7 +86905,7 @@
     ]
   },
   {
-    "word": "harmoniou",
+    "word": "harmonious",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -87494,7 +87204,7 @@
     ]
   },
   {
-    "word": "industriou",
+    "word": "industrious",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -87512,7 +87222,7 @@
     ]
   },
   {
-    "word": "infectiou",
+    "word": "infectious",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -87611,7 +87321,7 @@
     ]
   },
   {
-    "word": "instantaneou",
+    "word": "instantaneous",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -87816,15 +87526,6 @@
     "questionIds": [
       "2017-ilkbahar-q02",
       "2017-ilkbahar-q72"
-    ]
-  },
-  {
-    "word": "justifie",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2015-ilkbahar-q30",
-      "2021-1-q69"
     ]
   },
   {
@@ -88254,15 +87955,6 @@
     "examCount": 1,
     "questionIds": [
       "2018-3-q73"
-    ]
-  },
-  {
-    "word": "menu",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2021-2-q63"
     ]
   },
   {
@@ -88899,7 +88591,7 @@
     ]
   },
   {
-    "word": "poisonou",
+    "word": "poisonous",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -89101,7 +88793,7 @@
     ]
   },
   {
-    "word": "prosperou",
+    "word": "prosperous",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -90008,7 +89700,7 @@
     ]
   },
   {
-    "word": "spontaneou",
+    "word": "spontaneous",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -90104,7 +89796,7 @@
     ]
   },
   {
-    "word": "stimulu",
+    "word": "stimulus",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -90228,15 +89920,6 @@
     ]
   },
   {
-    "word": "supplie",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2019-1-q57",
-      "2021-1-q56"
-    ]
-  },
-  {
     "word": "surpas",
     "count": 2,
     "examCount": 2,
@@ -90264,7 +89947,7 @@
     ]
   },
   {
-    "word": "suspiciou",
+    "word": "suspicious",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -90296,6 +89979,15 @@
     "examCount": 1,
     "questionIds": [
       "2019-3-q67"
+    ]
+  },
+  {
+    "word": "sway",
+    "count": 2,
+    "examCount": 2,
+    "questionIds": [
+      "2018-3-q28",
+      "2019-1-q74"
     ]
   },
   {
@@ -90844,7 +90536,7 @@
     ]
   },
   {
-    "word": "vigorou",
+    "word": "vigorous",
     "count": 2,
     "examCount": 2,
     "questionIds": [
@@ -91198,7 +90890,7 @@
     ]
   },
   {
-    "word": "advantageou",
+    "word": "advantageous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -91510,7 +91202,7 @@
     ]
   },
   {
-    "word": "ambiguou",
+    "word": "ambiguous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -91526,7 +91218,7 @@
     ]
   },
   {
-    "word": "ambitiou",
+    "word": "ambitious",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -91742,7 +91434,7 @@
     ]
   },
   {
-    "word": "apparatu",
+    "word": "apparatus",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -91771,14 +91463,6 @@
     "examCount": 1,
     "questionIds": [
       "2014-ilkbahar-q49"
-    ]
-  },
-  {
-    "word": "applie",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2019-2-q29"
     ]
   },
   {
@@ -92054,7 +91738,7 @@
     ]
   },
   {
-    "word": "augustu",
+    "word": "augustus",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -93798,7 +93482,7 @@
     ]
   },
   {
-    "word": "contiguou",
+    "word": "contiguous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -93835,14 +93519,6 @@
     "examCount": 1,
     "questionIds": [
       "2014-sonbahar-q03"
-    ]
-  },
-  {
-    "word": "conveie",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2018-sonbahar-q75"
     ]
   },
   {
@@ -94030,7 +93706,7 @@
     ]
   },
   {
-    "word": "courteou",
+    "word": "courteous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -94086,7 +93762,7 @@
     ]
   },
   {
-    "word": "cretaceou",
+    "word": "cretaceous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -94358,7 +94034,7 @@
     ]
   },
   {
-    "word": "decaie",
+    "word": "decay",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -94726,7 +94402,7 @@
     ]
   },
   {
-    "word": "disadvantageou",
+    "word": "disadvantageous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -94758,7 +94434,7 @@
     ]
   },
   {
-    "word": "disastrou",
+    "word": "disastrous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -94907,14 +94583,6 @@
     "examCount": 1,
     "questionIds": [
       "2020-1-q73"
-    ]
-  },
-  {
-    "word": "displaie",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2017-sonbahar-q71"
     ]
   },
   {
@@ -95646,7 +95314,7 @@
     ]
   },
   {
-    "word": "enviou",
+    "word": "envious",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -95702,7 +95370,7 @@
     ]
   },
   {
-    "word": "erroneou",
+    "word": "erroneous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -96694,14 +96362,6 @@
     ]
   },
   {
-    "word": "geniuse",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2016-sonbahar-q44"
-    ]
-  },
-  {
     "word": "gentle",
     "count": 1,
     "examCount": 1,
@@ -96846,7 +96506,7 @@
     ]
   },
   {
-    "word": "gothicu",
+    "word": "gothicus",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -97254,7 +96914,7 @@
     ]
   },
   {
-    "word": "herodotu",
+    "word": "herodotus",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -97446,7 +97106,7 @@
     ]
   },
   {
-    "word": "homogenou",
+    "word": "homogenous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -97515,14 +97175,6 @@
     "examCount": 1,
     "questionIds": [
       "2018-3-q74"
-    ]
-  },
-  {
-    "word": "horrify",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2018-3-q62"
     ]
   },
   {
@@ -97747,14 +97399,6 @@
     "examCount": 1,
     "questionIds": [
       "2019-3-q77"
-    ]
-  },
-  {
-    "word": "ie",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2019-3-q03"
     ]
   },
   {
@@ -98070,19 +97714,19 @@
     ]
   },
   {
-    "word": "indu",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2014-sonbahar-q74"
-    ]
-  },
-  {
     "word": "inductive",
     "count": 1,
     "examCount": 1,
     "questionIds": [
       "2018-3-q64"
+    ]
+  },
+  {
+    "word": "indus",
+    "count": 1,
+    "examCount": 1,
+    "questionIds": [
+      "2014-sonbahar-q74"
     ]
   },
   {
@@ -99358,7 +99002,7 @@
     ]
   },
   {
-    "word": "maliciou",
+    "word": "malicious",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -99611,6 +99255,22 @@
     "examCount": 1,
     "questionIds": [
       "2018-sonbahar-q80"
+    ]
+  },
+  {
+    "word": "menu",
+    "count": 1,
+    "examCount": 1,
+    "questionIds": [
+      "2013-sonbahar-q80"
+    ]
+  },
+  {
+    "word": "menus",
+    "count": 1,
+    "examCount": 1,
+    "questionIds": [
+      "2021-2-q63"
     ]
   },
   {
@@ -99931,14 +99591,6 @@
     "examCount": 1,
     "questionIds": [
       "2018-ilkbahar-q72"
-    ]
-  },
-  {
-    "word": "modifie",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2017-sonbahar-q70"
     ]
   },
   {
@@ -100294,7 +99946,7 @@
     ]
   },
   {
-    "word": "nicolau",
+    "word": "nicolaus",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -100502,7 +100154,7 @@
     ]
   },
   {
-    "word": "nutritiou",
+    "word": "nutritious",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -100523,14 +100175,6 @@
     "examCount": 1,
     "questionIds": [
       "2019-2-q74"
-    ]
-  },
-  {
-    "word": "obeie",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2014-sonbahar-q28"
     ]
   },
   {
@@ -101678,7 +101322,7 @@
     ]
   },
   {
-    "word": "porou",
+    "word": "porous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -101854,7 +101498,7 @@
     ]
   },
   {
-    "word": "prestigiou",
+    "word": "prestigious",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -103974,14 +103618,6 @@
     ]
   },
   {
-    "word": "signifie",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2014-sonbahar-q77"
-    ]
-  },
-  {
     "word": "silly",
     "count": 1,
     "examCount": 1,
@@ -104574,19 +104210,19 @@
     ]
   },
   {
-    "word": "straie",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2020-1-q74"
-    ]
-  },
-  {
     "word": "strasbourg",
     "count": 1,
     "examCount": 1,
     "questionIds": [
       "2019-2-q73"
+    ]
+  },
+  {
+    "word": "stray",
+    "count": 1,
+    "examCount": 1,
+    "questionIds": [
+      "2020-1-q74"
     ]
   },
   {
@@ -104686,7 +104322,7 @@
     ]
   },
   {
-    "word": "subconsciou",
+    "word": "subconscious",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -104846,7 +104482,7 @@
     ]
   },
   {
-    "word": "suetoniu",
+    "word": "suetonius",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -105035,22 +104671,6 @@
     "examCount": 1,
     "questionIds": [
       "2018-3-q75"
-    ]
-  },
-  {
-    "word": "swaie",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2019-1-q74"
-    ]
-  },
-  {
-    "word": "sway",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2018-3-q28"
     ]
   },
   {
@@ -105291,14 +104911,6 @@
     "examCount": 1,
     "questionIds": [
       "2018-3-q74"
-    ]
-  },
-  {
-    "word": "terrify",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2017-sonbahar-q72"
     ]
   },
   {
@@ -105590,7 +105202,7 @@
     ]
   },
   {
-    "word": "tremendou",
+    "word": "tremendous",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -105694,7 +105306,7 @@
     ]
   },
   {
-    "word": "typu",
+    "word": "typus",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -105750,7 +105362,7 @@
     ]
   },
   {
-    "word": "unambitiou",
+    "word": "unambitious",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -106390,7 +106002,7 @@
     ]
   },
   {
-    "word": "viciou",
+    "word": "vicious",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -106414,7 +106026,7 @@
     ]
   },
   {
-    "word": "victoriou",
+    "word": "victorious",
     "count": 1,
     "examCount": 1,
     "questionIds": [
@@ -106926,6 +106538,14 @@
     ]
   },
   {
+    "word": "ying",
+    "count": 1,
+    "examCount": 1,
+    "questionIds": [
+      "2019-3-q03"
+    ]
+  },
+  {
     "word": "yogurt",
     "count": 1,
     "examCount": 1,
@@ -106966,7 +106586,7 @@
     ]
   },
   {
-    "word": "zeu",
+    "word": "zeus",
     "count": 1,
     "examCount": 1,
     "questionIds": [

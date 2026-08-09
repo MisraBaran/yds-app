@@ -1298,5 +1298,950 @@
     "translation": "Mars (gezegen)",
     "partOfSpeech": "noun",
     "example": "Robotic probes have been sent to explore the surface of Mars since the 1960s."
+  },
+  "focus": {
+    "translation": "odaklanmak; odak noktası",
+    "partOfSpeech": "verb",
+    "example": "Scientists focus on finding a cure for the disease."
+  },
+  "buy": {
+    "translation": "satın almak",
+    "partOfSpeech": "verb",
+    "example": "You can buy an orchid plant for less than a bouquet of flowers."
+  },
+  "compare": {
+    "translation": "karşılaştırmak",
+    "partOfSpeech": "verb",
+    "example": "Researchers compare colour vision in different animals."
+  },
+  "consume": {
+    "translation": "tüketmek",
+    "partOfSpeech": "verb",
+    "example": "Bacteria consume dead matter and recycle its chemicals."
+  },
+  "emerge": {
+    "translation": "ortaya çıkmak",
+    "partOfSpeech": "verb",
+    "example": "A new theory may emerge from years of research."
+  },
+  "generally": {
+    "translation": "genel olarak",
+    "partOfSpeech": "adverb",
+    "example": "Generally, older people use health care services more heavily."
+  },
+  "greatest": {
+    "translation": "en büyük",
+    "partOfSpeech": "adjective",
+    "example": "Malaria is one of the greatest threats to human health."
+  },
+  "six": {
+    "translation": "altı",
+    "partOfSpeech": "other",
+    "example": "A child must display at least six of the nine symptoms."
+  },
+  "top": {
+    "translation": "en üst; zirve",
+    "partOfSpeech": "noun",
+    "example": "Video-gaming has become a top industry attracting huge investment."
+  },
+  "value": {
+    "translation": "değer",
+    "partOfSpeech": "noun",
+    "example": "We often forget the value of things surrounding us."
+  },
+  "associate": {
+    "translation": "ilişkilendirmek",
+    "partOfSpeech": "verb",
+    "example": "Economic growth is closely associated with demographic change."
+  },
+  "australia": {
+    "translation": "Avustralya",
+    "partOfSpeech": "other",
+    "example": "Children in sunny Australia are more prone to egg allergy."
+  },
+  "character": {
+    "translation": "karakter, kişilik",
+    "partOfSpeech": "noun",
+    "example": "A changing character can influence life satisfaction."
+  },
+  "cover": {
+    "translation": "kapsamak; kaplamak",
+    "partOfSpeech": "verb",
+    "example": "Swimmers use four times as much energy to cover the same distance."
+  },
+  "especially": {
+    "translation": "özellikle",
+    "partOfSpeech": "adverb",
+    "example": "This is especially true for young people seeking employment."
+  },
+  "greater": {
+    "translation": "daha büyük",
+    "partOfSpeech": "adjective",
+    "example": "Robotic surgery allows greater range of movement than human hands."
+  },
+  "ice": {
+    "translation": "buz",
+    "partOfSpeech": "noun",
+    "example": "Maglev trains use magnets instead of wheels on the track."
+  },
+  "orchid": {
+    "translation": "orkide",
+    "partOfSpeech": "noun",
+    "example": "Growing orchids could change your life forever."
+  },
+  "sense": {
+    "translation": "duyu; anlam; hissetmek",
+    "partOfSpeech": "noun",
+    "example": "Mosquitoes find their victims thanks to their sense of smell."
+  },
+  "single": {
+    "translation": "tek; tek başına",
+    "partOfSpeech": "adjective",
+    "example": "Copies of humans could be created from a single cell."
+  },
+  "store": {
+    "translation": "depolamak; mağaza",
+    "partOfSpeech": "verb",
+    "example": "Dams store flood waters in reservoirs for the dry season."
+  },
+  "teacher": {
+    "translation": "öğretmen",
+    "partOfSpeech": "noun",
+    "example": "A good teacher provides a review at the start of a new lesson."
+  },
+  "vision": {
+    "translation": "görme, görüş; vizyon",
+    "partOfSpeech": "noun",
+    "example": "His determination together with his vision transformed Florida."
+  },
+  "basic": {
+    "translation": "temel",
+    "partOfSpeech": "adjective",
+    "example": "The study of illusions helps us understand basic mechanisms of perception."
+  },
+  "complex": {
+    "translation": "karmaşık",
+    "partOfSpeech": "adjective",
+    "example": "Even complex dreams can be interpreted in terms of everyday concerns."
+  },
+  "cost": {
+    "translation": "maliyet; mal olmak",
+    "partOfSpeech": "noun",
+    "example": "Not every measure made possible by technology is feasible given the costs."
+  },
+  "einstein": {
+    "translation": "Einstein (özel isim, ünlü fizikçi)",
+    "partOfSpeech": "other",
+    "example": "Albert Einstein concluded that the speed of light remains constant."
+  },
+  "labour": {
+    "translation": "emek, işçilik",
+    "partOfSpeech": "noun",
+    "example": "Cheap labour helped the ready-made garment industry grow rapidly."
+  },
+  "lack": {
+    "translation": "eksiklik, yoksunluk",
+    "partOfSpeech": "noun",
+    "example": "Many proposals cannot be implemented due to a lack of political will."
+  },
+  "perhaps": {
+    "translation": "belki",
+    "partOfSpeech": "adverb",
+    "example": "Prejudice may develop perhaps as a result of a harsh upbringing."
+  },
+  "psychologist": {
+    "translation": "psikolog",
+    "partOfSpeech": "noun",
+    "example": "Many psychologists reject Freud's view that dreams are symbolic."
+  },
+  "refer": {
+    "translation": "atıfta bulunmak, ilgili olmak",
+    "partOfSpeech": "verb",
+    "example": "Good teaching refers to a process, while effective teaching refers to outcomes."
+  },
+  "rich": {
+    "translation": "zengin",
+    "partOfSpeech": "adjective",
+    "example": "Wealthy people tend to have a longer life span than poor people."
+  },
+  "travel": {
+    "translation": "seyahat etmek",
+    "partOfSpeech": "verb",
+    "example": "Tiny gadgets travel around a patient's bloodstream to detect disease."
+  },
+  "unit": {
+    "translation": "birim",
+    "partOfSpeech": "noun",
+    "example": "The device works without the assistance of a secondary unit."
+  },
+  "widely": {
+    "translation": "yaygın olarak",
+    "partOfSpeech": "adverb",
+    "example": "It is widely believed that personality tests predict career success well."
+  },
+  "central": {
+    "translation": "merkezi",
+    "partOfSpeech": "adjective",
+    "example": "The central nervous system controls voluntary movement."
+  },
+  "easily": {
+    "translation": "kolayca",
+    "partOfSpeech": "adverb",
+    "example": "Without knowing distances accurately, it is hard to find your way easily."
+  },
+  "gene": {
+    "translation": "gen",
+    "partOfSpeech": "noun",
+    "example": "Genetic diseases could be prevented by manipulating the structure of genes."
+  },
+  "german": {
+    "translation": "Alman; Almanca",
+    "partOfSpeech": "adjective",
+    "example": "The German-born physicist Einstein developed the theory of relativity."
+  },
+  "near": {
+    "translation": "yakın",
+    "partOfSpeech": "adjective",
+    "example": "Many tourist attractions in London are fairly near to one another."
+  },
+  "perform": {
+    "translation": "gerçekleştirmek, performans göstermek",
+    "partOfSpeech": "verb",
+    "example": "Employees must perform at higher levels as the world changes rapidly."
+  },
+  "personality": {
+    "translation": "kişilik",
+    "partOfSpeech": "noun",
+    "example": "An e-mail can even convey personality characteristics."
+  },
+  "real": {
+    "translation": "gerçek",
+    "partOfSpeech": "adjective",
+    "example": "New research shows that experiencing emotions is vital to real mental health."
+  },
+  "rely": {
+    "translation": "güvenmek, dayanmak",
+    "partOfSpeech": "verb",
+    "example": "Those who rely on advertising for their income are affected by it too."
+  },
+  "south": {
+    "translation": "güney",
+    "partOfSpeech": "noun",
+    "example": "The railway ran down the eastern coast to the south of the state."
+  },
+  "tool": {
+    "translation": "araç, alet",
+    "partOfSpeech": "noun",
+    "example": "Maps are very beneficial tools for people to find their way easily."
+  },
+  "traditional": {
+    "translation": "geleneksel",
+    "partOfSpeech": "adjective",
+    "example": "International security is a traditional issue area in world politics."
+  },
+  "africa": {
+    "translation": "Afrika",
+    "partOfSpeech": "other",
+    "example": "Africa has the fastest growing and most youthful population in the world."
+  },
+  "break": {
+    "translation": "kırmak; ara vermek",
+    "partOfSpeech": "verb",
+    "example": "Gandhi's politics allowed people to take part without a break from daily life."
+  },
+  "equipment": {
+    "translation": "ekipman, donanım",
+    "partOfSpeech": "noun",
+    "example": "Conventional surgery requires the surgeon to move between instruments and equipment."
+  },
+  "heat": {
+    "translation": "ısı; ısıtmak",
+    "partOfSpeech": "noun",
+    "example": "The heat of cold-blooded animals comes from outside the body."
+  },
+  "land": {
+    "translation": "kara, arazi; karaya inmek",
+    "partOfSpeech": "noun",
+    "example": "Cultivating more land has led to the loss of habitats like rainforests."
+  },
+  "melt": {
+    "translation": "erimek",
+    "partOfSpeech": "verb",
+    "example": "Fire was used to melt metals extracted from ores."
+  },
+  "muscle": {
+    "translation": "kas",
+    "partOfSpeech": "noun",
+    "example": "The stem cells prompted the formation of new bone, tendons and muscle."
+  },
+  "substance": {
+    "translation": "madde",
+    "partOfSpeech": "noun",
+    "example": "The chemical substance is recycled by bacteria in the life cycle."
+  },
+  "tree": {
+    "translation": "ağaç",
+    "partOfSpeech": "noun",
+    "example": "Increasing desertification and dying forests point to ecological limits."
+  },
+  "bone": {
+    "translation": "kemik",
+    "partOfSpeech": "noun",
+    "example": "By the age of three, a child's bones and muscles are still underdeveloped."
+  },
+  "class": {
+    "translation": "sınıf",
+    "partOfSpeech": "noun",
+    "example": "State firms were once nothing more than parts of the government machine, regardless of class."
+  },
+  "deal": {
+    "translation": "ele almak, uğraşmak; anlaşma",
+    "partOfSpeech": "verb",
+    "example": "A new treaty is needed to deal with the complex 28-member union."
+  },
+  "decision": {
+    "translation": "karar",
+    "partOfSpeech": "noun",
+    "example": "Reason plays an essential role in justifying moral decisions."
+  },
+  "demand": {
+    "translation": "talep; talep etmek",
+    "partOfSpeech": "noun",
+    "example": "Newly formed republics were anxious to make deals with foreign investors amid rising demand."
+  },
+  "force": {
+    "translation": "güç, zorlamak",
+    "partOfSpeech": "noun",
+    "example": "His determination and vision transformed Florida by force of will."
+  },
+  "foreign": {
+    "translation": "yabancı",
+    "partOfSpeech": "adjective",
+    "example": "The republics wanted to attract foreign investors after the chaos."
+  },
+  "french": {
+    "translation": "Fransız; Fransızca",
+    "partOfSpeech": "adjective",
+    "example": "The French word tete once meant 'earthen pot' in slang."
+  },
+  "particularly": {
+    "translation": "özellikle",
+    "partOfSpeech": "adverb",
+    "example": "Kite flying as a hobby is particularly popular in Asia."
+  },
+  "solution": {
+    "translation": "çözüm",
+    "partOfSpeech": "noun",
+    "example": "Scientists are struggling to find a solution to defeat malaria."
+  },
+  "along": {
+    "translation": "boyunca; birlikte",
+    "partOfSpeech": "preposition",
+    "example": "The disease can spread rapidly across the globe, claiming lives along the way."
+  },
+  "china": {
+    "translation": "Çin",
+    "partOfSpeech": "other",
+    "example": "Bangladesh is the world's second biggest garment manufacturer after China."
+  },
+  "loss": {
+    "translation": "kayıp",
+    "partOfSpeech": "noun",
+    "example": "Time in Virginia Woolf's works appears as a symbol of loss."
+  },
+  "maintain": {
+    "translation": "sürdürmek, korumak",
+    "partOfSpeech": "verb",
+    "example": "All parties face the challenge of maintaining the balance of nature."
+  },
+  "media": {
+    "translation": "medya",
+    "partOfSpeech": "noun",
+    "example": "How advertisements affect the audience is a major debate on the media."
+  },
+  "pollution": {
+    "translation": "kirlilik",
+    "partOfSpeech": "noun",
+    "example": "Satellites will spot polluters easily so they can be penalized for pollution."
+  },
+  "project": {
+    "translation": "proje",
+    "partOfSpeech": "noun",
+    "example": "The public might be suspicious about environmental protection projects."
+  },
+  "treat": {
+    "translation": "tedavi etmek; muamele etmek",
+    "partOfSpeech": "verb",
+    "example": "It is difficult to find the most suitable dose of drugs to treat illnesses."
+  },
+  "emission": {
+    "translation": "emisyon, salım",
+    "partOfSpeech": "noun",
+    "example": "Hydrogen does not produce carbon emissions when it is burned."
+  },
+  "figure": {
+    "translation": "rakam; şekil; önemli kişi",
+    "partOfSpeech": "noun",
+    "example": "Gandhi was the most influential figure in the history of Indian politics."
+  },
+  "fish": {
+    "translation": "balık",
+    "partOfSpeech": "noun",
+    "example": "Declining fish populations point to the tolerance limits of ecosystems."
+  },
+  "fly": {
+    "translation": "uçmak",
+    "partOfSpeech": "verb",
+    "example": "The Chinese fly kites to ward off evil spirits."
+  },
+  "free": {
+    "translation": "özgür, serbest; ücretsiz",
+    "partOfSpeech": "adjective",
+    "example": "Advanced data analysis is on the verge of breaking free of its confines."
+  },
+  "instrument": {
+    "translation": "alet, enstrüman",
+    "partOfSpeech": "noun",
+    "example": "Delicate instruments are inserted through keyhole incisions during surgery."
+  },
+  "liquid": {
+    "translation": "sıvı",
+    "partOfSpeech": "noun",
+    "example": "Patients are advised to have concentrated liquid formulas that are easy to swallow."
+  },
+  "movement": {
+    "translation": "hareket",
+    "partOfSpeech": "noun",
+    "example": "Robotic controls allow a greater range of movement than human joints permit."
+  },
+  "purpose": {
+    "translation": "amaç",
+    "partOfSpeech": "noun",
+    "example": "Kites were soon used for many purposes such as measuring distances."
+  },
+  "sometime": {
+    "translation": "bir ara, bazen",
+    "partOfSpeech": "adverb",
+    "example": "Sometime in the future, surgeons may operate on patients from another country."
+  },
+  "survive": {
+    "translation": "hayatta kalmak",
+    "partOfSpeech": "verb",
+    "example": "Only less than half of Aristophanes' thirty plays survive today."
+  },
+  "worry": {
+    "translation": "endişelenmek",
+    "partOfSpeech": "verb",
+    "example": "Shechtman feared no one would believe him, so he did not need to worry for long."
+  },
+  "achieve": {
+    "translation": "başarmak, elde etmek",
+    "partOfSpeech": "verb",
+    "example": "Ants achieve the same end result as humans in a very different way."
+  },
+  "ask": {
+    "translation": "sormak, istemek",
+    "partOfSpeech": "verb",
+    "example": "Scholars often ask why bathing was so important to Roman society."
+  },
+  "attempt": {
+    "translation": "girişim; denemek",
+    "partOfSpeech": "noun",
+    "example": "Turks will respect any attempt at their difficult language."
+  },
+  "behind": {
+    "translation": "arkasında",
+    "partOfSpeech": "preposition",
+    "example": "Behind every architectural masterpiece is a brand new technology."
+  },
+  "carbon": {
+    "translation": "karbon",
+    "partOfSpeech": "noun",
+    "example": "Hydrogen does not produce carbon emissions when it is burned."
+  },
+  "contribute": {
+    "translation": "katkıda bulunmak",
+    "partOfSpeech": "verb",
+    "example": "One third of East Asia's economic miracle was closely tied to factors that contribute to growth."
+  },
+  "decline": {
+    "translation": "azalmak, düşüş",
+    "partOfSpeech": "verb",
+    "example": "Deaths from malaria have declined more than 25 percent over the last decade."
+  },
+  "difficulty": {
+    "translation": "zorluk",
+    "partOfSpeech": "noun",
+    "example": "People suffering from difficulty in eating are advised to use liquid formulas."
+  },
+  "drought": {
+    "translation": "kuraklık",
+    "partOfSpeech": "noun",
+    "example": "Great rivers are prone to seasonal flow variations, with flood alternating with drought."
+  },
+  "factory": {
+    "translation": "fabrika",
+    "partOfSpeech": "noun",
+    "example": "Chocolate factories remained small-scale for two centuries after being established."
+  },
+  "greek": {
+    "translation": "Yunan; Yunanca",
+    "partOfSpeech": "adjective",
+    "example": "Aristophanes is a popular ancient Greek comic playwright."
+  },
+  "indian": {
+    "translation": "Hint; Hintli",
+    "partOfSpeech": "adjective",
+    "example": "Gandhi became the symbol of Indian nationalism."
+  },
+  "industrial": {
+    "translation": "endüstriyel, sanayi ile ilgili",
+    "partOfSpeech": "adjective",
+    "example": "A definite environmental consciousness arose in Western industrialized nations after the 1960s."
+  },
+  "position": {
+    "translation": "konum, pozisyon",
+    "partOfSpeech": "noun",
+    "example": "I've applied for this position because I like interacting with people."
+  },
+  "psychological": {
+    "translation": "psikolojik",
+    "partOfSpeech": "adjective",
+    "example": "Psychological trauma has been linked with decreases in agreeableness."
+  },
+  "rest": {
+    "translation": "geri kalan; dinlenmek",
+    "partOfSpeech": "noun",
+    "example": "Surgeons might have a rest during operations thanks to robotic seating."
+  },
+  "serious": {
+    "translation": "ciddi",
+    "partOfSpeech": "adjective",
+    "example": "These statistics present a serious challenge for African economies."
+  },
+  "situation": {
+    "translation": "durum",
+    "partOfSpeech": "noun",
+    "example": "Insufficient attention to job creation worsens the situation for young people."
+  },
+  "someone": {
+    "translation": "biri, birisi",
+    "partOfSpeech": "pronoun",
+    "example": "It feels good to see how helping makes a difference for someone else."
+  },
+  "video": {
+    "translation": "video",
+    "partOfSpeech": "noun",
+    "example": "Playing video games is said to sharpen some cognitive abilities."
+  },
+  "contact": {
+    "translation": "temas, iletişim",
+    "partOfSpeech": "noun",
+    "example": "Critics worry that the Internet offers more than superficial contact with strangers."
+  },
+  "cook": {
+    "translation": "pişirmek",
+    "partOfSpeech": "verb",
+    "example": "People used fire to cook their food and warm their homes."
+  },
+  "five": {
+    "translation": "beş",
+    "partOfSpeech": "other",
+    "example": "Researchers measured the Big Five personality traits over four years."
+  },
+  "growth": {
+    "translation": "büyüme",
+    "partOfSpeech": "noun",
+    "example": "Sub-Saharan Africa recorded rapid economic growth but insufficient job creation."
+  },
+  "meet": {
+    "translation": "karşılamak, buluşmak",
+    "partOfSpeech": "verb",
+    "example": "Governments must meet the challenge of maintaining a stable patent system."
+  },
+  "psychology": {
+    "translation": "psikoloji",
+    "partOfSpeech": "noun",
+    "example": "Social psychology helps us understand our sense of personal identity."
+  },
+  "surgeon": {
+    "translation": "cerrah",
+    "partOfSpeech": "noun",
+    "example": "The da Vinci system allows the surgeon to be seated for greater comfort."
+  },
+  "wave": {
+    "translation": "dalga",
+    "partOfSpeech": "noun",
+    "example": "A transmitter outside the body emits radio waves through the tissues."
+  },
+  "creature": {
+    "translation": "yaratık, canlı",
+    "partOfSpeech": "noun",
+    "example": "Bats and birds are small creatures that tend to live longer than larger ones."
+  },
+  "depend": {
+    "translation": "bağlı olmak",
+    "partOfSpeech": "verb",
+    "example": "Humanity's survival ultimately depends on our ability to preserve nature."
+  },
+  "fat": {
+    "translation": "yağ; şişman",
+    "partOfSpeech": "noun",
+    "example": "The body stores fat as an energy reserve."
+  },
+  "fear": {
+    "translation": "korku",
+    "partOfSpeech": "noun",
+    "example": "Children are afraid that something big might carry them away, a realistic fear for ancestors."
+  },
+  "heart": {
+    "translation": "kalp",
+    "partOfSpeech": "noun",
+    "example": "Life span was once thought proportional to body mass and heart rate."
+  },
+  "lower": {
+    "translation": "daha düşük; indirmek",
+    "partOfSpeech": "adjective",
+    "example": "Diseases from alcohol are often attributed to lower socio-economic status."
+  },
+  "matter": {
+    "translation": "madde; önemli olmak",
+    "partOfSpeech": "noun",
+    "example": "Bacteria feed on dead matter, decomposing it and recycling chemicals."
+  },
+  "meat": {
+    "translation": "et",
+    "partOfSpeech": "noun",
+    "example": "Producing meat for a growing population requires more agricultural land."
+  },
+  "pole": {
+    "translation": "kutup, direk",
+    "partOfSpeech": "noun",
+    "example": "Maglev trains use magnetic poles to lift and propel the train."
+  },
+  "positive": {
+    "translation": "olumlu",
+    "partOfSpeech": "adjective",
+    "example": "Positive thoughts and emotions can boost self-esteem."
+  },
+  "send": {
+    "translation": "göndermek",
+    "partOfSpeech": "verb",
+    "example": "The brain analyzes information and sends outgoing signals to muscles."
+  },
+  "simply": {
+    "translation": "sadece, basitçe",
+    "partOfSpeech": "adverb",
+    "example": "It may simply mean that we are concerned about an upcoming hard test."
+  },
+  "soil": {
+    "translation": "toprak",
+    "partOfSpeech": "noun",
+    "example": "Farmers moved into drier areas once irrigation technology improved the soil's yield."
+  },
+  "vary": {
+    "translation": "değişmek, farklılık göstermek",
+    "partOfSpeech": "verb",
+    "example": "The effects of coffee on sleep may vary from one individual to another."
+  },
+  "access": {
+    "translation": "erişim; erişmek",
+    "partOfSpeech": "noun",
+    "example": "Libraries are Internet access points for a wide community."
+  },
+  "addition": {
+    "translation": "ilave, ek",
+    "partOfSpeech": "noun",
+    "example": "In addition to being less expensive, today's orchids are also easier to grow."
+  },
+  "alone": {
+    "translation": "yalnız",
+    "partOfSpeech": "adverb",
+    "example": "Material things are enjoyed alone, while experiences bring people together."
+  },
+  "battery": {
+    "translation": "pil, batarya",
+    "partOfSpeech": "noun",
+    "example": "Batteries have shrunk over the years but not enough to fit inside tiny devices."
+  },
+  "creative": {
+    "translation": "yaratıcı",
+    "partOfSpeech": "adjective",
+    "example": "Creativity is a whole-brain process, not limited to one hemisphere."
+  },
+  "customer": {
+    "translation": "müşteri",
+    "partOfSpeech": "noun",
+    "example": "I need to see messages from customers instantly to answer them."
+  },
+  "engineer": {
+    "translation": "mühendis",
+    "partOfSpeech": "noun",
+    "example": "Engineers at Stanford developed implants powered by radio waves."
+  },
+  "examine": {
+    "translation": "incelemek, muayene etmek",
+    "partOfSpeech": "verb",
+    "example": "Researchers examine how personality traits change over four years."
+  },
+  "finger": {
+    "translation": "parmak",
+    "partOfSpeech": "noun",
+    "example": "We can regrow the ends of amputated fingers if some of the nail remains."
+  },
+  "girl": {
+    "translation": "kız",
+    "partOfSpeech": "noun",
+    "example": "Teenage girls are said to be passionate fans of unpredictable artists."
+  },
+  "open": {
+    "translation": "açık; açmak",
+    "partOfSpeech": "adjective",
+    "example": "Pearls are still found in many oyster beds in open seas."
+  },
+  "picture": {
+    "translation": "resim, fotoğraf",
+    "partOfSpeech": "noun",
+    "example": "Pictures of the collapse put an intimate face on a dangerous industry."
+  },
+  "relationship": {
+    "translation": "ilişki",
+    "partOfSpeech": "noun",
+    "example": "An article explains the relationship between culture and our perception of advice."
+  },
+  "response": {
+    "translation": "tepki, yanıt",
+    "partOfSpeech": "noun",
+    "example": "The polygraph measures physical changes usually induced by an emotional response."
+  },
+  "roman": {
+    "translation": "Roma ile ilgili; Romalı",
+    "partOfSpeech": "adjective",
+    "example": "Bathing was a significant part of Roman society's daily structure."
+  },
+  "rule": {
+    "translation": "kural; yönetmek",
+    "partOfSpeech": "noun",
+    "example": "The EU's founding rules were designed for a far smaller union."
+  },
+  "suffer": {
+    "translation": "acı çekmek, muzdarip olmak",
+    "partOfSpeech": "verb",
+    "example": "Patients who suffer from chronic illnesses use health care more heavily."
+  },
+  "talk": {
+    "translation": "konuşmak",
+    "partOfSpeech": "verb",
+    "example": "Most scientists talk about relatively non-controversial applications of cloning."
+  },
+  "trade": {
+    "translation": "ticaret; takas etmek",
+    "partOfSpeech": "noun",
+    "example": "State firms now play a key role in global trade."
+  },
+  "transfer": {
+    "translation": "aktarmak, transfer etmek",
+    "partOfSpeech": "verb",
+    "example": "Electromagnetic waves transfer power to implantable medical devices."
+  },
+  "contain": {
+    "translation": "içermek",
+    "partOfSpeech": "verb",
+    "example": "The mouth is where food is chewed so it can easily be swallowed and digested; saliva contains enzymes."
+  },
+  "course": {
+    "translation": "ders, kurs; rota",
+    "partOfSpeech": "noun",
+    "example": "I've decided to take a home-study creative writing course."
+  },
+  "direct": {
+    "translation": "doğrudan; yönlendirmek",
+    "partOfSpeech": "adjective",
+    "example": "Ants have decentralized control, and no single ant can direct the work."
+  },
+  "fast": {
+    "translation": "hızlı",
+    "partOfSpeech": "adjective",
+    "example": "The pace of technological advances has accelerated at a fast rate."
+  },
+  "fuel": {
+    "translation": "yakıt; beslemek",
+    "partOfSpeech": "noun",
+    "example": "The next wave of candidates fuels the ongoing debate about EU enlargement."
+  },
+  "gandhi": {
+    "translation": "Gandhi (özel isim, Hint lideri)",
+    "partOfSpeech": "other",
+    "example": "Gandhi became the symbol of Indian nationalism after independence."
+  },
+  "half": {
+    "translation": "yarım, yarısı",
+    "partOfSpeech": "noun",
+    "example": "Only less than half of Aristophanes' thirty plays survive today."
+  },
+  "harmful": {
+    "translation": "zararlı",
+    "partOfSpeech": "adjective",
+    "example": "It is too much sunshine that poses the harmful problem for the skin."
+  },
+  "island": {
+    "translation": "ada",
+    "partOfSpeech": "noun",
+    "example": "Crete was conquered by the Ottomans in the 17th century, an island once ruled by others."
+  },
+  "per": {
+    "translation": "başına, her biri için",
+    "partOfSpeech": "preposition",
+    "example": "Japan experiences more than 1,000 earthquakes per year."
+  },
+  "predator": {
+    "translation": "yırtıcı hayvan, avcı",
+    "partOfSpeech": "noun",
+    "example": "Some species become extinct every year due to predators and hunting."
+  },
+  "second": {
+    "translation": "ikinci; saniye",
+    "partOfSpeech": "adjective",
+    "example": "Orchids are now the second most popular pot plant in the world."
+  },
+  "solar": {
+    "translation": "güneşe ait, solar",
+    "partOfSpeech": "adjective",
+    "example": "Solar energy could reduce reliance on fossil fuels."
+  },
+  "thought": {
+    "translation": "düşünce",
+    "partOfSpeech": "noun",
+    "example": "Positive thoughts and emotions can boost self-esteem."
+  },
+  "volunteer": {
+    "translation": "gönüllü; gönüllü olmak",
+    "partOfSpeech": "noun",
+    "example": "Civic alliances and volunteer groups support environmental protection efforts."
+  },
+  "chimp": {
+    "translation": "şempanze",
+    "partOfSpeech": "noun",
+    "example": "Studies on chimps reveal insights into human cognitive evolution."
+  },
+  "chinese": {
+    "translation": "Çinli; Çince",
+    "partOfSpeech": "adjective",
+    "example": "The Chinese people believe that kites are lucky and ward off evil spirits."
+  },
+  "closely": {
+    "translation": "yakından, sıkı sıkıya",
+    "partOfSpeech": "adverb",
+    "example": "East Asia's economic miracle was closely associated with demographic change."
+  },
+  "cognitive": {
+    "translation": "bilişsel",
+    "partOfSpeech": "adjective",
+    "example": "Some activities are said to sharpen certain cognitive abilities."
+  },
+  "estimate": {
+    "translation": "tahmin etmek; tahmin",
+    "partOfSpeech": "verb",
+    "example": "Scientists estimate the effects of climate change over the coming decades."
+  },
+  "ghrelin": {
+    "translation": "grelin (açlık hormonu, biyokimya terimi)",
+    "partOfSpeech": "other",
+    "example": "Ghrelin is a hormone that stimulates appetite in the body."
+  },
+  "habit": {
+    "translation": "alışkanlık",
+    "partOfSpeech": "noun",
+    "example": "Bathing became a daily habit for Romans by the end of the Republic."
+  },
+  "root": {
+    "translation": "kök",
+    "partOfSpeech": "noun",
+    "example": "The welfare state's roots reach into the previous century."
+  },
+  "weight": {
+    "translation": "ağırlık",
+    "partOfSpeech": "noun",
+    "example": "The EU risks suffocation under its own weight as it keeps expanding."
+  },
+  "automobile": {
+    "translation": "otomobil",
+    "partOfSpeech": "noun",
+    "example": "Cars, planes and high-speed trains rely on transport links between cities."
+  },
+  "drink": {
+    "translation": "içmek; içecek",
+    "partOfSpeech": "verb",
+    "example": "Caffeine drinks can irritate a sensitive bladder in some people."
+  },
+  "english": {
+    "translation": "İngiliz; İngilizce",
+    "partOfSpeech": "adjective",
+    "example": "Many English language publications are available in major Turkish cities."
+  },
+  "expect": {
+    "translation": "beklemek",
+    "partOfSpeech": "verb",
+    "example": "African countries are not expected to develop economically without job creation."
+  },
+  "famous": {
+    "translation": "ünlü",
+    "partOfSpeech": "adjective",
+    "example": "The famous artist Raphael's final works are exhibited in major museums."
+  },
+  "fossil": {
+    "translation": "fosil",
+    "partOfSpeech": "noun",
+    "example": "Reducing reliance on fossil fuels is a key climate change goal."
+  },
+  "illness": {
+    "translation": "hastalık",
+    "partOfSpeech": "noun",
+    "example": "As with other chronic illnesses, asthma affects both patients and families."
+  },
+  "internet": {
+    "translation": "internet",
+    "partOfSpeech": "noun",
+    "example": "Psychological research suggests people use the Internet to enhance relationships."
+  },
+  "participant": {
+    "translation": "katılımcı",
+    "partOfSpeech": "noun",
+    "example": "Researchers tracked fluctuations in the participants' lives over four years."
+  },
+  "reaction": {
+    "translation": "tepki",
+    "partOfSpeech": "noun",
+    "example": "A chain reaction is initiated that draws nerves to the amputated area."
+  },
+  "relevant": {
+    "translation": "ilgili, alakalı",
+    "partOfSpeech": "adjective",
+    "example": "People are asked relevant questions as well as control questions in a polygraph test."
+  },
+  "status": {
+    "translation": "statü, durum",
+    "partOfSpeech": "noun",
+    "example": "Powerful people have always shown off their status through impressive buildings."
+  },
+  "style": {
+    "translation": "tarz, üslup",
+    "partOfSpeech": "noun",
+    "example": "Kites are now designed in a variety of forms and styles."
+  },
+  "sunlight": {
+    "translation": "güneş ışığı",
+    "partOfSpeech": "noun",
+    "example": "Exposure to sunlight enables the production of vitamin D in our skin."
+  },
+  "tendency": {
+    "translation": "eğilim",
+    "partOfSpeech": "noun",
+    "example": "Since they have a tendency to have chronic illnesses, older people use care more."
+  },
+  "absorb": {
+    "translation": "emmek, absorbe etmek",
+    "partOfSpeech": "verb",
+    "example": "Future enlargement continues as the EU absorbs its newest members."
   }
 }

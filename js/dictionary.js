@@ -67,6 +67,13 @@ const IRREGULAR_LEMMAS = {
   diseased: "disease", related: "relate",
   called: "call", always: "always", thus: "thus",
   mars: "mars",
+  lying: "lie", dying: "die", tying: "tie", vying: "vie",
+  compared: "compare", associated: "associate", associating: "associate",
+  consumed: "consume", consuming: "consume", experienced: "experience",
+  perhaps: "perhaps",
+  focuses: "focus", statuses: "status", viruses: "virus", bonuses: "bonus",
+  campuses: "campus", geniuses: "genius",
+  emerged: "emerge", emerging: "emerge", stated: "state", stating: "state",
 };
 
 function lemmatize(raw) {
@@ -95,7 +102,7 @@ function lemmatize(raw) {
     }
     return base;
   }
-  if (w.endsWith("s") && !w.endsWith("ss") && w.length > 3) return w.slice(0, -1);
+  if (w.endsWith("s") && !/(ss|us)$/.test(w) && w.length > 3) return w.slice(0, -1);
   return w;
 }
 

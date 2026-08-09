@@ -146,6 +146,19 @@ IRREGULAR_LEMMAS = {
     "diseased": "disease", "related": "relate",
     "called": "call", "always": "always", "thus": "thus",
     "mars": "mars",  # gezegen adi, 'mar' fiiliyle karismasin
+    # -ying istisnalari (lie/die/tie -> ie ile biten fiiller, genel kural
+    # bunlari 'try/cry' gibi -y ile biten fiillerle karistirir)
+    "lying": "lie", "dying": "die", "tying": "tie", "vying": "vie",
+    # silent-e ile biten ama listede eksik kalan -ed/-ing formlari
+    "compared": "compare", "associated": "associate", "associating": "associate",
+    "consumed": "consume", "consuming": "consume", "experienced": "experience",
+    "perhaps": "perhaps",  # zarf, cogul degil ('perhap' diye bir kelime yok)
+    # -us ile biten isimlerin cogulu (bu kelimeler '-use' fiil ailesiyle
+    # (cause/excuse/abuse/refuse) karismasin diye ES kuralindan ayri, elle
+    "focuses": "focus", "statuses": "status", "viruses": "virus",
+    "bonuses": "bonus", "campuses": "campus", "geniuses": "genius",
+    "emerged": "emerge", "emerging": "emerge",
+    "stated": "state", "stating": "state",
 }
 
 ROMAN_NUMERAL_TOKENS = {
@@ -163,8 +176,6 @@ def lemmatize(word: str) -> str:
         return w[:-3] + "y"
     if w.endswith("ied"):
         return w[:-3] + "y"
-    if w.endswith("ying"):
-        return w[:-4] + "ie"
     if w.endswith("ing") and len(w) > 5:
         base = w[:-3]
         if len(base) >= 2 and base[-1] == base[-2] and base[-1] not in "aeiou":
@@ -184,7 +195,7 @@ def lemmatize(word: str) -> str:
         return base
     if w.endswith("'s"):
         return w[:-2]
-    if w.endswith("s") and not w.endswith("ss") and len(w) > 3:
+    if w.endswith("s") and not w.endswith(("ss", "us")) and len(w) > 3:
         return w[:-1]
     return w
 
