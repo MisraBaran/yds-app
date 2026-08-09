@@ -18,7 +18,17 @@
       "Some strong link between the tourism industry and the environment is necessary for their enjoyable coexistence for a long time."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir 'anlamca en yakın cümle' sorusudur. Orijinal cümledeki KESİNLİK DERECESİNİ (should) değiştirmeden aktaran şıkkı ara.",
+      "correct": "Orijinal cümle: 'güçlü bir ittifak kurulmalı (should) ... sağlıklı bir birliktelik için (amaç)'. B şıkkı bunu aynı zorunluluk derecesi ve amaç ilişkisiyle korur.",
+      "distractors": {
+        "0": "'Whether... will succeed depends on their future' yapısı belirsiz bir sonucu sorgular; oysa orijinal cümle bir tavsiye/zorunluluk bildirir.",
+        "2": "'may rely heavily on each other' ifadesi 'may' kullanarak orijinaldeki 'should' kesinliğini zayıflatır.",
+        "3": "'It is possible ONLY through...' ifadesi aşırı bir kısıtlama ekler; orijinal cümle böyle mutlak bir tekillik iddia etmez.",
+        "4": "'Some strong link...is necessary' ifadesi 'some' ile orijinaldeki 'a strong ALLIANCE' yerine daha belirsiz bir ifade kullanır."
+      },
+      "takeaway": "Restatement sorularında modal/kesinlik kelimelerine (should/may/must/only) dikkat et; orijinal cümledeki kesinlik derecesini değiştiren şıklar çeldiricidir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "Most smartphones, with notable screen characteristics, are not easily broken unless you drop them several times."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Orijinal cümledeki SEBEP-SONUÇ bağlacını ('since...they have a tendency') hedef cümlede koruyan şıkkı ara.",
+      "correct": "Orijinal cümle: 'akıllı telefonların çoğu sadece ekrandan ibarettir, bu yüzden düşürüldüğünde kırılma eğilimi vardır'. B şıkkı bu sebep-sonuç yapısını ve derece ifadesini doğru korur.",
+      "distractors": {
+        "0": "'If you drop a smartphone which can be easily damaged...' yapısı sebep-sonuç ilişkisini bir koşula çevirir ve 'may' orijinaldeki 'nasty TENDENCY' ifadesini zayıflatır.",
+        "2": "'if you drop them in a nasty way' ifadesi 'nasty' kelimesini yanlış yere (düşürme şekline) bağlar.",
+        "3": "'Smartphones have such fragile screens that...' yapısı sebebi (ekrandan ibaret olma) tamamen atlar.",
+        "4": "'are NOT easily broken UNLESS...' ifadesi anlamı tamamen tersine çevirir."
+      },
+      "takeaway": "Restatement sorularında sebep-sonuç bağlaçlarının (since/so) hangi şıkta korunduğuna, hangisinde kaybolduğuna dikkat et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "Haydn, who was a notable composer, taught and helped such prominent figures as Mozart and Albrechtsberger, both of whom were quite famous composers of the time."
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Orijinal cümledeki EKLEME yapısını ('as well as being X, Y did Z1 and Z2') hedef cümlede koruyan şıkkı ara.",
+      "correct": "Orijinal cümle: 'harika bir besteci olmasının yanı sıra, Haydn önemli isimlere destek oldu ve öğretti'. A şıkkı bu ekleme yapısını ve iki fiili (destek+öğretme) birebir korur.",
+      "distractors": {
+        "1": "'acquainted with' kullanarak orijinaldeki 'supported and taught' aktif eylemini zayıflatır.",
+        "2": "'Supporting and teaching...LED Haydn to become a successful composer' ifadesi neden-sonuç ilişkisini tersine çevirir.",
+        "3": "'More than just being the teacher...' ifadesi vurguyu öğretmenliğe kaydırır; orijinalde vurgu tam tersi yöndedir.",
+        "4": "'both of whom were quite famous composers' ifadesi orijinalde olmayan bir bilgi (Mozart ve Albrechtsberger'in her ikisinin de besteci olduğu) ekler."
+      },
+      "takeaway": "Restatement sorularında orijinal cümlede olmayan ekstra bilgi ekleyen veya neden-sonucu tersine çeviren şıklara dikkat et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -105,7 +135,17 @@
       "Coffee and petroleum are the two most valuable commodities in trade among countries."
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "'second only to X' kalıbının anlamını (X birinci, konu ikinci) doğru aktaran şıkkı ara.",
+      "correct": "Orijinal cümle: 'kahve ticareti, petrolden sonra ikinci sıradadır'. D şıkkı bu sıralamayı (petrol birinci, kahve onu takip eder) doğru ve net şekilde ifade eder.",
+      "distractors": {
+        "0": "'coffee SURPASSES it' ifadesi anlamı tersine çevirir; orijinalde kahve petrolden sonra gelir, bu şıkta kahvenin petrolü geçtiği iddia edilir.",
+        "1": "'Increasing demand for petroleum makes coffee the second most popular' ifadesi orijinalde olmayan bir sebep uydurur.",
+        "2": "'Petroleum trading ranks the SECOND...compared to coffee' ifadesi sıralamayı tersine çevirir; orijinalde ikinci olan kahvedir.",
+        "4": "'the two most valuable commodities' ifadesi ikisini eşit sunar; oysa orijinal net bir sıralama belirtir."
+      },
+      "takeaway": "'second only to X' = X'ten sonra ikinci sırada, yani X birinci demektir; bu kalıbı ters okumak en sık yapılan hatadır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,

@@ -18,7 +18,17 @@
       "come out of"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir sözcük/ifade tamamlama sorusu. Boşluktan önceki ve sonraki cümle parçalarının anlamca birbirini nasıl tamamladığına bak; cümledeki 'does not necessarily mean' zıtlık kurduğu için boşluğa, sabır göstermenin doğal sonucu gibi görünen ama aslında kastedilmeyen bir eylem gelmeli.",
+      "correct": "'being patient... does not necessarily mean they have to ---- their inappropriate behaviour' cümlesinde sabırlı olmakla bağlantılı en doğal fiil 'tolere etmek/katlanmak'tır; 'put up with' tam olarak bu anlama gelir ve cümledeki 'necessarily' vurgusuyla örtüşür.",
+      "distractors": {
+        "0": "'do away with' bir şeyi ortadan kaldırmak/yok etmek demektir; sabırlı olmanın 'davranışı ortadan kaldırmak' anlamına gelmediği açık olduğu için bağlama uymaz.",
+        "1": "'look down on' küçümsemek demektir; cümle davranışa katlanma/tolerans temasını işlediği için küçümseme fiili anlamsal olarak yanlış yöne gider.",
+        "3": "'get up to' genellikle 'yaramazlık yapmak' anlamında kullanılır ve öznesi genellikle davranışı yapan kişidir, burada ebeveynin davranışa karşı tutumunu anlatan bir fiil gerekir.",
+        "4": "'come out of' bir yerden/durumdan çıkmak anlamındadır, somut bir hareketi ifade eder; soyut bir davranışa 'katlanmak' anlamını karşılamaz."
+      },
+      "takeaway": "'put up with' = birine/bir şeye katlanmak, tolere etmek; YDS'de sık çıkan temel bir phrasal verb."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "mistakenly"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Cümledeki 'but' bağlacı bir zıtlık kuruyor: ilaç 1890'larda bulunmuş ama bir şey hâlâ gizemini koruyor. Boşluk, 'nasıl' sorusunun hangi düzeyde cevaplanamadığını belirten bir zarf olmalı.",
+      "correct": "'precisely how it relieves pain remains a mystery' = ilacın ağrıyı TAM OLARAK nasıl dindirdiği bilinmiyor; 'precisely' burada 'how' sorusunun kesinliğini vurgular ve 'mystery' kelimesiyle uyumludur.",
+      "distractors": {
+        "0": "'adversely' olumsuz/zararlı biçimde demektir; cümle ilacın nasıl çalıştığının bilinmediğini anlatıyor, olumsuz bir etkiden bahsetmiyor.",
+        "2": "'increasingly' giderek artan biçimde demektir; burada bir artış söz konusu değil, bilinmezlik söz konusu.",
+        "3": "'comparatively' karşılaştırmalı olarak demektir; cümlede herhangi bir karşılaştırma yok.",
+        "4": "'mistakenly' yanlışlıkla demektir; ilacın nasıl çalıştığının bilinmediği anlatılmak isteniyor, 'yanlış bilme' değil 'bilmeme' durumu var."
+      },
+      "takeaway": "'precisely' + soru kelimesi (how/what/why) kalıbı, bir şeyin tam olarak nasıl/ne olduğunun bilinmediği anlamını verir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "give away"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "'attempt to ---- the differences' yapısında boşluğa gelecek fiil, 'farklılıkları açıklamaya çalışan teoriler' anlamını tamamlamalı. Fiilin nesnesi soyut bir kavram (farklılıklar) olduğuna dikkat et.",
+      "correct": "'account for' = açıklamak, sebebini ortaya koymak demektir; 'theories that attempt to account for the differences' = 'farklılıkları açıklamaya çalışan teoriler', cümlenin bilimsel açıklama temasıyla tam örtüşür.",
+      "distractors": {
+        "0": "'carry out' bir eylemi gerçekleştirmek/yürütmek demektir (ör. bir deneyi carry out etmek); soyut bir 'farklılığı' carry out etmek anlamsızdır.",
+        "1": "'take over' bir şeyin kontrolünü ele geçirmek demektir; farklılıkların 'ele geçirilmesi' bağlama uymaz.",
+        "2": "'refer to' bir şeye değinmek/atıfta bulunmak demektir; teoriler farklılıklara sadece değinmekle kalmıyor, onları açıklamaya çalışıyor, bu yüzden daha zayıf bir seçenek.",
+        "4": "'give away' bir şeyi ele vermek veya bedavaya vermek demektir; açıklama anlamıyla ilgisi yoktur."
+      },
+      "takeaway": "'account for' = bir şeyin nedenini açıklamak; bilimsel/akademik metinlerde çok sık geçen bir phrasal verb."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -105,7 +135,17 @@
       "estimates"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'make ---- of X' kalıbında boşluk, X hakkında yapılan bir zihinsel işlemi (tahmin, çıkarım) ifade eden bir isim olmalı. Ayakkabıya bakarak yaş/gelir hakkında ne 'yapılır' diye düşün.",
+      "correct": "'make estimates of age, income...' = yaş, gelir hakkında TAHMİNLERDE bulunmak; 'estimate' kelimesi sınırlı bilgiyle yapılan tahmini karşılar ve 'based on footwear alone' ifadesiyle uyumludur.",
+      "distractors": {
+        "0": "'regularities' düzenlilikler/kurallılıklar demektir; kişi hakkında 'düzenlilik yapmak' anlamsızdır.",
+        "1": "'incentives' teşvikler demektir; ayakkabıya bakarak biri için teşvik üretilmez, bağlamla ilgisi yoktur.",
+        "2": "'requisites' gerekli şartlar demektir; tahmin bağlamına uymaz.",
+        "3": "'tendencies' eğilimler demektir; 'make tendencies of age' doğal bir kullanım değildir, oysa 'make estimates of' standart bir kalıptır."
+      },
+      "takeaway": "'make an estimate of X' = X hakkında tahminde bulunmak; sınırlı veriyle çıkarım yapma bağlamında sık kullanılan bir kalıp."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -134,7 +174,17 @@
       "distinguished"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "'has ---- a number of interesting discussions' yapısında boşluk, 'hızlı büyümenin' tartışmalara nasıl bir etkisi olduğunu anlatan bir fiil olmalı; büyüme genelde tartışmaları başlatır/artırır, azaltmaz.",
+      "correct": "'has stimulated a number of interesting discussions' = hızlı büyüme, tartışmaları TETİKLEDİ; 'stimulated' bir şeyin ortaya çıkmasına neden olma anlamıyla cümledeki neden-sonuç ilişkisine uyar.",
+      "distractors": {
+        "0": "'confirmed' bir şeyi doğrulamak demektir; büyüme tartışmaları 'doğrulamaz', ortaya çıkarır, bu yüzden anlam kaymış olur.",
+        "1": "'postponed' ertelemek demektir; büyümenin tartışmaları ERTELEMESİ mantıksal olarak ters bir ilişki kurar.",
+        "3": "'weakened' zayıflatmak demektir; büyüme tartışmaları zayıflatmaz, tam tersine artırır.",
+        "4": "'distinguished' ayırt etmek demektir; 'tartışmaları ayırt etmek' anlamsal olarak boşluğa uymaz."
+      },
+      "takeaway": "Bir gelişmenin/artışın 'tartışma/ilgi doğurması' bağlamında 'stimulate' fiili sık kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -163,7 +213,17 @@
       "eager"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'most countries are ---- to be able to sell their goods' yapısında boşluk, ülkelerin dış pazarlarda satış yapma konusundaki isteğini belirten bir sıfat olmalı; 'trade is so important' ifadesiyle bağlantı kur.",
+      "correct": "'are eager to be able to sell' = ülkeler dış pazarlarda satış yapmaya HEVESLİ; 'trade is so important in economic development' cümlesindeki önem vurgusu, ülkelerin bunu istemesiyle mantıksal olarak bağlanır.",
+      "distractors": {
+        "0": "'insufficient' yetersiz demektir; 'yetersiz olmak' ile 'satış yapabilmek' arasında ilişki kurulamaz.",
+        "1": "'inconsistent' tutarsız demektir; cümledeki 'satabilmek için' amacıyla mantıksal bir bağı yoktur.",
+        "2": "'entitled' bir hakka sahip olmak demektir; burada satış yapma HAKKI değil, satış yapma İSTEĞİ vurgulanıyor.",
+        "3": "'vulnerable' savunmasız/kırılgan demektir; olumlu bir istek bağlamında negatif bir sıfat anlam çelişkisi yaratır."
+      },
+      "takeaway": "'eager to do sth' = bir şeyi yapmaya istekli/hevesli olmak; sebep-sonuç cümlelerinde motivasyonu belirtmek için kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -192,7 +252,17 @@
       "will be mapping / having painted"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir zaman/yapı sorusu. İlk boşluk ana eylemi (bilim insanlarının haritalama eylemi) anlatır; ikinci boşluk bu eylemin eşzamanlı sonucunu (bir resim ortaya çıkarma) anlatan bir -ing yapısı olmalı.",
+      "correct": "'have mapped ... painting' = bilim insanları haritaladı (present perfect: geçmişte başlayıp etkisi süren eylem) ve bu haritalama eşzamanlı olarak bir resim ORTAYA ÇIKARIYOR (present participle 'painting'). Bu ikili yapı, YDS'de sık görülen 'ana fiil + sonucunu bildiren -ing' kalıbına uyar.",
+      "distractors": {
+        "1": "'mapped / having been painted': 'having been painted' resmin haritalamadan ÖNCE zaten çizilmiş olduğunu ima eder; oysa resmi ortaya çıkaran haritalama eylemidir, zaman/mantık uyumsuzluğu var.",
+        "2": "'had mapped / being painted': 'had mapped' cümlede belirtilmemiş bir geçmiş referans noktası gerektirir; ayrıca 'being painted' edilgen yapısı özneyi belirsizleştirir.",
+        "3": "'are mapping / painted': şimdiki zaman ile düz geçmiş zaman ortacı arasında zaman uyumu yoktur; eşzamanlı sonuç için '-ing' yapısı gerekir.",
+        "4": "'will be mapping / having painted': gelecek zaman, hâlâ etkisi süren bir çalışmayı anlatma amacına uymaz; 'having painted' sonucun haritalamadan önce tamamlandığını ima eder."
+      },
+      "takeaway": "'have + V3 ... V-ing' kalıbı, geçmişte yapılan ve hâlâ etkisi süren bir eylemle onun eşzamanlı sonucunu birlikte anlatır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -221,7 +291,17 @@
       "Just as"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Boşluktan sonra 'certain conceptual strategies can be learned' ile ana cümle 'specific levels of cognitive development must be achieved' arasındaki zaman ilişkisine (önce/sonra) bak.",
+      "correct": "'Before certain conceptual strategies can be learned, specific levels of cognitive development must be achieved' = kavramsal stratejiler öğrenilmeden ÖNCE belirli bilişsel gelişim düzeylerine ulaşılmalıdır; 'before' iki olay arasındaki zaman sırasını doğru kurar.",
+      "distractors": {
+        "0": "'In case' bir ihtimale karşı önlem anlamı taşır; burada bir zaman sırası anlatıldığı için uymaz.",
+        "1": "'Now that' bir durumun artık gerçekleştiğini belirtir (sebep bildirir); burada iki olay arasında sıralama var, sebep-sonuç değil.",
+        "2": "'Unless' olumsuz koşul bildirir; cümlede böyle bir olumsuz koşul yapısı yoktur.",
+        "4": "'Just as' eşzamanlılık veya benzerlik bildirir; burada net bir önce-sonra ilişkisi var, eşzamanlılık değil."
+      },
+      "takeaway": "'Before + cümle, must + fiil' yapısı, bir şeyin gerçekleşmesi için önce başka bir koşulun sağlanması gerektiğini anlatır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -250,7 +330,17 @@
       "revealed / could have been foreseen"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "İki boşluklu bir cümle: ilki raporun ne açıkladığını, ikincisi ise felaketin geçmişte önceden görülüp görülemeyeceğini anlatan geçmişe yönelik bir modal yapı olmalı.",
+      "correct": "'revealed / could have been foreseen' = rapor açıkladı (basit geçmiş) ki felaket ÖNGÖRÜLEBİLİRDİ ('could have been + V3' yapısı); bu, 'felaket önceden fark edilebilirdi ama edilmedi' anlamını doğru verir.",
+      "distractors": {
+        "0": "'has revealed / needs to be foreseen': 'needs to be foreseen' şimdiki/gelecekteki bir ihtiyacı belirtir, oysa felaket 2011'de zaten olmuş bitmiştir.",
+        "1": "'can reveal / should have been foreseen': 'can reveal' genel bir yeteneği ifade eder ama burada belirli, tamamlanmış bir rapor var; 'should have' de 'could have' kadar 'mümkündü ama olmadı' anlamını tam karşılamaz.",
+        "2": "'could reveal / will be foreseen': 'will be foreseen' gelecek zamanı işaret eder, ama öngörülüp görülemediği de geçmişe dair bir değerlendirme olmalıdır.",
+        "3": "'reveals / must be foreseen': 'must be foreseen' zorunluluk bildirir, oysa cümle geçmişteki bir imkânı sorguluyor."
+      },
+      "takeaway": "'could have been + V3' = geçmişte mümkün olan ama gerçekleşmemiş bir durumu anlatır ('...olabilirdi ama olmadı')."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -279,7 +369,17 @@
       "so / that"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "'can ---- enhance X ---- diminish Y' yapısı bir korelatif bağlaç kalıbıdır. İki fiilin (enhance/diminish) birbirine nasıl bağlandığına bak.",
+      "correct": "'can both enhance ... and diminish ...' = pozitif tutum HEM anıların doğruluğunu artırabilir HEM DE olumsuz tonlarını azaltabilir; 'both...and' korelatif bağlacı iki olumlu sonucu birlikte sunar.",
+      "distractors": {
+        "0": "'just as' böyle bir korelatif çift oluşturmaz, 'tam olarak ... gibi' anlamına gelir ve cümledeki yapıyla uyuşmaz.",
+        "2": "'as...as' bir eşitlik/karşılaştırma bağlacıdır, burada iki farklı fiili birbirine bağlamak için kullanılmaz.",
+        "3": "'rather than' bir tercih/zıtlık bildirir, oysa cümlede iki etki BİRLİKTE gerçekleşiyor, biri diğerinin yerine değil.",
+        "4": "'so...that' sonuç bildiren bir kalıptır, burada iki fiili birbirine bağlayan bir korelatif yapı gerekiyor."
+      },
+      "takeaway": "'both X and Y' = hem X hem Y; iki olumlu/benzer sonucu birlikte sunmak için kullanılan temel korelatif bağlaç."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -308,7 +408,17 @@
       "thus"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Cümlede 'often think of X' (Vietnam, Avrupa) ile gerçek durum ('location is generally the US') arasında bir zıtlık var. Boşluğa bu çelişkiyi bağlayan bir bağlaç gelmeli.",
+      "correct": "'..., but the location for these films is generally the United States' = beklenti (Vietnam/Avrupa) ile gerçek (ABD) arasındaki zıtlığı 'but' bağlacı en doğal şekilde kurar.",
+      "distractors": {
+        "0": "'only if' bir koşul bildirir; cümlede bir koşul yok, bir zıtlık var.",
+        "1": "'as' burada sebep veya eşzamanlılık anlamı taşır, zıtlık bildirmez.",
+        "3": "'given that' bir öncülü kabul ederek sonuç çıkarma anlamı taşır (sebep bildirir); burada zıtlık gerekiyor.",
+        "4": "'thus' sonuç bildiren bir zarftır; cümledeki ilişki sonuç değil, zıtlıktır."
+      },
+      "takeaway": "Beklenti ile gerçekliğin çeliştiği cümlelerde en yalın zıtlık bağlacı 'but'tur."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -337,7 +447,17 @@
       "so that"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'considerable training ... ---- they can carry out organizational policies with few faults' yapısında boşluk, eğitimin amacını bildiren bir bağlaç olmalı ('öyle ki, bu sayede').",
+      "correct": "'so that they can carry out...' = eğitim veriliyor Kİ personel politikaları hatasız uygulayabilsin; 'so that + can' kalıbı amaç cümleleri kurmak için standarttır.",
+      "distractors": {
+        "0": "'because' sebep bildirir ama cümlede eğitim VERİLMESİNİN sebebi değil, AMACI anlatılıyor.",
+        "1": "'whereas' zıtlık bildirir, burada bir amaç ilişkisi var, zıtlık yok.",
+        "2": "'even though' beklenmedik bir durumu kabul etme/zıtlık bildirir, cümledeki amaç ilişkisiyle uyuşmaz.",
+        "3": "'as if' sanki/gerçek olmayan bir benzetme bildirir, cümlede böyle bir varsayımsal benzetme yok."
+      },
+      "takeaway": "'so that + can/could' = bir eylemin amacını belirtmek için kullanılan standart kalıp."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -366,7 +486,17 @@
       "through / from"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "İki boşluklu bir cümle: ilk boşluk 'uyku' ile ilgili bir zaman edatı, ikinci boşluk 'tehlikeye karşı tetikte olma' ile ilgili bir edat gerektirir.",
+      "correct": "'during sleep / for danger' = 'during' bir zaman dilimi içinde anlamı taşır ve 'on the lookout for' tehlikeYE KARŞI tetikte olmak anlamında sabit bir edat kalıbıdır ('be on the lookout for sth').",
+      "distractors": {
+        "1": "'in/by': 'in sleep' daha az doğal bir kullanımdır ve 'lookout by danger' anlamsızdır.",
+        "2": "'at/into': 'at sleep' standart bir kullanım değildir; 'lookout into danger' da kalıba uymaz.",
+        "3": "'on/against': 'on sleep' anlamsızdır; yerleşik kalıp 'on the lookout FOR' şeklindedir, 'against' değil.",
+        "4": "'through/from': 'through sleep' bir anlam verebilir ama asıl kalıp 'during'dir; 'lookout from danger' kalıba uymaz."
+      },
+      "takeaway": "'be on the lookout FOR sth' = bir şeye karşı tetikte olmak; sabit edat kalıbı olarak ezberlenmeli."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -395,7 +525,17 @@
       "ought to expand / may have earned"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "İki boşluklu cümle: ilk boşluk 'evrenin genişlemesi' olgusunun hangi zamanda geçerli olduğunu, ikincisi bu keşfin Nobel ödülü kazandırdığını anlatan fiil zamanlarını test ediyor.",
+      "correct": "'is expanding / has earned' = evrenin HÂLÂ genişlemekte olduğu bir gerçek olduğu için şimdiki zaman kullanılır; bu keşif Nobel ödülü KAZANDIRMIŞTIR ve sonucun günümüze etkisi sürdüğü için 'has earned' doğru zamandır.",
+      "distractors": {
+        "0": "'could expand / should have earned': 'could expand' bir olasılık bildirir, oysa genişleme kanıtlanmış bir olgudur; 'should have earned' 'hak ediyordu ama almadılar' anlamı taşır, oysa ödülü gerçekten kazanmışlardır.",
+        "1": "'was expanding / must have earned': geçmiş zaman, evrenin hâlâ genişlemekte olan durumunu tam yansıtmaz; 'must have earned' güçlü bir tahmindir, kesin bilgi değil.",
+        "2": "'will be expanding / had earned': gelecek zaman şu an genişlemekte olan durumu anlatmaz; 'had earned' belirli bir geçmiş referans noktası gerektirir.",
+        "4": "'ought to expand / may have earned': 'ought to expand' bir tavsiye/beklenti bildirir; 'may have earned' belirsiz bir olasılık taşır, oysa kazandıkları kesindir."
+      },
+      "takeaway": "Hâlâ geçerli olan bilimsel olgular şimdiki zamanla, günümüze etkisi süren geçmiş başarılar ise present perfect ile anlatılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -424,7 +564,17 @@
       "Upon / by"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "İki boşluklu cümle: ilk boşluk peynirin içerdiği besin öğelerini tanıtan bir edat, ikincisi ise 'bir diyete dahil edilme' anlamı veren edat gerektirir.",
+      "correct": "'With all the essential amino acids... / in any healthy diet' = 'with' peynirin özelliklerini tanıtan cümle başı edatıdır; 'included in a diet' ifadesindeki standart edat 'in'dir.",
+      "distractors": {
+        "0": "'For/at': 'For all the essential amino acids' bu tanıtım yapısı için doğal değildir; 'included at a diet' da standart kullanım değildir.",
+        "1": "'Under/to': 'Under all the essential amino acids' anlamsızdır; 'included to a diet' hatalı bir edat kullanımıdır (doğrusu 'in').",
+        "2": "'Of/from': 'Of all the essential amino acids' farklı bir anlam çağrıştırır; 'included from a diet' anlamca terstir.",
+        "4": "'Upon/by': 'Upon all the essential amino acids' anlamsızdır; 'included by a diet' edilgen bir yapı çağrıştırır."
+      },
+      "takeaway": "'be included IN a diet/plan' kalıbındaki edat her zaman 'in'dir; peynirin özelliklerini sıralarken cümle başında 'With' kullanmak yaygın bir kalıptır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -453,7 +603,17 @@
       "instead of"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "'explained ---- the same motives' yapısında boşluk, bir açıklamanın dayandığı temeli belirten bir ifade olmalı ('şu açıdan, şu temelde').",
+      "correct": "'explained in terms of the same motives' = zenginlerin suçları AYNI SAİKLER ÇERÇEVESİNDE açıklanabilir; 'in terms of' bir şeyi hangi ölçütle ele aldığını belirtmek için kullanılan standart bir kalıptır.",
+      "distractors": {
+        "1": "'prior to' bir zaman önceliği bildirir, açıklama çerçevesiyle ilgisi yoktur.",
+        "2": "'apart from' bir şeyi hariç tutma anlamı taşır, açıklama çerçevesi anlamını vermez.",
+        "3": "'in spite of' zıtlık/rağmen anlamı taşır, cümlede bir zıtlık yok.",
+        "4": "'instead of' bir şeyin yerine başka bir şey anlamı taşır, açıklama temelini belirtmez."
+      },
+      "takeaway": "'in terms of' = bir konuyu hangi açıdan/ölçütle ele aldığını belirtmek için kullanılan çok yaygın akademik kalıp."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -482,7 +642,17 @@
       "utterly"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir cloze (parça tamamlama) sorusu. Boşluğun hemen öncesi/sonrasındaki kelimeyle nasıl bir sözcük öbeği oluşturduğuna bak; genellikle boşluk tek başına değil, yanındaki kelimeyle birlikte anlam kurar.",
+      "correct": "Boşluk 'irrational' sıfatını nitelendiren bir zarf istiyor; 'utterly irrational' = tamamen mantıksız, cümledeki 'sağlıksız yiyecek yiyip kötü hissetmek' durumunun aşırılığını doğru vurgular.",
+      "distractors": {
+        "0": "'similarly irrational' bir benzetme gerektirir ama cümlede daha önce bahsedilen benzer bir 'irrational' durum yoktur.",
+        "1": "'competitively irrational' anlamsızdır; rekabetçi bir bağlam söz konusu değildir.",
+        "2": "'compulsorily irrational' = 'zorunlu olarak mantıksız' anlamca tutarsızdır, mantıksızlık burada bir seçim/alışkanlık, zorunluluk değil.",
+        "3": "'incidentally' tesadüfen demektir ve bir dereceyi değil, bir bağlantı biçimini belirtir; sıfatı yoğunlaştırma işlevi görmez."
+      },
+      "takeaway": "Cloze sorularında boşluğun bitişiğindeki kelimeyle oluşan collocation'ı ara; tek kelimeyle karar verme, çevresindeki 1-2 kelimeye bak."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -511,7 +681,17 @@
       "off"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Boşluktan hemen önceki 'open' fiiliyle birlikte hangi edatın sabit bir kalıp oluşturduğunu düşün ('bir şeye açık/maruz olmak').",
+      "correct": "'open to a host of serious illnesses' = kişiyi pek çok ciddi hastalığa AÇIK/maruz bırakmak; 'open to sth' olumsuz sonuçlara maruz kalma bağlamında sabit bir edat kalıbıdır.",
+      "distractors": {
+        "0": "'open with' farklı bir anlam taşır (bir şeyle başlamak), maruz kalma anlamını vermez.",
+        "2": "'open in' yer/zaman bildiren bir kalıptır, 'maruz bırakma' anlamına gelmez.",
+        "3": "'open by' standart bir edat kalıbı değildir.",
+        "4": "'open off' anlamca uyumsuzdur, böyle bir kalıp yoktur."
+      },
+      "takeaway": "'open to sth' (olumsuz bir şeye) = maruz/açık olmak; sağlık ve risk bağlamında sık geçen edat kalıbı."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -540,7 +720,17 @@
       "owing to"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Cümle 'the latter' (şimdiki zevk) ile 'the former'ı (uzak gelecekteki sağlık) karşılaştırıyor. Boşluk bu iki zıt kavramı birbirine bağlayan bir ifade olmalı.",
+      "correct": "'as opposed to' = -in aksine, karşıtlık bildirir; burada 'şimdi burada olan' (the latter) ile 'aylar/yıllar sonra olan' (the former) arasındaki karşıtlığı doğru kurar.",
+      "distractors": {
+        "0": "'in spite of' rağmen anlamı taşır, burada karşılaştırma/karşıtlık kurulmuyor, rağmen ilişkisi yok.",
+        "1": "'as well as' ekleme/birliktelik bildirir, oysa cümle iki zıt şeyi karşılaştırıyor.",
+        "3": "'as a result of' sebep-sonuç bildirir, burada bir karşılaştırma var, sonuç ilişkisi değil.",
+        "4": "'owing to' da sebep bildirir, cümledeki zıtlık/karşılaştırma ilişkisine uymaz."
+      },
+      "takeaway": "'as opposed to' = -in aksine, -e karşıt olarak; iki şeyi karşılaştırırken kullanılan kalıp."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -569,7 +759,17 @@
       "To be known"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Cümle başındaki bu boşluk bir isim öbeğini tanımlayan indirgenmiş bir sıfat-fiil (participle) yapısı olmalı: '[Bu eğilim,] X olarak bilinen, ...dir.'",
+      "correct": "'Known as temporal discounting, it is our tendency...' = bu kavram 'temporal discounting' OLARAK BİLİNEN bir eğilimdir; 'known as X' cümle başında kullanılan edilgen ortaç yapısıdır (kavram halihazırda bu isimle bilinmektedir).",
+      "distractors": {
+        "0": "'To know as' mastar yapısı, bir isim tanımlanırken gereken pasif 'bilinen' anlamını karşılamaz.",
+        "2": "'To have known' geçmişte bilme eylemini tamamlamış olmayı ifade eder, burada bir isim tanımlanıyor.",
+        "3": "'Having known' özne tarafından yapılan tamamlanmış bir bilme eylemini anlatır (etken), oysa burada kavram 'bilinen' (edilgen) olarak tanımlanıyor.",
+        "4": "'To be known as' bir amacı/geleceği ima eder; oysa kavram HALİHAZIRDA bu isimle bilinmektedir."
+      },
+      "takeaway": "'Known as X, [özne] ...' = X olarak bilinen [özne]; cümle başında kullanılan indirgenmiş edilgen ortaç yapısı."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -598,7 +798,17 @@
       "but"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Boşluk bir zaman dilimini niteleyen ilgi cümleciğinin başlangıcı olmalı: '[bir zamanda] X favoured Y' -- bu 'zaman'ı tanıtan bağlaç hangisi?",
+      "correct": "'a time WHEN...' = ... olduğu bir dönem/zaman; 'when' burada 'a time' ismini niteleyen ilgi zamiri olarak kullanılır ve cümledeki zaman ifadesini doğru tamamlar.",
+      "distractors": {
+        "1": "'if' koşul bildirir, burada bir ZAMAN dilimini tanımlayan bir ilgi cümleciği gerekiyor, koşul değil.",
+        "2": "'unless' olumsuz koşul bildirir, aynı sebeple uymaz.",
+        "3": "'although' zıtlık bildirir, burada bir zaman ifadesi tanımlanıyor, zıtlık yok.",
+        "4": "'but' bir bağlaçtır, 'a time' ismini niteleyen bir ilgi zamiri işlevi göremez."
+      },
+      "takeaway": "'a time WHEN...' = ... olduğu bir dönem/zaman; zaman bildiren isimlerden sonra ilgi zamiri olarak 'when' kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -627,7 +837,17 @@
       "fights down"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "'The evidence in recent studies ---- Kraepelin's observation' yapısında boşluk, kanıtın gözlemle nasıl bir ilişkisi olduğunu (destekleme, çürütme, vb.) belirten bir fiil olmalı.",
+      "correct": "'backs up' = destekler/doğrular; 'evidence backs up the observation' = kanıt gözlemi destekliyor, cümledeki bilimsel doğrulama temasına uyar.",
+      "distractors": {
+        "0": "'gives in' pes etmek/boyun eğmek demektir, kanıtın bir gözlemi 'desteklemesi' anlamına gelmez.",
+        "2": "'gets through' bir şeyi başarıyla atlatmak/ulaştırmak demektir, kanıt-gözlem ilişkisine uymaz.",
+        "3": "'leaves out' dışarıda bırakmak demektir; kanıt gözlemi 'dışarıda bırakmaz', tam tersine destekler.",
+        "4": "'fights down' bastırmak demektir; kanıt bağlamında anlamsızdır."
+      },
+      "takeaway": "'back up' = bir iddiayı/gözlemi kanıtla desteklemek; akademik metinlerde çok sık geçen bir phrasal verb."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -656,7 +876,17 @@
       "at"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "'individuals later diagnosed ---- schizophrenia' yapısında 'diagnose' fiiliyle birlikte hangi edatın sabit bir kalıp oluşturduğunu düşün.",
+      "correct": "'diagnosed with schizophrenia' = şizofreni TEŞHİSİ konmuş; 'diagnose sb WITH an illness' sabit edat kalıbıdır.",
+      "distractors": {
+        "1": "'for' ile 'diagnosed for' standart bir kullanım değildir.",
+        "2": "'in' ile 'diagnosed in' yanlış edat kullanımıdır.",
+        "3": "'by' ile 'diagnosed by' teşhisi KİMİN koyduğunu belirtir, hastalığın adını değil.",
+        "4": "'at' ile 'diagnosed at' anlamca ve gramer olarak uyumsuzdur."
+      },
+      "takeaway": "'be diagnosed WITH an illness' = bir hastalık teşhisi konmak; tıbbi metinlerde sabit edat kalıbı olarak ezberlenmeli."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -685,7 +915,17 @@
       "used to save"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "'Knowing risk factor and warning signs ---- many children from being diagnosed too late' cümlesinin genel-geçer bir olasılığı mı yoksa geçmişe dönük bir durumu mu anlattığına bak.",
+      "correct": "'can save many children FROM being diagnosed too late' = risk faktörlerini bilmek çocukları kurtarABİLİR; 'can' genel bir olasılığı/potansiyeli anlatır ve 'save sb from V-ing' sabit yapısıyla örtüşür.",
+      "distractors": {
+        "0": "'could have saved' geçmişte kaçırılmış bir fırsatı ima eder, oysa cümle genel bir olası fayda anlatıyor, bitmiş bir olay değil.",
+        "1": "'must save' zorunluluk bildirir, cümle bir olasılık/potansiyel faydadan bahsediyor, kesin bir zorunluluktan değil.",
+        "3": "'should have saved' geçmişe dönük bir pişmanlık ifade eder, cümledeki genel-geçer ifadeyle uyuşmaz.",
+        "4": "'used to save' geçmişte tekrarlanan ama artık geçerli olmayan bir alışkanlığı anlatır."
+      },
+      "takeaway": "'can + V' = genel bir olasılığı/potansiyeli anlatır; 'save sb FROM V-ing' = birini bir şeyden kurtarmak, sabit yapı."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -714,7 +954,17 @@
       "unfortunately"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "'With autism, ----, the American Academy of Paediatrics has issued guidelines' cümlesinde otizmin, önceki genel ifadeye nasıl bir ÖRNEK olarak sunulduğuna bak.",
+      "correct": "'for example' = genel bir ifadeden sonra somut bir örnek (otizm) vermek için kullanılır; cümle otizmi risk faktörü bilincine dair somut bir örnek olarak sunar.",
+      "distractors": {
+        "0": "'consequently' sonuç bildirir, burada önceki cümlenin SONUCU değil, ona dair somut bir ÖRNEK veriliyor.",
+        "2": "'in short' bir özetleme ifadesidir, burada özetleme değil örnekleme yapılıyor.",
+        "3": "'otherwise' aksi halde anlamı taşır, cümlede bir alternatif senaryo yok.",
+        "4": "'unfortunately' ne yazık ki anlamı taşır, cümle olumsuz bir duyguyu değil somut bir örneği aktarıyor."
+      },
+      "takeaway": "'for example/for instance' = genel bir ifadeden sonra somut bir örnek vermek için kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -743,7 +993,17 @@
       "unlike"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "'watch for possible problems ---- a baby avoiding eye contact' yapısında boşluk, sorunlara SOMUT ÖRNEKLER vermek için kullanılan bir ifade olmalı.",
+      "correct": "'such as' = ... gibi; 'problems such as a baby avoiding eye contact' örnekleme yapısıdır ve cümledeki genel 'olası sorunlar' ifadesine somut örnekler ekler.",
+      "distractors": {
+        "0": "'due to' sebep bildirir, burada örnekleme yapılıyor, sebep değil.",
+        "1": "'despite' rağmen anlamı taşır, cümlede bir zıtlık yok.",
+        "2": "'besides' ilaveten anlamı taşır, burada bir örnek listesi veriliyor, ekleme değil.",
+        "4": "'unlike' farklı olarak anlamı taşır, cümledeki ilişki bir örnekleme, farklılık değil."
+      },
+      "takeaway": "'such as' = ... gibi; bir kategoriye ait somut örnekler verirken kullanılan temel kalıp."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -772,7 +1032,17 @@
       "Penguins are weird birds in that they cannot fly and are instead proficient swimmers"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir cümle tamamlama sorusu; boşluk cümlenin geri kalanıyla (özellikle 'but' bağlacıyla) mantıksal bir bütün oluşturmalı.",
+      "correct": "'Scientists have known about fossil penguins for more than 150 years, BUT the remains they recovered early on held little information' = uzun süredir bilinmesine rağmen ilk bulunan kalıntıların az bilgi vermesi mantıklı bir zıtlık kurar.",
+      "distractors": {
+        "0": "Fosil kayıtlarının 1970'lerde iyileşmeye başlaması, 'but' ile zıtlık kuracak genel bir önerme (bilgi birikimi) sunmaz.",
+        "1": "Coğrafi dağılım cümlesi, 'kalıntıların bilgi vermemesi' ile doğrudan bağlantılı değildir.",
+        "2": "Tek bir olayı (ilk fosil) anlatır ama 'but' ile zıtlık kuracak genel bir önerme sunmaz.",
+        "4": "Penguenlerin fiziksel özellikleri, fosil kayıtlarının bilgi verip vermemesiyle mantıksal bağı yoktur."
+      },
+      "takeaway": "Sentence completion sorularında boşluktaki cümleyi seçerken, cümlenin geri kalanındaki bağlaç (but/because/so) ile kurduğu mantık ilişkisini test et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -801,7 +1071,17 @@
       "we cannot immediately stop various global cultural phenomena that are in action"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "'Even if we were to stabilize greenhouse gas emissions today, ----' yapısı bir karşıt beklenti kurar: bugün durdursak bile sonuç DEĞİŞMEZ mi diye düşün.",
+      "correct": "'both temperatures and sea levels would continue to rise for many hundred years' = 'even if' yapısı bir karşıt beklenti kurar; iklim sisteminin ataletini (gecikmeli tepkisini) doğru yansıtır.",
+      "distractors": {
+        "0": "Sıcaklık artışının otomobil emisyonlarını 'destabilize' etmesi, neden-sonucu tersine çevirir.",
+        "1": "Güneş varyasyonlarına atıf, 'even if we stabilize emissions' ön cümlesiyle ilgisiz bir konuya geçiş yapar.",
+        "2": "Genel bir kirlilik gerçeğini tekrarlar ama 'bugün durdursak bile ne olur' sorusuna cevap vermez.",
+        "4": "'cultural phenomena' ifadesi cümlenin iklim bilimi bağlamıyla örtüşmez."
+      },
+      "takeaway": "'Even if + şimdiki/geçmiş, would + fiil' yapısı, bir eylem yapılsa bile sonucun değişmeyeceğini anlatır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -830,7 +1110,17 @@
       "Whether they are part of a formal weight-loss program or a personal attempt"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'----, diets that include a variety of healthy food are more likely to produce long-term results' cümlesinde boşluğun, ana cümledeki GENEL iddiayı hangi durumlarda destekleyen bir yapı olduğuna bak.",
+      "correct": "'Whether they are part of a formal weight-loss program or a personal attempt' = 'whether...or' yapısı iki farklı durumun HER İKİSİNDE DE aynı sonucun geçerli olduğunu vurgular; ana cümledeki genel-geçer iddiayla uyumludur.",
+      "distractors": {
+        "0": "Türkiye'ye özgü dar bir istatistik, ana cümledeki genel diyet ilkesiyle ilgisi kurulamaz.",
+        "1": "'Unless' olumsuz bir koşul kurar ama ana cümle zaten sağlıklı/çeşitli diyetleri konu ediyor, çelişki yaratır.",
+        "2": "Kısıtlayıcı diyetlere odaklanır, 'whether...or' kadar doğrudan-genel bir çerçeve sunmaz.",
+        "3": "Vejetaryen diyete özel bir durum sunar, ana cümledeki genel iddiaya temel oluşturmaz."
+      },
+      "takeaway": "'Whether X or Y, ...' = X veya Y fark etmeksizin, her iki durumda da; genel-geçer bir iddiayı güçlendirmek için kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -859,7 +1149,17 @@
       "scholars, for ages, have been debating the role played by the vocal tract and the ear"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'In trying to understand the development of language, ----' ifadesindeki devam eden ÇABAYI (çalışırken) betimleyen bir devam cümlesi ara.",
+      "correct": "'scholars, for ages, have been debating the role played by the vocal tract and the ear' = 'in trying to understand X' ifadesindeki devam eden çabayı, 'have been debating' (süregelen tartışma) birebir karşılar.",
+      "distractors": {
+        "0": "İnsan dilinin az sayıda ses kullanması, dilin bir özelliğidir; 'anlamaya çalışırken' ifadesinin gerektirdiği çabayı betimlemez.",
+        "1": "Dilbilgisinin dilsel bilgiyi temsil etmesi de dilin bir tanımıdır, çaba sürecini betimlemez.",
+        "2": "Merakın teorilere yol açması yakın bir alternatiftir ama 'has led to' (tamamlanmış sonuç) süregelen çabayı 'have been debating' kadar doğal karşılamaz.",
+        "3": "Dilin hiç icat edilmediği bir iddiadır, 'anlamaya çalışırken' ifadesinin beklediği süreç betimlemesi değildir."
+      },
+      "takeaway": "'In V-ing..., [özne] have been V-ing...' yapısında, giriş cümlesindeki eylem ile ana cümledeki eylem aynı süreç/çaba temasını paylaşmalıdır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -888,7 +1188,17 @@
       "it would not be reasonable to have high expectations to live longer and healthier"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "'Thanks to vaccinations, antibiotics, sanitation and better parental care, ----' ifadesi olumlu bir sonuca işaret eder; bu olumlu gelişmelerin DOĞAL sonucu ne olabilir?",
+      "correct": "'today, we are much more likely to die in old age than in our youth' = 'thanks to' olumlu bir sonucu işaret eder; tıbbi gelişmelerin sonucu olarak insanların yaşlıyken ölme olasılığının artması bu olumlu sonucu doğru yansıtır.",
+      "distractors": {
+        "0": "Yaşın en büyük risk faktörü olması, 'thanks to' ile işaret edilen olumlu gelişmenin doğal bir sonucu değildir.",
+        "2": "Afrika'da yüksek çocuk ölüm oranının hâlâ var olması, gelişmelerin OLMADIĞI bir durumu örnekler, tam tersini gösterir.",
+        "3": "Bebeklerin büyükanne/babalarından şanslı olmaması, gelişmelerin FAYDA SAĞLAMADIĞINI ima eder, mantıksal çelişki yaratır.",
+        "4": "Daha uzun yaşam beklememenin mantıksız olması, olumlu gelişmelere rağmen çelişki yaratır."
+      },
+      "takeaway": "'Thanks to X, Y' yapısında Y, X'in getirdiği olumlu/beklenen bir sonuç olmalıdır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -917,7 +1227,17 @@
       "thus there is no reason to think that things stand differently with artwork"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "'Some sorts of music strike us with their perfection, ----' ifadesinden sonra gelecek cümle, müziğin mükemmelliği ile başka bir durum arasında bir ZITLIK kurmalı.",
+      "correct": "'though we may have difficulty identifying what emotion they express' = 'though' zıtlık bildirir; müziğin mükemmelliğinin bizi etkilemesi ile hangi duyguyu ifade ettiğini anlamakta zorlanmamız arasında doğal bir zıtlık kurulur.",
+      "distractors": {
+        "0": "Herkesin aynı zevki alamaması farklı bir konuya (zevk farklılığı) değiniyor, 'mükemmellik' ile 'duygu tanımlama zorluğu' zıtlığını kurmaz.",
+        "2": "Reggae müziğinin sorumluluk taşımaması, belirli bir müzik türünden bahseder, genel müzik ifadesiyle uyumsuzdur.",
+        "3": "Sanatçıların işi organize etmesi, cümledeki 'mükemmellik' ve 'duygu' temasıyla ilgisizdir.",
+        "4": "Sanat eseri hakkında farklı düşünmeye gerek olmaması, 'though' bağlacının gerektirdiği somut bir zıtlık sunmaz."
+      },
+      "takeaway": "'..., though + cümle' yapısında ikinci cümle, ilk cümledeki olumlu durumla çelişen ama onu geçersiz kılmayan bir gözlem sunar."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -946,7 +1266,17 @@
       "While most people appreciate how their health is tied to their diet and exercise"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'----, few realize how changes to their sleep pattern can have a significant effect as well' cümlesinde 'as well' (ayrıca) ifadesinin işaret ettiği BİLİNEN bir konuyu bul.",
+      "correct": "'While most people appreciate how their health is tied to their diet and exercise' = 'while' zıtlık bildirir; diyet/egzersizi bilmelerine karşın uyku düzenini bilmemeleri arasındaki karşıtlık, ana cümledeki 'as well' ifadesiyle örtüşür.",
+      "distractors": {
+        "0": "Kötü bir gecenin günü mahvetmesi, tek bir olayı anlatır, 'few realize' ifadesiyle kurulacak genel bir zıtlık sunmaz.",
+        "1": "Uykusuzların ilaç alması, belirli bir davranışı anlatır, genel farkındalık eksikliği temasına doğrudan zıtlık kurmaz.",
+        "2": "Doktorların ilaç yazması, farklı bir özneden (doktorlar) bahseder, 'few realize' öznesiyle örtüşmez.",
+        "4": "Uykusuzlara kafeini azaltma tavsiyesi, belirli bir grup hakkındadır, genel farkındalık zıtlığını kurmaz."
+      },
+      "takeaway": "'While X, few/many Y' yapısı, bilinen bir gerçek (X) ile daha az fark edilen bir gerçek (Y) arasında zıtlık kurar."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -975,7 +1305,17 @@
       "further need arises for swift, expert and specialized media to explain the latest developments"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'Because the relationship between government and business is complex...so rapidly, ----' cümlesinde karmaşıklık ve hızlı değişimin doğal SONUCU ne olabilir?",
+      "correct": "'further need arises for swift, expert and specialized media to explain the latest developments' = karmaşıklık ve hızlı değişim, doğal olarak uzman/hızlı bir açıklama aracına duyulan ihtiyacı doğurur; bu sonuç-neden ilişkisi mantıklıdır.",
+      "distractors": {
+        "0": "Bültenlerin geçmişte üretilmiş olması, 'because' cümlesinin genel ihtiyaç vurgusunu tam karşılamaz, dolaylı kalır.",
+        "1": "Uzman yayınların sektörlere hizmet etmesi mevcut bir durumu tanımlar, karmaşıklığın SONUCU olan ihtiyaç artışını anlatmaz.",
+        "2": "Bültenlerin yüksek fiyat etiketi taşıyabilmesi, fiyatlandırmayla ilgili bir detaydır, ihtiyacı anlatmaz.",
+        "3": "Abonenin bilgiye ödeme yapması yine fiyatlandırma/değer algısıyla ilgilidir, sebepteki ihtiyaç artışını anlatmaz."
+      },
+      "takeaway": "'Because + karmaşık/değişken durum, further need arises for...' yapısında sonuç cümlesi, sebepteki karmaşıklığa doğrudan bir çözüm/ihtiyaç önermelidir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1004,7 +1344,17 @@
       "As long as extremely shy personalities lack interaction even with their family members"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "'----, they develop non-verbal communication with others' cümlesinde 'they' zamirinin kime işaret ettiğini ve gelişimsel zaman sırasını (önce/sonra) düşün.",
+      "correct": "'Before children acquire language as infants and produce their first words' = bebekler dili edinmeden ÖNCE sözsüz iletişim geliştirirler; 'before' doğal bir gelişimsel sıralama kurar ve 'they' zamiri açıkça 'children/infants'a atıfta bulunur.",
+      "distractors": {
+        "0": "Psikolojik bozukluğu olan insanlar cümlesinde 'they' zamiri kimi işaret ettiği belirsiz kalır.",
+        "1": "İşitsel halüsinasyona yatkın sağır insanlar konudan sapma yaratır, bebeklerin dil öncesi iletişimiyle ilgisi yoktur.",
+        "2": "'Unless' olumsuz koşul bildirir ama cümledeki 'they' öznesi ve gelişimsel bağlam bu koşulla örtüşmez.",
+        "4": "Utangaç kişiliklerin etkileşim eksikliği farklı bir konudur, bebeklerin dil gelişim sürecini anlatmaz."
+      },
+      "takeaway": "Zamir ('they') referansı ve gelişimsel zaman sırası (before/after), doğru şıkkı bulmada en güçlü ipuçlarından biridir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1033,7 +1383,17 @@
       "when some salespeople are expected to be marketing managers"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "'How responsibilities are planned and handled is changing in many companies ----' cümlesinde değişimin en yaygın SEBEBİ ne olabilir?",
+      "correct": "'due to the latest technological tools that are available' = 'due to' değişimin sebebini (teknolojik araçlar) doğrudan bağlar; şirketlerdeki değişimin en yaygın nedeni teknoloji olduğu için bu bağlantı mantıklıdır.",
+      "distractors": {
+        "1": "Yeni bir işe başlamanın fırsatlar sunması, cümledeki 'değişim' ifadesiyle doğrudan bir zıtlık ilişkisi kurmaz, konu kayması vardır.",
+        "2": "Telemarketing'in satış gücünü büyütmesi, dar bir sektöre odaklanır, genel şirket değişimiyle doğrudan bağlı değildir.",
+        "3": "Yenilik talep eden alıcılarla karşılaştırma, değişimin sebebini değil farklı bir grubu tanımlar.",
+        "4": "Satış elemanlarının yönetici olması beklenmesi, değişimin bir SONUCU/örneği olabilir ama sebebini açıklamaz."
+      },
+      "takeaway": "'due to + isim/isim öbeği' = bir değişimin/durumun sebebini doğrudan belirtmek için kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1062,7 +1422,17 @@
       "Paul Fisher, fen bilimlerine ilgi duyan bir iktisatçı olarak daha iyi bir tükenmez kalem tasarlamış ve böylece iş dünyasında adını duyurmuştur."
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Önce cümledeki ana yapıyı (özne-kim, ana eylem-ne yaptı, nasıl-with/by ifadesi) çıkar, sonra hangi şıkkın bu üç unsuru da doğru ve eksiksiz aktardığına bak.",
+      "correct": "Orijinal cümlenin ana yapısı: 'Paul Fisher ... iz bıraktı (left his mark) ... daha iyi bir kalem tasarlayarak (by designing)'. D şıkkı bu yapıyı birebir korur: 'Paul Fisher ... iş dünyasında iz bırakmıştır' (ana eylem) '...tasarlayarak' (araç); ayrıca 'an economist with an interest in science' de 'fen bilimlerine ilgi duyan bir iktisatçı olan' şeklinde doğru aktarılmıştır.",
+      "distractors": {
+        "0": "Bu şıkta ana vurgu yanlış yere kaymıştır: 'katkısıyla adını duyurmuştur' ifadesi, orijinal cümledeki 'tasarlama' ile 'iz bırakma' arasındaki araç-sonuç ilişkisini bozarak farklı bir anlam (fen bilimlerine katkı) öne çıkarır.",
+        "1": "Bu şıkta ana fiil 'başarmıştır' olarak değiştirilmiş ve 'iz bırakma' ifadesi arka plana atılmıştır; orijinal cümlenin asıl vurgusu ikincil bir bilgiye dönüşmüştür.",
+        "2": "'tanınan' ifadesi orijinal cümlede olmayan bir ÖNCEKİ ünü ima eder; oysa orijinal cümle sadece ilgi alanını belirtir.",
+        "4": "Bu şık 've böylece...duyurmuştur' bağlacıyla iki ayrı sonuç sunar, oysa orijinalde tasarlamak tek başına iz bırakmanın ARACIDIR, iki ayrı eşit sonuç değildir."
+      },
+      "takeaway": "Çeviri sorularında 'by V-ing' (bir eylemi gerçekleştirerek) yapısının ARAÇ anlamını koruyan şıkkı seç; araç ile sonucun yer değiştirmediğine dikkat et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1091,7 +1461,17 @@
       "Having discovered that a cow in New Zealand was born with the ability to produce non-fat milk naturally, scientists are studying to figure out how to breed such cows."
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Türkçe cümledeki özne, ana eylem ve ZAMANIN (şimdiki zaman) hedef cümlede nasıl korunduğuna bak.",
+      "correct": "Türkçe cümlenin yapısı: '...keşfeden bilim insanları (özne), ...çalışıyorlar (ana eylem, ŞİMDİKİ ZAMAN)'. E şıkkı bunu doğru verir: 'Having discovered...' (keşfetmiş olarak) + 'scientists ARE STUDYING' (ana eylem, present continuous - 'çalışıyorlar' ile birebir zaman uyumu).",
+      "distractors": {
+        "0": "Bu şık 'is being examined by scientists' ile ineği özne, bilim insanlarını edilgen bir aracı yapar; oysa orijinal cümlede özne bilim insanlarıdır.",
+        "1": "'It was discovered that...' pasif başlangıcı, orijinal cümledeki 'keşfeden bilim insanları' vurgusunu zayıflatır ve özneyi belirsizleştirir.",
+        "2": "'which encouraged scientists to investigate' yapısı, 'çalışıyorlar' (şu an devam eden bir eylem) yerine geçmişte tamamlanmış bir teşvik ilişkisi kurar.",
+        "3": "'was discovered to be able to' pasif yapısı yine özneyi (ineği) öne çıkarır ve 'have been trying' present perfect continuous kullanarak farklı bir zaman anlamı verir."
+      },
+      "takeaway": "Türkçe'den İngilizceye çeviri sorularında, ana cümledeki fiilin zamanını (şimdiki zaman gibi) hedef cümlede birebir koruyan şıkkı seç; edilgen yapıya kaydırılmış şıklar genelde vurguyu bozar."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1120,7 +1500,17 @@
       "It was Mehmed the Conquerer who ordered to have the first census carried out in Istanbul in 1455, two years after the conquest."
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Türkçe cümlenin ANA VURGUSUNUN (nüfus sayımının yapılması, edilgen) hedef cümlede hangi şıkta korunduğuna bak.",
+      "correct": "Orijinal cümledeki tüm unsurlar (zaman: 1455/fetihten 2 yıl sonra, sebep: Fatih'in emriyle, ana eylem: nüfus sayımı yapıldı - edilgen) D şıkkında aynı sırayla ve vurguyla korunur: 'the first census in Istanbul was carried out' (edilgen, orijinaldeki 'yapılmıştır' ile birebir örtüşür).",
+      "distractors": {
+        "0": "'as Mehmed the Conquerer ordered it' aktif bir özne-fiil ilişkisi kurar, oysa orijinalde ana vurgu SAYIMIN YAPILMASI (edilgen), emrin kendisi ikincil bilgidir.",
+        "1": "'1455 is the year that...' yapısı zamanı ANA ÖZNE yapar; orijinal cümlenin asıl öznesi 'nüfus sayımı'dır, yıl değil.",
+        "2": "'about two years after' ifadesindeki 'about' (yaklaşık) orijinal Türkçe cümledeki kesin ifadeyi belirsizleştirir.",
+        "4": "'It was Mehmed the Conquerer who ordered...' vurgu yapısı ana vurguyu Fatih'e kaydırır; oysa orijinal cümlenin vurgusu nüfus sayımının kendisidir."
+      },
+      "takeaway": "Çeviri sorularında hangi unsurun ana vurgu/özne olduğunu koruyan şıkkı seç; aktif-edilgen dönüşümü genelde vurguyu değiştirir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1149,7 +1539,17 @@
       "The most fruitful research dealing directly with social-class differences in language education was done by the English sociologist Basil Bernstein."
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Türkçe cümlenin isim cümlesi yapısını ('X, Y'ninkidir') hedef cümlede koruyan şıkkı ara.",
+      "correct": "Orijinal cümlenin öznesi 'en verimli araştırma', yüklemi ise 'Bernstein'inkidir' (isim cümlesi: X, Y'ninkidir). C şıkkı bu yapıyı birebir korur: 'The most fruitful research...IS THAT OF Basil Bernstein' ('that of' = -inki anlamını doğru karşılayan standart İngilizce yapı).",
+      "distractors": {
+        "0": "'belongs to the English sociologist' ifadesi anlamca yakın olsa da isim cümlesi yapısını fiil yapısına çevirir; C şıkkı orijinal yapıyı daha birebir yakalar.",
+        "1": "'Basil Bernstein, who is...has dealt directly...' yapısı özneyi 'araştırma'dan 'Bernstein'a kaydırır; oysa orijinal cümlenin öznesi araştırmanın kendisidir.",
+        "3": "'The English sociologist...has done fruitful research' yapısı özneyi kişiye çevirir ve 'en verimli' (superlative) vurgusunu 'fruitful' olarak zayıflatır.",
+        "4": "'...was done by the English sociologist' pasif yapısı, isim cümlesi yapısını 'was done by X' edilgen fiil cümlesine çevirir; C şıkkı isim cümlesi yapısını daha doğrudan korur."
+      },
+      "takeaway": "Çeviri sorularında sadece anlam değil, mümkün olduğunca cümle yapısı (isim cümlesi/fiil cümlesi, özne kimin olduğu) da orijinaline en yakın şıkkı seçmek önemlidir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1178,7 +1578,17 @@
       "Makyözler, canlandırılacak karakterlerin fiziksel özelliklerini istenilen şekilde yansıtmak amacıyla oyuncuların yüzünü ve vücudunu sahne için etkili hâle getirir."
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Orijinal cümledeki 'to V' (amaç bildiren mastar) yapısının hedef cümlede AMAÇ olarak mı yoksa SEBEP/ARAÇ olarak mı çevrildiğine bak.",
+      "correct": "Orijinal cümlenin yapısı: 'Makyözler (özne) hazırlar (ana fiil) ... yansıtmak İÇİN (amaç: to effectively reflect)'. A şıkkı bu amaç-eylem ilişkisini ('yansıtmak için hazırlar') birebir ve en sade şekilde korur.",
+      "distractors": {
+        "1": "'...hazırlayarak, ...yansıtılmasını sağlar' yapısı ana fiili 'sağlamak' yapar ve 'hazırlama' eylemini bir araca indirger; vurgu ters çevrilmiştir.",
+        "2": "'...hazırlayan kişilerdir' yapısı makyözleri bir TANIM cümlesine çevirir; oysa orijinal cümle bir tanım değil, doğrudan bir eylem anlatısıdır.",
+        "3": "'...yansıtılmak istendiği için...hazırlar' yapısı amaç ilişkisini SEBEP ilişkisine çevirir; orijinaldeki 'to effectively reflect' doğrudan bir amaç bildiren mastar yapısıdır.",
+        "4": "'...yansıtmak amacıyla...hâle getirir' ifadesi daha dolaylı bir fiil kullanır ve 'istenilen şekilde' orijinalde olmayan bir belirsizlik ekler."
+      },
+      "takeaway": "Çeviri sorularında 'to V' (amaç bildiren mastar) yapısının hangi şıkta amaç olarak kaldığına, hangisinde sebep veya araca dönüştüğüne dikkat et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1207,7 +1617,17 @@
       "Bireyler, sorunlarına çare bulma konusunda gereken yöntemleri etkin olarak kullanamadıklarında stres ve ağrıyla başa çıkmak için genellikle uzman desteğine başvururlar."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Orijinal cümlenin özne-yüklem sırasını ve isim cümlesi yapısını ('are individuals whose...') koruyan şıkkı ara.",
+      "correct": "Orijinal cümlenin yapısı: 'Uzman desteğine başvuran kişiler (özne) genellikle ... yöntemleri yetersiz kalan kişilerdir (yüklem: isim cümlesi)'. B şıkkı bu özne-yüklem sırasını ve isim cümlesi yapısını birebir korur.",
+      "distractors": {
+        "0": "Bu şıkta cümlenin özne 'yöntemleri yetersiz kalan bireyler' yapılmış ve 'başvururlar' ana fiil olmuş; orijinal cümledeki 'are individuals' (tanımlama) yapısı bir fiil cümlesine çevrilerek odak noktası değiştirilmiştir.",
+        "2": "'...oluşmaktadır' ve 'yetersiz yöntemler geliştiren' ifadesi, orijinaldeki 'have proven ineffective' (yöntemlerin sonradan yetersiz çıktığı) anlamını 'baştan yetersiz tasarlama' şeklinde hafifçe değiştirir.",
+        "3": "Yine özne-yüklem sırası tersine çevrilmiş; ayrıca 'yöntemler yetersiz kaldığında' zaman/koşul ifadesi orijinaldeki sıfat cümlesi yapısından farklı bir cümle türü oluşturur.",
+        "4": "'gereken yöntemleri...kullanamadıklarında' ifadesi orijinalde olmayan bir beceriksizlik vurgusu ekler; oysa orijinal sadece yöntemlerin sonuç olarak işe yaramadığını söyler."
+      },
+      "takeaway": "Çeviri sorularında isim cümlesi ile fiil cümlesi arasındaki farkı koru; hangi öge özne ise hedef cümlede de aynı öge özne kalmalı."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1236,7 +1656,17 @@
       "protesters against globalization are opposed to foreign influences on local cultures"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir okuma parçası sorusudur. Doğru şık parçada açıkça yazanla uyuşmalı; parçada geçmeyen veya ters çevrilmiş neden-sonuç ilişkisi kuran şıklara dikkat et.",
+      "correct": "Parçada eleştirmenlerin, batı kültürünün yerel kültürleri baskılamasına tepki olarak 'kendi geleneksel değerlerine dönüş arayan kitle hareketlerinden' bahsedilir; bu, küreselleşme karşıtlarının yabancı etkilere karşı olduğunu açıkça destekler.",
+      "distractors": {
+        "0": "Parça, tepkilerin sebebinin 'bölgesel protestolar' olduğunu değil, ekonomik baskıya duyulan tepkinin sonucu olarak protestoların ortaya çıktığını söyler; neden-sonuç ters çevrilmiştir.",
+        "1": "Parça mass media'nın küreselleşmeyi DESTEKLEDİĞİNİ söyler, medyanın küreselleşme tarafından 'şekillendirildiğini' değil; yön ters çevrilmiştir.",
+        "2": "Parçada medyanın küreselleşmeye karşı değil, onu kolaylaştıran bir güç olduğu anlatılır; bu şık parçayla doğrudan çelişir.",
+        "3": "Parça tam tersini söyler: 'Indian films have become as common in Europe as...'; bu şık parçadaki bilgiyle doğrudan çelişir."
+      },
+      "takeaway": "'It is obvious/clear that' sorularında, parçadaki ifadeyle tam örtüşen ve yönü doğru olan şıkkı ara; ters çevrilmiş neden-sonuçlara dikkat et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1265,7 +1695,17 @@
       "cultural integration may harm local cultural value systems around the globe"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçada birden fazla görüş grubu (optimists/critics) var; sorunun hangi gruba (taraftarlara) sorduğuna dikkat et.",
+      "correct": "Parçada iyimserlerin (globalization taraftarlarının) kültürlerin karışmasını 'karşılıklı hoşgörüyü artırma fırsatı' olarak gördüğü belirtilir; bu şık 'kültürlerin karışması karşılıklı anlayışı geliştirir' ifadesiyle bu fikri doğru yansıtır.",
+      "distractors": {
+        "0": "Parça, kültürel entegrasyonun olumsuz etkilere katlanmayı kolaylaştırdığını değil, doğrudan hoşgörüyü artırdığını söyler.",
+        "1": "Bu olumsuz/kötümser bir görüştür, parçadaki iyimserlerin görüşüyle çelişir.",
+        "3": "Bu görüş parçada eleştirmenlere atfedilir (economic dominance vurgusu), taraftarlara değil; soru taraftarların görüşünü sorduğu için yanlış gruba ait bir iddiadır.",
+        "4": "Bu tamamen karşıt (eleştirmen) görüştür, taraftarların değil eleştirmenlerin savunduğu bir fikirdir."
+      },
+      "takeaway": "Parçada birden fazla görüş grubu varsa, sorunun hangi gruba sorduğuna dikkat et; doğru bilgi bile yanlış gruba atfedilmişse şık yanlış olur."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1294,7 +1734,17 @@
       "globalization cannot be beneficial for regional cultures due to a lack of access to information"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Eleştirmenlerin (critics) görüşünü soran bu soruda, parçadaki 'critics emphasize...' cümlesini bul ve dikkatle oku.",
+      "correct": "Parçada eleştirmenlerin zengin sanayi uluslarının ekonomik çıkarları için zayıf ülkelere baskı yaptığını savunduğu belirtilir; bu, küreselleşmenin gelişmiş dünyanın yararına işlediği görüşünü birebir yansıtır.",
+      "distractors": {
+        "1": "Medyanın yoksul ulusların gelişmişlerden öğrenmesine yardım etmesi olumlu/iyimser bir görüştür, eleştirmenlerin değil taraftarların bakış açısına daha yakındır.",
+        "2": "Parça küreselleşmenin kültürel etkilerinden de bahseder, sadece finansal olduğunu söylemez; bu şık parçayı eksik/yanlış yansıtır.",
+        "3": "Parça tam tersini anlatır: baskı uygulayan taraf zaten sanayi uluslarıdır, kendi geleneklerini korumaktan alıkonan zayıf ülkelerdir.",
+        "4": "Parçada 'free access to information' önkoşulu optimistlerin görüşüyle ilişkilendirilir, eleştirmenlerin ana argümanı ekonomik baskıdır."
+      },
+      "takeaway": "Eleştirmen/taraftar gibi karşıt görüş sunan parçalarda, her iddianın hangi tarafa ait olduğunu parçadaki cümle yapısından net şekilde takip et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1323,7 +1773,17 @@
       "both the rich and poor are equally affected by the negative aspects of globalization"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça boyunca iki karşıt görüş (optimists/critics) sunulduğuna göre, genel bir 'infer' sorusunda bu ikiliği yansıtan şıkkı ara.",
+      "correct": "Parça boyunca hem 'optimists' hem de 'critics' görüşleri sunulur; bu, küreselleşmenin hem savunucuları hem de karşıtları olan tartışmalı bir konu olduğu çıkarımını doğal olarak destekler.",
+      "distractors": {
+        "0": "Parça, zengin ulusların baskın, zayıf ulusların ise etkilenen taraf olduğunu anlatır; 'karşılıklı eşit etki' iddiası parçadaki güç dengesizliğiyle çelişir.",
+        "2": "Parça hem destekleyen hem karşı çıkan iki farklı tepkiden bahseder; 'tek taraflı tepki' ifadesi bu çeşitliliği yansıtmaz.",
+        "3": "Parçada yeni milliyetçi düşüncenin küreselleşmenin KENDİSİ tarafından açıklandığına dair bir iddia yoktur; bu şık parçada olmayan bir neden-sonuç kurar.",
+        "4": "Parça zengin ve yoksul ulusların küreselleşmeden EŞİT etkilendiğini değil, dengesiz etkilendiğini anlatır."
+      },
+      "takeaway": "Parçanın genel mesajını soran sorularda, parça boyunca sunulan TÜM görüşleri (tek taraflı değil) kapsayan şıkkı seç."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1352,7 +1812,17 @@
       "the diverse individual personalities of the team leaders can slow down the flow of the project"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'it is again my responsibility to...ensure that the teams move forward in the same direction' cümlesini dikkatle oku; bu, planlayıcının rolünü tanımlar.",
+      "correct": "Parçada etkinlik planlayıcısının farklı ekiplerin aynı yönde ilerlemesini sağlamaktan sorumlu olduğu belirtilir; bu ifade ekipler arası uyumlu işbirliğini sağlama fikrini birebir destekler.",
+      "distractors": {
+        "0": "Parçada liderlerin 'öne çıkma fırsatı' bulduğuna dair bir ifade yoktur; parça ekiplerin yönlendirilmesinden bahseder.",
+        "1": "Parçada müşteri geri bildirimi hiç geçmez; bu şık parçada olmayan bir bilgi uydurur.",
+        "3": "Parça tam tersini söyler: ekiplerin aynı yönde ve koordineli ilerlemesi gerektiği vurgulanır, bağımsız çalışma değil.",
+        "4": "Parça yaratıcı bireylerin kendi vizyonlarının 'zorluk' yarattığını söyler ama asıl vurgu planlayıcının bunu yönetebilmesidir."
+      },
+      "takeaway": "'According to the passage' sorularında cevap, parçadaki anahtar cümleyi en yakın eş anlamlı ifadeyle karşılayan şıktır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1381,7 +1851,17 @@
       "creative teams are directed by a person selected by the event planner"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'installing temporary roads in order to provide access to an event' somut örneğinin ne kadar GENİŞ bir kapsamı işaret ettiğini düşün.",
+      "correct": "Parçada 'geçici yollar kurmak' örneğiyle etkinlik planlamanın bir etkinliğe ulaşım yollarını bile kapsayacak kadar geniş bir alan olduğu belirtilir; bu şık bu somut örneği doğru genellemektedir.",
+      "distractors": {
+        "0": "Parça davetiyeleri sadece bir örnek olarak sayar, 'primary/birincil görev' olduğunu söylemez; bu abartılı bir genellemedir.",
+        "2": "Parça yaratıcı insanlarla çalışmanın hem zorluk hem ödüllendirici olduğunu söyler, sorunları önceden önleme konusunda doğrudan bir iddia yoktur.",
+        "3": "Parçada ekip üyelerinin 'işin önemini kavradıkları için' katkı sağladığına dair bir ifade yoktur; bu şık parçada olmayan bir neden uydurur.",
+        "4": "Parçada ekip liderlerinin planlayıcı tarafından seçildiğine dair bir bilgi yoktur; bu şık parçada olmayan bir detay ekler."
+      },
+      "takeaway": "'It is stated that' sorularında parçada açıkça yazan somut bir örneği doğru genelleyen şıkkı seç; parçada olmayan sebep/detay ekleyen şıklardan kaçın."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1410,7 +1890,17 @@
       "may ignore the suggestions of the event planner"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'Therein lies the challenge' ifadesinden hemen ÖNCEKİ cümleyi dikkatle oku; asıl zorluk orada tanımlanır.",
+      "correct": "Parça, sanatçı bireylerin etkinliğin unsurlarının nasıl tasarlanıp yürütüleceği konusunda kendi vizyonlarına sahip olduklarını ve asıl zorluğun bu olduğunu söyler; bu şık 'kendi tercihlerine göre organize edilmesini isterler' ifadesiyle bunu birebir karşılar.",
+      "distractors": {
+        "0": "Parçada zaman talebiyle ilgili bir ifade yoktur; bu şık parçada olmayan bir sorunu uydurur.",
+        "2": "Parça, planlayıcının bu zorlukları yönetebildiğini ima eder; 'aşılması imkansız' gibi aşırı bir ifade kullanmaz.",
+        "3": "Parçada iletişim zorluğuna dair doğrudan bir ifade yoktur; parça onların kendi vizyonlarının güçlü olduğunu söyler.",
+        "4": "Parçada bu bireylerin planlayıcının önerilerini görmezden geldiğine dair bir ifade yoktur."
+      },
+      "takeaway": "Parçadaki 'Therein lies the challenge' gibi açık işaret ifadelerinden hemen önceki cümleyi dikkatle oku; asıl zorluk oradadır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1439,7 +1929,17 @@
       "every team leader determines the schedule of a project on their own"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'One of the greatest challenges of my job, yet one of its most rewarding aspects' ifadesindeki DUYGUSAL tona bak; bu, yazarın tutumu hakkında ipucu verir.",
+      "correct": "Parçada yazar, yaratıcı insanlarla çalışmanın hem en büyük zorluk hem de en ödüllendirici yönlerden biri olduğunu söyler; bu, yazarın bu zorluktan keyif aldığı çıkarımını doğal olarak destekler.",
+      "distractors": {
+        "0": "Parça bunun planlayıcının (yazarın) sorumluluğu olduğunu söyler, ekip liderinin değil; özne karıştırılmıştır.",
+        "1": "Parçada böyle bir isteksizlikten hiç bahsedilmez; bu şık parçada olmayan bir bilgi uydurur.",
+        "2": "Parçada personel değişikliği/transfer gibi bir uygulamadan hiç bahsedilmez; tamamen uydurma bir detaydır.",
+        "4": "Parça tam tersini söyler: yazarın kendisi ekipleri programın bozulmaması için yönettiğini anlatır, liderlerin bağımsız karar verdiğini değil."
+      },
+      "takeaway": "'can be understood/inferred' sorularında, parçadaki duygusal ifadelere dikkat et; bunlar yazarın tutumu hakkında doğrudan ipucu verir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1468,7 +1968,17 @@
       "argues that spiritual renewal brought about by idleness is a basic human need"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'giving a moral mask to a system that is manifestly unjust' ifadesindeki ironik/eleştirel tonu takip et; Russell'ın neyi ELEŞTİRDİĞİNİ bul.",
+      "correct": "Parçada 'honest toil' övgüsünün, ayrıcalıklı sınıf tarafından adaletsiz sistemi meşrulaştırmak için kullanıldığı belirtilir; bu şık Russell'ın çalışma etiğini böyle bir araç olarak gördüğü çıkarımını doğru yansıtır.",
+      "distractors": {
+        "0": "Parça Russell'ın çalışmayı 'gereksiz' bulduğunu değil, çalışma etiğinin kötüye kullanıldığını eleştirdiğini anlatır.",
+        "1": "Parça Russell'ın toprak sahiplerinin aylaklığını eleştirdiğini ima eder, desteklediğini değil; bu şık tam tersini söyler.",
+        "2": "Parçada işsizliği 'kucaklama' gibi bir öneri yoktur; parça işsizliğin nedenini tartışır, işsizliği övmez.",
+        "4": "Bu iddia parçada hiç geçmez; 'idleness'ın ruhsal bir ihtiyaç olduğu gibi bir argüman parçada yoktur."
+      },
+      "takeaway": "Yazarın eleştirdiği ile savunduğu fikri karıştırma; parçadaki ironik/eleştirel ifadeleri dikkatlice takip et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1497,7 +2007,17 @@
       "might be mistaken due to country-specific conditions"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'little more than superstitions, which should be swept away with rigorous thinking' ifadesini dikkatle oku; bu fikirlerin nasıl bir DURUMDA olduğunu anlatır.",
+      "correct": "Parça, çalışmayla ilgili fikirlerin 'batıl inançtan biraz fazlası' olduğunu ve 'titiz düşünceyle süpürülmesi gerektiğini' söyler; bu şık 'daha derin düşünülerek kolayca değiştirilebilir' ifadesiyle bu fikri birebir karşılar.",
+      "distractors": {
+        "0": "Parça fikirlerin 'eski moda' olduğunu değil, yanlış/batıl inanç olduğunu söyler; 'old-fashioned' farklı bir nitelemedir.",
+        "1": "Parçada bu fikirlerin kim tarafından geliştirildiğine dair bir bilgi yoktur; bu şık parçada olmayan bir detay ekler.",
+        "3": "Parça tam tersini söyler: fikirler 'superstition', yani gerçekçi olmayan şeylerdir; bu şık doğrudan çelişir.",
+        "4": "Parçada ülkeye özgü bir neden belirtilmez; 'superstition' ifadesi genel bir yanlış inancı tanımlar."
+      },
+      "takeaway": "Parçadaki 'should be swept away with rigorous thinking' gibi ifadeler, o fikrin değiştirilebilir/yanlış olduğunu vurgular."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1526,7 +2046,17 @@
       "so that the people who were unemployed could experience some relief"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'the economic chaos of the time was itself the result of a set of...mistaken attitudes about work' cümlesindeki SEBEP-SONUÇ ilişkisini dikkatle oku.",
+      "correct": "Parça, dönemin ekonomik kaosunun 'çalışmaya dair yerleşik ve yanlış tutumların sonucu' olduğunu söyler; bu şık makalenin bu dönemde yayımlanma amacının bu neden-sonuç ilişkisini göstermek olduğunu doğru şekilde ifade eder.",
+      "distractors": {
+        "1": "Parça işsizliğin nedensiz olduğunu değil, yanlış çalışma tutumlarının sonucu olduğunu açıkça belirtir; 'no obvious reason' parçayla çelişir.",
+        "2": "Bu, Russell'ın motivasyonuyla ilgili genel ama parçada doğrudan desteklenmeyen bir yorumdur; parça onun asıl amacının yanlış çalışma fikirlerini eleştirmek olduğunu vurgular.",
+        "3": "Parçada ekonomistlere yönelik bir politika önerisinden hiç bahsedilmez; bu şık uydurma bir amaç sunar.",
+        "4": "Parçada işsizlere ruhsal bir rahatlama sağlama amacından bahsedilmez; bu şık parçada olmayan bir amaç ekler."
+      },
+      "takeaway": "'clearly stated' sorularında parçadaki sebep-sonuç cümlesini doğrudan ve tam olarak yansıtan şıkkı seç, dolaylı yorumlardan kaçın."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1555,7 +2085,17 @@
       "was used to continue the oppression of priests over the rich"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçanın SON cümlesi ('this fact alone should prompt us to re-evaluate the ethics of work') genellikle yazarın ana mesajını özetler.",
+      "correct": "Parça, 'dürüst emek' kavramının adaletsiz bir sistemi meşrulaştırdığını ve bu yüzden çalışma etiğinin yeniden değerlendirilmesi gerektiğini söyler; bu şık 'ayrıcalıklı sınıfın haksız uygulamalarından kurtulmak için yeniden değerlendirilmeli' ifadesiyle bunu birebir karşılar.",
+      "distractors": {
+        "0": "Parça 'honest toil' kavramının fazlalığı üretmek için değil, mevcut sistemi meşrulaştırmak için kullanıldığını söyler.",
+        "1": "Parça tam tersini söyler: kavram yeniden değerlendirilmeli, yani sorgulanmalı; 'hâlâ geçerli' ifadesi parçayla çelişir.",
+        "3": "Parça, fazlalığın işçilerden alınıp ayrıcalıklı sınıfa gittiğini söyler; 'honest toil' kavramı işçilere fayda sağlamaz.",
+        "4": "Parça yön olarak tam tersini anlatır: baskı yapan taraf ayrıcalıklılar, zenginler değil işçiler baskı görür."
+      },
+      "takeaway": "Parçanın son cümlesi genellikle yazarın ana mesajını özetler; bu tür sonuç cümlelerine özel dikkat göster."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1584,7 +2124,17 @@
       "appetite disorders are more common than sleep disorders in people with ADHD"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'approximately 80 percent are boys' istatistiğinin hangi DEĞİŞKENLE (cinsiyet) ilişkili olduğuna dikkat et.",
+      "correct": "Parçada ADHD teşhisi konan çocukların yaklaşık %80'inin erkek olduğu belirtilir; bu istatistik, erkeklerin ADHD'ye kızlara göre daha yatkın olduğu sonucunu doğrudan destekler.",
+      "distractors": {
+        "0": "Parça yetişkinlerde 'considerable disparity' olduğunu söyler ama bunun çocuklardan daha yüksek olduğunu belirtmez.",
+        "1": "%80 rakamı cinsiyet oranını belirtir, teşhis yaşını değil; bu şık istatistiği yanlış bir bağlama oturtur.",
+        "2": "Parçada böyle bir karşılaştırma yoktur; parça sadece semptomların her yaşta görüldüğünü söyler.",
+        "4": "Parça bu iki durumu yan yana sayar ama birinin diğerinden daha yaygın olduğunu belirtmez."
+      },
+      "takeaway": "'According to the statistics' sorularında parçadaki sayısal ifadeyi hangi değişkenle ilişkilendirdiğine dikkatle bak."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1613,7 +2163,17 @@
       "resisting the desire to watch TV or play games most of the time"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'Poor impulse control manifests itself in rash decision-making, irrational actions and rapid mood swings' listesini dikkatle oku.",
+      "correct": "Parça, dürtü kontrolü zayıf olduğu için çabuk karar verme, mantıksız davranışlar ve hızlı ruh hali değişimleri yaşadıklarını söyler; bu şık 'kendilerini, davranışlarını ve ruh hallerini kontrol etmekte zorlanma' ifadesiyle bunu doğru özetler.",
+      "distractors": {
+        "0": "Parçada 'fiziksel çaba gerektiren durumlar' diye bir ayrım yoktur; parça genel olarak dürtüsel karar vermeyi anlatır.",
+        "2": "Parça tam tersini söyler: ADHD'li çocuklar yeni/kısa süreli durumlarda normal davranır, tanıdık durumlarda değil.",
+        "3": "Parçada 'yalnızlık hissi' veya yabancılarla etkileşim zorluğundan hiç bahsedilmez.",
+        "4": "Parça TV izleme/oyun oynamanın onların normal davrandığı keyifli durumlar olduğunu söyler, bu isteğe direnmekte zorlandıklarını değil."
+      },
+      "takeaway": "Parçadaki listeleme cümlelerini, o listedeki maddeleri doğru özetleyen şıkla eşleştir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1642,7 +2202,17 @@
       "when parents notice aggressive actions"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'no definite diagnosis can be made in those first three years' ifadesinin TERSİNİ (3 yaşından sonra ne oluyor) düşün.",
+      "correct": "Parça, 3 yaşından önce kesin bir teşhis konulamayacağını söyler; bu, kesin teşhisin ancak çocuk 3 yaşına ulaştıktan sonra mümkün olduğu anlamına gelir, bu şık bunu doğru ifade eder.",
+      "distractors": {
+        "0": "Parça teşhisin yetişkinlikte izlenebilirliğiyle değil, çocukluğun ilk 3 yılıyla ilgili bir sınırlama koyar.",
+        "2": "Parçada teşhisin fiziksel huzursuzluğun şiddetine bağlı olduğu söylenmez.",
+        "3": "Parçada 'başkalarını tehdit etme' gibi bir ölçüt yoktur; bu şık parçada olmayan bir koşul uydurur.",
+        "4": "Parça agresif davranışın daha çok ergenlik döneminde ortaya çıktığını söyler, teşhis koşulu olarak sunmaz."
+      },
+      "takeaway": "Parçadaki bir sınırlama cümlesini, bu sınırlamanın tersini doğru ifade eden şıkla eşleştir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1671,7 +2241,17 @@
       "such as rash decision-making and rapid mood changes stem from genetic history"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça, semptomların çocukluktan ergenliğe DEĞİŞTİĞİNİ anlatıyor; bu genel değişimi özetleyen bir şık ara.",
+      "correct": "Parça, semptomların çocuklukta ve ergenlikte farklı seyrettiğini anlatır (fiziksel huzursuzluk azalır ama dikkat sorunu ve yeni riskler ortaya çıkar); bu şık semptomların yaşam boyunca belirginlik ve çeşitlilik açısından değiştiği çıkarımını doğru yapar.",
+      "distractors": {
+        "1": "Parçada cinsiyete göre yaşa bağlı bir farklılıktan bahsedilmez; sadece genel cinsiyet oranı verilir.",
+        "2": "Parçada 'gelişmiş tedavi yöntemleriyle bile teşhis zorluğu' gibi bir ifade yoktur; parça sadece ilk 3 yılda teşhis konulamadığını söyler.",
+        "3": "Parçada 'ebeveyn müdahalesinin azlığı' gibi bir değişken hiç geçmez; bu şık parçada olmayan bir neden-sonuç uydurur.",
+        "4": "Parçada genetik bir nedenden hiç bahsedilmez; bu şık tamamen parçada olmayan bir bilgi ekler."
+      },
+      "takeaway": "Bir parça zaman içindeki değişimi anlatıyorsa, doğru çıkarım genellikle bu değişkenliği/sürekliliği vurgulayan genel bir ifadedir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1700,7 +2280,17 @@
       "losing your temper can help you appear more skilful at workplace"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'the angry candidate was rated as more competent than the sad one' cümlesindeki SPESİFİK bulguyu (kim daha iyi değerlendirildi) bul.",
+      "correct": "Çalışma, öfkeli adayın üzgün olandan daha yetkin görüldüğünü ve yüksek sorumluluklu bir pozisyona daha uygun bulunduğunu gösterir; bu şık 'öfkelenmenin işyerinde daha becerikli görünmeye yardımcı olabileceği' ifadesiyle bu bulguyu doğru özetler.",
+      "distractors": {
+        "0": "Parça öfkeli adayın davranışının 'kaba' olarak algılandığını değil, tam tersine daha yetkin görüldüğünü söyler.",
+        "1": "Parçada 'sorumluluk alma' (üzülen aday) daha az yetkin bulunmuştur; bu şık bulgunun tam tersini iddia eder.",
+        "2": "Parçada çalışmanın güvenilirliği hakkında bir yorum yoktur; bu şık parçada olmayan bir metodolojik değerlendirme uydurur.",
+        "3": "Bu, çalışmanın spesifik bulgusunu çok genel bir ifadeye indirger; asıl bulgu öfkenin etkisi üzerinedir."
+      },
+      "takeaway": "'puts forward/argues that' sorularında, çalışmanın spesifik bulgusunu birebir yansıtan şıkkı seç; aşırı genelleyen şıklardan kaçın."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1729,7 +2319,17 @@
       "for whom, when and how it will be used should be taken into account"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'it needs to be used occasionally, targeted carefully and expressed appropriately' cümlesindeki ÜÇ koşulu (sıklık, hedef, ifade biçimi) not al.",
+      "correct": "Parça, öfkenin olumlu etki yaratması için 'ara sıra kullanılması, dikkatlice hedeflenmesi ve uygun ifade edilmesi' gerektiğini söyler; bu şık 'kime, ne zaman ve nasıl kullanılacağının dikkate alınması' ifadesiyle bu üç koşulu birlikte özetler.",
+      "distractors": {
+        "0": "Parçada böyle bir ayrım (nice/disagreeable kişiye göre öfke kullanımı) yoktur; bu şık parçada olmayan bir koşul uydurur.",
+        "1": "Bu doğru ama eksik bir özet: parçadaki sıklık ve hedef koşullarını atlar, sadece ifade biçimini alır.",
+        "2": "Parçada öfkenin sadece 'benzer davranan kişilere' yönlendirilmesi gerektiğine dair bir koşul yoktur.",
+        "3": "Parça tam tersini söyler: öfke seyrek kullanılmalıdır, aşırı değil; bu şık doğrudan çelişir."
+      },
+      "takeaway": "Parçada birden fazla koşul sıralanıyorsa, doğru şık bu koşulların hepsini kapsayan genel bir ifadedir, sadece birini alan şıklar eksik kalır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1758,7 +2358,17 @@
       "the reasons why people behave angrily are quite similar both in Western and Eastern cultures"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'Western business culture regards anger as...whereas in Asia it is seen as...' cümlesindeki karşılaştırmayı dikkatle oku.",
+      "correct": "Parça, öfkenin Batı kültüründe 'güç gösterisi', Asya kültüründe ise 'kontrol kaybı' olarak algılandığını söyler; bu şık öfkenin yorumlanışının kültürden kültüre değiştiği çıkarımını birebir destekler.",
+      "distractors": {
+        "0": "Parçada 'nice/disagreeable' kişilik algısı ile öfke kaybı sıklığı arasında bir ilişki kurulmaz; bu farklı bir istatistikle ilgiliydi.",
+        "1": "Parça Asya kültürünün öfkeyi 'kontrol kaybı' olarak gördüğünü söyler, işi geliştirdiğini değil; bu şık anlamı ters çevirir.",
+        "2": "Parça tam tersini söyler: Batı kültürü öfkeyi gücün ifadesi olarak görür, bu 'disapprove' (onaylamama) değil.",
+        "4": "Parça sebep değil, yorumlanış biçimini karşılaştırır; ayrıca parça bu algıların farklı olduğunu söyler, benzer olduğunu değil."
+      },
+      "takeaway": "'X whereas Y' yapısındaki karşılaştırma cümlelerinde, doğru çıkarım genellikle bu farkın genel bir ilkesini ifade eden şıktır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1787,7 +2397,17 @@
       "there is a general agreement among scholars about why anger is considered negative"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçanın genel mesajını (kontrollü öfkenin faydası) özetleyen bir şık ara; tek bir cümleye değil parçanın tümüne dayan.",
+      "correct": "Parça boyunca öfkenin doğru koşullarda kullanıldığında yetkinlik algısını artırdığı ve zor durumlarla başa çıkmada yararlı olabileceği anlatılır; bu şık 'kontrol altında olduğunda öfke zor durumlarla başa çıkmanın anahtarı olabilir' ifadesiyle bu genel mesajı doğru özetler.",
+      "distractors": {
+        "1": "Parçada bu tür çalışmaların popülerliği hakkında bir bilgi yoktur; bu şık parçada olmayan bir eğilim uydurur.",
+        "2": "Parça tam tersini gösterir: öfkeli aday daha yetkin bulunmuştur, üzgün değil.",
+        "3": "İki araştırmacının bulguları birbirini tamamlar (ikisi de öfkenin doğru kullanıldığında olumlu olduğunu savunur), çelişmez.",
+        "4": "Parça öfkenin neden olumsuz olduğu konusunda bir fikir birliğinden bahsetmez; tam tersine öfkenin olumlu yönlerini tartışır."
+      },
+      "takeaway": "Parçanın genel mesajını soran 'can be inferred' sorularında, parçanın tümüne dayanan şıkkı seç."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1816,7 +2436,17 @@
       "I can understand that. They just don’t seem to be able to set clear goals for themselves."
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir diyalog tamamlama sorusudur. Boşluktan SONRAKİ cevaba bak: konuşmacının verdiği yanıt, boşluktaki cümleye nasıl bir tepki veriyor?",
+      "correct": "Ender'in boşluktaki cümlesi, Doruk'un 'Yes, but besides planning, luck plays the greater part' cevabını tetiklemelidir; E şıkkı 'Anlıyorum, hedef belirleyemiyorlar' diyerek planlama/hedef temasına değinir, Doruk da buna 'evet ama şans da önemli' diyerek doğal bir devam sağlar.",
+      "distractors": {
+        "0": "'Sometimes things happen spontaneously' cümlesi planlamaya karşı bir görüş sunar ama Doruk'un cevabı bunu onaylamak yerine farklı bir noktaya (şans) geçer.",
+        "1": "'they're probably not going to expect much from their career' cümlesi Doruk'un cevabındaki 'planning' ve 'luck' temalarıyla doğrudan bağlantı kurmaz.",
+        "2": "'It's their parents to blame' cümlesi ebeveyn sorumluluğuna odaklanır; Doruk'un cevabı planlama/şans konusuna devam eder.",
+        "3": "'Do you think it's only young people?' sorusu farklı bir yaş grubuna geçiş yapar; Doruk'un cevabı bu soruya değil planlama temasına dönük bir yanıttır."
+      },
+      "takeaway": "Diyalog sorularında boşluktan sonraki replikteki anahtar kelimeleri bul; doğru şık bu kelimelerle doğrudan ilişkili bir öncül cümle olmalıdır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1845,7 +2475,17 @@
       "International organizations are trying to find solutions to stop greenhouse gas emissions. Will all those efforts stop global warming?"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Uğur'un cevabındaki 'No, not really. I guess I should be better informed' ifadesinin hangi TÜR bir soruya cevap olduğunu düşün.",
+      "correct": "Uğur'un cevabı 'Hayır, aslında değil, daha bilgili olmalıyım' ifadesi, Tarık'ın ona bir okuma/bilgi sorusu sorduğunu gösterir; B şıkkındaki 'Haven't you read anything about it?' sorusu bu cevabı doğrudan tetikler.",
+      "distractors": {
+        "0": "'Records of temperatures cannot be regarded as representative, can they?' sorusu bilimsel veriye şüpheyle yaklaşır, oysa Tarık iklim değişikliğini savunan taraf gibi görünüyor.",
+        "2": "'do you think there are other reasons?' cümlesi farklı bir soru sorar, Uğur'un cevabı ise okuma/bilgi eksikliğiyle ilgilidir.",
+        "3": "'Don't you think we should avoid harmful products?' sorusu farklı bir davranış önerisi sorar, Uğur'un cevabıyla örtüşmez.",
+        "4": "'will efforts stop it?' sorusu çözümler hakkındadır, Uğur'un cevabı kendi bilgi eksikliğiyle ilgilidir."
+      },
+      "takeaway": "Cevaptaki 'No, not really' gibi bir itiraf ifadesi varsa, boşluktaki cümlenin bir soru ('Haven't you...?' gibi) olduğunu düşün."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1874,7 +2514,17 @@
       "Does the training of health psychologists include public management?"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Uzmanın cevabındaki 'It will play an important role' (gelecek zaman) ifadesinin hangi TÜR bir soruya cevap olduğunu düşün.",
+      "correct": "Uzmanın cevabı gelecekte oynayacağı role odaklanır; C şıkkındaki 'What is the outlook for the future...?' sorusu doğrudan bu geleceğe yönelik cevabı tetikler.",
+      "distractors": {
+        "0": "'Isn't health psychology an area young people are interested in?' sorusu ilgi alanıyla ilgilidir, cevap ise gelecekteki rolle ilgilidir.",
+        "1": "'aren't there?' onay sorusu genel bir konuya değinir, cevap ise spesifik olarak 'kronik hastalıkların yönetimi'nden bahseder.",
+        "3": "'How do you treat those who just started working?' sorusu personel eğitimiyle ilgilidir, cevapla hiçbir ilgisi yoktur.",
+        "4": "'Does training include public management?' sorusu eğitim içeriğiyle ilgilidir, cevap gelecekteki rolle ilgilidir."
+      },
+      "takeaway": "Cevapta 'will' gibi gelecek zaman ifadeleri varsa, boşluktaki soru genellikle geleceğe dair bir soru olmalıdır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1903,7 +2553,17 @@
       "You might have a point; I’ve heard of researchers plagiarizing."
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Serap'ın cevabındaki 'Remember; researchers are not always objectively motivated' ifadesinin bir UYARI/itiraz olduğunu; bu neye karşı bir itiraz olabilir düşün.",
+      "correct": "Serap'ın cevabı bir uyarı yapar; bu, Hakan'ın önceki cümlesinin araştırmacılara güvenmekten başka çare olmadığını söylemesine bir karşı argüman oluşturur, A şıkkı tam olarak bu güven ifadesini taşır.",
+      "distractors": {
+        "1": "'the scientific process hardly allows flawed research to be published' cümlesi bilimin kendi kendini denetlediğini savunur; zaten bir güvensizlik değil güven ifadesi taşıdığından Serap'ın uyarısını gerektirmez.",
+        "2": "'the notion of trust has largely been ignored' cümlesi zaten güvensizlik bildirir; Serap'ın cevabı buna bir hatırlatma olarak eklenmez.",
+        "3": "'the scientific establishment has matured enough' cümlesi güçlü bir güven ifadesidir ama araştırmacıların objektif motivasyonuyla ilgili değil, kurumun olgunluğuyla ilgilidir.",
+        "4": "'I've heard of researchers plagiarizing' cümlesi zaten bir güvensizlik ifadesidir; Serap'ın 'Remember' ile başlayan cevabı bir güven ifadesine karşı daha uygun düşer."
+      },
+      "takeaway": "Cevaptaki 'Remember;...' gibi bir uyarı ifadesi, önceki cümlenin bu uyarıyla çelişen bir güven ifadesi olduğunu gösterir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1932,7 +2592,17 @@
       "OK, and do such gardens only contain plants?"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Öğrencinin cevabındaki SOMUT ÖRNEK (3 yaşındaki hasta hikayesi) hangi TÜR bir soruya cevap olur düşün.",
+      "correct": "Öğrencinin cevabı somut bir örnek verir (3 yaşındaki hastanın hikayesi); D şıkkındaki 'can you give me a specific example?' sorusu bu somut örnek cevabını doğrudan tetikler.",
+      "distractors": {
+        "0": "'what makes them attractive?' sorusu neden cazip olduklarını sorar, öğrencinin cevabı ise bir hikaye/örnek anlatır.",
+        "1": "'what about hospitals without a garden?' sorusu karşılaştırma ister, öğrencinin cevabı ise spesifik bir vaka anlatır.",
+        "2": "'what conclusions did we reach?' sorusu bir özet/sonuç ister, öğrencinin cevabı ise soyut bir sonuç değil somut bir örnek sunar.",
+        "4": "'do such gardens only contain plants?' sorusu bahçenin içeriğiyle ilgilidir, öğrencinin cevabı ise bir hasta hikayesidir."
+      },
+      "takeaway": "Cevap somut bir örnek/hikaye ise, boşluktaki soru genellikle 'Can you give me an example?' tarzında bir istektir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1961,7 +2631,17 @@
       "Some strong link between the tourism industry and the environment is necessary for their enjoyable coexistence for a long time."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir 'anlamca en yakın cümle' sorusudur. Orijinal cümledeki KESİNLİK DERECESİNİ (should) değiştirmeden aktaran şıkkı ara.",
+      "correct": "Orijinal cümle: 'güçlü bir ittifak kurulmalı (should) ... sağlıklı bir birliktelik için (amaç)'. B şıkkı bunu aynı zorunluluk derecesi ve amaç ilişkisiyle korur.",
+      "distractors": {
+        "0": "'Whether... will succeed depends on their future' yapısı belirsiz bir sonucu sorgular; oysa orijinal cümle bir tavsiye/zorunluluk bildirir.",
+        "2": "'may rely heavily on each other' ifadesi 'may' kullanarak orijinaldeki 'should' kesinliğini zayıflatır.",
+        "3": "'It is possible ONLY through...' ifadesi aşırı bir kısıtlama ekler; orijinal cümle böyle mutlak bir tekillik iddia etmez.",
+        "4": "'Some strong link...is necessary' ifadesi 'some' ile orijinaldeki 'a strong ALLIANCE' yerine daha belirsiz bir ifade kullanır."
+      },
+      "takeaway": "Restatement sorularında modal/kesinlik kelimelerine (should/may/must/only) dikkat et; orijinal cümledeki kesinlik derecesini değiştiren şıklar çeldiricidir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -1990,7 +2670,17 @@
       "Most smartphones, with notable screen characteristics, are not easily broken unless you drop them several times."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Orijinal cümledeki SEBEP-SONUÇ bağlacını ('since...they have a tendency') hedef cümlede koruyan şıkkı ara.",
+      "correct": "Orijinal cümle: 'akıllı telefonların çoğu sadece ekrandan ibarettir, bu yüzden düşürüldüğünde kırılma eğilimi vardır'. B şıkkı bu sebep-sonuç yapısını ve derece ifadesini doğru korur.",
+      "distractors": {
+        "0": "'If you drop a smartphone which can be easily damaged...' yapısı sebep-sonuç ilişkisini bir koşula çevirir ve 'may' orijinaldeki 'nasty TENDENCY' ifadesini zayıflatır.",
+        "2": "'if you drop them in a nasty way' ifadesi 'nasty' kelimesini yanlış yere (düşürme şekline) bağlar.",
+        "3": "'Smartphones have such fragile screens that...' yapısı sebebi (ekrandan ibaret olma) tamamen atlar.",
+        "4": "'are NOT easily broken UNLESS...' ifadesi anlamı tamamen tersine çevirir."
+      },
+      "takeaway": "Restatement sorularında sebep-sonuç bağlaçlarının (since/so) hangi şıkta korunduğuna, hangisinde kaybolduğuna dikkat et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2019,7 +2709,17 @@
       "Haydn, who was a notable composer, taught and helped such prominent figures as Mozart and Albrechtsberger, both of whom were quite famous composers of the time."
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Orijinal cümledeki EKLEME yapısını ('as well as being X, Y did Z1 and Z2') hedef cümlede koruyan şıkkı ara.",
+      "correct": "Orijinal cümle: 'harika bir besteci olmasının yanı sıra, Haydn önemli isimlere destek oldu ve öğretti'. A şıkkı bu ekleme yapısını ve iki fiili (destek+öğretme) birebir korur.",
+      "distractors": {
+        "1": "'acquainted with' kullanarak orijinaldeki 'supported and taught' aktif eylemini zayıflatır.",
+        "2": "'Supporting and teaching...LED Haydn to become a successful composer' ifadesi neden-sonuç ilişkisini tersine çevirir.",
+        "3": "'More than just being the teacher...' ifadesi vurguyu öğretmenliğe kaydırır; orijinalde vurgu tam tersi yöndedir.",
+        "4": "'both of whom were quite famous composers' ifadesi orijinalde olmayan bir bilgi (Mozart ve Albrechtsberger'in her ikisinin de besteci olduğu) ekler."
+      },
+      "takeaway": "Restatement sorularında orijinal cümlede olmayan ekstra bilgi ekleyen veya neden-sonucu tersine çeviren şıklara dikkat et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2048,7 +2748,17 @@
       "Coffee and petroleum are the two most valuable commodities in trade among countries."
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "'second only to X' kalıbının anlamını (X birinci, konu ikinci) doğru aktaran şıkkı ara.",
+      "correct": "Orijinal cümle: 'kahve ticareti, petrolden sonra ikinci sıradadır'. D şıkkı bu sıralamayı (petrol birinci, kahve onu takip eder) doğru ve net şekilde ifade eder.",
+      "distractors": {
+        "0": "'coffee SURPASSES it' ifadesi anlamı tersine çevirir; orijinalde kahve petrolden sonra gelir, bu şıkta kahvenin petrolü geçtiği iddia edilir.",
+        "1": "'Increasing demand for petroleum makes coffee the second most popular' ifadesi orijinalde olmayan bir sebep uydurur.",
+        "2": "'Petroleum trading ranks the SECOND...compared to coffee' ifadesi sıralamayı tersine çevirir; orijinalde ikinci olan kahvedir.",
+        "4": "'the two most valuable commodities' ifadesi ikisini eşit sunar; oysa orijinal net bir sıralama belirtir."
+      },
+      "takeaway": "'second only to X' = X'ten sonra ikinci sırada, yani X birinci demektir; bu kalıbı ters okumak en sık yapılan hatadır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2077,7 +2787,17 @@
       "Common symptoms include fever, diarrhoea and abdominal cramps."
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir parçaya uygun cümle sorusudur. Boşluktan sonraki cümledeki 'If the meat...' ifadesinin hangi ismi (et) tanıttığına bak.",
+      "correct": "Sonraki cümledeki 'If the MEAT is not cooked properly' ifadesi bir etten bahsetmek zorundadır; C şıkkı 'kontamine tavuk yiyerek bulaşma' diyerek bu eti tanıtır ve sonraki cümleyle mantıklı bir bağ kurar.",
+      "distractors": {
+        "0": "Bu cümle sebzeden bahseder, oysa sonraki cümle 'the meat' diye devam eder; konu geçişi tutarsızdır.",
+        "1": "Bu cümle semptomların ortaya çıkış süresiyle ilgilidir, sonraki cümledeki 'et pişirme' konusuyla doğrudan bağlantılı değildir.",
+        "3": "Bu cümle vejetaryenlerden bahseder, sonraki cümle ise etten bahsetmeye devam eder.",
+        "4": "Bu cümle semptomları listeler, sonraki cümle ise bulaşma yolunu anlatır; konular birbirini takip etmez."
+      },
+      "takeaway": "Paragraf tamamlama sorularında, boşluktan sonraki cümledeki isim/zamirin boşlukta tanıtılması gerektiğini unutma."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2106,7 +2826,17 @@
       "Likewise, there are not big differences between the unemployment rates of Europe and the US."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Önceki cümledeki 6.7 milyon kayıt dışı işsizle ilgili bir SONUÇ/yorum ekleyen şıkkı ara.",
+      "correct": "Önceki cümle 6.7 milyon kayıt dışı, çalışmak isteyen kişiden bahseder; B şıkkı 'bu insanları ekonomiye entegre etmenin uzun ve pahalı bir iş olacağı' diyerek doğal bir sonuç sunar.",
+      "distractors": {
+        "0": "Bu cümle şirket içi verimlilikten bahseder, önceki cümledeki 'kayıt dışı işsizlerden' farklı bir konudur.",
+        "2": "Bu cümle farklı bir coğrafi bölgeye (Batı Avrupa) ani bir geçiş yapar.",
+        "3": "Bu genel bir giriş cümlesi gibi durur, oysa burada önceki cümledeki spesifik istatistiğin bir devamı gerekir.",
+        "4": "Bu cümle farklı bir karşılaştırma konusuna (AB-ABD oranları) geçer."
+      },
+      "takeaway": "Paragraf sonunda gelen boşluklar genellikle önceki cümledeki spesifik bilgiye doğrudan bir sonuç/yorum eklemelidir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2135,7 +2865,17 @@
       "Throughout history, humans have devised different methods to alter their appearance."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Sonraki cümledeki 'However, body style is...' zıtlığının anlamlı olması için boşlukta ne söylenmeli düşün.",
+      "correct": "Sonraki cümledeki 'However, body style is...' ifadesi bir zıtlık kurar; bu zıtlığın anlamlı olması için boşlukta stilin başka alanlarda da (ev, araba, mutfak) geçerli olduğu belirtilmeli - B şıkkı tam olarak bunu yapar.",
+      "distractors": {
+        "0": "Bu cümle doğrudan vücuda odaklanır, oysa sonraki 'however, body style...' ifadesi bir zıtlık beklediği için boşlukta önce başka bir şeyden bahsedilmelidir.",
+        "2": "Bu cümle farklı bir konuya (görünüşün toplumsal belirleyiciliği) değinir, sonraki 'however' zıtlığıyla doğrudan bağlanmaz.",
+        "3": "Bu görünüş özgürlüğü hakkında bir cümledir ama sonraki cümleyle net bir zıtlık ilişkisi kurmaz.",
+        "4": "Bu tarihsel bir gözlem sunar, sonraki cümledeki zıtlık için uygun bir zemin oluşturmaz."
+      },
+      "takeaway": "Boşluktan sonra 'However' gibi güçlü bir zıtlık bağlacı varsa, boşluktaki cümle bu zıtlığın karşı tarafını kurmalıdır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2164,7 +2904,17 @@
       "In other words, speech style alone may not be sufficient to elicit a listener’s attitudes towards the group that the speaker represents."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Önceki cümledeki basit konuşma örneğine (yabancılar/çocuklarla) ZIT bir örnek sunan şıkkı ara.",
+      "correct": "Önceki cümle günlük/basit bir konuşma biçimini anlatır; B şıkkı 'HOWEVER, resmi bağlamda uzun ve karmaşık cümleler kullanırız' diyerek buna doğrudan bir zıtlık sunar ve paragrafın ana fikrini destekler.",
+      "distractors": {
+        "0": "Bu cümle dil edinimi sürecinden bahseder, önceki cümledeki temayla doğrudan ilgili değildir.",
+        "2": "Bu cinsiyete göre kelime seçimiyle ilgilidir, farklı bir alt konudur.",
+        "3": "Bu aksan/ulusal kimlik tanıma ile ilgilidir, önceki cümledeki konuşma stili ayarlama temasıyla doğrudan bağlantılı değildir.",
+        "4": "Bu farklı ve daha soyut bir iddiadır, önceki cümledeki somut örnekle doğrudan devam etmez."
+      },
+      "takeaway": "Paragraf içi boşluklarda, önceki cümledeki somut örnek ile zıt ama aynı temayı sürdüren bir sonraki örnek en güçlü adaydır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2193,7 +2943,17 @@
       "V"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir akışı bozan cümle sorusudur. Parçadaki her cümlenin AYNI ana fikre (konuşmadan kimlik çıkarımı) hizmet edip etmediğine bak.",
+      "correct": "Parça insanların konuşma biçiminden bölge/sosyal kimlik çıkarımı yapılabileceğini anlatır; (IV) cümlesi aniden hayvan türlerine geçerek konudan tamamen sapar.",
+      "distractors": {
+        "0": "(I) cümlesi parçanın ana tezini (konuşmadan bölge/köken tahmini) kurar; parçayla tam uyumludur.",
+        "1": "(II) cümlesi (I)'deki iddiayı detaylandırır (aksan/kelime dağarcığı gibi ipuçları); parçanın devamı niteliğindedir.",
+        "2": "(III) cümlesi konuşmadan çıkarılabilecek başka bir bilgi türünü (sosyal kimlik) ekler, temayı genişletir.",
+        "4": "(V) cümlesi konuşmadan çıkarılabilecek ince farkları örnekleyerek ana temaya somut bir detay katar."
+      },
+      "takeaway": "'Akışı bozan cümle' sorularında, doğru cevap genellikle farklı bir özne/kategoriye aniden geçen cümledir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2222,7 +2982,17 @@
       "V"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça alerjinin ne olduğunu ve hangi tetikleyicilerle ortaya çıktığını anlatıyor; farklı bir alt konuya (tedavi) sapan cümleyi ara.",
+      "correct": "Parça alerjinin tanımını ve tetikleyicilerini (toz, polen, gıda) örneklerle anlatır; (III) cümlesi aniden alerjinin tedavi/ilk yardım gerektirip gerektirmediğinden bahsederek farklı bir alt konuya sapar.",
+      "distractors": {
+        "0": "(I) cümlesi alerjinin tanımını verir, parçanın giriş cümlesi olarak akışa tam uyar.",
+        "1": "(II) cümlesi (I)'deki tanımı günlük tetikleyici örnekleriyle somutlaştırır; akışın doğal devamıdır.",
+        "3": "(IV) cümlesi (II)'de bahsedilen 'polen' tetikleyicisinin spesifik bir örneğini (saman nezlesi) verir.",
+        "4": "(V) cümlesi 'similarly' bağlacıyla başka bir tetikleyici türü (gıda) ekler."
+      },
+      "takeaway": "Bir parça tanım+örnekler üzerine kuruluysa, aniden farklı bir alt başlığa geçen cümle akışı bozar."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2251,7 +3021,17 @@
       "V"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça uçuşun artışı ve çevresel maliyetini anlatıyor; bu temadan tamamen farklı bir teknik konuya sapan cümleyi ara.",
+      "correct": "Parça uçuşun artışı ve çevresel maliyetini anlatır; (V) cümlesi aniden uçak bakımı/personeli konusuna geçerek parçanın 'çevre/uçuş artışı' temasından tamamen sapar.",
+      "distractors": {
+        "0": "(I) cümlesi parçanın ana konusunu (uçuşta dramatik artış) tanıtır, giriş cümlesi olarak uygundur.",
+        "1": "(II) cümlesi (I)'deki artışın sebeplerini açıklar; akışın doğal devamıdır.",
+        "2": "(III) cümlesi 'however' ile bu artışın çevresel bedeline geçiş yapar; parçanın ana temasını kurar.",
+        "3": "(IV) cümlesi (III)'teki çevresel maliyet temasını detaylandırır; akışa tam uyar."
+      },
+      "takeaway": "Parçanın ana teması belliyse, bu temadan tamamen farklı bir teknik/idari konuya sapan cümleyi ara."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2280,7 +3060,17 @@
       "V"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça bisikletin tarihçesini anlatıyor; tarihsel akıştan kopup güncel bir teknik özelliğe atlayan cümleyi ara.",
+      "correct": "Parça bisikletin tarihçesini ve gelişimini anlatır; (V) cümlesi aniden bisikletin hafif malzemeden yapılıp taşınabilirliğine odaklanarak tarihsel akıştan sapar.",
+      "distractors": {
+        "0": "(I) cümlesi bisikletin yaygınlığını vurgulayan bir giriş cümlesidir, parçanın başlangıcı için uygundur.",
+        "1": "(II) cümlesi bisikletin avantajlarını sayarak (I)'deki popülerliği açıklar; akışa uyumludur.",
+        "2": "(III) cümlesi bisikletin 19. yüzyıldaki icadına geçerek parçanın tarihçe temasını başlatır.",
+        "3": "(IV) cümlesi (III)'teki icat sürecinin nasıl günümüz tasarımına evrildiğini anlatır; tarihsel akışın doğal devamıdır."
+      },
+      "takeaway": "Bir parça tarihsel gelişim anlatıyorsa, bu zaman çizgisinden kopup güncel bir teknik özelliğe atlayan cümle akışı bozar."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -2309,7 +3099,17 @@
       "V"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça yemek algısının duygu/beklentilerle şekillendiğini anlatıyor; bu temayla ilgisiz bir konuya (menü çeşitliliği) odaklanan cümleyi ara.",
+      "correct": "Parça yemek algısının sadece duyularla değil, duygu/beklentilerle de şekillendiğini anlatır; (I) cümlesi restoranların yerel/evrensel yemek çeşitlerinden bahsederek parçanın 'algı ve duygu' temasıyla ilgisiz bir konuya odaklanır.",
+      "distractors": {
+        "1": "(II) cümlesi parçanın ana tezini (güzel bir restorandaki yemek daha lezzetli hissedilir) kurar, parçanın başlangıcı için uygundur.",
+        "2": "(III) cümlesi (II)'deki gözlemin sebebini (algının duygu ve beklentilerden etkilenmesi) açıklar.",
+        "3": "(IV) cümlesi (III)'teki 'duygu/beklenti' etkisinin bir türünü (renklerin lezzet algısını etkilemesi) tanıtır.",
+        "4": "(V) cümlesi (IV)'teki 'renk etkisi' iddiasına somut bir örnek (şarap deneyi) verir."
+      },
+      "takeaway": "Parçanın ana tezinden bağımsız, farklı bir yan konuya değinen cümle akışı bozar; genellikle bu cümle parçanın en başında bir 'tuzak' olarak yer alır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,

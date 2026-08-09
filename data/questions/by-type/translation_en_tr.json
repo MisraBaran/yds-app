@@ -18,7 +18,17 @@
       "Paul Fisher, fen bilimlerine ilgi duyan bir iktisatçı olarak daha iyi bir tükenmez kalem tasarlamış ve böylece iş dünyasında adını duyurmuştur."
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Önce cümledeki ana yapıyı (özne-kim, ana eylem-ne yaptı, nasıl-with/by ifadesi) çıkar, sonra hangi şıkkın bu üç unsuru da doğru ve eksiksiz aktardığına bak.",
+      "correct": "Orijinal cümlenin ana yapısı: 'Paul Fisher ... iz bıraktı (left his mark) ... daha iyi bir kalem tasarlayarak (by designing)'. D şıkkı bu yapıyı birebir korur: 'Paul Fisher ... iş dünyasında iz bırakmıştır' (ana eylem) '...tasarlayarak' (araç); ayrıca 'an economist with an interest in science' de 'fen bilimlerine ilgi duyan bir iktisatçı olan' şeklinde doğru aktarılmıştır.",
+      "distractors": {
+        "0": "Bu şıkta ana vurgu yanlış yere kaymıştır: 'katkısıyla adını duyurmuştur' ifadesi, orijinal cümledeki 'tasarlama' ile 'iz bırakma' arasındaki araç-sonuç ilişkisini bozarak farklı bir anlam (fen bilimlerine katkı) öne çıkarır.",
+        "1": "Bu şıkta ana fiil 'başarmıştır' olarak değiştirilmiş ve 'iz bırakma' ifadesi arka plana atılmıştır; orijinal cümlenin asıl vurgusu ikincil bir bilgiye dönüşmüştür.",
+        "2": "'tanınan' ifadesi orijinal cümlede olmayan bir ÖNCEKİ ünü ima eder; oysa orijinal cümle sadece ilgi alanını belirtir.",
+        "4": "Bu şık 've böylece...duyurmuştur' bağlacıyla iki ayrı sonuç sunar, oysa orijinalde tasarlamak tek başına iz bırakmanın ARACIDIR, iki ayrı eşit sonuç değildir."
+      },
+      "takeaway": "Çeviri sorularında 'by V-ing' (bir eylemi gerçekleştirerek) yapısının ARAÇ anlamını koruyan şıkkı seç; araç ile sonucun yer değiştirmediğine dikkat et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "Makyözler, canlandırılacak karakterlerin fiziksel özelliklerini istenilen şekilde yansıtmak amacıyla oyuncuların yüzünü ve vücudunu sahne için etkili hâle getirir."
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Orijinal cümledeki 'to V' (amaç bildiren mastar) yapısının hedef cümlede AMAÇ olarak mı yoksa SEBEP/ARAÇ olarak mı çevrildiğine bak.",
+      "correct": "Orijinal cümlenin yapısı: 'Makyözler (özne) hazırlar (ana fiil) ... yansıtmak İÇİN (amaç: to effectively reflect)'. A şıkkı bu amaç-eylem ilişkisini ('yansıtmak için hazırlar') birebir ve en sade şekilde korur.",
+      "distractors": {
+        "1": "'...hazırlayarak, ...yansıtılmasını sağlar' yapısı ana fiili 'sağlamak' yapar ve 'hazırlama' eylemini bir araca indirger; vurgu ters çevrilmiştir.",
+        "2": "'...hazırlayan kişilerdir' yapısı makyözleri bir TANIM cümlesine çevirir; oysa orijinal cümle bir tanım değil, doğrudan bir eylem anlatısıdır.",
+        "3": "'...yansıtılmak istendiği için...hazırlar' yapısı amaç ilişkisini SEBEP ilişkisine çevirir; orijinaldeki 'to effectively reflect' doğrudan bir amaç bildiren mastar yapısıdır.",
+        "4": "'...yansıtmak amacıyla...hâle getirir' ifadesi daha dolaylı bir fiil kullanır ve 'istenilen şekilde' orijinalde olmayan bir belirsizlik ekler."
+      },
+      "takeaway": "Çeviri sorularında 'to V' (amaç bildiren mastar) yapısının hangi şıkta amaç olarak kaldığına, hangisinde sebep veya araca dönüştüğüne dikkat et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "Bireyler, sorunlarına çare bulma konusunda gereken yöntemleri etkin olarak kullanamadıklarında stres ve ağrıyla başa çıkmak için genellikle uzman desteğine başvururlar."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Orijinal cümlenin özne-yüklem sırasını ve isim cümlesi yapısını ('are individuals whose...') koruyan şıkkı ara.",
+      "correct": "Orijinal cümlenin yapısı: 'Uzman desteğine başvuran kişiler (özne) genellikle ... yöntemleri yetersiz kalan kişilerdir (yüklem: isim cümlesi)'. B şıkkı bu özne-yüklem sırasını ve isim cümlesi yapısını birebir korur.",
+      "distractors": {
+        "0": "Bu şıkta cümlenin özne 'yöntemleri yetersiz kalan bireyler' yapılmış ve 'başvururlar' ana fiil olmuş; orijinal cümledeki 'are individuals' (tanımlama) yapısı bir fiil cümlesine çevrilerek odak noktası değiştirilmiştir.",
+        "2": "'...oluşmaktadır' ve 'yetersiz yöntemler geliştiren' ifadesi, orijinaldeki 'have proven ineffective' (yöntemlerin sonradan yetersiz çıktığı) anlamını 'baştan yetersiz tasarlama' şeklinde hafifçe değiştirir.",
+        "3": "Yine özne-yüklem sırası tersine çevrilmiş; ayrıca 'yöntemler yetersiz kaldığında' zaman/koşul ifadesi orijinaldeki sıfat cümlesi yapısından farklı bir cümle türü oluşturur.",
+        "4": "'gereken yöntemleri...kullanamadıklarında' ifadesi orijinalde olmayan bir beceriksizlik vurgusu ekler; oysa orijinal sadece yöntemlerin sonuç olarak işe yaramadığını söyler."
+      },
+      "takeaway": "Çeviri sorularında isim cümlesi ile fiil cümlesi arasındaki farkı koru; hangi öge özne ise hedef cümlede de aynı öge özne kalmalı."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,

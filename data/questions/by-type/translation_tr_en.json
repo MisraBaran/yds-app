@@ -18,7 +18,17 @@
       "Having discovered that a cow in New Zealand was born with the ability to produce non-fat milk naturally, scientists are studying to figure out how to breed such cows."
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Türkçe cümledeki özne, ana eylem ve ZAMANIN (şimdiki zaman) hedef cümlede nasıl korunduğuna bak.",
+      "correct": "Türkçe cümlenin yapısı: '...keşfeden bilim insanları (özne), ...çalışıyorlar (ana eylem, ŞİMDİKİ ZAMAN)'. E şıkkı bunu doğru verir: 'Having discovered...' (keşfetmiş olarak) + 'scientists ARE STUDYING' (ana eylem, present continuous - 'çalışıyorlar' ile birebir zaman uyumu).",
+      "distractors": {
+        "0": "Bu şık 'is being examined by scientists' ile ineği özne, bilim insanlarını edilgen bir aracı yapar; oysa orijinal cümlede özne bilim insanlarıdır.",
+        "1": "'It was discovered that...' pasif başlangıcı, orijinal cümledeki 'keşfeden bilim insanları' vurgusunu zayıflatır ve özneyi belirsizleştirir.",
+        "2": "'which encouraged scientists to investigate' yapısı, 'çalışıyorlar' (şu an devam eden bir eylem) yerine geçmişte tamamlanmış bir teşvik ilişkisi kurar.",
+        "3": "'was discovered to be able to' pasif yapısı yine özneyi (ineği) öne çıkarır ve 'have been trying' present perfect continuous kullanarak farklı bir zaman anlamı verir."
+      },
+      "takeaway": "Türkçe'den İngilizceye çeviri sorularında, ana cümledeki fiilin zamanını (şimdiki zaman gibi) hedef cümlede birebir koruyan şıkkı seç; edilgen yapıya kaydırılmış şıklar genelde vurguyu bozar."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "It was Mehmed the Conquerer who ordered to have the first census carried out in Istanbul in 1455, two years after the conquest."
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Türkçe cümlenin ANA VURGUSUNUN (nüfus sayımının yapılması, edilgen) hedef cümlede hangi şıkta korunduğuna bak.",
+      "correct": "Orijinal cümledeki tüm unsurlar (zaman: 1455/fetihten 2 yıl sonra, sebep: Fatih'in emriyle, ana eylem: nüfus sayımı yapıldı - edilgen) D şıkkında aynı sırayla ve vurguyla korunur: 'the first census in Istanbul was carried out' (edilgen, orijinaldeki 'yapılmıştır' ile birebir örtüşür).",
+      "distractors": {
+        "0": "'as Mehmed the Conquerer ordered it' aktif bir özne-fiil ilişkisi kurar, oysa orijinalde ana vurgu SAYIMIN YAPILMASI (edilgen), emrin kendisi ikincil bilgidir.",
+        "1": "'1455 is the year that...' yapısı zamanı ANA ÖZNE yapar; orijinal cümlenin asıl öznesi 'nüfus sayımı'dır, yıl değil.",
+        "2": "'about two years after' ifadesindeki 'about' (yaklaşık) orijinal Türkçe cümledeki kesin ifadeyi belirsizleştirir.",
+        "4": "'It was Mehmed the Conquerer who ordered...' vurgu yapısı ana vurguyu Fatih'e kaydırır; oysa orijinal cümlenin vurgusu nüfus sayımının kendisidir."
+      },
+      "takeaway": "Çeviri sorularında hangi unsurun ana vurgu/özne olduğunu koruyan şıkkı seç; aktif-edilgen dönüşümü genelde vurguyu değiştirir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "The most fruitful research dealing directly with social-class differences in language education was done by the English sociologist Basil Bernstein."
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir çeviri sorusudur. Türkçe cümlenin isim cümlesi yapısını ('X, Y'ninkidir') hedef cümlede koruyan şıkkı ara.",
+      "correct": "Orijinal cümlenin öznesi 'en verimli araştırma', yüklemi ise 'Bernstein'inkidir' (isim cümlesi: X, Y'ninkidir). C şıkkı bu yapıyı birebir korur: 'The most fruitful research...IS THAT OF Basil Bernstein' ('that of' = -inki anlamını doğru karşılayan standart İngilizce yapı).",
+      "distractors": {
+        "0": "'belongs to the English sociologist' ifadesi anlamca yakın olsa da isim cümlesi yapısını fiil yapısına çevirir; C şıkkı orijinal yapıyı daha birebir yakalar.",
+        "1": "'Basil Bernstein, who is...has dealt directly...' yapısı özneyi 'araştırma'dan 'Bernstein'a kaydırır; oysa orijinal cümlenin öznesi araştırmanın kendisidir.",
+        "3": "'The English sociologist...has done fruitful research' yapısı özneyi kişiye çevirir ve 'en verimli' (superlative) vurgusunu 'fruitful' olarak zayıflatır.",
+        "4": "'...was done by the English sociologist' pasif yapısı, isim cümlesi yapısını 'was done by X' edilgen fiil cümlesine çevirir; C şıkkı isim cümlesi yapısını daha doğrudan korur."
+      },
+      "takeaway": "Çeviri sorularında sadece anlam değil, mümkün olduğunca cümle yapısı (isim cümlesi/fiil cümlesi, özne kimin olduğu) da orijinaline en yakın şıkkı seçmek önemlidir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,

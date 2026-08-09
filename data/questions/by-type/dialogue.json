@@ -18,7 +18,17 @@
       "I can understand that. They just don’t seem to be able to set clear goals for themselves."
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir diyalog tamamlama sorusudur. Boşluktan SONRAKİ cevaba bak: konuşmacının verdiği yanıt, boşluktaki cümleye nasıl bir tepki veriyor?",
+      "correct": "Ender'in boşluktaki cümlesi, Doruk'un 'Yes, but besides planning, luck plays the greater part' cevabını tetiklemelidir; E şıkkı 'Anlıyorum, hedef belirleyemiyorlar' diyerek planlama/hedef temasına değinir, Doruk da buna 'evet ama şans da önemli' diyerek doğal bir devam sağlar.",
+      "distractors": {
+        "0": "'Sometimes things happen spontaneously' cümlesi planlamaya karşı bir görüş sunar ama Doruk'un cevabı bunu onaylamak yerine farklı bir noktaya (şans) geçer.",
+        "1": "'they're probably not going to expect much from their career' cümlesi Doruk'un cevabındaki 'planning' ve 'luck' temalarıyla doğrudan bağlantı kurmaz.",
+        "2": "'It's their parents to blame' cümlesi ebeveyn sorumluluğuna odaklanır; Doruk'un cevabı planlama/şans konusuna devam eder.",
+        "3": "'Do you think it's only young people?' sorusu farklı bir yaş grubuna geçiş yapar; Doruk'un cevabı bu soruya değil planlama temasına dönük bir yanıttır."
+      },
+      "takeaway": "Diyalog sorularında boşluktan sonraki replikteki anahtar kelimeleri bul; doğru şık bu kelimelerle doğrudan ilişkili bir öncül cümle olmalıdır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "International organizations are trying to find solutions to stop greenhouse gas emissions. Will all those efforts stop global warming?"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Uğur'un cevabındaki 'No, not really. I guess I should be better informed' ifadesinin hangi TÜR bir soruya cevap olduğunu düşün.",
+      "correct": "Uğur'un cevabı 'Hayır, aslında değil, daha bilgili olmalıyım' ifadesi, Tarık'ın ona bir okuma/bilgi sorusu sorduğunu gösterir; B şıkkındaki 'Haven't you read anything about it?' sorusu bu cevabı doğrudan tetikler.",
+      "distractors": {
+        "0": "'Records of temperatures cannot be regarded as representative, can they?' sorusu bilimsel veriye şüpheyle yaklaşır, oysa Tarık iklim değişikliğini savunan taraf gibi görünüyor.",
+        "2": "'do you think there are other reasons?' cümlesi farklı bir soru sorar, Uğur'un cevabı ise okuma/bilgi eksikliğiyle ilgilidir.",
+        "3": "'Don't you think we should avoid harmful products?' sorusu farklı bir davranış önerisi sorar, Uğur'un cevabıyla örtüşmez.",
+        "4": "'will efforts stop it?' sorusu çözümler hakkındadır, Uğur'un cevabı kendi bilgi eksikliğiyle ilgilidir."
+      },
+      "takeaway": "Cevaptaki 'No, not really' gibi bir itiraf ifadesi varsa, boşluktaki cümlenin bir soru ('Haven't you...?' gibi) olduğunu düşün."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "Does the training of health psychologists include public management?"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Uzmanın cevabındaki 'It will play an important role' (gelecek zaman) ifadesinin hangi TÜR bir soruya cevap olduğunu düşün.",
+      "correct": "Uzmanın cevabı gelecekte oynayacağı role odaklanır; C şıkkındaki 'What is the outlook for the future...?' sorusu doğrudan bu geleceğe yönelik cevabı tetikler.",
+      "distractors": {
+        "0": "'Isn't health psychology an area young people are interested in?' sorusu ilgi alanıyla ilgilidir, cevap ise gelecekteki rolle ilgilidir.",
+        "1": "'aren't there?' onay sorusu genel bir konuya değinir, cevap ise spesifik olarak 'kronik hastalıkların yönetimi'nden bahseder.",
+        "3": "'How do you treat those who just started working?' sorusu personel eğitimiyle ilgilidir, cevapla hiçbir ilgisi yoktur.",
+        "4": "'Does training include public management?' sorusu eğitim içeriğiyle ilgilidir, cevap gelecekteki rolle ilgilidir."
+      },
+      "takeaway": "Cevapta 'will' gibi gelecek zaman ifadeleri varsa, boşluktaki soru genellikle geleceğe dair bir soru olmalıdır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -105,7 +135,17 @@
       "You might have a point; I’ve heard of researchers plagiarizing."
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Serap'ın cevabındaki 'Remember; researchers are not always objectively motivated' ifadesinin bir UYARI/itiraz olduğunu; bu neye karşı bir itiraz olabilir düşün.",
+      "correct": "Serap'ın cevabı bir uyarı yapar; bu, Hakan'ın önceki cümlesinin araştırmacılara güvenmekten başka çare olmadığını söylemesine bir karşı argüman oluşturur, A şıkkı tam olarak bu güven ifadesini taşır.",
+      "distractors": {
+        "1": "'the scientific process hardly allows flawed research to be published' cümlesi bilimin kendi kendini denetlediğini savunur; zaten bir güvensizlik değil güven ifadesi taşıdığından Serap'ın uyarısını gerektirmez.",
+        "2": "'the notion of trust has largely been ignored' cümlesi zaten güvensizlik bildirir; Serap'ın cevabı buna bir hatırlatma olarak eklenmez.",
+        "3": "'the scientific establishment has matured enough' cümlesi güçlü bir güven ifadesidir ama araştırmacıların objektif motivasyonuyla ilgili değil, kurumun olgunluğuyla ilgilidir.",
+        "4": "'I've heard of researchers plagiarizing' cümlesi zaten bir güvensizlik ifadesidir; Serap'ın 'Remember' ile başlayan cevabı bir güven ifadesine karşı daha uygun düşer."
+      },
+      "takeaway": "Cevaptaki 'Remember;...' gibi bir uyarı ifadesi, önceki cümlenin bu uyarıyla çelişen bir güven ifadesi olduğunu gösterir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -134,7 +174,17 @@
       "OK, and do such gardens only contain plants?"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Öğrencinin cevabındaki SOMUT ÖRNEK (3 yaşındaki hasta hikayesi) hangi TÜR bir soruya cevap olur düşün.",
+      "correct": "Öğrencinin cevabı somut bir örnek verir (3 yaşındaki hastanın hikayesi); D şıkkındaki 'can you give me a specific example?' sorusu bu somut örnek cevabını doğrudan tetikler.",
+      "distractors": {
+        "0": "'what makes them attractive?' sorusu neden cazip olduklarını sorar, öğrencinin cevabı ise bir hikaye/örnek anlatır.",
+        "1": "'what about hospitals without a garden?' sorusu karşılaştırma ister, öğrencinin cevabı ise spesifik bir vaka anlatır.",
+        "2": "'what conclusions did we reach?' sorusu bir özet/sonuç ister, öğrencinin cevabı ise soyut bir sonuç değil somut bir örnek sunar.",
+        "4": "'do such gardens only contain plants?' sorusu bahçenin içeriğiyle ilgilidir, öğrencinin cevabı ise bir hasta hikayesidir."
+      },
+      "takeaway": "Cevap somut bir örnek/hikaye ise, boşluktaki soru genellikle 'Can you give me an example?' tarzında bir istektir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,

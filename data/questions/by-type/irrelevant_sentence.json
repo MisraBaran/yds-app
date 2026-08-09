@@ -18,7 +18,17 @@
       "V"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir akışı bozan cümle sorusudur. Parçadaki her cümlenin AYNI ana fikre (konuşmadan kimlik çıkarımı) hizmet edip etmediğine bak.",
+      "correct": "Parça insanların konuşma biçiminden bölge/sosyal kimlik çıkarımı yapılabileceğini anlatır; (IV) cümlesi aniden hayvan türlerine geçerek konudan tamamen sapar.",
+      "distractors": {
+        "0": "(I) cümlesi parçanın ana tezini (konuşmadan bölge/köken tahmini) kurar; parçayla tam uyumludur.",
+        "1": "(II) cümlesi (I)'deki iddiayı detaylandırır (aksan/kelime dağarcığı gibi ipuçları); parçanın devamı niteliğindedir.",
+        "2": "(III) cümlesi konuşmadan çıkarılabilecek başka bir bilgi türünü (sosyal kimlik) ekler, temayı genişletir.",
+        "4": "(V) cümlesi konuşmadan çıkarılabilecek ince farkları örnekleyerek ana temaya somut bir detay katar."
+      },
+      "takeaway": "'Akışı bozan cümle' sorularında, doğru cevap genellikle farklı bir özne/kategoriye aniden geçen cümledir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "V"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça alerjinin ne olduğunu ve hangi tetikleyicilerle ortaya çıktığını anlatıyor; farklı bir alt konuya (tedavi) sapan cümleyi ara.",
+      "correct": "Parça alerjinin tanımını ve tetikleyicilerini (toz, polen, gıda) örneklerle anlatır; (III) cümlesi aniden alerjinin tedavi/ilk yardım gerektirip gerektirmediğinden bahsederek farklı bir alt konuya sapar.",
+      "distractors": {
+        "0": "(I) cümlesi alerjinin tanımını verir, parçanın giriş cümlesi olarak akışa tam uyar.",
+        "1": "(II) cümlesi (I)'deki tanımı günlük tetikleyici örnekleriyle somutlaştırır; akışın doğal devamıdır.",
+        "3": "(IV) cümlesi (II)'de bahsedilen 'polen' tetikleyicisinin spesifik bir örneğini (saman nezlesi) verir.",
+        "4": "(V) cümlesi 'similarly' bağlacıyla başka bir tetikleyici türü (gıda) ekler."
+      },
+      "takeaway": "Bir parça tanım+örnekler üzerine kuruluysa, aniden farklı bir alt başlığa geçen cümle akışı bozar."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "V"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça uçuşun artışı ve çevresel maliyetini anlatıyor; bu temadan tamamen farklı bir teknik konuya sapan cümleyi ara.",
+      "correct": "Parça uçuşun artışı ve çevresel maliyetini anlatır; (V) cümlesi aniden uçak bakımı/personeli konusuna geçerek parçanın 'çevre/uçuş artışı' temasından tamamen sapar.",
+      "distractors": {
+        "0": "(I) cümlesi parçanın ana konusunu (uçuşta dramatik artış) tanıtır, giriş cümlesi olarak uygundur.",
+        "1": "(II) cümlesi (I)'deki artışın sebeplerini açıklar; akışın doğal devamıdır.",
+        "2": "(III) cümlesi 'however' ile bu artışın çevresel bedeline geçiş yapar; parçanın ana temasını kurar.",
+        "3": "(IV) cümlesi (III)'teki çevresel maliyet temasını detaylandırır; akışa tam uyar."
+      },
+      "takeaway": "Parçanın ana teması belliyse, bu temadan tamamen farklı bir teknik/idari konuya sapan cümleyi ara."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -105,7 +135,17 @@
       "V"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça bisikletin tarihçesini anlatıyor; tarihsel akıştan kopup güncel bir teknik özelliğe atlayan cümleyi ara.",
+      "correct": "Parça bisikletin tarihçesini ve gelişimini anlatır; (V) cümlesi aniden bisikletin hafif malzemeden yapılıp taşınabilirliğine odaklanarak tarihsel akıştan sapar.",
+      "distractors": {
+        "0": "(I) cümlesi bisikletin yaygınlığını vurgulayan bir giriş cümlesidir, parçanın başlangıcı için uygundur.",
+        "1": "(II) cümlesi bisikletin avantajlarını sayarak (I)'deki popülerliği açıklar; akışa uyumludur.",
+        "2": "(III) cümlesi bisikletin 19. yüzyıldaki icadına geçerek parçanın tarihçe temasını başlatır.",
+        "3": "(IV) cümlesi (III)'teki icat sürecinin nasıl günümüz tasarımına evrildiğini anlatır; tarihsel akışın doğal devamıdır."
+      },
+      "takeaway": "Bir parça tarihsel gelişim anlatıyorsa, bu zaman çizgisinden kopup güncel bir teknik özelliğe atlayan cümle akışı bozar."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -134,7 +174,17 @@
       "V"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça yemek algısının duygu/beklentilerle şekillendiğini anlatıyor; bu temayla ilgisiz bir konuya (menü çeşitliliği) odaklanan cümleyi ara.",
+      "correct": "Parça yemek algısının sadece duyularla değil, duygu/beklentilerle de şekillendiğini anlatır; (I) cümlesi restoranların yerel/evrensel yemek çeşitlerinden bahsederek parçanın 'algı ve duygu' temasıyla ilgisiz bir konuya odaklanır.",
+      "distractors": {
+        "1": "(II) cümlesi parçanın ana tezini (güzel bir restorandaki yemek daha lezzetli hissedilir) kurar, parçanın başlangıcı için uygundur.",
+        "2": "(III) cümlesi (II)'deki gözlemin sebebini (algının duygu ve beklentilerden etkilenmesi) açıklar.",
+        "3": "(IV) cümlesi (III)'teki 'duygu/beklenti' etkisinin bir türünü (renklerin lezzet algısını etkilemesi) tanıtır.",
+        "4": "(V) cümlesi (IV)'teki 'renk etkisi' iddiasına somut bir örnek (şarap deneyi) verir."
+      },
+      "takeaway": "Parçanın ana tezinden bağımsız, farklı bir yan konuya değinen cümle akışı bozar; genellikle bu cümle parçanın en başında bir 'tuzak' olarak yer alır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,

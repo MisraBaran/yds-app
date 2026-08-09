@@ -18,7 +18,17 @@
       "Penguins are weird birds in that they cannot fly and are instead proficient swimmers"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir cümle tamamlama sorusu; boşluk cümlenin geri kalanıyla (özellikle 'but' bağlacıyla) mantıksal bir bütün oluşturmalı.",
+      "correct": "'Scientists have known about fossil penguins for more than 150 years, BUT the remains they recovered early on held little information' = uzun süredir bilinmesine rağmen ilk bulunan kalıntıların az bilgi vermesi mantıklı bir zıtlık kurar.",
+      "distractors": {
+        "0": "Fosil kayıtlarının 1970'lerde iyileşmeye başlaması, 'but' ile zıtlık kuracak genel bir önerme (bilgi birikimi) sunmaz.",
+        "1": "Coğrafi dağılım cümlesi, 'kalıntıların bilgi vermemesi' ile doğrudan bağlantılı değildir.",
+        "2": "Tek bir olayı (ilk fosil) anlatır ama 'but' ile zıtlık kuracak genel bir önerme sunmaz.",
+        "4": "Penguenlerin fiziksel özellikleri, fosil kayıtlarının bilgi verip vermemesiyle mantıksal bağı yoktur."
+      },
+      "takeaway": "Sentence completion sorularında boşluktaki cümleyi seçerken, cümlenin geri kalanındaki bağlaç (but/because/so) ile kurduğu mantık ilişkisini test et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "we cannot immediately stop various global cultural phenomena that are in action"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "'Even if we were to stabilize greenhouse gas emissions today, ----' yapısı bir karşıt beklenti kurar: bugün durdursak bile sonuç DEĞİŞMEZ mi diye düşün.",
+      "correct": "'both temperatures and sea levels would continue to rise for many hundred years' = 'even if' yapısı bir karşıt beklenti kurar; iklim sisteminin ataletini (gecikmeli tepkisini) doğru yansıtır.",
+      "distractors": {
+        "0": "Sıcaklık artışının otomobil emisyonlarını 'destabilize' etmesi, neden-sonucu tersine çevirir.",
+        "1": "Güneş varyasyonlarına atıf, 'even if we stabilize emissions' ön cümlesiyle ilgisiz bir konuya geçiş yapar.",
+        "2": "Genel bir kirlilik gerçeğini tekrarlar ama 'bugün durdursak bile ne olur' sorusuna cevap vermez.",
+        "4": "'cultural phenomena' ifadesi cümlenin iklim bilimi bağlamıyla örtüşmez."
+      },
+      "takeaway": "'Even if + şimdiki/geçmiş, would + fiil' yapısı, bir eylem yapılsa bile sonucun değişmeyeceğini anlatır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "Whether they are part of a formal weight-loss program or a personal attempt"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'----, diets that include a variety of healthy food are more likely to produce long-term results' cümlesinde boşluğun, ana cümledeki GENEL iddiayı hangi durumlarda destekleyen bir yapı olduğuna bak.",
+      "correct": "'Whether they are part of a formal weight-loss program or a personal attempt' = 'whether...or' yapısı iki farklı durumun HER İKİSİNDE DE aynı sonucun geçerli olduğunu vurgular; ana cümledeki genel-geçer iddiayla uyumludur.",
+      "distractors": {
+        "0": "Türkiye'ye özgü dar bir istatistik, ana cümledeki genel diyet ilkesiyle ilgisi kurulamaz.",
+        "1": "'Unless' olumsuz bir koşul kurar ama ana cümle zaten sağlıklı/çeşitli diyetleri konu ediyor, çelişki yaratır.",
+        "2": "Kısıtlayıcı diyetlere odaklanır, 'whether...or' kadar doğrudan-genel bir çerçeve sunmaz.",
+        "3": "Vejetaryen diyete özel bir durum sunar, ana cümledeki genel iddiaya temel oluşturmaz."
+      },
+      "takeaway": "'Whether X or Y, ...' = X veya Y fark etmeksizin, her iki durumda da; genel-geçer bir iddiayı güçlendirmek için kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -105,7 +135,17 @@
       "scholars, for ages, have been debating the role played by the vocal tract and the ear"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'In trying to understand the development of language, ----' ifadesindeki devam eden ÇABAYI (çalışırken) betimleyen bir devam cümlesi ara.",
+      "correct": "'scholars, for ages, have been debating the role played by the vocal tract and the ear' = 'in trying to understand X' ifadesindeki devam eden çabayı, 'have been debating' (süregelen tartışma) birebir karşılar.",
+      "distractors": {
+        "0": "İnsan dilinin az sayıda ses kullanması, dilin bir özelliğidir; 'anlamaya çalışırken' ifadesinin gerektirdiği çabayı betimlemez.",
+        "1": "Dilbilgisinin dilsel bilgiyi temsil etmesi de dilin bir tanımıdır, çaba sürecini betimlemez.",
+        "2": "Merakın teorilere yol açması yakın bir alternatiftir ama 'has led to' (tamamlanmış sonuç) süregelen çabayı 'have been debating' kadar doğal karşılamaz.",
+        "3": "Dilin hiç icat edilmediği bir iddiadır, 'anlamaya çalışırken' ifadesinin beklediği süreç betimlemesi değildir."
+      },
+      "takeaway": "'In V-ing..., [özne] have been V-ing...' yapısında, giriş cümlesindeki eylem ile ana cümledeki eylem aynı süreç/çaba temasını paylaşmalıdır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -134,7 +174,17 @@
       "it would not be reasonable to have high expectations to live longer and healthier"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "'Thanks to vaccinations, antibiotics, sanitation and better parental care, ----' ifadesi olumlu bir sonuca işaret eder; bu olumlu gelişmelerin DOĞAL sonucu ne olabilir?",
+      "correct": "'today, we are much more likely to die in old age than in our youth' = 'thanks to' olumlu bir sonucu işaret eder; tıbbi gelişmelerin sonucu olarak insanların yaşlıyken ölme olasılığının artması bu olumlu sonucu doğru yansıtır.",
+      "distractors": {
+        "0": "Yaşın en büyük risk faktörü olması, 'thanks to' ile işaret edilen olumlu gelişmenin doğal bir sonucu değildir.",
+        "2": "Afrika'da yüksek çocuk ölüm oranının hâlâ var olması, gelişmelerin OLMADIĞI bir durumu örnekler, tam tersini gösterir.",
+        "3": "Bebeklerin büyükanne/babalarından şanslı olmaması, gelişmelerin FAYDA SAĞLAMADIĞINI ima eder, mantıksal çelişki yaratır.",
+        "4": "Daha uzun yaşam beklememenin mantıksız olması, olumlu gelişmelere rağmen çelişki yaratır."
+      },
+      "takeaway": "'Thanks to X, Y' yapısında Y, X'in getirdiği olumlu/beklenen bir sonuç olmalıdır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -163,7 +213,17 @@
       "thus there is no reason to think that things stand differently with artwork"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "'Some sorts of music strike us with their perfection, ----' ifadesinden sonra gelecek cümle, müziğin mükemmelliği ile başka bir durum arasında bir ZITLIK kurmalı.",
+      "correct": "'though we may have difficulty identifying what emotion they express' = 'though' zıtlık bildirir; müziğin mükemmelliğinin bizi etkilemesi ile hangi duyguyu ifade ettiğini anlamakta zorlanmamız arasında doğal bir zıtlık kurulur.",
+      "distractors": {
+        "0": "Herkesin aynı zevki alamaması farklı bir konuya (zevk farklılığı) değiniyor, 'mükemmellik' ile 'duygu tanımlama zorluğu' zıtlığını kurmaz.",
+        "2": "Reggae müziğinin sorumluluk taşımaması, belirli bir müzik türünden bahseder, genel müzik ifadesiyle uyumsuzdur.",
+        "3": "Sanatçıların işi organize etmesi, cümledeki 'mükemmellik' ve 'duygu' temasıyla ilgisizdir.",
+        "4": "Sanat eseri hakkında farklı düşünmeye gerek olmaması, 'though' bağlacının gerektirdiği somut bir zıtlık sunmaz."
+      },
+      "takeaway": "'..., though + cümle' yapısında ikinci cümle, ilk cümledeki olumlu durumla çelişen ama onu geçersiz kılmayan bir gözlem sunar."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -192,7 +252,17 @@
       "While most people appreciate how their health is tied to their diet and exercise"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'----, few realize how changes to their sleep pattern can have a significant effect as well' cümlesinde 'as well' (ayrıca) ifadesinin işaret ettiği BİLİNEN bir konuyu bul.",
+      "correct": "'While most people appreciate how their health is tied to their diet and exercise' = 'while' zıtlık bildirir; diyet/egzersizi bilmelerine karşın uyku düzenini bilmemeleri arasındaki karşıtlık, ana cümledeki 'as well' ifadesiyle örtüşür.",
+      "distractors": {
+        "0": "Kötü bir gecenin günü mahvetmesi, tek bir olayı anlatır, 'few realize' ifadesiyle kurulacak genel bir zıtlık sunmaz.",
+        "1": "Uykusuzların ilaç alması, belirli bir davranışı anlatır, genel farkındalık eksikliği temasına doğrudan zıtlık kurmaz.",
+        "2": "Doktorların ilaç yazması, farklı bir özneden (doktorlar) bahseder, 'few realize' öznesiyle örtüşmez.",
+        "4": "Uykusuzlara kafeini azaltma tavsiyesi, belirli bir grup hakkındadır, genel farkındalık zıtlığını kurmaz."
+      },
+      "takeaway": "'While X, few/many Y' yapısı, bilinen bir gerçek (X) ile daha az fark edilen bir gerçek (Y) arasında zıtlık kurar."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -221,7 +291,17 @@
       "further need arises for swift, expert and specialized media to explain the latest developments"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'Because the relationship between government and business is complex...so rapidly, ----' cümlesinde karmaşıklık ve hızlı değişimin doğal SONUCU ne olabilir?",
+      "correct": "'further need arises for swift, expert and specialized media to explain the latest developments' = karmaşıklık ve hızlı değişim, doğal olarak uzman/hızlı bir açıklama aracına duyulan ihtiyacı doğurur; bu sonuç-neden ilişkisi mantıklıdır.",
+      "distractors": {
+        "0": "Bültenlerin geçmişte üretilmiş olması, 'because' cümlesinin genel ihtiyaç vurgusunu tam karşılamaz, dolaylı kalır.",
+        "1": "Uzman yayınların sektörlere hizmet etmesi mevcut bir durumu tanımlar, karmaşıklığın SONUCU olan ihtiyaç artışını anlatmaz.",
+        "2": "Bültenlerin yüksek fiyat etiketi taşıyabilmesi, fiyatlandırmayla ilgili bir detaydır, ihtiyacı anlatmaz.",
+        "3": "Abonenin bilgiye ödeme yapması yine fiyatlandırma/değer algısıyla ilgilidir, sebepteki ihtiyaç artışını anlatmaz."
+      },
+      "takeaway": "'Because + karmaşık/değişken durum, further need arises for...' yapısında sonuç cümlesi, sebepteki karmaşıklığa doğrudan bir çözüm/ihtiyaç önermelidir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -250,7 +330,17 @@
       "As long as extremely shy personalities lack interaction even with their family members"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "'----, they develop non-verbal communication with others' cümlesinde 'they' zamirinin kime işaret ettiğini ve gelişimsel zaman sırasını (önce/sonra) düşün.",
+      "correct": "'Before children acquire language as infants and produce their first words' = bebekler dili edinmeden ÖNCE sözsüz iletişim geliştirirler; 'before' doğal bir gelişimsel sıralama kurar ve 'they' zamiri açıkça 'children/infants'a atıfta bulunur.",
+      "distractors": {
+        "0": "Psikolojik bozukluğu olan insanlar cümlesinde 'they' zamiri kimi işaret ettiği belirsiz kalır.",
+        "1": "İşitsel halüsinasyona yatkın sağır insanlar konudan sapma yaratır, bebeklerin dil öncesi iletişimiyle ilgisi yoktur.",
+        "2": "'Unless' olumsuz koşul bildirir ama cümledeki 'they' öznesi ve gelişimsel bağlam bu koşulla örtüşmez.",
+        "4": "Utangaç kişiliklerin etkileşim eksikliği farklı bir konudur, bebeklerin dil gelişim sürecini anlatmaz."
+      },
+      "takeaway": "Zamir ('they') referansı ve gelişimsel zaman sırası (before/after), doğru şıkkı bulmada en güçlü ipuçlarından biridir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -279,7 +369,17 @@
       "when some salespeople are expected to be marketing managers"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "'How responsibilities are planned and handled is changing in many companies ----' cümlesinde değişimin en yaygın SEBEBİ ne olabilir?",
+      "correct": "'due to the latest technological tools that are available' = 'due to' değişimin sebebini (teknolojik araçlar) doğrudan bağlar; şirketlerdeki değişimin en yaygın nedeni teknoloji olduğu için bu bağlantı mantıklıdır.",
+      "distractors": {
+        "1": "Yeni bir işe başlamanın fırsatlar sunması, cümledeki 'değişim' ifadesiyle doğrudan bir zıtlık ilişkisi kurmaz, konu kayması vardır.",
+        "2": "Telemarketing'in satış gücünü büyütmesi, dar bir sektöre odaklanır, genel şirket değişimiyle doğrudan bağlı değildir.",
+        "3": "Yenilik talep eden alıcılarla karşılaştırma, değişimin sebebini değil farklı bir grubu tanımlar.",
+        "4": "Satış elemanlarının yönetici olması beklenmesi, değişimin bir SONUCU/örneği olabilir ama sebebini açıklamaz."
+      },
+      "takeaway": "'due to + isim/isim öbeği' = bir değişimin/durumun sebebini doğrudan belirtmek için kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,

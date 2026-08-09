@@ -18,7 +18,17 @@
       "come out of"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir sözcük/ifade tamamlama sorusu. Boşluktan önceki ve sonraki cümle parçalarının anlamca birbirini nasıl tamamladığına bak; cümledeki 'does not necessarily mean' zıtlık kurduğu için boşluğa, sabır göstermenin doğal sonucu gibi görünen ama aslında kastedilmeyen bir eylem gelmeli.",
+      "correct": "'being patient... does not necessarily mean they have to ---- their inappropriate behaviour' cümlesinde sabırlı olmakla bağlantılı en doğal fiil 'tolere etmek/katlanmak'tır; 'put up with' tam olarak bu anlama gelir ve cümledeki 'necessarily' vurgusuyla örtüşür.",
+      "distractors": {
+        "0": "'do away with' bir şeyi ortadan kaldırmak/yok etmek demektir; sabırlı olmanın 'davranışı ortadan kaldırmak' anlamına gelmediği açık olduğu için bağlama uymaz.",
+        "1": "'look down on' küçümsemek demektir; cümle davranışa katlanma/tolerans temasını işlediği için küçümseme fiili anlamsal olarak yanlış yöne gider.",
+        "3": "'get up to' genellikle 'yaramazlık yapmak' anlamında kullanılır ve öznesi genellikle davranışı yapan kişidir, burada ebeveynin davranışa karşı tutumunu anlatan bir fiil gerekir.",
+        "4": "'come out of' bir yerden/durumdan çıkmak anlamındadır, somut bir hareketi ifade eder; soyut bir davranışa 'katlanmak' anlamını karşılamaz."
+      },
+      "takeaway": "'put up with' = birine/bir şeye katlanmak, tolere etmek; YDS'de sık çıkan temel bir phrasal verb."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "mistakenly"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Cümledeki 'but' bağlacı bir zıtlık kuruyor: ilaç 1890'larda bulunmuş ama bir şey hâlâ gizemini koruyor. Boşluk, 'nasıl' sorusunun hangi düzeyde cevaplanamadığını belirten bir zarf olmalı.",
+      "correct": "'precisely how it relieves pain remains a mystery' = ilacın ağrıyı TAM OLARAK nasıl dindirdiği bilinmiyor; 'precisely' burada 'how' sorusunun kesinliğini vurgular ve 'mystery' kelimesiyle uyumludur.",
+      "distractors": {
+        "0": "'adversely' olumsuz/zararlı biçimde demektir; cümle ilacın nasıl çalıştığının bilinmediğini anlatıyor, olumsuz bir etkiden bahsetmiyor.",
+        "2": "'increasingly' giderek artan biçimde demektir; burada bir artış söz konusu değil, bilinmezlik söz konusu.",
+        "3": "'comparatively' karşılaştırmalı olarak demektir; cümlede herhangi bir karşılaştırma yok.",
+        "4": "'mistakenly' yanlışlıkla demektir; ilacın nasıl çalıştığının bilinmediği anlatılmak isteniyor, 'yanlış bilme' değil 'bilmeme' durumu var."
+      },
+      "takeaway": "'precisely' + soru kelimesi (how/what/why) kalıbı, bir şeyin tam olarak nasıl/ne olduğunun bilinmediği anlamını verir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "give away"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "'attempt to ---- the differences' yapısında boşluğa gelecek fiil, 'farklılıkları açıklamaya çalışan teoriler' anlamını tamamlamalı. Fiilin nesnesi soyut bir kavram (farklılıklar) olduğuna dikkat et.",
+      "correct": "'account for' = açıklamak, sebebini ortaya koymak demektir; 'theories that attempt to account for the differences' = 'farklılıkları açıklamaya çalışan teoriler', cümlenin bilimsel açıklama temasıyla tam örtüşür.",
+      "distractors": {
+        "0": "'carry out' bir eylemi gerçekleştirmek/yürütmek demektir (ör. bir deneyi carry out etmek); soyut bir 'farklılığı' carry out etmek anlamsızdır.",
+        "1": "'take over' bir şeyin kontrolünü ele geçirmek demektir; farklılıkların 'ele geçirilmesi' bağlama uymaz.",
+        "2": "'refer to' bir şeye değinmek/atıfta bulunmak demektir; teoriler farklılıklara sadece değinmekle kalmıyor, onları açıklamaya çalışıyor, bu yüzden daha zayıf bir seçenek.",
+        "4": "'give away' bir şeyi ele vermek veya bedavaya vermek demektir; açıklama anlamıyla ilgisi yoktur."
+      },
+      "takeaway": "'account for' = bir şeyin nedenini açıklamak; bilimsel/akademik metinlerde çok sık geçen bir phrasal verb."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -105,7 +135,17 @@
       "estimates"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'make ---- of X' kalıbında boşluk, X hakkında yapılan bir zihinsel işlemi (tahmin, çıkarım) ifade eden bir isim olmalı. Ayakkabıya bakarak yaş/gelir hakkında ne 'yapılır' diye düşün.",
+      "correct": "'make estimates of age, income...' = yaş, gelir hakkında TAHMİNLERDE bulunmak; 'estimate' kelimesi sınırlı bilgiyle yapılan tahmini karşılar ve 'based on footwear alone' ifadesiyle uyumludur.",
+      "distractors": {
+        "0": "'regularities' düzenlilikler/kurallılıklar demektir; kişi hakkında 'düzenlilik yapmak' anlamsızdır.",
+        "1": "'incentives' teşvikler demektir; ayakkabıya bakarak biri için teşvik üretilmez, bağlamla ilgisi yoktur.",
+        "2": "'requisites' gerekli şartlar demektir; tahmin bağlamına uymaz.",
+        "3": "'tendencies' eğilimler demektir; 'make tendencies of age' doğal bir kullanım değildir, oysa 'make estimates of' standart bir kalıptır."
+      },
+      "takeaway": "'make an estimate of X' = X hakkında tahminde bulunmak; sınırlı veriyle çıkarım yapma bağlamında sık kullanılan bir kalıp."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -134,7 +174,17 @@
       "distinguished"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "'has ---- a number of interesting discussions' yapısında boşluk, 'hızlı büyümenin' tartışmalara nasıl bir etkisi olduğunu anlatan bir fiil olmalı; büyüme genelde tartışmaları başlatır/artırır, azaltmaz.",
+      "correct": "'has stimulated a number of interesting discussions' = hızlı büyüme, tartışmaları TETİKLEDİ; 'stimulated' bir şeyin ortaya çıkmasına neden olma anlamıyla cümledeki neden-sonuç ilişkisine uyar.",
+      "distractors": {
+        "0": "'confirmed' bir şeyi doğrulamak demektir; büyüme tartışmaları 'doğrulamaz', ortaya çıkarır, bu yüzden anlam kaymış olur.",
+        "1": "'postponed' ertelemek demektir; büyümenin tartışmaları ERTELEMESİ mantıksal olarak ters bir ilişki kurar.",
+        "3": "'weakened' zayıflatmak demektir; büyüme tartışmaları zayıflatmaz, tam tersine artırır.",
+        "4": "'distinguished' ayırt etmek demektir; 'tartışmaları ayırt etmek' anlamsal olarak boşluğa uymaz."
+      },
+      "takeaway": "Bir gelişmenin/artışın 'tartışma/ilgi doğurması' bağlamında 'stimulate' fiili sık kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -163,7 +213,17 @@
       "eager"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'most countries are ---- to be able to sell their goods' yapısında boşluk, ülkelerin dış pazarlarda satış yapma konusundaki isteğini belirten bir sıfat olmalı; 'trade is so important' ifadesiyle bağlantı kur.",
+      "correct": "'are eager to be able to sell' = ülkeler dış pazarlarda satış yapmaya HEVESLİ; 'trade is so important in economic development' cümlesindeki önem vurgusu, ülkelerin bunu istemesiyle mantıksal olarak bağlanır.",
+      "distractors": {
+        "0": "'insufficient' yetersiz demektir; 'yetersiz olmak' ile 'satış yapabilmek' arasında ilişki kurulamaz.",
+        "1": "'inconsistent' tutarsız demektir; cümledeki 'satabilmek için' amacıyla mantıksal bir bağı yoktur.",
+        "2": "'entitled' bir hakka sahip olmak demektir; burada satış yapma HAKKI değil, satış yapma İSTEĞİ vurgulanıyor.",
+        "3": "'vulnerable' savunmasız/kırılgan demektir; olumlu bir istek bağlamında negatif bir sıfat anlam çelişkisi yaratır."
+      },
+      "takeaway": "'eager to do sth' = bir şeyi yapmaya istekli/hevesli olmak; sebep-sonuç cümlelerinde motivasyonu belirtmek için kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -192,7 +252,17 @@
       "will be mapping / having painted"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir zaman/yapı sorusu. İlk boşluk ana eylemi (bilim insanlarının haritalama eylemi) anlatır; ikinci boşluk bu eylemin eşzamanlı sonucunu (bir resim ortaya çıkarma) anlatan bir -ing yapısı olmalı.",
+      "correct": "'have mapped ... painting' = bilim insanları haritaladı (present perfect: geçmişte başlayıp etkisi süren eylem) ve bu haritalama eşzamanlı olarak bir resim ORTAYA ÇIKARIYOR (present participle 'painting'). Bu ikili yapı, YDS'de sık görülen 'ana fiil + sonucunu bildiren -ing' kalıbına uyar.",
+      "distractors": {
+        "1": "'mapped / having been painted': 'having been painted' resmin haritalamadan ÖNCE zaten çizilmiş olduğunu ima eder; oysa resmi ortaya çıkaran haritalama eylemidir, zaman/mantık uyumsuzluğu var.",
+        "2": "'had mapped / being painted': 'had mapped' cümlede belirtilmemiş bir geçmiş referans noktası gerektirir; ayrıca 'being painted' edilgen yapısı özneyi belirsizleştirir.",
+        "3": "'are mapping / painted': şimdiki zaman ile düz geçmiş zaman ortacı arasında zaman uyumu yoktur; eşzamanlı sonuç için '-ing' yapısı gerekir.",
+        "4": "'will be mapping / having painted': gelecek zaman, hâlâ etkisi süren bir çalışmayı anlatma amacına uymaz; 'having painted' sonucun haritalamadan önce tamamlandığını ima eder."
+      },
+      "takeaway": "'have + V3 ... V-ing' kalıbı, geçmişte yapılan ve hâlâ etkisi süren bir eylemle onun eşzamanlı sonucunu birlikte anlatır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -221,7 +291,17 @@
       "Just as"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Boşluktan sonra 'certain conceptual strategies can be learned' ile ana cümle 'specific levels of cognitive development must be achieved' arasındaki zaman ilişkisine (önce/sonra) bak.",
+      "correct": "'Before certain conceptual strategies can be learned, specific levels of cognitive development must be achieved' = kavramsal stratejiler öğrenilmeden ÖNCE belirli bilişsel gelişim düzeylerine ulaşılmalıdır; 'before' iki olay arasındaki zaman sırasını doğru kurar.",
+      "distractors": {
+        "0": "'In case' bir ihtimale karşı önlem anlamı taşır; burada bir zaman sırası anlatıldığı için uymaz.",
+        "1": "'Now that' bir durumun artık gerçekleştiğini belirtir (sebep bildirir); burada iki olay arasında sıralama var, sebep-sonuç değil.",
+        "2": "'Unless' olumsuz koşul bildirir; cümlede böyle bir olumsuz koşul yapısı yoktur.",
+        "4": "'Just as' eşzamanlılık veya benzerlik bildirir; burada net bir önce-sonra ilişkisi var, eşzamanlılık değil."
+      },
+      "takeaway": "'Before + cümle, must + fiil' yapısı, bir şeyin gerçekleşmesi için önce başka bir koşulun sağlanması gerektiğini anlatır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -250,7 +330,17 @@
       "revealed / could have been foreseen"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "İki boşluklu bir cümle: ilki raporun ne açıkladığını, ikincisi ise felaketin geçmişte önceden görülüp görülemeyeceğini anlatan geçmişe yönelik bir modal yapı olmalı.",
+      "correct": "'revealed / could have been foreseen' = rapor açıkladı (basit geçmiş) ki felaket ÖNGÖRÜLEBİLİRDİ ('could have been + V3' yapısı); bu, 'felaket önceden fark edilebilirdi ama edilmedi' anlamını doğru verir.",
+      "distractors": {
+        "0": "'has revealed / needs to be foreseen': 'needs to be foreseen' şimdiki/gelecekteki bir ihtiyacı belirtir, oysa felaket 2011'de zaten olmuş bitmiştir.",
+        "1": "'can reveal / should have been foreseen': 'can reveal' genel bir yeteneği ifade eder ama burada belirli, tamamlanmış bir rapor var; 'should have' de 'could have' kadar 'mümkündü ama olmadı' anlamını tam karşılamaz.",
+        "2": "'could reveal / will be foreseen': 'will be foreseen' gelecek zamanı işaret eder, ama öngörülüp görülemediği de geçmişe dair bir değerlendirme olmalıdır.",
+        "3": "'reveals / must be foreseen': 'must be foreseen' zorunluluk bildirir, oysa cümle geçmişteki bir imkânı sorguluyor."
+      },
+      "takeaway": "'could have been + V3' = geçmişte mümkün olan ama gerçekleşmemiş bir durumu anlatır ('...olabilirdi ama olmadı')."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -279,7 +369,17 @@
       "so / that"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "'can ---- enhance X ---- diminish Y' yapısı bir korelatif bağlaç kalıbıdır. İki fiilin (enhance/diminish) birbirine nasıl bağlandığına bak.",
+      "correct": "'can both enhance ... and diminish ...' = pozitif tutum HEM anıların doğruluğunu artırabilir HEM DE olumsuz tonlarını azaltabilir; 'both...and' korelatif bağlacı iki olumlu sonucu birlikte sunar.",
+      "distractors": {
+        "0": "'just as' böyle bir korelatif çift oluşturmaz, 'tam olarak ... gibi' anlamına gelir ve cümledeki yapıyla uyuşmaz.",
+        "2": "'as...as' bir eşitlik/karşılaştırma bağlacıdır, burada iki farklı fiili birbirine bağlamak için kullanılmaz.",
+        "3": "'rather than' bir tercih/zıtlık bildirir, oysa cümlede iki etki BİRLİKTE gerçekleşiyor, biri diğerinin yerine değil.",
+        "4": "'so...that' sonuç bildiren bir kalıptır, burada iki fiili birbirine bağlayan bir korelatif yapı gerekiyor."
+      },
+      "takeaway": "'both X and Y' = hem X hem Y; iki olumlu/benzer sonucu birlikte sunmak için kullanılan temel korelatif bağlaç."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -308,7 +408,17 @@
       "thus"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Cümlede 'often think of X' (Vietnam, Avrupa) ile gerçek durum ('location is generally the US') arasında bir zıtlık var. Boşluğa bu çelişkiyi bağlayan bir bağlaç gelmeli.",
+      "correct": "'..., but the location for these films is generally the United States' = beklenti (Vietnam/Avrupa) ile gerçek (ABD) arasındaki zıtlığı 'but' bağlacı en doğal şekilde kurar.",
+      "distractors": {
+        "0": "'only if' bir koşul bildirir; cümlede bir koşul yok, bir zıtlık var.",
+        "1": "'as' burada sebep veya eşzamanlılık anlamı taşır, zıtlık bildirmez.",
+        "3": "'given that' bir öncülü kabul ederek sonuç çıkarma anlamı taşır (sebep bildirir); burada zıtlık gerekiyor.",
+        "4": "'thus' sonuç bildiren bir zarftır; cümledeki ilişki sonuç değil, zıtlıktır."
+      },
+      "takeaway": "Beklenti ile gerçekliğin çeliştiği cümlelerde en yalın zıtlık bağlacı 'but'tur."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -337,7 +447,17 @@
       "so that"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "'considerable training ... ---- they can carry out organizational policies with few faults' yapısında boşluk, eğitimin amacını bildiren bir bağlaç olmalı ('öyle ki, bu sayede').",
+      "correct": "'so that they can carry out...' = eğitim veriliyor Kİ personel politikaları hatasız uygulayabilsin; 'so that + can' kalıbı amaç cümleleri kurmak için standarttır.",
+      "distractors": {
+        "0": "'because' sebep bildirir ama cümlede eğitim VERİLMESİNİN sebebi değil, AMACI anlatılıyor.",
+        "1": "'whereas' zıtlık bildirir, burada bir amaç ilişkisi var, zıtlık yok.",
+        "2": "'even though' beklenmedik bir durumu kabul etme/zıtlık bildirir, cümledeki amaç ilişkisiyle uyuşmaz.",
+        "3": "'as if' sanki/gerçek olmayan bir benzetme bildirir, cümlede böyle bir varsayımsal benzetme yok."
+      },
+      "takeaway": "'so that + can/could' = bir eylemin amacını belirtmek için kullanılan standart kalıp."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -366,7 +486,17 @@
       "through / from"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "İki boşluklu bir cümle: ilk boşluk 'uyku' ile ilgili bir zaman edatı, ikinci boşluk 'tehlikeye karşı tetikte olma' ile ilgili bir edat gerektirir.",
+      "correct": "'during sleep / for danger' = 'during' bir zaman dilimi içinde anlamı taşır ve 'on the lookout for' tehlikeYE KARŞI tetikte olmak anlamında sabit bir edat kalıbıdır ('be on the lookout for sth').",
+      "distractors": {
+        "1": "'in/by': 'in sleep' daha az doğal bir kullanımdır ve 'lookout by danger' anlamsızdır.",
+        "2": "'at/into': 'at sleep' standart bir kullanım değildir; 'lookout into danger' da kalıba uymaz.",
+        "3": "'on/against': 'on sleep' anlamsızdır; yerleşik kalıp 'on the lookout FOR' şeklindedir, 'against' değil.",
+        "4": "'through/from': 'through sleep' bir anlam verebilir ama asıl kalıp 'during'dir; 'lookout from danger' kalıba uymaz."
+      },
+      "takeaway": "'be on the lookout FOR sth' = bir şeye karşı tetikte olmak; sabit edat kalıbı olarak ezberlenmeli."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -395,7 +525,17 @@
       "ought to expand / may have earned"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "İki boşluklu cümle: ilk boşluk 'evrenin genişlemesi' olgusunun hangi zamanda geçerli olduğunu, ikincisi bu keşfin Nobel ödülü kazandırdığını anlatan fiil zamanlarını test ediyor.",
+      "correct": "'is expanding / has earned' = evrenin HÂLÂ genişlemekte olduğu bir gerçek olduğu için şimdiki zaman kullanılır; bu keşif Nobel ödülü KAZANDIRMIŞTIR ve sonucun günümüze etkisi sürdüğü için 'has earned' doğru zamandır.",
+      "distractors": {
+        "0": "'could expand / should have earned': 'could expand' bir olasılık bildirir, oysa genişleme kanıtlanmış bir olgudur; 'should have earned' 'hak ediyordu ama almadılar' anlamı taşır, oysa ödülü gerçekten kazanmışlardır.",
+        "1": "'was expanding / must have earned': geçmiş zaman, evrenin hâlâ genişlemekte olan durumunu tam yansıtmaz; 'must have earned' güçlü bir tahmindir, kesin bilgi değil.",
+        "2": "'will be expanding / had earned': gelecek zaman şu an genişlemekte olan durumu anlatmaz; 'had earned' belirli bir geçmiş referans noktası gerektirir.",
+        "4": "'ought to expand / may have earned': 'ought to expand' bir tavsiye/beklenti bildirir; 'may have earned' belirsiz bir olasılık taşır, oysa kazandıkları kesindir."
+      },
+      "takeaway": "Hâlâ geçerli olan bilimsel olgular şimdiki zamanla, günümüze etkisi süren geçmiş başarılar ise present perfect ile anlatılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -424,7 +564,17 @@
       "Upon / by"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "İki boşluklu cümle: ilk boşluk peynirin içerdiği besin öğelerini tanıtan bir edat, ikincisi ise 'bir diyete dahil edilme' anlamı veren edat gerektirir.",
+      "correct": "'With all the essential amino acids... / in any healthy diet' = 'with' peynirin özelliklerini tanıtan cümle başı edatıdır; 'included in a diet' ifadesindeki standart edat 'in'dir.",
+      "distractors": {
+        "0": "'For/at': 'For all the essential amino acids' bu tanıtım yapısı için doğal değildir; 'included at a diet' da standart kullanım değildir.",
+        "1": "'Under/to': 'Under all the essential amino acids' anlamsızdır; 'included to a diet' hatalı bir edat kullanımıdır (doğrusu 'in').",
+        "2": "'Of/from': 'Of all the essential amino acids' farklı bir anlam çağrıştırır; 'included from a diet' anlamca terstir.",
+        "4": "'Upon/by': 'Upon all the essential amino acids' anlamsızdır; 'included by a diet' edilgen bir yapı çağrıştırır."
+      },
+      "takeaway": "'be included IN a diet/plan' kalıbındaki edat her zaman 'in'dir; peynirin özelliklerini sıralarken cümle başında 'With' kullanmak yaygın bir kalıptır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -453,7 +603,17 @@
       "instead of"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "'explained ---- the same motives' yapısında boşluk, bir açıklamanın dayandığı temeli belirten bir ifade olmalı ('şu açıdan, şu temelde').",
+      "correct": "'explained in terms of the same motives' = zenginlerin suçları AYNI SAİKLER ÇERÇEVESİNDE açıklanabilir; 'in terms of' bir şeyi hangi ölçütle ele aldığını belirtmek için kullanılan standart bir kalıptır.",
+      "distractors": {
+        "1": "'prior to' bir zaman önceliği bildirir, açıklama çerçevesiyle ilgisi yoktur.",
+        "2": "'apart from' bir şeyi hariç tutma anlamı taşır, açıklama çerçevesi anlamını vermez.",
+        "3": "'in spite of' zıtlık/rağmen anlamı taşır, cümlede bir zıtlık yok.",
+        "4": "'instead of' bir şeyin yerine başka bir şey anlamı taşır, açıklama temelini belirtmez."
+      },
+      "takeaway": "'in terms of' = bir konuyu hangi açıdan/ölçütle ele aldığını belirtmek için kullanılan çok yaygın akademik kalıp."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,

@@ -18,7 +18,17 @@
       "Common symptoms include fever, diarrhoea and abdominal cramps."
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir parçaya uygun cümle sorusudur. Boşluktan sonraki cümledeki 'If the meat...' ifadesinin hangi ismi (et) tanıttığına bak.",
+      "correct": "Sonraki cümledeki 'If the MEAT is not cooked properly' ifadesi bir etten bahsetmek zorundadır; C şıkkı 'kontamine tavuk yiyerek bulaşma' diyerek bu eti tanıtır ve sonraki cümleyle mantıklı bir bağ kurar.",
+      "distractors": {
+        "0": "Bu cümle sebzeden bahseder, oysa sonraki cümle 'the meat' diye devam eder; konu geçişi tutarsızdır.",
+        "1": "Bu cümle semptomların ortaya çıkış süresiyle ilgilidir, sonraki cümledeki 'et pişirme' konusuyla doğrudan bağlantılı değildir.",
+        "3": "Bu cümle vejetaryenlerden bahseder, sonraki cümle ise etten bahsetmeye devam eder.",
+        "4": "Bu cümle semptomları listeler, sonraki cümle ise bulaşma yolunu anlatır; konular birbirini takip etmez."
+      },
+      "takeaway": "Paragraf tamamlama sorularında, boşluktan sonraki cümledeki isim/zamirin boşlukta tanıtılması gerektiğini unutma."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "Likewise, there are not big differences between the unemployment rates of Europe and the US."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Önceki cümledeki 6.7 milyon kayıt dışı işsizle ilgili bir SONUÇ/yorum ekleyen şıkkı ara.",
+      "correct": "Önceki cümle 6.7 milyon kayıt dışı, çalışmak isteyen kişiden bahseder; B şıkkı 'bu insanları ekonomiye entegre etmenin uzun ve pahalı bir iş olacağı' diyerek doğal bir sonuç sunar.",
+      "distractors": {
+        "0": "Bu cümle şirket içi verimlilikten bahseder, önceki cümledeki 'kayıt dışı işsizlerden' farklı bir konudur.",
+        "2": "Bu cümle farklı bir coğrafi bölgeye (Batı Avrupa) ani bir geçiş yapar.",
+        "3": "Bu genel bir giriş cümlesi gibi durur, oysa burada önceki cümledeki spesifik istatistiğin bir devamı gerekir.",
+        "4": "Bu cümle farklı bir karşılaştırma konusuna (AB-ABD oranları) geçer."
+      },
+      "takeaway": "Paragraf sonunda gelen boşluklar genellikle önceki cümledeki spesifik bilgiye doğrudan bir sonuç/yorum eklemelidir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "Throughout history, humans have devised different methods to alter their appearance."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Sonraki cümledeki 'However, body style is...' zıtlığının anlamlı olması için boşlukta ne söylenmeli düşün.",
+      "correct": "Sonraki cümledeki 'However, body style is...' ifadesi bir zıtlık kurar; bu zıtlığın anlamlı olması için boşlukta stilin başka alanlarda da (ev, araba, mutfak) geçerli olduğu belirtilmeli - B şıkkı tam olarak bunu yapar.",
+      "distractors": {
+        "0": "Bu cümle doğrudan vücuda odaklanır, oysa sonraki 'however, body style...' ifadesi bir zıtlık beklediği için boşlukta önce başka bir şeyden bahsedilmelidir.",
+        "2": "Bu cümle farklı bir konuya (görünüşün toplumsal belirleyiciliği) değinir, sonraki 'however' zıtlığıyla doğrudan bağlanmaz.",
+        "3": "Bu görünüş özgürlüğü hakkında bir cümledir ama sonraki cümleyle net bir zıtlık ilişkisi kurmaz.",
+        "4": "Bu tarihsel bir gözlem sunar, sonraki cümledeki zıtlık için uygun bir zemin oluşturmaz."
+      },
+      "takeaway": "Boşluktan sonra 'However' gibi güçlü bir zıtlık bağlacı varsa, boşluktaki cümle bu zıtlığın karşı tarafını kurmalıdır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -105,7 +135,17 @@
       "In other words, speech style alone may not be sufficient to elicit a listener’s attitudes towards the group that the speaker represents."
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Önceki cümledeki basit konuşma örneğine (yabancılar/çocuklarla) ZIT bir örnek sunan şıkkı ara.",
+      "correct": "Önceki cümle günlük/basit bir konuşma biçimini anlatır; B şıkkı 'HOWEVER, resmi bağlamda uzun ve karmaşık cümleler kullanırız' diyerek buna doğrudan bir zıtlık sunar ve paragrafın ana fikrini destekler.",
+      "distractors": {
+        "0": "Bu cümle dil edinimi sürecinden bahseder, önceki cümledeki temayla doğrudan ilgili değildir.",
+        "2": "Bu cinsiyete göre kelime seçimiyle ilgilidir, farklı bir alt konudur.",
+        "3": "Bu aksan/ulusal kimlik tanıma ile ilgilidir, önceki cümledeki konuşma stili ayarlama temasıyla doğrudan bağlantılı değildir.",
+        "4": "Bu farklı ve daha soyut bir iddiadır, önceki cümledeki somut örnekle doğrudan devam etmez."
+      },
+      "takeaway": "Paragraf içi boşluklarda, önceki cümledeki somut örnek ile zıt ama aynı temayı sürdüren bir sonraki örnek en güçlü adaydır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,

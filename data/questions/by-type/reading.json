@@ -18,7 +18,17 @@
       "protesters against globalization are opposed to foreign influences on local cultures"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir okuma parçası sorusudur. Doğru şık parçada açıkça yazanla uyuşmalı; parçada geçmeyen veya ters çevrilmiş neden-sonuç ilişkisi kuran şıklara dikkat et.",
+      "correct": "Parçada eleştirmenlerin, batı kültürünün yerel kültürleri baskılamasına tepki olarak 'kendi geleneksel değerlerine dönüş arayan kitle hareketlerinden' bahsedilir; bu, küreselleşme karşıtlarının yabancı etkilere karşı olduğunu açıkça destekler.",
+      "distractors": {
+        "0": "Parça, tepkilerin sebebinin 'bölgesel protestolar' olduğunu değil, ekonomik baskıya duyulan tepkinin sonucu olarak protestoların ortaya çıktığını söyler; neden-sonuç ters çevrilmiştir.",
+        "1": "Parça mass media'nın küreselleşmeyi DESTEKLEDİĞİNİ söyler, medyanın küreselleşme tarafından 'şekillendirildiğini' değil; yön ters çevrilmiştir.",
+        "2": "Parçada medyanın küreselleşmeye karşı değil, onu kolaylaştıran bir güç olduğu anlatılır; bu şık parçayla doğrudan çelişir.",
+        "3": "Parça tam tersini söyler: 'Indian films have become as common in Europe as...'; bu şık parçadaki bilgiyle doğrudan çelişir."
+      },
+      "takeaway": "'It is obvious/clear that' sorularında, parçadaki ifadeyle tam örtüşen ve yönü doğru olan şıkkı ara; ters çevrilmiş neden-sonuçlara dikkat et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "cultural integration may harm local cultural value systems around the globe"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçada birden fazla görüş grubu (optimists/critics) var; sorunun hangi gruba (taraftarlara) sorduğuna dikkat et.",
+      "correct": "Parçada iyimserlerin (globalization taraftarlarının) kültürlerin karışmasını 'karşılıklı hoşgörüyü artırma fırsatı' olarak gördüğü belirtilir; bu şık 'kültürlerin karışması karşılıklı anlayışı geliştirir' ifadesiyle bu fikri doğru yansıtır.",
+      "distractors": {
+        "0": "Parça, kültürel entegrasyonun olumsuz etkilere katlanmayı kolaylaştırdığını değil, doğrudan hoşgörüyü artırdığını söyler.",
+        "1": "Bu olumsuz/kötümser bir görüştür, parçadaki iyimserlerin görüşüyle çelişir.",
+        "3": "Bu görüş parçada eleştirmenlere atfedilir (economic dominance vurgusu), taraftarlara değil; soru taraftarların görüşünü sorduğu için yanlış gruba ait bir iddiadır.",
+        "4": "Bu tamamen karşıt (eleştirmen) görüştür, taraftarların değil eleştirmenlerin savunduğu bir fikirdir."
+      },
+      "takeaway": "Parçada birden fazla görüş grubu varsa, sorunun hangi gruba sorduğuna dikkat et; doğru bilgi bile yanlış gruba atfedilmişse şık yanlış olur."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "globalization cannot be beneficial for regional cultures due to a lack of access to information"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Eleştirmenlerin (critics) görüşünü soran bu soruda, parçadaki 'critics emphasize...' cümlesini bul ve dikkatle oku.",
+      "correct": "Parçada eleştirmenlerin zengin sanayi uluslarının ekonomik çıkarları için zayıf ülkelere baskı yaptığını savunduğu belirtilir; bu, küreselleşmenin gelişmiş dünyanın yararına işlediği görüşünü birebir yansıtır.",
+      "distractors": {
+        "1": "Medyanın yoksul ulusların gelişmişlerden öğrenmesine yardım etmesi olumlu/iyimser bir görüştür, eleştirmenlerin değil taraftarların bakış açısına daha yakındır.",
+        "2": "Parça küreselleşmenin kültürel etkilerinden de bahseder, sadece finansal olduğunu söylemez; bu şık parçayı eksik/yanlış yansıtır.",
+        "3": "Parça tam tersini anlatır: baskı uygulayan taraf zaten sanayi uluslarıdır, kendi geleneklerini korumaktan alıkonan zayıf ülkelerdir.",
+        "4": "Parçada 'free access to information' önkoşulu optimistlerin görüşüyle ilişkilendirilir, eleştirmenlerin ana argümanı ekonomik baskıdır."
+      },
+      "takeaway": "Eleştirmen/taraftar gibi karşıt görüş sunan parçalarda, her iddianın hangi tarafa ait olduğunu parçadaki cümle yapısından net şekilde takip et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -105,7 +135,17 @@
       "both the rich and poor are equally affected by the negative aspects of globalization"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça boyunca iki karşıt görüş (optimists/critics) sunulduğuna göre, genel bir 'infer' sorusunda bu ikiliği yansıtan şıkkı ara.",
+      "correct": "Parça boyunca hem 'optimists' hem de 'critics' görüşleri sunulur; bu, küreselleşmenin hem savunucuları hem de karşıtları olan tartışmalı bir konu olduğu çıkarımını doğal olarak destekler.",
+      "distractors": {
+        "0": "Parça, zengin ulusların baskın, zayıf ulusların ise etkilenen taraf olduğunu anlatır; 'karşılıklı eşit etki' iddiası parçadaki güç dengesizliğiyle çelişir.",
+        "2": "Parça hem destekleyen hem karşı çıkan iki farklı tepkiden bahseder; 'tek taraflı tepki' ifadesi bu çeşitliliği yansıtmaz.",
+        "3": "Parçada yeni milliyetçi düşüncenin küreselleşmenin KENDİSİ tarafından açıklandığına dair bir iddia yoktur; bu şık parçada olmayan bir neden-sonuç kurar.",
+        "4": "Parça zengin ve yoksul ulusların küreselleşmeden EŞİT etkilendiğini değil, dengesiz etkilendiğini anlatır."
+      },
+      "takeaway": "Parçanın genel mesajını soran sorularda, parça boyunca sunulan TÜM görüşleri (tek taraflı değil) kapsayan şıkkı seç."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -134,7 +174,17 @@
       "the diverse individual personalities of the team leaders can slow down the flow of the project"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'it is again my responsibility to...ensure that the teams move forward in the same direction' cümlesini dikkatle oku; bu, planlayıcının rolünü tanımlar.",
+      "correct": "Parçada etkinlik planlayıcısının farklı ekiplerin aynı yönde ilerlemesini sağlamaktan sorumlu olduğu belirtilir; bu ifade ekipler arası uyumlu işbirliğini sağlama fikrini birebir destekler.",
+      "distractors": {
+        "0": "Parçada liderlerin 'öne çıkma fırsatı' bulduğuna dair bir ifade yoktur; parça ekiplerin yönlendirilmesinden bahseder.",
+        "1": "Parçada müşteri geri bildirimi hiç geçmez; bu şık parçada olmayan bir bilgi uydurur.",
+        "3": "Parça tam tersini söyler: ekiplerin aynı yönde ve koordineli ilerlemesi gerektiği vurgulanır, bağımsız çalışma değil.",
+        "4": "Parça yaratıcı bireylerin kendi vizyonlarının 'zorluk' yarattığını söyler ama asıl vurgu planlayıcının bunu yönetebilmesidir."
+      },
+      "takeaway": "'According to the passage' sorularında cevap, parçadaki anahtar cümleyi en yakın eş anlamlı ifadeyle karşılayan şıktır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -163,7 +213,17 @@
       "creative teams are directed by a person selected by the event planner"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'installing temporary roads in order to provide access to an event' somut örneğinin ne kadar GENİŞ bir kapsamı işaret ettiğini düşün.",
+      "correct": "Parçada 'geçici yollar kurmak' örneğiyle etkinlik planlamanın bir etkinliğe ulaşım yollarını bile kapsayacak kadar geniş bir alan olduğu belirtilir; bu şık bu somut örneği doğru genellemektedir.",
+      "distractors": {
+        "0": "Parça davetiyeleri sadece bir örnek olarak sayar, 'primary/birincil görev' olduğunu söylemez; bu abartılı bir genellemedir.",
+        "2": "Parça yaratıcı insanlarla çalışmanın hem zorluk hem ödüllendirici olduğunu söyler, sorunları önceden önleme konusunda doğrudan bir iddia yoktur.",
+        "3": "Parçada ekip üyelerinin 'işin önemini kavradıkları için' katkı sağladığına dair bir ifade yoktur; bu şık parçada olmayan bir neden uydurur.",
+        "4": "Parçada ekip liderlerinin planlayıcı tarafından seçildiğine dair bir bilgi yoktur; bu şık parçada olmayan bir detay ekler."
+      },
+      "takeaway": "'It is stated that' sorularında parçada açıkça yazan somut bir örneği doğru genelleyen şıkkı seç; parçada olmayan sebep/detay ekleyen şıklardan kaçın."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -192,7 +252,17 @@
       "may ignore the suggestions of the event planner"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'Therein lies the challenge' ifadesinden hemen ÖNCEKİ cümleyi dikkatle oku; asıl zorluk orada tanımlanır.",
+      "correct": "Parça, sanatçı bireylerin etkinliğin unsurlarının nasıl tasarlanıp yürütüleceği konusunda kendi vizyonlarına sahip olduklarını ve asıl zorluğun bu olduğunu söyler; bu şık 'kendi tercihlerine göre organize edilmesini isterler' ifadesiyle bunu birebir karşılar.",
+      "distractors": {
+        "0": "Parçada zaman talebiyle ilgili bir ifade yoktur; bu şık parçada olmayan bir sorunu uydurur.",
+        "2": "Parça, planlayıcının bu zorlukları yönetebildiğini ima eder; 'aşılması imkansız' gibi aşırı bir ifade kullanmaz.",
+        "3": "Parçada iletişim zorluğuna dair doğrudan bir ifade yoktur; parça onların kendi vizyonlarının güçlü olduğunu söyler.",
+        "4": "Parçada bu bireylerin planlayıcının önerilerini görmezden geldiğine dair bir ifade yoktur."
+      },
+      "takeaway": "Parçadaki 'Therein lies the challenge' gibi açık işaret ifadelerinden hemen önceki cümleyi dikkatle oku; asıl zorluk oradadır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -221,7 +291,17 @@
       "every team leader determines the schedule of a project on their own"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'One of the greatest challenges of my job, yet one of its most rewarding aspects' ifadesindeki DUYGUSAL tona bak; bu, yazarın tutumu hakkında ipucu verir.",
+      "correct": "Parçada yazar, yaratıcı insanlarla çalışmanın hem en büyük zorluk hem de en ödüllendirici yönlerden biri olduğunu söyler; bu, yazarın bu zorluktan keyif aldığı çıkarımını doğal olarak destekler.",
+      "distractors": {
+        "0": "Parça bunun planlayıcının (yazarın) sorumluluğu olduğunu söyler, ekip liderinin değil; özne karıştırılmıştır.",
+        "1": "Parçada böyle bir isteksizlikten hiç bahsedilmez; bu şık parçada olmayan bir bilgi uydurur.",
+        "2": "Parçada personel değişikliği/transfer gibi bir uygulamadan hiç bahsedilmez; tamamen uydurma bir detaydır.",
+        "4": "Parça tam tersini söyler: yazarın kendisi ekipleri programın bozulmaması için yönettiğini anlatır, liderlerin bağımsız karar verdiğini değil."
+      },
+      "takeaway": "'can be understood/inferred' sorularında, parçadaki duygusal ifadelere dikkat et; bunlar yazarın tutumu hakkında doğrudan ipucu verir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -250,7 +330,17 @@
       "argues that spiritual renewal brought about by idleness is a basic human need"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'giving a moral mask to a system that is manifestly unjust' ifadesindeki ironik/eleştirel tonu takip et; Russell'ın neyi ELEŞTİRDİĞİNİ bul.",
+      "correct": "Parçada 'honest toil' övgüsünün, ayrıcalıklı sınıf tarafından adaletsiz sistemi meşrulaştırmak için kullanıldığı belirtilir; bu şık Russell'ın çalışma etiğini böyle bir araç olarak gördüğü çıkarımını doğru yansıtır.",
+      "distractors": {
+        "0": "Parça Russell'ın çalışmayı 'gereksiz' bulduğunu değil, çalışma etiğinin kötüye kullanıldığını eleştirdiğini anlatır.",
+        "1": "Parça Russell'ın toprak sahiplerinin aylaklığını eleştirdiğini ima eder, desteklediğini değil; bu şık tam tersini söyler.",
+        "2": "Parçada işsizliği 'kucaklama' gibi bir öneri yoktur; parça işsizliğin nedenini tartışır, işsizliği övmez.",
+        "4": "Bu iddia parçada hiç geçmez; 'idleness'ın ruhsal bir ihtiyaç olduğu gibi bir argüman parçada yoktur."
+      },
+      "takeaway": "Yazarın eleştirdiği ile savunduğu fikri karıştırma; parçadaki ironik/eleştirel ifadeleri dikkatlice takip et."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -279,7 +369,17 @@
       "might be mistaken due to country-specific conditions"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'little more than superstitions, which should be swept away with rigorous thinking' ifadesini dikkatle oku; bu fikirlerin nasıl bir DURUMDA olduğunu anlatır.",
+      "correct": "Parça, çalışmayla ilgili fikirlerin 'batıl inançtan biraz fazlası' olduğunu ve 'titiz düşünceyle süpürülmesi gerektiğini' söyler; bu şık 'daha derin düşünülerek kolayca değiştirilebilir' ifadesiyle bu fikri birebir karşılar.",
+      "distractors": {
+        "0": "Parça fikirlerin 'eski moda' olduğunu değil, yanlış/batıl inanç olduğunu söyler; 'old-fashioned' farklı bir nitelemedir.",
+        "1": "Parçada bu fikirlerin kim tarafından geliştirildiğine dair bir bilgi yoktur; bu şık parçada olmayan bir detay ekler.",
+        "3": "Parça tam tersini söyler: fikirler 'superstition', yani gerçekçi olmayan şeylerdir; bu şık doğrudan çelişir.",
+        "4": "Parçada ülkeye özgü bir neden belirtilmez; 'superstition' ifadesi genel bir yanlış inancı tanımlar."
+      },
+      "takeaway": "Parçadaki 'should be swept away with rigorous thinking' gibi ifadeler, o fikrin değiştirilebilir/yanlış olduğunu vurgular."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -308,7 +408,17 @@
       "so that the people who were unemployed could experience some relief"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'the economic chaos of the time was itself the result of a set of...mistaken attitudes about work' cümlesindeki SEBEP-SONUÇ ilişkisini dikkatle oku.",
+      "correct": "Parça, dönemin ekonomik kaosunun 'çalışmaya dair yerleşik ve yanlış tutumların sonucu' olduğunu söyler; bu şık makalenin bu dönemde yayımlanma amacının bu neden-sonuç ilişkisini göstermek olduğunu doğru şekilde ifade eder.",
+      "distractors": {
+        "1": "Parça işsizliğin nedensiz olduğunu değil, yanlış çalışma tutumlarının sonucu olduğunu açıkça belirtir; 'no obvious reason' parçayla çelişir.",
+        "2": "Bu, Russell'ın motivasyonuyla ilgili genel ama parçada doğrudan desteklenmeyen bir yorumdur; parça onun asıl amacının yanlış çalışma fikirlerini eleştirmek olduğunu vurgular.",
+        "3": "Parçada ekonomistlere yönelik bir politika önerisinden hiç bahsedilmez; bu şık uydurma bir amaç sunar.",
+        "4": "Parçada işsizlere ruhsal bir rahatlama sağlama amacından bahsedilmez; bu şık parçada olmayan bir amaç ekler."
+      },
+      "takeaway": "'clearly stated' sorularında parçadaki sebep-sonuç cümlesini doğrudan ve tam olarak yansıtan şıkkı seç, dolaylı yorumlardan kaçın."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -337,7 +447,17 @@
       "was used to continue the oppression of priests over the rich"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçanın SON cümlesi ('this fact alone should prompt us to re-evaluate the ethics of work') genellikle yazarın ana mesajını özetler.",
+      "correct": "Parça, 'dürüst emek' kavramının adaletsiz bir sistemi meşrulaştırdığını ve bu yüzden çalışma etiğinin yeniden değerlendirilmesi gerektiğini söyler; bu şık 'ayrıcalıklı sınıfın haksız uygulamalarından kurtulmak için yeniden değerlendirilmeli' ifadesiyle bunu birebir karşılar.",
+      "distractors": {
+        "0": "Parça 'honest toil' kavramının fazlalığı üretmek için değil, mevcut sistemi meşrulaştırmak için kullanıldığını söyler.",
+        "1": "Parça tam tersini söyler: kavram yeniden değerlendirilmeli, yani sorgulanmalı; 'hâlâ geçerli' ifadesi parçayla çelişir.",
+        "3": "Parça, fazlalığın işçilerden alınıp ayrıcalıklı sınıfa gittiğini söyler; 'honest toil' kavramı işçilere fayda sağlamaz.",
+        "4": "Parça yön olarak tam tersini anlatır: baskı yapan taraf ayrıcalıklılar, zenginler değil işçiler baskı görür."
+      },
+      "takeaway": "Parçanın son cümlesi genellikle yazarın ana mesajını özetler; bu tür sonuç cümlelerine özel dikkat göster."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -366,7 +486,17 @@
       "appetite disorders are more common than sleep disorders in people with ADHD"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'approximately 80 percent are boys' istatistiğinin hangi DEĞİŞKENLE (cinsiyet) ilişkili olduğuna dikkat et.",
+      "correct": "Parçada ADHD teşhisi konan çocukların yaklaşık %80'inin erkek olduğu belirtilir; bu istatistik, erkeklerin ADHD'ye kızlara göre daha yatkın olduğu sonucunu doğrudan destekler.",
+      "distractors": {
+        "0": "Parça yetişkinlerde 'considerable disparity' olduğunu söyler ama bunun çocuklardan daha yüksek olduğunu belirtmez.",
+        "1": "%80 rakamı cinsiyet oranını belirtir, teşhis yaşını değil; bu şık istatistiği yanlış bir bağlama oturtur.",
+        "2": "Parçada böyle bir karşılaştırma yoktur; parça sadece semptomların her yaşta görüldüğünü söyler.",
+        "4": "Parça bu iki durumu yan yana sayar ama birinin diğerinden daha yaygın olduğunu belirtmez."
+      },
+      "takeaway": "'According to the statistics' sorularında parçadaki sayısal ifadeyi hangi değişkenle ilişkilendirdiğine dikkatle bak."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -395,7 +525,17 @@
       "resisting the desire to watch TV or play games most of the time"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'Poor impulse control manifests itself in rash decision-making, irrational actions and rapid mood swings' listesini dikkatle oku.",
+      "correct": "Parça, dürtü kontrolü zayıf olduğu için çabuk karar verme, mantıksız davranışlar ve hızlı ruh hali değişimleri yaşadıklarını söyler; bu şık 'kendilerini, davranışlarını ve ruh hallerini kontrol etmekte zorlanma' ifadesiyle bunu doğru özetler.",
+      "distractors": {
+        "0": "Parçada 'fiziksel çaba gerektiren durumlar' diye bir ayrım yoktur; parça genel olarak dürtüsel karar vermeyi anlatır.",
+        "2": "Parça tam tersini söyler: ADHD'li çocuklar yeni/kısa süreli durumlarda normal davranır, tanıdık durumlarda değil.",
+        "3": "Parçada 'yalnızlık hissi' veya yabancılarla etkileşim zorluğundan hiç bahsedilmez.",
+        "4": "Parça TV izleme/oyun oynamanın onların normal davrandığı keyifli durumlar olduğunu söyler, bu isteğe direnmekte zorlandıklarını değil."
+      },
+      "takeaway": "Parçadaki listeleme cümlelerini, o listedeki maddeleri doğru özetleyen şıkla eşleştir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -424,7 +564,17 @@
       "when parents notice aggressive actions"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'no definite diagnosis can be made in those first three years' ifadesinin TERSİNİ (3 yaşından sonra ne oluyor) düşün.",
+      "correct": "Parça, 3 yaşından önce kesin bir teşhis konulamayacağını söyler; bu, kesin teşhisin ancak çocuk 3 yaşına ulaştıktan sonra mümkün olduğu anlamına gelir, bu şık bunu doğru ifade eder.",
+      "distractors": {
+        "0": "Parça teşhisin yetişkinlikte izlenebilirliğiyle değil, çocukluğun ilk 3 yılıyla ilgili bir sınırlama koyar.",
+        "2": "Parçada teşhisin fiziksel huzursuzluğun şiddetine bağlı olduğu söylenmez.",
+        "3": "Parçada 'başkalarını tehdit etme' gibi bir ölçüt yoktur; bu şık parçada olmayan bir koşul uydurur.",
+        "4": "Parça agresif davranışın daha çok ergenlik döneminde ortaya çıktığını söyler, teşhis koşulu olarak sunmaz."
+      },
+      "takeaway": "Parçadaki bir sınırlama cümlesini, bu sınırlamanın tersini doğru ifade eden şıkla eşleştir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -453,7 +603,17 @@
       "such as rash decision-making and rapid mood changes stem from genetic history"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parça, semptomların çocukluktan ergenliğe DEĞİŞTİĞİNİ anlatıyor; bu genel değişimi özetleyen bir şık ara.",
+      "correct": "Parça, semptomların çocuklukta ve ergenlikte farklı seyrettiğini anlatır (fiziksel huzursuzluk azalır ama dikkat sorunu ve yeni riskler ortaya çıkar); bu şık semptomların yaşam boyunca belirginlik ve çeşitlilik açısından değiştiği çıkarımını doğru yapar.",
+      "distractors": {
+        "1": "Parçada cinsiyete göre yaşa bağlı bir farklılıktan bahsedilmez; sadece genel cinsiyet oranı verilir.",
+        "2": "Parçada 'gelişmiş tedavi yöntemleriyle bile teşhis zorluğu' gibi bir ifade yoktur; parça sadece ilk 3 yılda teşhis konulamadığını söyler.",
+        "3": "Parçada 'ebeveyn müdahalesinin azlığı' gibi bir değişken hiç geçmez; bu şık parçada olmayan bir neden-sonuç uydurur.",
+        "4": "Parçada genetik bir nedenden hiç bahsedilmez; bu şık tamamen parçada olmayan bir bilgi ekler."
+      },
+      "takeaway": "Bir parça zaman içindeki değişimi anlatıyorsa, doğru çıkarım genellikle bu değişkenliği/sürekliliği vurgulayan genel bir ifadedir."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -482,7 +642,17 @@
       "losing your temper can help you appear more skilful at workplace"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'the angry candidate was rated as more competent than the sad one' cümlesindeki SPESİFİK bulguyu (kim daha iyi değerlendirildi) bul.",
+      "correct": "Çalışma, öfkeli adayın üzgün olandan daha yetkin görüldüğünü ve yüksek sorumluluklu bir pozisyona daha uygun bulunduğunu gösterir; bu şık 'öfkelenmenin işyerinde daha becerikli görünmeye yardımcı olabileceği' ifadesiyle bu bulguyu doğru özetler.",
+      "distractors": {
+        "0": "Parça öfkeli adayın davranışının 'kaba' olarak algılandığını değil, tam tersine daha yetkin görüldüğünü söyler.",
+        "1": "Parçada 'sorumluluk alma' (üzülen aday) daha az yetkin bulunmuştur; bu şık bulgunun tam tersini iddia eder.",
+        "2": "Parçada çalışmanın güvenilirliği hakkında bir yorum yoktur; bu şık parçada olmayan bir metodolojik değerlendirme uydurur.",
+        "3": "Bu, çalışmanın spesifik bulgusunu çok genel bir ifadeye indirger; asıl bulgu öfkenin etkisi üzerinedir."
+      },
+      "takeaway": "'puts forward/argues that' sorularında, çalışmanın spesifik bulgusunu birebir yansıtan şıkkı seç; aşırı genelleyen şıklardan kaçın."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -511,7 +681,17 @@
       "for whom, when and how it will be used should be taken into account"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'it needs to be used occasionally, targeted carefully and expressed appropriately' cümlesindeki ÜÇ koşulu (sıklık, hedef, ifade biçimi) not al.",
+      "correct": "Parça, öfkenin olumlu etki yaratması için 'ara sıra kullanılması, dikkatlice hedeflenmesi ve uygun ifade edilmesi' gerektiğini söyler; bu şık 'kime, ne zaman ve nasıl kullanılacağının dikkate alınması' ifadesiyle bu üç koşulu birlikte özetler.",
+      "distractors": {
+        "0": "Parçada böyle bir ayrım (nice/disagreeable kişiye göre öfke kullanımı) yoktur; bu şık parçada olmayan bir koşul uydurur.",
+        "1": "Bu doğru ama eksik bir özet: parçadaki sıklık ve hedef koşullarını atlar, sadece ifade biçimini alır.",
+        "2": "Parçada öfkenin sadece 'benzer davranan kişilere' yönlendirilmesi gerektiğine dair bir koşul yoktur.",
+        "3": "Parça tam tersini söyler: öfke seyrek kullanılmalıdır, aşırı değil; bu şık doğrudan çelişir."
+      },
+      "takeaway": "Parçada birden fazla koşul sıralanıyorsa, doğru şık bu koşulların hepsini kapsayan genel bir ifadedir, sadece birini alan şıklar eksik kalır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -540,7 +720,17 @@
       "the reasons why people behave angrily are quite similar both in Western and Eastern cultures"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçadaki 'Western business culture regards anger as...whereas in Asia it is seen as...' cümlesindeki karşılaştırmayı dikkatle oku.",
+      "correct": "Parça, öfkenin Batı kültüründe 'güç gösterisi', Asya kültüründe ise 'kontrol kaybı' olarak algılandığını söyler; bu şık öfkenin yorumlanışının kültürden kültüre değiştiği çıkarımını birebir destekler.",
+      "distractors": {
+        "0": "Parçada 'nice/disagreeable' kişilik algısı ile öfke kaybı sıklığı arasında bir ilişki kurulmaz; bu farklı bir istatistikle ilgiliydi.",
+        "1": "Parça Asya kültürünün öfkeyi 'kontrol kaybı' olarak gördüğünü söyler, işi geliştirdiğini değil; bu şık anlamı ters çevirir.",
+        "2": "Parça tam tersini söyler: Batı kültürü öfkeyi gücün ifadesi olarak görür, bu 'disapprove' (onaylamama) değil.",
+        "4": "Parça sebep değil, yorumlanış biçimini karşılaştırır; ayrıca parça bu algıların farklı olduğunu söyler, benzer olduğunu değil."
+      },
+      "takeaway": "'X whereas Y' yapısındaki karşılaştırma cümlelerinde, doğru çıkarım genellikle bu farkın genel bir ilkesini ifade eden şıktır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -569,7 +759,17 @@
       "there is a general agreement among scholars about why anger is considered negative"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Parçanın genel mesajını (kontrollü öfkenin faydası) özetleyen bir şık ara; tek bir cümleye değil parçanın tümüne dayan.",
+      "correct": "Parça boyunca öfkenin doğru koşullarda kullanıldığında yetkinlik algısını artırdığı ve zor durumlarla başa çıkmada yararlı olabileceği anlatılır; bu şık 'kontrol altında olduğunda öfke zor durumlarla başa çıkmanın anahtarı olabilir' ifadesiyle bu genel mesajı doğru özetler.",
+      "distractors": {
+        "1": "Parçada bu tür çalışmaların popülerliği hakkında bir bilgi yoktur; bu şık parçada olmayan bir eğilim uydurur.",
+        "2": "Parça tam tersini gösterir: öfkeli aday daha yetkin bulunmuştur, üzgün değil.",
+        "3": "İki araştırmacının bulguları birbirini tamamlar (ikisi de öfkenin doğru kullanıldığında olumlu olduğunu savunur), çelişmez.",
+        "4": "Parça öfkenin neden olumsuz olduğu konusunda bir fikir birliğinden bahsetmez; tam tersine öfkenin olumlu yönlerini tartışır."
+      },
+      "takeaway": "Parçanın genel mesajını soran 'can be inferred' sorularında, parçanın tümüne dayanan şıkkı seç."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,

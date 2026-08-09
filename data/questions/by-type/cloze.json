@@ -18,7 +18,17 @@
       "utterly"
     ],
     "answer": 4,
-    "explanation": null,
+    "explanation": {
+      "hint": "Bu bir cloze (parça tamamlama) sorusu. Boşluğun hemen öncesi/sonrasındaki kelimeyle nasıl bir sözcük öbeği oluşturduğuna bak; genellikle boşluk tek başına değil, yanındaki kelimeyle birlikte anlam kurar.",
+      "correct": "Boşluk 'irrational' sıfatını nitelendiren bir zarf istiyor; 'utterly irrational' = tamamen mantıksız, cümledeki 'sağlıksız yiyecek yiyip kötü hissetmek' durumunun aşırılığını doğru vurgular.",
+      "distractors": {
+        "0": "'similarly irrational' bir benzetme gerektirir ama cümlede daha önce bahsedilen benzer bir 'irrational' durum yoktur.",
+        "1": "'competitively irrational' anlamsızdır; rekabetçi bir bağlam söz konusu değildir.",
+        "2": "'compulsorily irrational' = 'zorunlu olarak mantıksız' anlamca tutarsızdır, mantıksızlık burada bir seçim/alışkanlık, zorunluluk değil.",
+        "3": "'incidentally' tesadüfen demektir ve bir dereceyi değil, bir bağlantı biçimini belirtir; sıfatı yoğunlaştırma işlevi görmez."
+      },
+      "takeaway": "Cloze sorularında boşluğun bitişiğindeki kelimeyle oluşan collocation'ı ara; tek kelimeyle karar verme, çevresindeki 1-2 kelimeye bak."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -47,7 +57,17 @@
       "off"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Boşluktan hemen önceki 'open' fiiliyle birlikte hangi edatın sabit bir kalıp oluşturduğunu düşün ('bir şeye açık/maruz olmak').",
+      "correct": "'open to a host of serious illnesses' = kişiyi pek çok ciddi hastalığa AÇIK/maruz bırakmak; 'open to sth' olumsuz sonuçlara maruz kalma bağlamında sabit bir edat kalıbıdır.",
+      "distractors": {
+        "0": "'open with' farklı bir anlam taşır (bir şeyle başlamak), maruz kalma anlamını vermez.",
+        "2": "'open in' yer/zaman bildiren bir kalıptır, 'maruz bırakma' anlamına gelmez.",
+        "3": "'open by' standart bir edat kalıbı değildir.",
+        "4": "'open off' anlamca uyumsuzdur, böyle bir kalıp yoktur."
+      },
+      "takeaway": "'open to sth' (olumsuz bir şeye) = maruz/açık olmak; sağlık ve risk bağlamında sık geçen edat kalıbı."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -76,7 +96,17 @@
       "owing to"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "Cümle 'the latter' (şimdiki zevk) ile 'the former'ı (uzak gelecekteki sağlık) karşılaştırıyor. Boşluk bu iki zıt kavramı birbirine bağlayan bir ifade olmalı.",
+      "correct": "'as opposed to' = -in aksine, karşıtlık bildirir; burada 'şimdi burada olan' (the latter) ile 'aylar/yıllar sonra olan' (the former) arasındaki karşıtlığı doğru kurar.",
+      "distractors": {
+        "0": "'in spite of' rağmen anlamı taşır, burada karşılaştırma/karşıtlık kurulmuyor, rağmen ilişkisi yok.",
+        "1": "'as well as' ekleme/birliktelik bildirir, oysa cümle iki zıt şeyi karşılaştırıyor.",
+        "3": "'as a result of' sebep-sonuç bildirir, burada bir karşılaştırma var, sonuç ilişkisi değil.",
+        "4": "'owing to' da sebep bildirir, cümledeki zıtlık/karşılaştırma ilişkisine uymaz."
+      },
+      "takeaway": "'as opposed to' = -in aksine, -e karşıt olarak; iki şeyi karşılaştırırken kullanılan kalıp."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -105,7 +135,17 @@
       "To be known"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "Cümle başındaki bu boşluk bir isim öbeğini tanımlayan indirgenmiş bir sıfat-fiil (participle) yapısı olmalı: '[Bu eğilim,] X olarak bilinen, ...dir.'",
+      "correct": "'Known as temporal discounting, it is our tendency...' = bu kavram 'temporal discounting' OLARAK BİLİNEN bir eğilimdir; 'known as X' cümle başında kullanılan edilgen ortaç yapısıdır (kavram halihazırda bu isimle bilinmektedir).",
+      "distractors": {
+        "0": "'To know as' mastar yapısı, bir isim tanımlanırken gereken pasif 'bilinen' anlamını karşılamaz.",
+        "2": "'To have known' geçmişte bilme eylemini tamamlamış olmayı ifade eder, burada bir isim tanımlanıyor.",
+        "3": "'Having known' özne tarafından yapılan tamamlanmış bir bilme eylemini anlatır (etken), oysa burada kavram 'bilinen' (edilgen) olarak tanımlanıyor.",
+        "4": "'To be known as' bir amacı/geleceği ima eder; oysa kavram HALİHAZIRDA bu isimle bilinmektedir."
+      },
+      "takeaway": "'Known as X, [özne] ...' = X olarak bilinen [özne]; cümle başında kullanılan indirgenmiş edilgen ortaç yapısı."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -134,7 +174,17 @@
       "but"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "Boşluk bir zaman dilimini niteleyen ilgi cümleciğinin başlangıcı olmalı: '[bir zamanda] X favoured Y' -- bu 'zaman'ı tanıtan bağlaç hangisi?",
+      "correct": "'a time WHEN...' = ... olduğu bir dönem/zaman; 'when' burada 'a time' ismini niteleyen ilgi zamiri olarak kullanılır ve cümledeki zaman ifadesini doğru tamamlar.",
+      "distractors": {
+        "1": "'if' koşul bildirir, burada bir ZAMAN dilimini tanımlayan bir ilgi cümleciği gerekiyor, koşul değil.",
+        "2": "'unless' olumsuz koşul bildirir, aynı sebeple uymaz.",
+        "3": "'although' zıtlık bildirir, burada bir zaman ifadesi tanımlanıyor, zıtlık yok.",
+        "4": "'but' bir bağlaçtır, 'a time' ismini niteleyen bir ilgi zamiri işlevi göremez."
+      },
+      "takeaway": "'a time WHEN...' = ... olduğu bir dönem/zaman; zaman bildiren isimlerden sonra ilgi zamiri olarak 'when' kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -163,7 +213,17 @@
       "fights down"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "'The evidence in recent studies ---- Kraepelin's observation' yapısında boşluk, kanıtın gözlemle nasıl bir ilişkisi olduğunu (destekleme, çürütme, vb.) belirten bir fiil olmalı.",
+      "correct": "'backs up' = destekler/doğrular; 'evidence backs up the observation' = kanıt gözlemi destekliyor, cümledeki bilimsel doğrulama temasına uyar.",
+      "distractors": {
+        "0": "'gives in' pes etmek/boyun eğmek demektir, kanıtın bir gözlemi 'desteklemesi' anlamına gelmez.",
+        "2": "'gets through' bir şeyi başarıyla atlatmak/ulaştırmak demektir, kanıt-gözlem ilişkisine uymaz.",
+        "3": "'leaves out' dışarıda bırakmak demektir; kanıt gözlemi 'dışarıda bırakmaz', tam tersine destekler.",
+        "4": "'fights down' bastırmak demektir; kanıt bağlamında anlamsızdır."
+      },
+      "takeaway": "'back up' = bir iddiayı/gözlemi kanıtla desteklemek; akademik metinlerde çok sık geçen bir phrasal verb."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -192,7 +252,17 @@
       "at"
     ],
     "answer": 0,
-    "explanation": null,
+    "explanation": {
+      "hint": "'individuals later diagnosed ---- schizophrenia' yapısında 'diagnose' fiiliyle birlikte hangi edatın sabit bir kalıp oluşturduğunu düşün.",
+      "correct": "'diagnosed with schizophrenia' = şizofreni TEŞHİSİ konmuş; 'diagnose sb WITH an illness' sabit edat kalıbıdır.",
+      "distractors": {
+        "1": "'for' ile 'diagnosed for' standart bir kullanım değildir.",
+        "2": "'in' ile 'diagnosed in' yanlış edat kullanımıdır.",
+        "3": "'by' ile 'diagnosed by' teşhisi KİMİN koyduğunu belirtir, hastalığın adını değil.",
+        "4": "'at' ile 'diagnosed at' anlamca ve gramer olarak uyumsuzdur."
+      },
+      "takeaway": "'be diagnosed WITH an illness' = bir hastalık teşhisi konmak; tıbbi metinlerde sabit edat kalıbı olarak ezberlenmeli."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -221,7 +291,17 @@
       "used to save"
     ],
     "answer": 2,
-    "explanation": null,
+    "explanation": {
+      "hint": "'Knowing risk factor and warning signs ---- many children from being diagnosed too late' cümlesinin genel-geçer bir olasılığı mı yoksa geçmişe dönük bir durumu mu anlattığına bak.",
+      "correct": "'can save many children FROM being diagnosed too late' = risk faktörlerini bilmek çocukları kurtarABİLİR; 'can' genel bir olasılığı/potansiyeli anlatır ve 'save sb from V-ing' sabit yapısıyla örtüşür.",
+      "distractors": {
+        "0": "'could have saved' geçmişte kaçırılmış bir fırsatı ima eder, oysa cümle genel bir olası fayda anlatıyor, bitmiş bir olay değil.",
+        "1": "'must save' zorunluluk bildirir, cümle bir olasılık/potansiyel faydadan bahsediyor, kesin bir zorunluluktan değil.",
+        "3": "'should have saved' geçmişe dönük bir pişmanlık ifade eder, cümledeki genel-geçer ifadeyle uyuşmaz.",
+        "4": "'used to save' geçmişte tekrarlanan ama artık geçerli olmayan bir alışkanlığı anlatır."
+      },
+      "takeaway": "'can + V' = genel bir olasılığı/potansiyeli anlatır; 'save sb FROM V-ing' = birini bir şeyden kurtarmak, sabit yapı."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -250,7 +330,17 @@
       "unfortunately"
     ],
     "answer": 1,
-    "explanation": null,
+    "explanation": {
+      "hint": "'With autism, ----, the American Academy of Paediatrics has issued guidelines' cümlesinde otizmin, önceki genel ifadeye nasıl bir ÖRNEK olarak sunulduğuna bak.",
+      "correct": "'for example' = genel bir ifadeden sonra somut bir örnek (otizm) vermek için kullanılır; cümle otizmi risk faktörü bilincine dair somut bir örnek olarak sunar.",
+      "distractors": {
+        "0": "'consequently' sonuç bildirir, burada önceki cümlenin SONUCU değil, ona dair somut bir ÖRNEK veriliyor.",
+        "2": "'in short' bir özetleme ifadesidir, burada özetleme değil örnekleme yapılıyor.",
+        "3": "'otherwise' aksi halde anlamı taşır, cümlede bir alternatif senaryo yok.",
+        "4": "'unfortunately' ne yazık ki anlamı taşır, cümle olumsuz bir duyguyu değil somut bir örneği aktarıyor."
+      },
+      "takeaway": "'for example/for instance' = genel bir ifadeden sonra somut bir örnek vermek için kullanılır."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
@@ -279,7 +369,17 @@
       "unlike"
     ],
     "answer": 3,
-    "explanation": null,
+    "explanation": {
+      "hint": "'watch for possible problems ---- a baby avoiding eye contact' yapısında boşluk, sorunlara SOMUT ÖRNEKLER vermek için kullanılan bir ifade olmalı.",
+      "correct": "'such as' = ... gibi; 'problems such as a baby avoiding eye contact' örnekleme yapısıdır ve cümledeki genel 'olası sorunlar' ifadesine somut örnekler ekler.",
+      "distractors": {
+        "0": "'due to' sebep bildirir, burada örnekleme yapılıyor, sebep değil.",
+        "1": "'despite' rağmen anlamı taşır, cümlede bir zıtlık yok.",
+        "2": "'besides' ilaveten anlamı taşır, burada bir örnek listesi veriliyor, ekleme değil.",
+        "4": "'unlike' farklı olarak anlamı taşır, cümledeki ilişki bir örnekleme, farklılık değil."
+      },
+      "takeaway": "'such as' = ... gibi; bir kategoriye ait somut örnekler verirken kullanılan temel kalıp."
+    },
     "vocab": [],
     "stats": {
       "seen": 0,
