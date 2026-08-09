@@ -516,6 +516,29 @@ def write_report(reports: list[FileReport], all_review: list[dict]) -> None:
     print(f"\nSupheli kayitlar -> {REVIEW_PATH.relative_to(ROOT)} ({len(all_review)} kayit)")
 
 
+def merge_generated_fields(questions: list[dict], existing_path: Path) -> list[dict]:
+    """parse.py yeniden calistirildiginda (ör. yeni bir PDF eklendiginde)
+    daha once tools/explain.py veya tools/vocab.py --dictionary ile
+    uretilmis "explanation" gibi alanlari SILMEZ; ayni id'ye sahip mevcut
+    kayittan devralir."""
+    if not existing_path.exists():
+        return questions
+    try:
+        with open(existing_path, encoding="utf-8") as f:
+            existing = {q["id"]: q for q in json.load(f)}
+    except Exception:
+        return questions
+    for q in questions:
+        old = existing.get(q["id"])
+        if not old:
+            continue
+        if old.get("explanation") and not q.get("explanation"):
+            q["explanation"] = old["explanation"]
+        if old.get("vocab"):
+            q["vocab"] = old["vocab"]
+    return questions
+
+
 def find_pdf_jobs(pdf_files: list[Path]) -> list[tuple[Path, Path | None, str]]:
     """kaynak/ klasorundeki PDF'leri isleme gorevlerine cevirir.
     Iki kalip desteklenir:
@@ -566,6 +589,7 @@ def main() -> None:
         if questions:
             out_path = QUESTIONS_DIR / f"{out_name}.json"
             QUESTIONS_DIR.mkdir(parents=True, exist_ok=True)
+            questions = merge_generated_fields(questions, out_path)
             with open(out_path, "w", encoding="utf-8") as f:
                 json.dump(questions, f, ensure_ascii=False, indent=2)
             print(f"  -> {out_path.relative_to(ROOT)}")

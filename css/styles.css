@@ -260,18 +260,6 @@ body {
   text-align: right;
 }
 
-.quiz-timer {
-  text-align: center;
-  font-variant-numeric: tabular-nums;
-  font-size: 14px;
-  color: var(--text-dim);
-  padding: 6px 0 0;
-}
-
-.quiz-timer.is-low {
-  color: var(--wrong);
-}
-
 .quiz-body {
   flex: 1;
   padding-top: 16px;
@@ -294,7 +282,52 @@ body {
   font-size: 18px;
   line-height: 1.6;
   max-width: 66ch;
-  margin: 0 0 20px;
+  margin: 0 0 14px;
+}
+
+.hint-btn {
+  font-family: inherit;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--accent);
+  border-radius: 999px;
+  font-size: 13.5px;
+  font-weight: 600;
+  padding: 8px 16px;
+  min-height: 36px;
+  margin-bottom: 14px;
+  cursor: pointer;
+}
+
+.hint-btn:active {
+  background: var(--bg-elevated);
+}
+
+.hint-card {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin: 0 0 16px;
+  animation: rise-in 0.25s ease;
+}
+
+.hint-badge {
+  display: inline-block;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin-bottom: 6px;
+  font-weight: 700;
+}
+
+.hint-card p {
+  font-family: var(--font-read);
+  font-size: 15px;
+  line-height: 1.55;
+  margin: 0;
+  color: var(--text);
 }
 
 .options {
@@ -341,6 +374,7 @@ body {
 
 .option.is-correct {
   border-color: var(--correct);
+  border-width: 2px;
   background: var(--correct-bg);
 }
 
@@ -352,6 +386,7 @@ body {
 
 .option.is-wrong {
   border-color: var(--wrong);
+  border-width: 2px;
   background: var(--wrong-bg);
 }
 
@@ -359,6 +394,36 @@ body {
   background: var(--wrong);
   border-color: var(--wrong);
   color: #2a0d08;
+}
+
+.option.is-selected .option-letter {
+  transform: scale(1.08);
+}
+
+.option.is-selected.is-correct .option-letter {
+  box-shadow: 0 0 0 3px var(--bg-card), 0 0 0 5px var(--correct);
+}
+
+.option.is-selected.is-wrong .option-letter {
+  box-shadow: 0 0 0 3px var(--bg-card), 0 0 0 5px var(--wrong);
+}
+
+.option-tag {
+  display: block;
+  font-size: 11.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: 8px;
+  padding-top: 2px;
+}
+
+.option.is-correct .option-tag {
+  color: var(--correct);
+}
+
+.option.is-wrong .option-tag {
+  color: var(--wrong);
 }
 
 .explanation-card {

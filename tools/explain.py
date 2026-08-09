@@ -44,6 +44,11 @@ Gorevin, SADECE asagidaki JSON semasina uyan bir cevap uretmek (baska hicbir
 metin ekleme, aciklama yapma, kod bloguyla sarmalama):
 
 {{
+  "hint": "Ogrenci HENUZ cevabi secmeden once okuyacagi, 1-2 cumlelik bir
+    ipucu. Bu soru TIPINI (ör. cloze, ceviri, anlamca en yakin cumle vb.)
+    nasil cozmesi gerektigini ve bu soruya OZEL nereye bakmasi gerektigini
+    (baglac, zaman, essiz anlam, boslugun onu/sonrasi, vb.) anlat. DOGRU
+    CEVABI ASLA SOYLEME veya ima etme; sadece bir strateji/yontem ver.",
   "correct": "Dogru cevabin neden dogru oldugunu aciklayan 1-3 cumle. Hangi
     ipucu, hangi dilbilgisi yapisi, hangi essiz-anlam (collocation) bu cevabi
     zorunlu kiliyor, somut olarak belirt.",
@@ -61,6 +66,8 @@ ONEMLI KURALLAR:
   anlamsiz", "baglama uymuyor" gibi genel gecer, gecistirici ifadeler
   KESINLIKLE YASAK. Her sikkin kendi anlami/yapisi neden bu cumleye
   uymuyor, somut olarak yaz.
+- "hint" alani dogru cevabi ASLA aciga cikarmamali; sadece cozum
+  YONTEMI/stratejisi anlatilmali (soru hala cevaplanmamis gibi davran).
 - distractors objesindeki anahtarlar SADECE yanlis siklarin index'leri
   olmali (dogru cevabin index'i orada OLMAMALI).
 - Cikti GECERLI JSON olmali, ekstra metin icermemeli.
@@ -124,7 +131,7 @@ def call_anthropic(prompt: str, api_key: str, model: str) -> dict | None:
         print(f"    HATA (JSON parse): {e} -- raw: {str(data)[:300]}")
         return None
 
-    if "correct" not in parsed or "distractors" not in parsed or "takeaway" not in parsed:
+    if "correct" not in parsed or "distractors" not in parsed or "takeaway" not in parsed or "hint" not in parsed:
         print(f"    HATA: beklenen alanlar eksik: {parsed}")
         return None
     return parsed

@@ -22,7 +22,7 @@ const loadedByType = new Set();
 const loadedSessions = new Set();
 let questionIndex = null; // data/questions/index.json
 let currentQuiz = null;
-let currentQuizMeta = null; // {mode, sourceType, sourceId, questionIds, deferFeedback, timeLimitMs}
+let currentQuizMeta = null; // {mode, sourceType, sourceId, questionIds}
 let reviewQueue = null; // yanlislari gozden gecirme icin
 
 const INPROGRESS_KEY = "yds-app-inprogress-v1";
@@ -126,7 +126,6 @@ function saveInProgress() {
     ...currentQuizMeta,
     index: currentQuiz.index,
     answers: currentQuiz.answers,
-    remainingMs: currentQuizMeta.timeLimitMs ? currentQuiz.getRemainingMs() : null,
   };
   localStorage.setItem(INPROGRESS_KEY, JSON.stringify(snapshot));
 }
@@ -155,7 +154,6 @@ async function resumeInProgress() {
   }
   beginQuiz(questions, {
     mode: snap.mode, sourceType: snap.sourceType, sourceId: snap.sourceId,
-    deferFeedback: snap.deferFeedback, timeLimitMs: snap.remainingMs ?? snap.timeLimitMs,
     resumeIndex: snap.index, resumeAnswers: snap.answers,
   });
 }
@@ -184,10 +182,7 @@ function shuffle(arr) {
 async function startMock(sessionId) {
   await loadSession(sessionId);
   const questions = getQuestionsForSession(sessionId);
-  beginQuiz(questions, {
-    mode: "mock", sourceType: "session", sourceId: sessionId,
-    deferFeedback: true, timeLimitMs: 180 * 60 * 1000,
-  });
+  beginQuiz(questions, { mode: "mock", sourceType: "session", sourceId: sessionId });
 }
 
 function getQuestionsForSession(sessionId) {
@@ -203,10 +198,7 @@ async function startTypeStudy(type, count = 20) {
   await loadByType(type);
   const all = [...questionCache.values()].filter((q) => q.type === type);
   const questions = shuffle(all).slice(0, count);
-  beginQuiz(questions, {
-    mode: "type", sourceType: "type", sourceId: type,
-    deferFeedback: false, timeLimitMs: null,
-  });
+  beginQuiz(questions, { mode: "type", sourceType: "type", sourceId: type });
 }
 
 async function startWeakTypeStudy() {
@@ -224,10 +216,7 @@ async function startWrongReview() {
   const sessions = [...new Set(ids.map(sessionIdFromQuestionId).filter(Boolean))];
   for (const sid of sessions) await loadSession(sid);
   const questions = ids.map((id) => questionCache.get(id)).filter(Boolean);
-  beginQuiz(shuffle(questions), {
-    mode: "wrong", sourceType: "sessions", sourceId: sessions,
-    deferFeedback: false, timeLimitMs: null,
-  });
+  beginQuiz(shuffle(questions), { mode: "wrong", sourceType: "sessions", sourceId: sessions });
 }
 
 async function startDueReview() {
@@ -239,10 +228,7 @@ async function startDueReview() {
   const sessions = [...new Set(ids.map(sessionIdFromQuestionId).filter(Boolean))];
   for (const sid of sessions) await loadSession(sid);
   const questions = ids.map((id) => questionCache.get(id)).filter(Boolean);
-  beginQuiz(shuffle(questions), {
-    mode: "due", sourceType: "sessions", sourceId: sessions,
-    deferFeedback: false, timeLimitMs: null,
-  });
+  beginQuiz(shuffle(questions), { mode: "due", sourceType: "sessions", sourceId: sessions });
 }
 
 // ---------------------------------------------------------------------------
@@ -256,7 +242,9 @@ function cacheEls() {
   els.options = document.getElementById("quiz-options");
   els.progressBar = document.getElementById("quiz-progress-bar");
   els.counter = document.getElementById("quiz-counter");
-  els.timer = document.getElementById("quiz-timer");
+  els.hintBtn = document.getElementById("quiz-hint-btn");
+  els.hintCard = document.getElementById("quiz-hint-card");
+  els.hintText = document.getElementById("quiz-hint-text");
   els.explanationCard = document.getElementById("quiz-explanation");
   els.explanationBadge = document.getElementById("explanation-badge");
   els.explanationCorrect = document.getElementById("explanation-correct");
@@ -273,12 +261,9 @@ function beginQuiz(questions, meta) {
   currentQuizMeta = meta;
   currentQuiz = new Quiz({
     questions,
-    deferFeedback: meta.deferFeedback,
-    timeLimitMs: meta.timeLimitMs,
     onRender: onQuizRender,
     onAnswer: onQuizAnswer,
     onFinish: onQuizFinish,
-    onTick: onQuizTick,
   });
   currentQuizMeta.questionIds = questions.map((q) => q.id);
 
@@ -288,7 +273,6 @@ function beginQuiz(questions, meta) {
   }
 
   showScreen("screen-quiz");
-  els.timer.hidden = !meta.timeLimitMs;
   currentQuiz.start();
 }
 
@@ -299,17 +283,18 @@ function onQuizRender(question, index, total) {
   els.explanationCard.hidden = true;
   els.nextBtn.hidden = true;
 
+  const hintText = question.explanation?.hint || "";
+  els.hintCard.hidden = true;
+  els.hintText.textContent = hintText || "Bu soru icin henuz ipucu uretilmedi.";
+  els.hintBtn.hidden = false;
+  els.hintBtn.textContent = "Ipucu goster";
+
   const prevAnswer = currentQuiz.answers[index];
   if (prevAnswer) {
     // devam edilen bir testte zaten cevaplanmis soru: sonucu tekrar goster
     applyAnswerVisuals(prevAnswer);
   }
   saveInProgress();
-}
-
-function onQuizTick(remainingMs) {
-  els.timer.textContent = `Kalan sure: ${formatTime(remainingMs)}`;
-  els.timer.classList.toggle("is-low", remainingMs < 5 * 60 * 1000);
 }
 
 function onQuizAnswer(result) {
@@ -319,23 +304,15 @@ function onQuizAnswer(result) {
 
 function applyAnswerVisuals(result) {
   const q = result.question;
-  if (!currentQuizMeta.deferFeedback) {
-    markOptionResult(els.options, { selected: result.selected, correctIndex: q.answer });
-    const info = formatExplanation(q, result.selected);
-    els.explanationBadge.textContent = result.isCorrect ? "Dogru" : "Yanlis";
-    els.explanationBadge.style.color = result.isCorrect ? "var(--correct)" : "var(--wrong)";
-    els.explanationCorrect.textContent = info.correct;
-    els.explanationDistractor.textContent = info.distractorText;
-    els.explanationDistractor.hidden = !info.distractorText;
-    els.explanationTakeaway.textContent = info.takeaway ? `Kural: ${info.takeaway}` : "";
-    els.explanationCard.hidden = false;
-  } else {
-    // deneme modu: sadece secim isaretlensin, dogru/yanlis gizli kalsin
-    els.options.querySelectorAll(".option").forEach((row) => {
-      row.classList.toggle("is-selected", Number(row.dataset.index) === result.selected);
-      row.querySelector(".option-letter").disabled = true;
-    });
-  }
+  markOptionResult(els.options, { selected: result.selected, correctIndex: q.answer });
+  const info = formatExplanation(q, result.selected);
+  els.explanationBadge.textContent = result.isCorrect ? "Dogru" : "Yanlis";
+  els.explanationBadge.style.color = result.isCorrect ? "var(--correct)" : "var(--wrong)";
+  els.explanationCorrect.textContent = info.correct;
+  els.explanationDistractor.textContent = info.distractorText;
+  els.explanationDistractor.hidden = !info.distractorText;
+  els.explanationTakeaway.textContent = info.takeaway ? `Kural: ${info.takeaway}` : "";
+  els.explanationCard.hidden = false;
   els.nextBtn.hidden = false;
 }
 
@@ -394,7 +371,6 @@ function startReviewOfWrong() {
   reviewQueue = { answers: wrongAnswers, index: 0 };
   showScreen("screen-quiz");
   document.getElementById("quiz-next").textContent = "Sonraki";
-  els.timer.hidden = true;
   renderReviewItem();
 }
 
@@ -404,6 +380,11 @@ function renderReviewItem() {
   els.progressBar.style.width = `${(index / answers.length) * 100}%`;
   els.counter.textContent = `${index + 1}/${answers.length}`;
   renderQuestionInto(a.question, { passageEl: els.passage, stemEl: els.stem, optionsEl: els.options });
+  const hintText = a.question.explanation?.hint || "";
+  els.hintCard.hidden = true;
+  els.hintText.textContent = hintText || "Bu soru icin henuz ipucu uretilmedi.";
+  els.hintBtn.hidden = false;
+  els.hintBtn.textContent = "Ipucu goster";
   markOptionResult(els.options, { selected: a.selected, correctIndex: a.question.answer });
   const info = formatExplanation(a.question, a.selected);
   els.explanationBadge.textContent = "Yanlis yaptigin soru";
@@ -602,7 +583,7 @@ async function navigateToQuestion(qid) {
   if (sessionId) await loadSession(sessionId);
   const q = questionCache.get(qid);
   if (!q) return;
-  beginQuiz([q], { mode: "lookup", sourceType: "session", sourceId: sessionId, deferFeedback: false, timeLimitMs: null });
+  beginQuiz([q], { mode: "lookup", sourceType: "session", sourceId: sessionId });
 }
 
 // ---------------------------------------------------------------------------
@@ -680,6 +661,12 @@ function wireNav() {
   document.getElementById("quiz-exit").addEventListener("click", () => {
     showScreen("screen-home");
     refreshHomeScreen();
+  });
+
+  els.hintBtn.addEventListener("click", () => {
+    const showing = !els.hintCard.hidden;
+    els.hintCard.hidden = showing;
+    els.hintBtn.textContent = showing ? "Ipucu goster" : "Ipucu gizle";
   });
 
   document.getElementById("quiz-options").addEventListener("click", (e) => {

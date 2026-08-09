@@ -1,6 +1,6 @@
 // quiz.js
-// Test akisi: soru gosterimi, sik secimi, aninda/ertelenmis geri bildirim,
-// sure takibi, SRS'e sonuc bildirimi.
+// Test akisi: soru gosterimi, sik secimi, aninda geri bildirim, sure
+// takibi (soru basina, sure siniri yok), SRS'e sonuc bildirimi.
 import { recordAnswer } from "./storage.js";
 import { wrapWords } from "./dictionary.js";
 
@@ -10,31 +10,23 @@ export class Quiz {
   /**
    * @param {object} opts
    * @param {Array} opts.questions
-   * @param {boolean} opts.deferFeedback deneme modunda gerci bildirim sona ertelenir
-   * @param {number|null} opts.timeLimitMs deneme modunda toplam sure (ms)
    * @param {(q:object,i:number,total:number)=>void} opts.onRender
-   * @param {(result:object)=>void} opts.onAnswer her cevaptan sonra
+   * @param {(result:object)=>void} opts.onAnswer her cevaptan sonra (aninda)
    * @param {(summary:object)=>void} opts.onFinish
-   * @param {(remainingMs:number)=>void} [opts.onTick]
    */
   constructor(opts) {
     this.questions = opts.questions;
-    this.deferFeedback = !!opts.deferFeedback;
-    this.timeLimitMs = opts.timeLimitMs || null;
     this.onRender = opts.onRender;
     this.onAnswer = opts.onAnswer;
     this.onFinish = opts.onFinish;
-    this.onTick = opts.onTick || null;
 
     this.index = 0;
     this.answers = new Array(this.questions.length).fill(null); // {selected, correct, timeMs}
     this.questionStartTs = null;
     this.quizStartTs = performance.now();
-    this._timerHandle = null;
   }
 
   start() {
-    if (this.timeLimitMs) this._startTimer();
     this._renderCurrent();
   }
 
@@ -46,35 +38,12 @@ export class Quiz {
     return this.questions.length;
   }
 
-  _startTimer() {
-    this._endAt = performance.now() + this.timeLimitMs;
-    const tick = () => {
-      const remaining = Math.max(0, this._endAt - performance.now());
-      if (this.onTick) this.onTick(remaining);
-      if (remaining <= 0) {
-        this.finish(true);
-        return;
-      }
-      this._timerHandle = requestAnimationFrame(tick);
-    };
-    this._timerHandle = requestAnimationFrame(tick);
-  }
-
-  getRemainingMs() {
-    if (!this._endAt) return this.timeLimitMs;
-    return Math.max(0, this._endAt - performance.now());
-  }
-
-  _stopTimer() {
-    if (this._timerHandle) cancelAnimationFrame(this._timerHandle);
-  }
-
   _renderCurrent() {
     this.questionStartTs = performance.now();
     this.onRender(this.current, this.index, this.total);
   }
 
-  /** Kullanici bir sik secti. index: 0-4 */
+  /** Kullanici bir sik secti. index: 0-4. Sonuc aninda belli olur. */
   selectOption(optionIndex) {
     if (this.answers[this.index]) return null; // zaten cevaplanmis
     const q = this.current;
@@ -83,9 +52,7 @@ export class Quiz {
     const result = { question: q, selected: optionIndex, isCorrect, timeMs, index: this.index };
     this.answers[this.index] = result;
 
-    if (!this.deferFeedback) {
-      recordAnswer({ questionId: q.id, type: q.type, isCorrect, timeMs });
-    }
+    recordAnswer({ questionId: q.id, type: q.type, isCorrect, timeMs });
 
     this.onAnswer(result);
     return result;
@@ -97,22 +64,14 @@ export class Quiz {
 
   next() {
     if (!this.hasNext()) {
-      this.finish(false);
+      this.finish();
       return;
     }
     this.index += 1;
     this._renderCurrent();
   }
 
-  finish(timedOut) {
-    this._stopTimer();
-    if (this.deferFeedback) {
-      // deneme modu: SRS guncellemesi simdi, toplu yapilir
-      this.answers.forEach((a) => {
-        if (!a) return;
-        recordAnswer({ questionId: a.question.id, type: a.question.type, isCorrect: a.isCorrect, timeMs: a.timeMs });
-      });
-    }
+  finish() {
     const answered = this.answers.filter(Boolean);
     const correctCount = answered.filter((a) => a.isCorrect).length;
     const totalTimeMs = Math.round(performance.now() - this.quizStartTs);
@@ -120,7 +79,6 @@ export class Quiz {
       total: this.total,
       answered: answered.length,
       correct: correctCount,
-      timedOut: !!timedOut,
       totalTimeMs,
       answers: this.answers,
     };
@@ -175,9 +133,25 @@ export function markOptionResult(optionsEl, { selected, correctIndex }) {
   rows.forEach((row) => {
     const i = Number(row.dataset.index);
     row.classList.remove("is-correct", "is-wrong", "is-selected");
-    if (i === correctIndex) row.classList.add("is-correct");
-    if (i === selected && selected !== correctIndex) row.classList.add("is-wrong");
-    if (i === selected) row.classList.add("is-selected");
+    row.querySelector(".option-tag")?.remove();
+
+    const isSelected = i === selected;
+    const isCorrect = i === correctIndex;
+    if (isCorrect) row.classList.add("is-correct");
+    if (isSelected && !isCorrect) row.classList.add("is-wrong");
+    if (isSelected) row.classList.add("is-selected");
+
+    // renk korlugu olan/olmayan herkes icin metinle de netlestir: hangisini
+    // isaretledigin ve dogru cevap hangisiydi ac ac yazilir.
+    if (isSelected || isCorrect) {
+      const tag = document.createElement("span");
+      tag.className = "option-tag";
+      if (isSelected && isCorrect) tag.textContent = "Senin cevabin \u2713 dogru";
+      else if (isSelected) tag.textContent = "Senin cevabin \u2717";
+      else tag.textContent = "Dogru cevap";
+      row.appendChild(tag);
+    }
+
     row.querySelector(".option-letter").disabled = true;
   });
 }
@@ -185,13 +159,18 @@ export function markOptionResult(optionsEl, { selected, correctIndex }) {
 export function formatExplanation(question, selected) {
   const exp = question.explanation;
   if (!exp) {
-    return { correct: "Bu soru icin henuz aciklama uretilmedi.", distractorText: "", takeaway: "" };
+    return { correct: "Bu soru icin henuz aciklama uretilmedi.", distractorText: "", takeaway: "", hint: "" };
   }
   const distractorText =
     selected != null && selected !== question.answer && exp.distractors
       ? exp.distractors[String(selected)] || ""
       : "";
-  return { correct: exp.correct || "", distractorText, takeaway: exp.takeaway || "" };
+  return {
+    correct: exp.correct || "",
+    distractorText,
+    takeaway: exp.takeaway || "",
+    hint: exp.hint || "",
+  };
 }
 
 export function formatTime(ms) {
