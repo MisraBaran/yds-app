@@ -1,7 +1,7 @@
 // sw.js
 // Uygulamayi tamamen cevrimdisi calisir hale getirir. CACHE_VERSION
 // degistiginde eski onbellekler otomatik temizlenir.
-const CACHE_VERSION = "yds-v4";
+const CACHE_VERSION = "yds-v5";
 const CACHE_NAME = `yds-app-${CACHE_VERSION}`;
 
 const APP_SHELL = [
