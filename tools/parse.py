@@ -53,9 +53,12 @@ WATERMARK_MIN_SIZE = 20
 BOILERPLATE_PATTERNS = [
     re.compile(r"^\s*\d{1,3}\s+(Di[gğ]er sayfaya ge[cç]iniz\.?|Go on to the next page\.?)\s*$", re.IGNORECASE),
     re.compile(r"^\s*(Di[gğ]er sayfaya ge[cç]iniz\.?|Go on to the next page\.?)\s*$", re.IGNORECASE),
-    re.compile(r"^\s*\d{4}\s*[-.]?\s*YDS.*(?:[İI]NG[İI]L[İI]ZCE|ENGLISH).*$", re.IGNORECASE),
+    re.compile(r"^\s*\d{4}\s*[-.]?\s*Y\s*D\s*S.*(?:[İI]NG[İI]L[İI]ZCE|ENGLISH).*$", re.IGNORECASE),
     re.compile(r"^\s*(TEST OF ENGLISH\s*){1,2}$", re.IGNORECASE),
     re.compile(r"^\s*(END OF THE TEST\.?|CHECK YOUR ANSWERS\.?)\s*$", re.IGNORECASE),
+    re.compile(r"^\s*V?\s*TEST B[İI]TT[İI]\.?\s*$", re.IGNORECASE),
+    re.compile(r"^\s*\d*\s*CEVAPLARINIZI KONTROL ED[İI]N[İI]Z\.?\s*(OSYM\d*)?\s*$", re.IGNORECASE),
+    re.compile(r"^\s*OSYM\d*\s*$", re.IGNORECASE),
     re.compile(r"^\s*\d{1,3}\s*$"),  # yalniz sayfa numarasindan olusan satir
 ]
 
@@ -132,12 +135,23 @@ def _not_watermark(obj: dict) -> bool:
     return True
 
 
+HEADER_BAND_PT = 65  # sayfa ustundeki tekrar eden "YIL-YDS .../ENGLISH" basligi (karakterler ~60pt'a kadar uzanabiliyor, guvenlik payi birakildi)
+
+
 def page_columns_text(page) -> str:
-    """Filigrani temizleyip sayfayi sol/sag sutun olarak sirali okur."""
+    """Filigrani ve tekrar eden ust basligi temizleyip sayfayi sol/sag
+    sutun olarak sirali okur.
+
+    Ust baslik (ör. "2018-Y DS Spring/English") tum sayfa genisligini
+    kaplar; sol/sag %50 kirpma tam ortasindan gecebilir ve kelimeyi ikiye
+    bolerek bir parcasini bir sonraki sorunun ilk satirina, digerini
+    onceki sorunun son sikkina yapistirabilir. Bunu onlemek icin basligi
+    sutunlara bolmeden ONCE, y-konumuna gore ayri bir serit olarak atariz.
+    """
     clean = page.filter(_not_watermark)
     mid = page.width / 2
-    left = clean.crop((0, 0, mid, page.height)).extract_text() or ""
-    right = clean.crop((mid, 0, page.width, page.height)).extract_text() or ""
+    left = clean.crop((0, HEADER_BAND_PT, mid, page.height)).extract_text() or ""
+    right = clean.crop((mid, HEADER_BAND_PT, page.width, page.height)).extract_text() or ""
     return left + "\n" + right
 
 
@@ -187,6 +201,26 @@ def is_answer_key_page(text: str) -> bool:
     matches = ANSWER_ENTRY.findall(text)
     nums = {int(n) for n, _ in matches if 1 <= int(n) <= 80}
     return len(nums) >= 25
+
+
+ADMIN_PAGE_MARKERS = (
+    "sinavda uyulacak kurallar",
+    "kamera ile kayit altina alinacaktir",
+    "cep telefonu ile sinava girmek kesinlikle yasaktir",
+    "bu soru kitapciktaki test 80 sorudan",  # AÇIKLAMA on soz sayfasi
+    "bu soru kitapcigindaki test 80 sorudan",
+)
+
+
+def is_admin_page(text: str) -> bool:
+    """On/arka kapak niteligindeki idari sayfalar (kurallar, aciklamalar).
+    Bunlar soru govdesine dahil edilmemeli; aksi halde numarali madde
+    listeleri (1. ..., 2. ...) gercek soru numaralandirmasiyla karisir ya
+    da son sorunun son sikkina yapisir. Basligi degil, sayfaya ozgu
+    GOVDE ifadelerini ariyoruz; cunku ust bilgi seridi (HEADER_BAND_PT)
+    bu tur sayfalarin kendi basligini da kirpip atmis olabilir."""
+    norm = normalize_for_match(text)
+    return any(marker in norm for marker in ADMIN_PAGE_MARKERS)
 
 
 def extract_answer_key(pages_text: list[str]) -> dict[int, str]:
@@ -343,18 +377,21 @@ def process_pdf(path: Path, answer_key_path: Path | None = None) -> tuple[list[d
         for page in pdf.pages:
             page_texts.append(page_columns_text(page))
 
+    admin_page_idx = {i for i, t in enumerate(page_texts) if is_admin_page(t)}
+
     if answer_key_path is not None:
         # ayri bir "-cevap.pdf" dosyasi var: cevap anahtarini oradan oku,
         # ana dosyanin tum sayfalari govde metni sayilir (kapak haric).
         with pdfplumber.open(answer_key_path) as pdf:
             answer_texts = [page_columns_text(page) for page in pdf.pages]
-        body_texts = page_texts[1:]
+        body_texts = [t for i, t in enumerate(page_texts) if i != 0 and i not in admin_page_idx]
     else:
         # cevap anahtari sayfalarini tespit et (genelde son 1-2 sayfa, ama
         # emin olmak icin tum dokumani tarayalim).
         answer_page_idx = {i for i, t in enumerate(page_texts) if is_answer_key_page(t)}
         answer_texts = [page_texts[i] for i in sorted(answer_page_idx)]
-        body_texts = [t for i, t in enumerate(page_texts) if i not in answer_page_idx and i != 0]
+        skip_idx = answer_page_idx | admin_page_idx | {0}
+        body_texts = [t for i, t in enumerate(page_texts) if i not in skip_idx]
 
     corpus_raw = "\n".join(body_texts)
     corpus = strip_boilerplate(corpus_raw)
