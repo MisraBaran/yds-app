@@ -1,1 +1,1302 @@
-{}
+{
+  "many": {
+    "translation": "birçok, çok sayıda",
+    "partOfSpeech": "adjective",
+    "example": "Many scientists believe that climate change is accelerating faster than predicted."
+  },
+  "human": {
+    "translation": "insan; insani",
+    "partOfSpeech": "noun",
+    "example": "Human behaviour is often influenced by social norms and expectations."
+  },
+  "plant": {
+    "translation": "bitki; (ayrıca) fabrika",
+    "partOfSpeech": "noun",
+    "example": "Some plants can survive in extremely dry conditions for months."
+  },
+  "food": {
+    "translation": "yiyecek, gıda",
+    "partOfSpeech": "noun",
+    "example": "Access to healthy food is essential for children's development."
+  },
+  "need": {
+    "translation": "ihtiyaç; gerekmek",
+    "partOfSpeech": "verb",
+    "example": "Every organisation needs a clear strategy in order to succeed."
+  },
+  "live": {
+    "translation": "yaşamak",
+    "partOfSpeech": "verb",
+    "example": "Many species live in harsh environments without any apparent difficulty."
+  },
+  "passage": {
+    "translation": "(metin) parça; geçit",
+    "partOfSpeech": "noun",
+    "example": "Read the passage carefully before answering the questions that follow."
+  },
+  "brain": {
+    "translation": "beyin",
+    "partOfSpeech": "noun",
+    "example": "The human brain continues to develop well into early adulthood."
+  },
+  "age": {
+    "translation": "yaş; çağ",
+    "partOfSpeech": "noun",
+    "example": "Cognitive decline can sometimes begin at a relatively young age."
+  },
+  "language": {
+    "translation": "dil",
+    "partOfSpeech": "noun",
+    "example": "Children acquire language skills remarkably quickly during early childhood."
+  },
+  "animal": {
+    "translation": "hayvan",
+    "partOfSpeech": "noun",
+    "example": "Many animal species are threatened by the loss of their natural habitat."
+  },
+  "scientist": {
+    "translation": "bilim insanı",
+    "partOfSpeech": "noun",
+    "example": "Scientists have discovered a new method to treat the disease."
+  },
+  "century": {
+    "translation": "yüzyıl",
+    "partOfSpeech": "noun",
+    "example": "This tradition has been practised for more than a century."
+  },
+  "help": {
+    "translation": "yardım; yardım etmek",
+    "partOfSpeech": "verb",
+    "example": "Regular exercise can help reduce stress levels significantly."
+  },
+  "often": {
+    "translation": "sık sık",
+    "partOfSpeech": "adverb",
+    "example": "People often underestimate the risks of a sedentary lifestyle."
+  },
+  "learn": {
+    "translation": "öğrenmek",
+    "partOfSpeech": "verb",
+    "example": "Children tend to learn new languages more easily than adults."
+  },
+  "much": {
+    "translation": "çok (miktar)",
+    "partOfSpeech": "determiner",
+    "example": "There is much debate among experts about the causes of climate change."
+  },
+  "produce": {
+    "translation": "üretmek",
+    "partOfSpeech": "verb",
+    "example": "Factories in the region produce large amounts of industrial waste every year."
+  },
+  "disease": {
+    "translation": "hastalık",
+    "partOfSpeech": "noun",
+    "example": "Vaccines have helped eliminate many infectious diseases worldwide."
+  },
+  "around": {
+    "translation": "etrafında; yaklaşık",
+    "partOfSpeech": "preposition",
+    "example": "Around 80 percent of the population lives in urban areas today."
+  },
+  "test": {
+    "translation": "test, sınav",
+    "partOfSpeech": "noun",
+    "example": "Researchers conducted a series of tests to confirm their initial results."
+  },
+  "still": {
+    "translation": "hâlâ",
+    "partOfSpeech": "adverb",
+    "example": "Scientists are still debating the exact cause of the phenomenon."
+  },
+  "experience": {
+    "translation": "deneyim; deneyimlemek",
+    "partOfSpeech": "noun",
+    "example": "Patients often experience mild side effects from this type of medication."
+  },
+  "find": {
+    "translation": "bulmak",
+    "partOfSpeech": "verb",
+    "example": "Researchers find it difficult to predict long-term climate patterns precisely."
+  },
+  "risk": {
+    "translation": "risk",
+    "partOfSpeech": "noun",
+    "example": "Smoking significantly increases the risk of developing heart disease."
+  },
+  "less": {
+    "translation": "daha az",
+    "partOfSpeech": "adverb",
+    "example": "People who exercise regularly tend to report less chronic stress."
+  },
+  "follow": {
+    "translation": "takip etmek, izlemek",
+    "partOfSpeech": "verb",
+    "example": "It is important to follow the instructions carefully during the experiment."
+  },
+  "person": {
+    "translation": "kişi, insan",
+    "partOfSpeech": "noun",
+    "example": "Every person reacts differently to prolonged periods of stress."
+  },
+  "society": {
+    "translation": "toplum",
+    "partOfSpeech": "noun",
+    "example": "Technology has transformed modern society in countless ways."
+  },
+  "ability": {
+    "translation": "yetenek, kabiliyet",
+    "partOfSpeech": "noun",
+    "example": "The ability to concentrate for long periods declines with lack of sleep."
+  },
+  "whether": {
+    "translation": "-ip -mediği, olup olmadığı",
+    "partOfSpeech": "conjunction",
+    "example": "Scientists are unsure whether the new treatment will prove effective."
+  },
+  "blood": {
+    "translation": "kan",
+    "partOfSpeech": "noun",
+    "example": "High blood pressure is a major risk factor for heart disease."
+  },
+  "drug": {
+    "translation": "ilaç; uyuşturucu",
+    "partOfSpeech": "noun",
+    "example": "The drug was approved for public use after years of clinical trials."
+  },
+  "create": {
+    "translation": "yaratmak, oluşturmak",
+    "partOfSpeech": "verb",
+    "example": "The new policy aims to create more job opportunities for young people."
+  },
+  "culture": {
+    "translation": "kültür",
+    "partOfSpeech": "noun",
+    "example": "Every culture has its own unique traditions and values."
+  },
+  "memory": {
+    "translation": "hafıza; anı",
+    "partOfSpeech": "noun",
+    "example": "Sleep plays a crucial role in consolidating long-term memory."
+  },
+  "eat": {
+    "translation": "yemek yemek",
+    "partOfSpeech": "verb",
+    "example": "People who eat a balanced diet tend to live longer, healthier lives."
+  },
+  "university": {
+    "translation": "üniversite",
+    "partOfSpeech": "noun",
+    "example": "She conducted her doctoral research at a leading university."
+  },
+  "yet": {
+    "translation": "henüz; ama",
+    "partOfSpeech": "adverb",
+    "example": "The full results of the study have not yet been published."
+  },
+  "dream": {
+    "translation": "rüya; hayal etmek",
+    "partOfSpeech": "noun",
+    "example": "Dreams often reflect our unresolved subconscious thoughts."
+  },
+  "thing": {
+    "translation": "şey",
+    "partOfSpeech": "noun",
+    "example": "The most important thing is to remain calm under pressure."
+  },
+  "term": {
+    "translation": "terim; dönem, süre",
+    "partOfSpeech": "noun",
+    "example": "The term 'globalization' refers to increasing worldwide interconnection."
+  },
+  "product": {
+    "translation": "ürün",
+    "partOfSpeech": "noun",
+    "example": "The company launched an innovative new product last year."
+  },
+  "activity": {
+    "translation": "etkinlik, faaliyet",
+    "partOfSpeech": "noun",
+    "example": "Regular physical activity is essential for maintaining good health."
+  },
+  "modern": {
+    "translation": "modern, çağdaş",
+    "partOfSpeech": "adjective",
+    "example": "Modern technology has fundamentally changed the way we communicate."
+  },
+  "call": {
+    "translation": "çağırmak, aramak",
+    "partOfSpeech": "verb",
+    "example": "Experts have called for stricter regulations on carbon emissions."
+  },
+  "image": {
+    "translation": "imaj, görüntü",
+    "partOfSpeech": "noun",
+    "example": "The company is trying hard to improve its public image."
+  },
+  "behaviour": {
+    "translation": "davranış",
+    "partOfSpeech": "noun",
+    "example": "Studying animal behaviour can reveal a great deal about their environment."
+  },
+  "ancient": {
+    "translation": "antik, eski",
+    "partOfSpeech": "adjective",
+    "example": "Ancient civilisations developed remarkably sophisticated irrigation systems."
+  },
+  "protect": {
+    "translation": "korumak",
+    "partOfSpeech": "verb",
+    "example": "New laws were introduced to protect endangered species from extinction."
+  },
+  "record": {
+    "translation": "kayıt; kaydetmek",
+    "partOfSpeech": "verb",
+    "example": "Researchers recorded the animals' behaviour over several months."
+  },
+  "researcher": {
+    "translation": "araştırmacı",
+    "partOfSpeech": "noun",
+    "example": "Researchers found a strong link between diet and long-term health."
+  },
+  "condition": {
+    "translation": "koşul, durum",
+    "partOfSpeech": "noun",
+    "example": "The patient's condition improved significantly after treatment."
+  },
+  "read": {
+    "translation": "okumak",
+    "partOfSpeech": "verb",
+    "example": "Read the passage carefully before you answer the question."
+  },
+  "event": {
+    "translation": "olay",
+    "partOfSpeech": "noun",
+    "example": "The event had a significant impact on public opinion at the time."
+  },
+  "train": {
+    "translation": "eğitmek; tren",
+    "partOfSpeech": "verb",
+    "example": "Employees are trained thoroughly to handle emergencies effectively."
+  },
+  "production": {
+    "translation": "üretim",
+    "partOfSpeech": "noun",
+    "example": "Industrial production increased significantly over the past year."
+  },
+  "set": {
+    "translation": "belirlemek; küme, takım",
+    "partOfSpeech": "verb",
+    "example": "The committee set new standards for food safety across the industry."
+  },
+  "another": {
+    "translation": "bir başka",
+    "partOfSpeech": "determiner",
+    "example": "Another recent study found strikingly similar results."
+  },
+  "pay": {
+    "translation": "ödemek; ödeme",
+    "partOfSpeech": "verb",
+    "example": "Companies must pay closer attention to employee well-being."
+  },
+  "every": {
+    "translation": "her",
+    "partOfSpeech": "determiner",
+    "example": "Every culture has its own unique set of traditions."
+  },
+  "environment": {
+    "translation": "çevre",
+    "partOfSpeech": "noun",
+    "example": "Protecting the environment is widely regarded as a global responsibility."
+  },
+  "far": {
+    "translation": "uzak; çok (derece)",
+    "partOfSpeech": "adverb",
+    "example": "The effects of the policy went far beyond what anyone had expected."
+  },
+  "leave": {
+    "translation": "ayrılmak, bırakmak",
+    "partOfSpeech": "verb",
+    "example": "Many young people leave their hometowns in search of better jobs."
+  },
+  "percent": {
+    "translation": "yüzde",
+    "partOfSpeech": "noun",
+    "example": "Nearly 60 percent of respondents supported the new proposal."
+  },
+  "skill": {
+    "translation": "beceri, yetenek",
+    "partOfSpeech": "noun",
+    "example": "Problem-solving skills are increasingly valued in the modern workplace."
+  },
+  "air": {
+    "translation": "hava",
+    "partOfSpeech": "noun",
+    "example": "Air pollution in large cities has become a serious public health issue."
+  },
+  "reach": {
+    "translation": "ulaşmak, erişmek",
+    "partOfSpeech": "verb",
+    "example": "It took the research team years to reach a definitive conclusion."
+  },
+  "period": {
+    "translation": "dönem, süre",
+    "partOfSpeech": "noun",
+    "example": "The economy grew steadily during this period of stability."
+  },
+  "without": {
+    "translation": "-siz, olmadan",
+    "partOfSpeech": "preposition",
+    "example": "Some plants can survive for long periods without much water."
+  },
+  "popular": {
+    "translation": "popüler, yaygın",
+    "partOfSpeech": "adjective",
+    "example": "The theory became popular among scientists in the early twentieth century."
+  },
+  "energy": {
+    "translation": "enerji",
+    "partOfSpeech": "noun",
+    "example": "Renewable energy sources are becoming increasingly cost-effective."
+  },
+  "technology": {
+    "translation": "teknoloji",
+    "partOfSpeech": "noun",
+    "example": "New technology has transformed the way we access information."
+  },
+  "history": {
+    "translation": "tarih",
+    "partOfSpeech": "noun",
+    "example": "Throughout history, human societies have adapted to changing climates."
+  },
+  "earth": {
+    "translation": "dünya, yeryüzü",
+    "partOfSpeech": "noun",
+    "example": "Scientists are studying how life on Earth first began."
+  },
+  "light": {
+    "translation": "ışık; hafif",
+    "partOfSpeech": "noun",
+    "example": "Plants convert light into chemical energy through photosynthesis."
+  },
+  "mouse": {
+    "translation": "fare",
+    "partOfSpeech": "noun",
+    "example": "Researchers tested the new drug on laboratory mice before human trials."
+  },
+  "build": {
+    "translation": "inşa etmek, kurmak",
+    "partOfSpeech": "verb",
+    "example": "The company plans to build a new factory next year."
+  },
+  "adult": {
+    "translation": "yetişkin",
+    "partOfSpeech": "noun",
+    "example": "Unlike children, adults often find it harder to learn a new language."
+  },
+  "cannot": {
+    "translation": "yapamaz, -amaz",
+    "partOfSpeech": "verb",
+    "example": "Some effects of climate change cannot be reversed within a few decades."
+  },
+  "america": {
+    "translation": "Amerika",
+    "partOfSpeech": "noun",
+    "example": "The study was conducted across several universities in North America."
+  },
+  "cell": {
+    "translation": "hücre",
+    "partOfSpeech": "noun",
+    "example": "Every cell in the human body contains a complete copy of its DNA."
+  },
+  "interest": {
+    "translation": "ilgi; faiz",
+    "partOfSpeech": "noun",
+    "example": "Public interest in renewable energy has grown rapidly in recent years."
+  },
+  "climate": {
+    "translation": "iklim",
+    "partOfSpeech": "noun",
+    "example": "Climate change is affecting weather patterns across the globe."
+  },
+  "future": {
+    "translation": "gelecek",
+    "partOfSpeech": "noun",
+    "example": "Investing in education today will shape the future of the economy."
+  },
+  "sea": {
+    "translation": "deniz",
+    "partOfSpeech": "noun",
+    "example": "Rising sea levels pose a serious threat to coastal cities."
+  },
+  "actually": {
+    "translation": "aslında, gerçekte",
+    "partOfSpeech": "adverb",
+    "example": "The results actually contradicted what the researchers had expected."
+  },
+  "discover": {
+    "translation": "keşfetmek",
+    "partOfSpeech": "verb",
+    "example": "Scientists recently discovered a new species of deep-sea fish."
+  },
+  "lie": {
+    "translation": "yatmak, uzanmak; yalan (söylemek)",
+    "partOfSpeech": "verb",
+    "example": "The answer to this puzzle may lie in the ancient manuscripts."
+  },
+  "europe": {
+    "translation": "Avrupa",
+    "partOfSpeech": "noun",
+    "example": "The tradition spread across Europe during the Middle Ages."
+  },
+  "move": {
+    "translation": "hareket etmek, taşınmak",
+    "partOfSpeech": "verb",
+    "example": "Many families move to cities in search of better job opportunities."
+  },
+  "prevent": {
+    "translation": "önlemek",
+    "partOfSpeech": "verb",
+    "example": "Regular vaccination can prevent the spread of many infectious diseases."
+  },
+  "western": {
+    "translation": "batılı, batı ile ilgili",
+    "partOfSpeech": "adjective",
+    "example": "Western countries have invested heavily in renewable energy research."
+  },
+  "attention": {
+    "translation": "dikkat",
+    "partOfSpeech": "noun",
+    "example": "The report drew international attention to the issue of ocean pollution."
+  },
+  "ocean": {
+    "translation": "okyanus",
+    "partOfSpeech": "noun",
+    "example": "Plastic waste in the ocean threatens marine life around the world."
+  },
+  "performance": {
+    "translation": "performans",
+    "partOfSpeech": "noun",
+    "example": "Lack of sleep can significantly reduce academic performance."
+  },
+  "thank": {
+    "translation": "teşekkür etmek",
+    "partOfSpeech": "verb",
+    "example": "Thanks to modern medicine, life expectancy has increased considerably."
+  },
+  "three": {
+    "translation": "üç",
+    "partOfSpeech": "number",
+    "example": "The experiment was repeated three times to confirm the results."
+  },
+  "turn": {
+    "translation": "dönmek, çevirmek",
+    "partOfSpeech": "verb",
+    "example": "The discovery turned out to be more significant than expected."
+  },
+  "family": {
+    "translation": "aile",
+    "partOfSpeech": "noun",
+    "example": "Family support plays an important role in a child's development."
+  },
+  "feel": {
+    "translation": "hissetmek",
+    "partOfSpeech": "verb",
+    "example": "Patients often feel anxious before undergoing surgery."
+  },
+  "industry": {
+    "translation": "endüstri, sanayi",
+    "partOfSpeech": "noun",
+    "example": "The tourism industry was severely affected by the pandemic."
+  },
+  "scientific": {
+    "translation": "bilimsel",
+    "partOfSpeech": "adjective",
+    "example": "The claim has not yet been supported by scientific evidence."
+  },
+  "music": {
+    "translation": "müzik",
+    "partOfSpeech": "noun",
+    "example": "Listening to music can help reduce stress and anxiety."
+  },
+  "fire": {
+    "translation": "ateş, yangın",
+    "partOfSpeech": "noun",
+    "example": "Wildfires have become more frequent due to rising temperatures."
+  },
+  "white": {
+    "translation": "beyaz",
+    "partOfSpeech": "adjective",
+    "example": "White blood cells play a key role in fighting infection."
+  },
+  "within": {
+    "translation": "içinde, -de",
+    "partOfSpeech": "preposition",
+    "example": "The results were published within a year of the initial study."
+  },
+  "write": {
+    "translation": "yazmak",
+    "partOfSpeech": "verb",
+    "example": "She wrote extensively about the effects of urbanisation on wildlife."
+  },
+  "consumer": {
+    "translation": "tüketici",
+    "partOfSpeech": "noun",
+    "example": "Consumer demand for sustainable products has increased significantly."
+  },
+  "daydream": {
+    "translation": "hayal kurmak, dalıp gitmek",
+    "partOfSpeech": "verb",
+    "example": "Students who daydream in class often struggle to retain information."
+  },
+  "healthy": {
+    "translation": "sağlıklı",
+    "partOfSpeech": "adjective",
+    "example": "A healthy diet can significantly reduce the risk of chronic disease."
+  },
+  "material": {
+    "translation": "malzeme, madde",
+    "partOfSpeech": "noun",
+    "example": "Engineers are developing lighter materials for aircraft construction."
+  },
+  "population": {
+    "translation": "nüfus, popülasyon",
+    "partOfSpeech": "noun",
+    "example": "The world's population is expected to keep growing for decades."
+  },
+  "usually": {
+    "translation": "genellikle",
+    "partOfSpeech": "adverb",
+    "example": "Symptoms usually appear within a few days of infection."
+  },
+  "base": {
+    "translation": "temel; dayandırmak",
+    "partOfSpeech": "noun",
+    "example": "The theory is based on decades of careful observation."
+  },
+  "became": {
+    "translation": "oldu (become fiilinin geçmişi)",
+    "partOfSpeech": "verb",
+    "example": "The once-rare disease became increasingly common in the region."
+  },
+  "bring": {
+    "translation": "getirmek",
+    "partOfSpeech": "verb",
+    "example": "The new policy is expected to bring significant economic benefits."
+  },
+  "relate": {
+    "translation": "ilişkilendirmek, ilgili olmak",
+    "partOfSpeech": "verb",
+    "example": "The study relates poor sleep to a higher risk of heart disease."
+  },
+  "teach": {
+    "translation": "öğretmek",
+    "partOfSpeech": "verb",
+    "example": "Parents often teach their children basic problem-solving skills."
+  },
+  "ago": {
+    "translation": "önce (zaman)",
+    "partOfSpeech": "adverb",
+    "example": "The species is believed to have gone extinct thousands of years ago."
+  },
+  "avoid": {
+    "translation": "kaçınmak",
+    "partOfSpeech": "verb",
+    "example": "Doctors advise patients to avoid excessive sugar consumption."
+  },
+  "disorder": {
+    "translation": "bozukluk, düzensizlik",
+    "partOfSpeech": "noun",
+    "example": "The disorder affects roughly five percent of school-age children."
+  },
+  "limit": {
+    "translation": "sınır; sınırlamak",
+    "partOfSpeech": "noun",
+    "example": "There is a natural limit to how much the body can adapt."
+  },
+  "american": {
+    "translation": "Amerikalı, Amerikan",
+    "partOfSpeech": "adjective",
+    "example": "The study was carried out by a team of American researchers."
+  },
+  "always": {
+    "translation": "her zaman",
+    "partOfSpeech": "adverb",
+    "example": "The results are not always consistent across different populations."
+  },
+  "among": {
+    "translation": "arasında",
+    "partOfSpeech": "preposition",
+    "example": "The disease is particularly common among older adults."
+  },
+  "away": {
+    "translation": "uzakta, uzağa",
+    "partOfSpeech": "adverb",
+    "example": "Migratory birds travel thousands of kilometres away from their birthplace."
+  },
+  "diet": {
+    "translation": "diyet, beslenme düzeni",
+    "partOfSpeech": "noun",
+    "example": "A balanced diet is essential for maintaining a healthy immune system."
+  },
+  "impression": {
+    "translation": "izlenim",
+    "partOfSpeech": "noun",
+    "example": "First impressions are often formed within the first few seconds of meeting."
+  },
+  "object": {
+    "translation": "nesne; itiraz etmek",
+    "partOfSpeech": "noun",
+    "example": "Researchers observed how infants respond to unfamiliar objects."
+  },
+  "play": {
+    "translation": "oynamak; rol oynamak",
+    "partOfSpeech": "verb",
+    "example": "Genetics play an important role in determining a person's height."
+  },
+  "surface": {
+    "translation": "yüzey",
+    "partOfSpeech": "noun",
+    "example": "The rover collected samples from the surface of the planet."
+  },
+  "benefit": {
+    "translation": "fayda, yarar",
+    "partOfSpeech": "noun",
+    "example": "Regular exercise offers numerous benefits for both body and mind."
+  },
+  "pressure": {
+    "translation": "baskı, basınç",
+    "partOfSpeech": "noun",
+    "example": "Employees often perform worse under excessive workplace pressure."
+  },
+  "involve": {
+    "translation": "içermek, dahil etmek",
+    "partOfSpeech": "verb",
+    "example": "The treatment involves a combination of medication and therapy."
+  },
+  "warm": {
+    "translation": "ılık, sıcak",
+    "partOfSpeech": "adjective",
+    "example": "The region has become noticeably warmer over the past few decades."
+  },
+  "almost": {
+    "translation": "neredeyse",
+    "partOfSpeech": "adverb",
+    "example": "Almost half of the participants reported an improvement in their symptoms."
+  },
+  "together": {
+    "translation": "birlikte",
+    "partOfSpeech": "adverb",
+    "example": "The two research teams worked together to complete the project."
+  },
+  "least": {
+    "translation": "en az",
+    "partOfSpeech": "adverb",
+    "example": "This method requires the least amount of time and resources."
+  },
+  "put": {
+    "translation": "koymak, yerleştirmek",
+    "partOfSpeech": "verb",
+    "example": "The findings put the earlier theory into serious question."
+  },
+  "really": {
+    "translation": "gerçekten",
+    "partOfSpeech": "adverb",
+    "example": "It is still not clear whether the drug really works as intended."
+  },
+  "subject": {
+    "translation": "konu; denek",
+    "partOfSpeech": "noun",
+    "example": "Test subjects were divided into two groups for the experiment."
+  },
+  "improve": {
+    "translation": "iyileştirmek, geliştirmek",
+    "partOfSpeech": "verb",
+    "example": "Regular practice can significantly improve memory performance."
+  },
+  "kite": {
+    "translation": "uçurtma",
+    "partOfSpeech": "noun",
+    "example": "Children flew kites in the park on the windy afternoon."
+  },
+  "medical": {
+    "translation": "tıbbi",
+    "partOfSpeech": "adjective",
+    "example": "The hospital adopted new medical guidelines for treating the disease."
+  },
+  "negative": {
+    "translation": "olumsuz, negatif",
+    "partOfSpeech": "adjective",
+    "example": "Excessive stress can have a negative impact on physical health."
+  },
+  "sound": {
+    "translation": "ses; sağlam",
+    "partOfSpeech": "noun",
+    "example": "Certain animals can detect sounds that are inaudible to humans."
+  },
+  "design": {
+    "translation": "tasarım; tasarlamak",
+    "partOfSpeech": "noun",
+    "example": "The building's design was intended to reduce energy consumption."
+  },
+  "invention": {
+    "translation": "icat, buluş",
+    "partOfSpeech": "noun",
+    "example": "The invention of the printing press transformed the spread of knowledge."
+  },
+  "planet": {
+    "translation": "gezegen",
+    "partOfSpeech": "noun",
+    "example": "Scientists are searching for signs of life on distant planets."
+  },
+  "decade": {
+    "translation": "on yıl",
+    "partOfSpeech": "noun",
+    "example": "Global temperatures have risen steadily over the past decade."
+  },
+  "effective": {
+    "translation": "etkili",
+    "partOfSpeech": "adjective",
+    "example": "The new vaccine proved highly effective in clinical trials."
+  },
+  "spread": {
+    "translation": "yayılmak; yaymak",
+    "partOfSpeech": "verb",
+    "example": "The disease spread rapidly through the densely populated city."
+  },
+  "strong": {
+    "translation": "güçlü",
+    "partOfSpeech": "adjective",
+    "example": "There is strong evidence linking the two variables."
+  },
+  "detect": {
+    "translation": "tespit etmek",
+    "partOfSpeech": "verb",
+    "example": "The device can detect even the smallest changes in temperature."
+  },
+  "gain": {
+    "translation": "kazanmak, elde etmek",
+    "partOfSpeech": "verb",
+    "example": "The theory gained wide acceptance among scientists in the 1990s."
+  },
+  "mental": {
+    "translation": "zihinsel, ruhsal",
+    "partOfSpeech": "adjective",
+    "example": "Prolonged stress can take a serious toll on mental health."
+  },
+  "million": {
+    "translation": "milyon",
+    "partOfSpeech": "number",
+    "example": "The campaign reached several million people within a week."
+  },
+  "past": {
+    "translation": "geçmiş",
+    "partOfSpeech": "noun",
+    "example": "Attitudes towards this issue have changed considerably in the past decade."
+  },
+  "river": {
+    "translation": "nehir",
+    "partOfSpeech": "noun",
+    "example": "Pollution in the river has severely affected local fish populations."
+  },
+  "species": {
+    "translation": "tür (biyolojik)",
+    "partOfSpeech": "noun",
+    "example": "Several species are at risk of extinction due to habitat loss."
+  },
+  "temperature": {
+    "translation": "sıcaklık",
+    "partOfSpeech": "noun",
+    "example": "Global average temperatures have risen significantly since 1900."
+  },
+  "action": {
+    "translation": "eylem, hareket",
+    "partOfSpeech": "noun",
+    "example": "Governments must take immediate action to reduce carbon emissions."
+  },
+  "cultural": {
+    "translation": "kültürel",
+    "partOfSpeech": "adjective",
+    "example": "Cultural differences can influence how people express emotions."
+  },
+  "neanderthal": {
+    "translation": "Neandertal (insan türü)",
+    "partOfSpeech": "noun",
+    "example": "Neanderthals lived in Europe for hundreds of thousands of years."
+  },
+  "region": {
+    "translation": "bölge",
+    "partOfSpeech": "noun",
+    "example": "Rainfall patterns vary considerably from one region to another."
+  },
+  "television": {
+    "translation": "televizyon",
+    "partOfSpeech": "noun",
+    "example": "Excessive television viewing has been linked to a sedentary lifestyle."
+  },
+  "chemical": {
+    "translation": "kimyasal",
+    "partOfSpeech": "adjective",
+    "example": "The factory was fined for releasing harmful chemicals into the river."
+  },
+  "exist": {
+    "translation": "var olmak",
+    "partOfSpeech": "verb",
+    "example": "Life is believed to have existed on Earth for billions of years."
+  },
+  "oil": {
+    "translation": "petrol, yağ",
+    "partOfSpeech": "noun",
+    "example": "The region's economy depends heavily on oil exports."
+  },
+  "physical": {
+    "translation": "fiziksel",
+    "partOfSpeech": "adjective",
+    "example": "Physical activity has clear benefits for both body and mind."
+  },
+  "shark": {
+    "translation": "köpekbalığı",
+    "partOfSpeech": "noun",
+    "example": "Sharks play a crucial role in maintaining the ocean's ecological balance."
+  },
+  "tell": {
+    "translation": "söylemek, anlatmak",
+    "partOfSpeech": "verb",
+    "example": "It is often difficult to tell the two species apart."
+  },
+  "act": {
+    "translation": "davranmak, hareket etmek",
+    "partOfSpeech": "verb",
+    "example": "Governments must act quickly to prevent the spread of the disease."
+  },
+  "answer": {
+    "translation": "cevap; cevaplamak",
+    "partOfSpeech": "noun",
+    "example": "Scientists have yet to find a definitive answer to this question."
+  },
+  "carry": {
+    "translation": "taşımak",
+    "partOfSpeech": "verb",
+    "example": "Insects can carry diseases from one host to another."
+  },
+  "device": {
+    "translation": "cihaz, alet",
+    "partOfSpeech": "noun",
+    "example": "The new device can measure blood pressure with great accuracy."
+  },
+  "enough": {
+    "translation": "yeterli",
+    "partOfSpeech": "adjective",
+    "example": "There is not enough evidence to support the initial hypothesis."
+  },
+  "non": {
+    "translation": "-siz, olmayan (önek)",
+    "partOfSpeech": "prefix",
+    "example": "The study compared smokers with a group of non-smokers."
+  },
+  "north": {
+    "translation": "kuzey",
+    "partOfSpeech": "noun",
+    "example": "The species migrates north during the summer months."
+  },
+  "self": {
+    "translation": "kendi, öz-",
+    "partOfSpeech": "noun",
+    "example": "Adolescents often develop a stronger sense of self-identity."
+  },
+  "support": {
+    "translation": "destek; desteklemek",
+    "partOfSpeech": "verb",
+    "example": "The evidence strongly supports the researchers' original hypothesis."
+  },
+  "bath": {
+    "translation": "banyo",
+    "partOfSpeech": "noun",
+    "example": "A warm bath before bedtime can help improve sleep quality."
+  },
+  "clean": {
+    "translation": "temiz; temizlemek",
+    "partOfSpeech": "adjective",
+    "example": "Access to clean drinking water remains a challenge in many regions."
+  },
+  "experiment": {
+    "translation": "deney",
+    "partOfSpeech": "noun",
+    "example": "The experiment was repeated several times to ensure accuracy."
+  },
+  "hold": {
+    "translation": "tutmak",
+    "partOfSpeech": "verb",
+    "example": "The theory no longer holds true in light of the new evidence."
+  },
+  "identify": {
+    "translation": "belirlemek, tanımlamak",
+    "partOfSpeech": "verb",
+    "example": "Researchers identified a new gene linked to the disorder."
+  },
+  "stress": {
+    "translation": "stres, baskı",
+    "partOfSpeech": "noun",
+    "example": "Chronic stress can weaken the body's immune system over time."
+  },
+  "employee": {
+    "translation": "çalışan, işçi",
+    "partOfSpeech": "noun",
+    "example": "The company introduced new benefits to improve employee well-being."
+  },
+  "toward": {
+    "translation": "-e doğru",
+    "partOfSpeech": "preposition",
+    "example": "Public attitudes toward renewable energy have shifted considerably."
+  },
+  "bird": {
+    "translation": "kuş",
+    "partOfSpeech": "noun",
+    "example": "Many bird species migrate thousands of kilometres each year."
+  },
+  "treatment": {
+    "translation": "tedavi",
+    "partOfSpeech": "noun",
+    "example": "Early treatment greatly improves the chances of full recovery."
+  },
+  "colour": {
+    "translation": "renk",
+    "partOfSpeech": "noun",
+    "example": "The colour of a fruit can influence how sweet we perceive it to be."
+  },
+  "crop": {
+    "translation": "ürün, ekin (tarım)",
+    "partOfSpeech": "noun",
+    "example": "Drought conditions have severely damaged this year's wheat crop."
+  },
+  "death": {
+    "translation": "ölüm",
+    "partOfSpeech": "noun",
+    "example": "The disease remains one of the leading causes of death worldwide."
+  },
+  "eye": {
+    "translation": "göz",
+    "partOfSpeech": "noun",
+    "example": "The human eye can distinguish millions of different colours."
+  },
+  "flood": {
+    "translation": "sel, su baskını",
+    "partOfSpeech": "noun",
+    "example": "Heavy rainfall caused severe flooding across the region."
+  },
+  "lose": {
+    "translation": "kaybetmek",
+    "partOfSpeech": "verb",
+    "example": "Patients with the disorder often lose the ability to recognise faces."
+  },
+  "occur": {
+    "translation": "meydana gelmek, oluşmak",
+    "partOfSpeech": "verb",
+    "example": "Such mutations occur naturally in every generation."
+  },
+  "offer": {
+    "translation": "sunmak, teklif etmek",
+    "partOfSpeech": "verb",
+    "example": "The programme offers financial support to low-income families."
+  },
+  "space": {
+    "translation": "uzay; alan",
+    "partOfSpeech": "noun",
+    "example": "Scientists are exploring the possibility of life beyond our solar system in deep space."
+  },
+  "true": {
+    "translation": "doğru, gerçek",
+    "partOfSpeech": "adjective",
+    "example": "The claim turned out to be true after further investigation."
+  },
+  "try": {
+    "translation": "denemek",
+    "partOfSpeech": "verb",
+    "example": "Researchers are trying to develop a more effective treatment."
+  },
+  "view": {
+    "translation": "görüş, bakış açısı",
+    "partOfSpeech": "noun",
+    "example": "Experts hold differing views on the causes of the phenomenon."
+  },
+  "already": {
+    "translation": "zaten, çoktan",
+    "partOfSpeech": "adverb",
+    "example": "By the time the study began, the disease had already spread widely."
+  },
+  "difference": {
+    "translation": "fark",
+    "partOfSpeech": "noun",
+    "example": "There is a notable difference between the two treatment methods."
+  },
+  "milk": {
+    "translation": "süt",
+    "partOfSpeech": "noun",
+    "example": "The cow was found to produce milk naturally low in fat."
+  },
+  "mind": {
+    "translation": "zihin, akıl",
+    "partOfSpeech": "noun",
+    "example": "Meditation is said to have a calming effect on the mind."
+  },
+  "never": {
+    "translation": "asla, hiçbir zaman",
+    "partOfSpeech": "adverb",
+    "example": "Some ancient techniques have never been fully understood by modern scientists."
+  },
+  "something": {
+    "translation": "bir şey",
+    "partOfSpeech": "pronoun",
+    "example": "There is something unusual about the way this species communicates."
+  },
+  "source": {
+    "translation": "kaynak",
+    "partOfSpeech": "noun",
+    "example": "Solar power is becoming an increasingly important energy source."
+  },
+  "spend": {
+    "translation": "harcamak, geçirmek (zaman)",
+    "partOfSpeech": "verb",
+    "example": "Adolescents today spend more time on screens than previous generations."
+  },
+  "success": {
+    "translation": "başarı",
+    "partOfSpeech": "noun",
+    "example": "The success of the programme depended largely on community involvement."
+  },
+  "symptom": {
+    "translation": "belirti, semptom",
+    "partOfSpeech": "noun",
+    "example": "Early symptoms of the disease are often mistaken for a common cold."
+  },
+  "global": {
+    "translation": "küresel",
+    "partOfSpeech": "adjective",
+    "example": "Global temperatures have risen steadily over the past century."
+  },
+  "practice": {
+    "translation": "uygulama, pratik",
+    "partOfSpeech": "noun",
+    "example": "This farming practice has been used for generations."
+  },
+  "quickly": {
+    "translation": "hızlıca",
+    "partOfSpeech": "adverb",
+    "example": "The infection can spread quickly in crowded environments."
+  },
+  "reason": {
+    "translation": "sebep, neden",
+    "partOfSpeech": "noun",
+    "example": "There are several possible reasons for the sudden decline in population."
+  },
+  "therefore": {
+    "translation": "bu nedenle, dolayısıyla",
+    "partOfSpeech": "adverb",
+    "example": "The sample size was small; therefore, the results should be treated with caution."
+  },
+  "thousand": {
+    "translation": "bin",
+    "partOfSpeech": "number",
+    "example": "Thousands of species could become extinct within the next century."
+  },
+  "attack": {
+    "translation": "saldırı; saldırmak",
+    "partOfSpeech": "noun",
+    "example": "The immune system attacks foreign cells that enter the body."
+  },
+  "author": {
+    "translation": "yazar",
+    "partOfSpeech": "noun",
+    "example": "The authors of the study concluded that further research is needed."
+  },
+  "environmental": {
+    "translation": "çevresel",
+    "partOfSpeech": "adjective",
+    "example": "Environmental factors play a significant role in the spread of the disease."
+  },
+  "european": {
+    "translation": "Avrupalı, Avrupa ile ilgili",
+    "partOfSpeech": "adjective",
+    "example": "Several European countries have adopted stricter emission targets."
+  },
+  "four": {
+    "translation": "dört",
+    "partOfSpeech": "number",
+    "example": "The study followed the participants for four consecutive years."
+  },
+  "higher": {
+    "translation": "daha yüksek",
+    "partOfSpeech": "adjective",
+    "example": "Participants who exercised regularly reported higher energy levels."
+  },
+  "older": {
+    "translation": "daha yaşlı, daha eski",
+    "partOfSpeech": "adjective",
+    "example": "Older adults are generally more susceptible to this type of infection."
+  },
+  "patient": {
+    "translation": "hasta; sabırlı",
+    "partOfSpeech": "noun",
+    "example": "Patients who followed the treatment plan recovered more quickly."
+  },
+  "main": {
+    "translation": "ana, temel",
+    "partOfSpeech": "adjective",
+    "example": "The main cause of the decline remains a subject of debate."
+  },
+  "map": {
+    "translation": "harita; haritalamak",
+    "partOfSpeech": "noun",
+    "example": "Researchers mapped the migration routes of the species in detail."
+  },
+  "medicine": {
+    "translation": "tıp; ilaç",
+    "partOfSpeech": "noun",
+    "example": "Advances in medicine have significantly increased life expectancy."
+  },
+  "whose": {
+    "translation": "kimin",
+    "partOfSpeech": "pronoun",
+    "example": "The scientist whose research led to the discovery received an award."
+  },
+  "ant": {
+    "translation": "karınca",
+    "partOfSpeech": "noun",
+    "example": "Ants communicate with one another using chemical signals."
+  },
+  "invent": {
+    "translation": "icat etmek",
+    "partOfSpeech": "verb",
+    "example": "The technique was invented over a century ago but is still in use."
+  },
+  "opportunity": {
+    "translation": "fırsat",
+    "partOfSpeech": "noun",
+    "example": "The new policy created opportunities for small businesses to grow."
+  },
+  "sleep": {
+    "translation": "uyku; uyumak",
+    "partOfSpeech": "noun",
+    "example": "Lack of sleep can impair both memory and concentration."
+  },
+  "successful": {
+    "translation": "başarılı",
+    "partOfSpeech": "adjective",
+    "example": "The trial was successful in reducing the symptoms of the disease."
+  },
+  "trait": {
+    "translation": "özellik, karakteristik",
+    "partOfSpeech": "noun",
+    "example": "This behavioural trait appears to be inherited rather than learned."
+  },
+  "worker": {
+    "translation": "işçi, çalışan",
+    "partOfSpeech": "noun",
+    "example": "Factory workers were exposed to hazardous chemicals for years."
+  },
+  "clear": {
+    "translation": "açık, net",
+    "partOfSpeech": "adjective",
+    "example": "There is a clear connection between diet and long-term health."
+  },
+  "insect": {
+    "translation": "böcek",
+    "partOfSpeech": "noun",
+    "example": "Insect populations have declined sharply in many regions."
+  },
+  "mass": {
+    "translation": "kütle; kitle",
+    "partOfSpeech": "noun",
+    "example": "The species lost a significant proportion of its body mass during the drought."
+  },
+  "measure": {
+    "translation": "ölçmek; önlem",
+    "partOfSpeech": "verb",
+    "example": "New instruments allow scientists to measure temperature changes precisely."
+  },
+  "throughout": {
+    "translation": "boyunca",
+    "partOfSpeech": "preposition",
+    "example": "The tradition has remained largely unchanged throughout history."
+  },
+  "waste": {
+    "translation": "atık, israf",
+    "partOfSpeech": "noun",
+    "example": "Industrial waste has severely polluted the river over the decades."
+  },
+  "bacteria": {
+    "translation": "bakteri",
+    "partOfSpeech": "noun",
+    "example": "Some bacteria have developed resistance to common antibiotics."
+  },
+  "concern": {
+    "translation": "endişe, kaygı",
+    "partOfSpeech": "noun",
+    "example": "Public concern over air pollution has grown considerably in recent years."
+  },
+  "damage": {
+    "translation": "hasar, zarar",
+    "partOfSpeech": "noun",
+    "example": "The storm caused significant damage to coastal infrastructure."
+  },
+  "effort": {
+    "translation": "çaba, gayret",
+    "partOfSpeech": "noun",
+    "example": "International efforts to reduce emissions have intensified in recent years."
+  },
+  "genetic": {
+    "translation": "genetik",
+    "partOfSpeech": "adjective",
+    "example": "The disorder is believed to have a strong genetic component."
+  },
+  "link": {
+    "translation": "bağlantı; bağlamak",
+    "partOfSpeech": "noun",
+    "example": "Researchers found a clear link between poor sleep and weight gain."
+  },
+  "longer": {
+    "translation": "daha uzun",
+    "partOfSpeech": "adjective",
+    "example": "People today are living longer than previous generations."
+  },
+  "natural": {
+    "translation": "doğal",
+    "partOfSpeech": "adjective",
+    "example": "The species has developed natural defences against most predators."
+  },
+  "present": {
+    "translation": "sunmak; mevcut, şimdiki",
+    "partOfSpeech": "verb",
+    "example": "The researchers presented their findings at an international conference."
+  },
+  "regard": {
+    "translation": "saymak, addetmek",
+    "partOfSpeech": "verb",
+    "example": "The method is widely regarded as the most reliable available today."
+  },
+  "run": {
+    "translation": "koşmak; işletmek, yürütmek",
+    "partOfSpeech": "verb",
+    "example": "The experiment was run under carefully controlled conditions."
+  },
+  "thus": {
+    "translation": "böylece, bu nedenle",
+    "partOfSpeech": "adverb",
+    "example": "The sample was contaminated, thus the results could not be trusted."
+  },
+  "challenge": {
+    "translation": "zorluk, meydan okuma",
+    "partOfSpeech": "noun",
+    "example": "Climate change presents a major challenge for future generations."
+  },
+  "ever": {
+    "translation": "hiç, şimdiye kadar",
+    "partOfSpeech": "adverb",
+    "example": "This is one of the largest studies ever conducted on the subject."
+  },
+  "mars": {
+    "translation": "Mars (gezegen)",
+    "partOfSpeech": "noun",
+    "example": "Robotic probes have been sent to explore the surface of Mars since the 1960s."
+  }
+}

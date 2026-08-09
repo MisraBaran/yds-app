@@ -37,6 +37,36 @@ const IRREGULAR_LEMMAS = {
   created: "create", involved: "involve", continued: "continue",
   increased: "increase", examined: "examine", imagined: "imagine",
   achieved: "achieve", described: "describe",
+  causing: "cause", including: "include", increasing: "increase",
+  comparing: "compare", experiencing: "experience", relating: "relate",
+  making: "make", using: "use", arguing: "argue", arranging: "arrange",
+  managing: "manage", encouraging: "encourage", engaging: "engage",
+  changing: "change", producing: "produce", reducing: "reduce",
+  introducing: "introduce", advancing: "advance", forcing: "force",
+  placing: "place", practicing: "practice", noticing: "notice",
+  moving: "move", solving: "solve", improving: "improve",
+  achieving: "achieve", believing: "believe", receiving: "receive",
+  involving: "involve", serving: "serve", creating: "create",
+  indicating: "indicate", estimating: "estimate", communicating: "communicate",
+  educating: "educate", demonstrating: "demonstrate", operating: "operate",
+  regulating: "regulate", stimulating: "stimulate", generating: "generate",
+  translating: "translate", recognizing: "recognize", organizing: "organize",
+  emphasizing: "emphasize", combining: "combine", determining: "determine",
+  exposing: "expose", raising: "raise", basing: "base",
+  releasing: "release", facing: "face", tracing: "trace",
+  surprising: "surprise", measuring: "measure", diagnosing: "diagnose",
+  exercising: "exercise", living: "live", giving: "give", having: "have",
+  leaving: "leave", taking: "take", coming: "come", writing: "write",
+  driving: "drive", riding: "ride", hoping: "hope", closing: "close",
+  deciding: "decide", requiring: "require", examining: "examine",
+  imagining: "imagine", describing: "describe", caring: "care",
+  sharing: "share", storing: "store", noting: "note",
+  something: "something", anything: "anything", everything: "everything",
+  nothing: "nothing",
+  species: "species", series: "series",
+  diseased: "disease", related: "relate",
+  called: "call", always: "always", thus: "thus",
+  mars: "mars",
 };
 
 function lemmatize(raw) {
@@ -54,7 +84,8 @@ function lemmatize(raw) {
   }
   if (w.endsWith("es") && w.length > 4) {
     const base = w.slice(0, -2);
-    if (/(s|x|z|ch|sh)$/.test(base)) return base;
+    if (/(ss|x|z|ch|sh)$/.test(base)) return base;
+    if (base.endsWith("s")) return base + "e";
     return w.slice(0, -1);
   }
   if (w.endsWith("ed") && w.length > 4) {

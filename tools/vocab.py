@@ -112,6 +112,40 @@ IRREGULAR_LEMMAS = {
     "generated": "generate", "regulated": "regulate", "stimulated": "stimulate",
     "diagnosed": "diagnose", "exercised": "exercise", "recognized": "recognize",
     "recognised": "recognise", "organized": "organize", "organised": "organise",
+    # silent-e ile biten fiillerin -ing hali
+    "causing": "cause", "including": "include", "increasing": "increase",
+    "comparing": "compare", "experiencing": "experience", "relating": "relate",
+    "making": "make", "using": "use", "arguing": "argue", "arranging": "arrange",
+    "managing": "manage", "encouraging": "encourage", "engaging": "engage",
+    "changing": "change", "producing": "produce", "reducing": "reduce",
+    "introducing": "introduce", "advancing": "advance", "forcing": "force",
+    "placing": "place", "practicing": "practice", "noticing": "notice",
+    "moving": "move", "solving": "solve", "improving": "improve",
+    "achieving": "achieve", "believing": "believe", "receiving": "receive",
+    "involving": "involve", "serving": "serve", "creating": "create",
+    "indicating": "indicate", "estimating": "estimate", "communicating": "communicate",
+    "educating": "educate", "demonstrating": "demonstrate", "operating": "operate",
+    "regulating": "regulate", "stimulating": "stimulate", "generating": "generate",
+    "translating": "translate", "recognizing": "recognize", "organizing": "organize",
+    "emphasizing": "emphasize", "combining": "combine", "determining": "determine",
+    "exposing": "expose", "raising": "raise", "basing": "base",
+    "releasing": "release", "facing": "face", "tracing": "trace",
+    "surprising": "surprise", "measuring": "measure", "diagnosing": "diagnose",
+    "exercising": "exercise", "living": "live", "giving": "give", "having": "have",
+    "leaving": "leave", "taking": "take", "coming": "come", "writing": "write",
+    "driving": "drive", "riding": "ride", "hoping": "hope", "closing": "close",
+    "deciding": "decide", "requiring": "require", "examining": "examine",
+    "imagining": "imagine", "describing": "describe", "caring": "care",
+    "sharing": "share", "storing": "store", "noting": "note",
+    # bilesik isimler yanlislikla -ing gibi kirpilmasin (thing kelimesi
+    # 'ing' ile bitiyor ama bir fiil degil)
+    "something": "something", "anything": "anything", "everything": "everything",
+    "nothing": "nothing",
+    # tekil=cogul olan veya kuralin yanlis boldugu ozel kelimeler
+    "species": "species", "series": "series",
+    "diseased": "disease", "related": "relate",
+    "called": "call", "always": "always", "thus": "thus",
+    "mars": "mars",  # gezegen adi, 'mar' fiiliyle karismasin
 }
 
 ROMAN_NUMERAL_TOKENS = {
@@ -138,8 +172,10 @@ def lemmatize(word: str) -> str:
         return base
     if w.endswith("es") and len(w) > 4:
         base = w[:-2]
-        if base.endswith(("s", "x", "z", "ch", "sh")):
-            return base
+        if base.endswith(("ss", "x", "z", "ch", "sh")):
+            return base  # kisses->kiss, boxes->box, watches->watch
+        if base.endswith("s"):
+            return base + "e"  # causes->cause, cases->case, phases->phase
         return w[:-1]
     if w.endswith("ed") and len(w) > 4:
         base = w[:-2]
