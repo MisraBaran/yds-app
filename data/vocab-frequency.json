@@ -2634,105 +2634,6 @@
     ]
   },
   {
-    "word": "test",
-    "count": 168,
-    "examCount": 14,
-    "questionIds": [
-      "2013-sonbahar-q59",
-      "2013-sonbahar-q60",
-      "2013-sonbahar-q61",
-      "2013-sonbahar-q62",
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q46",
-      "2014-ilkbahar-q72",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q59",
-      "2014-sonbahar-q60",
-      "2014-sonbahar-q61",
-      "2014-sonbahar-q62",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q04",
-      "2015-ilkbahar-q36",
-      "2015-ilkbahar-q40",
-      "2015-ilkbahar-q47",
-      "2015-ilkbahar-q48",
-      "2015-ilkbahar-q49",
-      "2015-ilkbahar-q50",
-      "2015-ilkbahar-q80",
-      "2016-ilkbahar-q04",
-      "2016-ilkbahar-q17",
-      "2016-ilkbahar-q18",
-      "2016-ilkbahar-q19",
-      "2016-ilkbahar-q20",
-      "2016-ilkbahar-q21",
-      "2016-ilkbahar-q80",
-      "2016-sonbahar-q03",
-      "2016-sonbahar-q09",
-      "2016-sonbahar-q59",
-      "2016-sonbahar-q60",
-      "2016-sonbahar-q61",
-      "2016-sonbahar-q62",
-      "2016-sonbahar-q63",
-      "2016-sonbahar-q78",
-      "2016-sonbahar-q80",
-      "2017-ilkbahar-q04",
-      "2017-ilkbahar-q36",
-      "2017-ilkbahar-q55",
-      "2017-ilkbahar-q56",
-      "2017-ilkbahar-q57",
-      "2017-ilkbahar-q58",
-      "2017-sonbahar-q43",
-      "2017-sonbahar-q44",
-      "2017-sonbahar-q45",
-      "2017-sonbahar-q46",
-      "2017-sonbahar-q47",
-      "2017-sonbahar-q48",
-      "2017-sonbahar-q49",
-      "2017-sonbahar-q50",
-      "2018-sonbahar-q43",
-      "2018-sonbahar-q51",
-      "2018-sonbahar-q52",
-      "2018-sonbahar-q53",
-      "2018-sonbahar-q54",
-      "2018-sonbahar-q55",
-      "2018-sonbahar-q56",
-      "2018-sonbahar-q57",
-      "2018-sonbahar-q58",
-      "2019-1-q17",
-      "2019-1-q18",
-      "2019-1-q19",
-      "2019-1-q20",
-      "2019-1-q21",
-      "2019-1-q30",
-      "2019-2-q02",
-      "2019-2-q43",
-      "2019-2-q44",
-      "2019-2-q45",
-      "2019-2-q46",
-      "2019-2-q64",
-      "2019-3-q46",
-      "2019-3-q59",
-      "2019-3-q60",
-      "2019-3-q61",
-      "2019-3-q62",
-      "2019-3-q75",
-      "2020-1-q55",
-      "2020-1-q56",
-      "2020-1-q57",
-      "2020-1-q58",
-      "2020-1-q78",
-      "2021-1-q55",
-      "2021-1-q56",
-      "2021-1-q57",
-      "2021-1-q58",
-      "2021-1-q59",
-      "2021-1-q60",
-      "2021-1-q61",
-      "2021-1-q62",
-      "2021-1-q66"
-    ]
-  },
-  {
     "word": "around",
     "count": 155,
     "examCount": 16,
@@ -2861,6 +2762,96 @@
       "2021-2-q54",
       "2021-2-q75",
       "2021-2-q77"
+    ]
+  },
+  {
+    "word": "test",
+    "count": 155,
+    "examCount": 14,
+    "questionIds": [
+      "2013-sonbahar-q59",
+      "2013-sonbahar-q60",
+      "2013-sonbahar-q61",
+      "2013-sonbahar-q62",
+      "2014-ilkbahar-q46",
+      "2014-ilkbahar-q72",
+      "2014-sonbahar-q59",
+      "2014-sonbahar-q60",
+      "2014-sonbahar-q61",
+      "2014-sonbahar-q62",
+      "2015-ilkbahar-q36",
+      "2015-ilkbahar-q40",
+      "2015-ilkbahar-q47",
+      "2015-ilkbahar-q48",
+      "2015-ilkbahar-q49",
+      "2015-ilkbahar-q50",
+      "2016-ilkbahar-q17",
+      "2016-ilkbahar-q18",
+      "2016-ilkbahar-q19",
+      "2016-ilkbahar-q20",
+      "2016-ilkbahar-q21",
+      "2016-sonbahar-q09",
+      "2016-sonbahar-q59",
+      "2016-sonbahar-q60",
+      "2016-sonbahar-q61",
+      "2016-sonbahar-q62",
+      "2016-sonbahar-q63",
+      "2016-sonbahar-q78",
+      "2017-ilkbahar-q04",
+      "2017-ilkbahar-q36",
+      "2017-ilkbahar-q55",
+      "2017-ilkbahar-q56",
+      "2017-ilkbahar-q57",
+      "2017-ilkbahar-q58",
+      "2017-sonbahar-q43",
+      "2017-sonbahar-q44",
+      "2017-sonbahar-q45",
+      "2017-sonbahar-q46",
+      "2017-sonbahar-q47",
+      "2017-sonbahar-q48",
+      "2017-sonbahar-q49",
+      "2017-sonbahar-q50",
+      "2018-sonbahar-q43",
+      "2018-sonbahar-q51",
+      "2018-sonbahar-q52",
+      "2018-sonbahar-q53",
+      "2018-sonbahar-q54",
+      "2018-sonbahar-q55",
+      "2018-sonbahar-q56",
+      "2018-sonbahar-q57",
+      "2018-sonbahar-q58",
+      "2019-1-q17",
+      "2019-1-q18",
+      "2019-1-q19",
+      "2019-1-q20",
+      "2019-1-q21",
+      "2019-1-q30",
+      "2019-2-q02",
+      "2019-2-q43",
+      "2019-2-q44",
+      "2019-2-q45",
+      "2019-2-q46",
+      "2019-2-q64",
+      "2019-3-q46",
+      "2019-3-q59",
+      "2019-3-q60",
+      "2019-3-q61",
+      "2019-3-q62",
+      "2019-3-q75",
+      "2020-1-q55",
+      "2020-1-q56",
+      "2020-1-q57",
+      "2020-1-q58",
+      "2020-1-q78",
+      "2021-1-q55",
+      "2021-1-q56",
+      "2021-1-q57",
+      "2021-1-q58",
+      "2021-1-q59",
+      "2021-1-q60",
+      "2021-1-q61",
+      "2021-1-q62",
+      "2021-1-q66"
     ]
   },
   {
@@ -3821,126 +3812,6 @@
     ]
   },
   {
-    "word": "mak",
-    "count": 129,
-    "examCount": 17,
-    "questionIds": [
-      "2013-sonbahar-q55",
-      "2013-sonbahar-q56",
-      "2013-sonbahar-q57",
-      "2013-sonbahar-q58",
-      "2013-sonbahar-q59",
-      "2013-sonbahar-q60",
-      "2013-sonbahar-q61",
-      "2013-sonbahar-q62",
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q07",
-      "2014-ilkbahar-q38",
-      "2014-ilkbahar-q66",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q43",
-      "2014-sonbahar-q44",
-      "2014-sonbahar-q45",
-      "2014-sonbahar-q46",
-      "2014-sonbahar-q71",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q44",
-      "2015-ilkbahar-q47",
-      "2015-ilkbahar-q48",
-      "2015-ilkbahar-q49",
-      "2015-ilkbahar-q50",
-      "2015-ilkbahar-q54",
-      "2015-ilkbahar-q56",
-      "2015-ilkbahar-q80",
-      "2016-ilkbahar-q47",
-      "2016-ilkbahar-q48",
-      "2016-ilkbahar-q49",
-      "2016-ilkbahar-q50",
-      "2016-ilkbahar-q76",
-      "2016-sonbahar-q17",
-      "2016-sonbahar-q18",
-      "2016-sonbahar-q19",
-      "2016-sonbahar-q20",
-      "2016-sonbahar-q21",
-      "2016-sonbahar-q65",
-      "2016-sonbahar-q77",
-      "2016-sonbahar-q79",
-      "2017-ilkbahar-q43",
-      "2017-ilkbahar-q55",
-      "2017-ilkbahar-q68",
-      "2017-ilkbahar-q72",
-      "2017-sonbahar-q30",
-      "2017-sonbahar-q40",
-      "2017-sonbahar-q47",
-      "2017-sonbahar-q48",
-      "2017-sonbahar-q49",
-      "2017-sonbahar-q50",
-      "2017-sonbahar-q77",
-      "2018-3-q28",
-      "2018-3-q65",
-      "2018-3-q74",
-      "2018-3-q76",
-      "2018-3-q80",
-      "2018-ilkbahar-q09",
-      "2018-ilkbahar-q27",
-      "2018-ilkbahar-q49",
-      "2018-sonbahar-q43",
-      "2018-sonbahar-q44",
-      "2018-sonbahar-q45",
-      "2018-sonbahar-q46",
-      "2018-sonbahar-q55",
-      "2018-sonbahar-q56",
-      "2018-sonbahar-q57",
-      "2018-sonbahar-q58",
-      "2018-sonbahar-q67",
-      "2018-sonbahar-q70",
-      "2018-sonbahar-q73",
-      "2019-1-q47",
-      "2019-1-q71",
-      "2019-2-q43",
-      "2019-2-q44",
-      "2019-2-q45",
-      "2019-2-q46",
-      "2019-2-q66",
-      "2019-2-q71",
-      "2019-2-q79",
-      "2019-3-q55",
-      "2019-3-q56",
-      "2019-3-q57",
-      "2019-3-q58",
-      "2019-3-q73",
-      "2020-1-q06",
-      "2020-1-q31",
-      "2020-1-q51",
-      "2020-1-q52",
-      "2020-1-q53",
-      "2020-1-q54",
-      "2020-1-q60",
-      "2020-1-q69",
-      "2020-1-q77",
-      "2021-1-q06",
-      "2021-1-q27",
-      "2021-1-q32",
-      "2021-1-q51",
-      "2021-1-q72",
-      "2021-2-q17",
-      "2021-2-q18",
-      "2021-2-q19",
-      "2021-2-q20",
-      "2021-2-q21",
-      "2021-2-q26",
-      "2021-2-q43",
-      "2021-2-q44",
-      "2021-2-q45",
-      "2021-2-q46",
-      "2021-2-q55",
-      "2021-2-q56",
-      "2021-2-q57",
-      "2021-2-q58",
-      "2021-2-q75"
-    ]
-  },
-  {
     "word": "ability",
     "count": 126,
     "examCount": 15,
@@ -4144,6 +4015,122 @@
       "2021-2-q60",
       "2021-2-q73",
       "2021-2-q78"
+    ]
+  },
+  {
+    "word": "mak",
+    "count": 125,
+    "examCount": 17,
+    "questionIds": [
+      "2013-sonbahar-q55",
+      "2013-sonbahar-q56",
+      "2013-sonbahar-q57",
+      "2013-sonbahar-q58",
+      "2013-sonbahar-q59",
+      "2013-sonbahar-q60",
+      "2013-sonbahar-q61",
+      "2013-sonbahar-q62",
+      "2014-ilkbahar-q07",
+      "2014-ilkbahar-q38",
+      "2014-ilkbahar-q66",
+      "2014-sonbahar-q43",
+      "2014-sonbahar-q44",
+      "2014-sonbahar-q45",
+      "2014-sonbahar-q46",
+      "2014-sonbahar-q71",
+      "2015-ilkbahar-q44",
+      "2015-ilkbahar-q47",
+      "2015-ilkbahar-q48",
+      "2015-ilkbahar-q49",
+      "2015-ilkbahar-q50",
+      "2015-ilkbahar-q54",
+      "2015-ilkbahar-q56",
+      "2016-ilkbahar-q47",
+      "2016-ilkbahar-q48",
+      "2016-ilkbahar-q49",
+      "2016-ilkbahar-q50",
+      "2016-ilkbahar-q76",
+      "2016-sonbahar-q17",
+      "2016-sonbahar-q18",
+      "2016-sonbahar-q19",
+      "2016-sonbahar-q20",
+      "2016-sonbahar-q21",
+      "2016-sonbahar-q65",
+      "2016-sonbahar-q77",
+      "2016-sonbahar-q79",
+      "2017-ilkbahar-q43",
+      "2017-ilkbahar-q55",
+      "2017-ilkbahar-q68",
+      "2017-ilkbahar-q72",
+      "2017-sonbahar-q30",
+      "2017-sonbahar-q40",
+      "2017-sonbahar-q47",
+      "2017-sonbahar-q48",
+      "2017-sonbahar-q49",
+      "2017-sonbahar-q50",
+      "2017-sonbahar-q77",
+      "2018-3-q28",
+      "2018-3-q65",
+      "2018-3-q74",
+      "2018-3-q76",
+      "2018-3-q80",
+      "2018-ilkbahar-q09",
+      "2018-ilkbahar-q27",
+      "2018-ilkbahar-q49",
+      "2018-sonbahar-q43",
+      "2018-sonbahar-q44",
+      "2018-sonbahar-q45",
+      "2018-sonbahar-q46",
+      "2018-sonbahar-q55",
+      "2018-sonbahar-q56",
+      "2018-sonbahar-q57",
+      "2018-sonbahar-q58",
+      "2018-sonbahar-q67",
+      "2018-sonbahar-q70",
+      "2018-sonbahar-q73",
+      "2019-1-q47",
+      "2019-1-q71",
+      "2019-2-q43",
+      "2019-2-q44",
+      "2019-2-q45",
+      "2019-2-q46",
+      "2019-2-q66",
+      "2019-2-q71",
+      "2019-2-q79",
+      "2019-3-q55",
+      "2019-3-q56",
+      "2019-3-q57",
+      "2019-3-q58",
+      "2019-3-q73",
+      "2020-1-q06",
+      "2020-1-q31",
+      "2020-1-q51",
+      "2020-1-q52",
+      "2020-1-q53",
+      "2020-1-q54",
+      "2020-1-q60",
+      "2020-1-q69",
+      "2020-1-q77",
+      "2021-1-q06",
+      "2021-1-q27",
+      "2021-1-q32",
+      "2021-1-q51",
+      "2021-1-q72",
+      "2021-2-q17",
+      "2021-2-q18",
+      "2021-2-q19",
+      "2021-2-q20",
+      "2021-2-q21",
+      "2021-2-q26",
+      "2021-2-q43",
+      "2021-2-q44",
+      "2021-2-q45",
+      "2021-2-q46",
+      "2021-2-q55",
+      "2021-2-q56",
+      "2021-2-q57",
+      "2021-2-q58",
+      "2021-2-q75"
     ]
   },
   {
@@ -6846,17 +6833,6 @@
     ]
   },
   {
-    "word": "nav",
-    "count": 98,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "reach",
     "count": 98,
     "examCount": 14,
@@ -8897,17 +8873,6 @@
     ]
   },
   {
-    "word": "kitap",
-    "count": 84,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "ocean",
     "count": 84,
     "examCount": 12,
@@ -10519,17 +10484,6 @@
     ]
   },
   {
-    "word": "soru",
-    "count": 76,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "american",
     "count": 75,
     "examCount": 14,
@@ -11670,62 +11624,6 @@
       "2021-1-q76",
       "2021-2-q73",
       "2021-2-q75"
-    ]
-  },
-  {
-    "word": "english",
-    "count": 69,
-    "examCount": 15,
-    "questionIds": [
-      "2013-sonbahar-q05",
-      "2013-sonbahar-q40",
-      "2014-ilkbahar-q29",
-      "2014-ilkbahar-q74",
-      "2014-sonbahar-q65",
-      "2014-sonbahar-q76",
-      "2016-ilkbahar-q41",
-      "2016-ilkbahar-q73",
-      "2017-ilkbahar-q03",
-      "2017-ilkbahar-q71",
-      "2017-sonbahar-q03",
-      "2017-sonbahar-q13",
-      "2017-sonbahar-q27",
-      "2018-3-q03",
-      "2018-ilkbahar-q03",
-      "2018-ilkbahar-q06",
-      "2018-ilkbahar-q11",
-      "2018-ilkbahar-q16",
-      "2018-ilkbahar-q21",
-      "2018-ilkbahar-q26",
-      "2018-ilkbahar-q30",
-      "2018-ilkbahar-q34",
-      "2018-ilkbahar-q40",
-      "2018-ilkbahar-q42",
-      "2018-ilkbahar-q46",
-      "2018-ilkbahar-q50",
-      "2018-ilkbahar-q54",
-      "2018-ilkbahar-q58",
-      "2018-ilkbahar-q62",
-      "2018-ilkbahar-q64",
-      "2018-ilkbahar-q66",
-      "2018-ilkbahar-q68",
-      "2018-ilkbahar-q70",
-      "2018-ilkbahar-q72",
-      "2018-ilkbahar-q74",
-      "2018-ilkbahar-q77",
-      "2018-sonbahar-q03",
-      "2019-1-q02",
-      "2019-1-q10",
-      "2019-2-q03",
-      "2019-2-q43",
-      "2019-2-q44",
-      "2019-2-q45",
-      "2019-2-q46",
-      "2019-2-q72",
-      "2019-3-q03",
-      "2020-1-q03",
-      "2021-1-q03",
-      "2021-2-q03"
     ]
   },
   {
@@ -18751,53 +18649,6 @@
     ]
   },
   {
-    "word": "tak",
-    "count": 49,
-    "examCount": 13,
-    "questionIds": [
-      "2013-sonbahar-q33",
-      "2013-sonbahar-q47",
-      "2013-sonbahar-q48",
-      "2013-sonbahar-q49",
-      "2013-sonbahar-q50",
-      "2013-sonbahar-q59",
-      "2013-sonbahar-q60",
-      "2013-sonbahar-q61",
-      "2013-sonbahar-q62",
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q09",
-      "2014-ilkbahar-q77",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q66",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q05",
-      "2015-ilkbahar-q76",
-      "2016-ilkbahar-q62",
-      "2018-3-q23",
-      "2018-ilkbahar-q06",
-      "2018-ilkbahar-q08",
-      "2018-ilkbahar-q59",
-      "2018-sonbahar-q67",
-      "2018-sonbahar-q73",
-      "2019-1-q42",
-      "2019-2-q47",
-      "2019-2-q48",
-      "2019-2-q49",
-      "2019-2-q50",
-      "2019-3-q51",
-      "2019-3-q52",
-      "2019-3-q53",
-      "2019-3-q54",
-      "2019-3-q71",
-      "2020-1-q66",
-      "2020-1-q69",
-      "2020-1-q72",
-      "2021-1-q34",
-      "2021-1-q49",
-      "2021-1-q50"
-    ]
-  },
-  {
     "word": "travel",
     "count": 49,
     "examCount": 9,
@@ -19586,49 +19437,6 @@
     ]
   },
   {
-    "word": "size",
-    "count": 47,
-    "examCount": 10,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q43",
-      "2014-ilkbahar-q45",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q79",
-      "2015-ilkbahar-q80",
-      "2016-sonbahar-q30",
-      "2017-ilkbahar-q22",
-      "2017-ilkbahar-q23",
-      "2017-ilkbahar-q24",
-      "2017-ilkbahar-q25",
-      "2017-ilkbahar-q26",
-      "2017-ilkbahar-q57",
-      "2017-ilkbahar-q65",
-      "2017-ilkbahar-q74",
-      "2018-ilkbahar-q51",
-      "2018-ilkbahar-q52",
-      "2018-ilkbahar-q53",
-      "2018-ilkbahar-q54",
-      "2018-sonbahar-q43",
-      "2018-sonbahar-q44",
-      "2018-sonbahar-q45",
-      "2018-sonbahar-q46",
-      "2019-2-q30",
-      "2019-2-q47",
-      "2019-2-q48",
-      "2019-2-q49",
-      "2019-2-q50",
-      "2019-2-q51",
-      "2019-2-q59",
-      "2019-2-q60",
-      "2019-2-q61",
-      "2019-2-q62",
-      "2019-2-q71",
-      "2021-1-q77"
-    ]
-  },
-  {
     "word": "substance",
     "count": 47,
     "examCount": 10,
@@ -20114,6 +19922,50 @@
       "2020-1-q66",
       "2021-1-q64",
       "2021-2-q40"
+    ]
+  },
+  {
+    "word": "tak",
+    "count": 46,
+    "examCount": 13,
+    "questionIds": [
+      "2013-sonbahar-q33",
+      "2013-sonbahar-q47",
+      "2013-sonbahar-q48",
+      "2013-sonbahar-q49",
+      "2013-sonbahar-q50",
+      "2013-sonbahar-q59",
+      "2013-sonbahar-q60",
+      "2013-sonbahar-q61",
+      "2013-sonbahar-q62",
+      "2014-ilkbahar-q09",
+      "2014-ilkbahar-q77",
+      "2014-sonbahar-q66",
+      "2015-ilkbahar-q05",
+      "2015-ilkbahar-q76",
+      "2016-ilkbahar-q62",
+      "2018-3-q23",
+      "2018-ilkbahar-q06",
+      "2018-ilkbahar-q08",
+      "2018-ilkbahar-q59",
+      "2018-sonbahar-q67",
+      "2018-sonbahar-q73",
+      "2019-1-q42",
+      "2019-2-q47",
+      "2019-2-q48",
+      "2019-2-q49",
+      "2019-2-q50",
+      "2019-3-q51",
+      "2019-3-q52",
+      "2019-3-q53",
+      "2019-3-q54",
+      "2019-3-q71",
+      "2020-1-q66",
+      "2020-1-q69",
+      "2020-1-q72",
+      "2021-1-q34",
+      "2021-1-q49",
+      "2021-1-q50"
     ]
   },
   {
@@ -24100,6 +23952,30 @@
     ]
   },
   {
+    "word": "english",
+    "count": 37,
+    "examCount": 8,
+    "questionIds": [
+      "2013-sonbahar-q05",
+      "2013-sonbahar-q40",
+      "2014-ilkbahar-q29",
+      "2014-ilkbahar-q74",
+      "2014-sonbahar-q65",
+      "2014-sonbahar-q76",
+      "2016-ilkbahar-q41",
+      "2016-ilkbahar-q73",
+      "2017-ilkbahar-q71",
+      "2017-sonbahar-q13",
+      "2017-sonbahar-q27",
+      "2019-1-q10",
+      "2019-2-q43",
+      "2019-2-q44",
+      "2019-2-q45",
+      "2019-2-q46",
+      "2019-2-q72"
+    ]
+  },
+  {
     "word": "expect",
     "count": 37,
     "examCount": 12,
@@ -24356,44 +24232,6 @@
     ]
   },
   {
-    "word": "spr",
-    "count": 37,
-    "examCount": 4,
-    "questionIds": [
-      "2016-ilkbahar-q47",
-      "2016-ilkbahar-q48",
-      "2016-ilkbahar-q49",
-      "2016-ilkbahar-q50",
-      "2018-3-q22",
-      "2018-3-q23",
-      "2018-3-q24",
-      "2018-3-q25",
-      "2018-3-q26",
-      "2018-ilkbahar-q06",
-      "2018-ilkbahar-q11",
-      "2018-ilkbahar-q16",
-      "2018-ilkbahar-q21",
-      "2018-ilkbahar-q26",
-      "2018-ilkbahar-q30",
-      "2018-ilkbahar-q34",
-      "2018-ilkbahar-q40",
-      "2018-ilkbahar-q42",
-      "2018-ilkbahar-q46",
-      "2018-ilkbahar-q50",
-      "2018-ilkbahar-q54",
-      "2018-ilkbahar-q58",
-      "2018-ilkbahar-q62",
-      "2018-ilkbahar-q64",
-      "2018-ilkbahar-q66",
-      "2018-ilkbahar-q68",
-      "2018-ilkbahar-q70",
-      "2018-ilkbahar-q72",
-      "2018-ilkbahar-q74",
-      "2018-ilkbahar-q77",
-      "2021-1-q65"
-    ]
-  },
-  {
     "word": "statu",
     "count": 37,
     "examCount": 9,
@@ -24531,17 +24369,6 @@
     ]
   },
   {
-    "word": "yaz",
-    "count": 37,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "absorb",
     "count": 36,
     "examCount": 8,
@@ -24580,17 +24407,6 @@
     ]
   },
   {
-    "word": "adaylar",
-    "count": 36,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "buy",
     "count": 36,
     "examCount": 8,
@@ -24617,17 +24433,6 @@
       "2019-1-q50",
       "2019-2-q74",
       "2021-2-q76"
-    ]
-  },
-  {
-    "word": "cevap",
-    "count": 36,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -24902,6 +24707,45 @@
       "2021-2-q44",
       "2021-2-q45",
       "2021-2-q46"
+    ]
+  },
+  {
+    "word": "size",
+    "count": 36,
+    "examCount": 8,
+    "questionIds": [
+      "2014-ilkbahar-q43",
+      "2014-ilkbahar-q45",
+      "2015-ilkbahar-q79",
+      "2016-sonbahar-q30",
+      "2017-ilkbahar-q22",
+      "2017-ilkbahar-q23",
+      "2017-ilkbahar-q24",
+      "2017-ilkbahar-q25",
+      "2017-ilkbahar-q26",
+      "2017-ilkbahar-q57",
+      "2017-ilkbahar-q65",
+      "2017-ilkbahar-q74",
+      "2018-ilkbahar-q51",
+      "2018-ilkbahar-q52",
+      "2018-ilkbahar-q53",
+      "2018-ilkbahar-q54",
+      "2018-sonbahar-q43",
+      "2018-sonbahar-q44",
+      "2018-sonbahar-q45",
+      "2018-sonbahar-q46",
+      "2019-2-q30",
+      "2019-2-q47",
+      "2019-2-q48",
+      "2019-2-q49",
+      "2019-2-q50",
+      "2019-2-q51",
+      "2019-2-q59",
+      "2019-2-q60",
+      "2019-2-q61",
+      "2019-2-q62",
+      "2019-2-q71",
+      "2021-1-q77"
     ]
   },
   {
@@ -25833,17 +25677,6 @@
       "2021-2-q51",
       "2021-2-q60",
       "2021-2-q70"
-    ]
-  },
-  {
-    "word": "nda",
-    "count": 34,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -27560,17 +27393,6 @@
     ]
   },
   {
-    "word": "nava",
-    "count": 31,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "observe",
     "count": 31,
     "examCount": 10,
@@ -28940,17 +28762,6 @@
     ]
   },
   {
-    "word": "lacak",
-    "count": 29,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "machine",
     "count": 29,
     "examCount": 9,
@@ -29646,17 +29457,6 @@
     ]
   },
   {
-    "word": "ersiz",
-    "count": 28,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "expose",
     "count": 28,
     "examCount": 9,
@@ -29679,37 +29479,6 @@
       "2021-2-q60",
       "2021-2-q61",
       "2021-2-q62"
-    ]
-  },
-  {
-    "word": "inde",
-    "count": 28,
-    "examCount": 7,
-    "questionIds": [
-      "2013-sonbahar-q51",
-      "2013-sonbahar-q52",
-      "2013-sonbahar-q53",
-      "2013-sonbahar-q54",
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q51",
-      "2014-ilkbahar-q52",
-      "2014-ilkbahar-q53",
-      "2014-ilkbahar-q54",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q51",
-      "2015-ilkbahar-q52",
-      "2015-ilkbahar-q53",
-      "2015-ilkbahar-q54",
-      "2015-ilkbahar-q80",
-      "2018-sonbahar-q32",
-      "2018-sonbahar-q69",
-      "2021-1-q17",
-      "2021-1-q18",
-      "2021-1-q19",
-      "2021-1-q20",
-      "2021-1-q21",
-      "2021-2-q74"
     ]
   },
   {
@@ -29758,17 +29527,6 @@
       "2018-ilkbahar-q58",
       "2019-1-q73",
       "2019-2-q72"
-    ]
-  },
-  {
-    "word": "kopya",
-    "count": 28,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -30555,17 +30313,6 @@
     ]
   },
   {
-    "word": "bir",
-    "count": 27,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "buie",
     "count": 27,
     "examCount": 6,
@@ -31006,17 +30753,6 @@
       "2016-ilkbahar-q54",
       "2018-ilkbahar-q36",
       "2019-1-q37"
-    ]
-  },
-  {
-    "word": "yasakt",
-    "count": 27,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -33518,17 +33254,6 @@
     ]
   },
   {
-    "word": "kesinlikle",
-    "count": 24,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "letter",
     "count": 24,
     "examCount": 7,
@@ -33629,30 +33354,6 @@
     ]
   },
   {
-    "word": "metal",
-    "count": 24,
-    "examCount": 9,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q14",
-      "2015-ilkbahar-q80",
-      "2017-ilkbahar-q80",
-      "2018-ilkbahar-q29",
-      "2019-3-q55",
-      "2019-3-q56",
-      "2019-3-q57",
-      "2019-3-q58",
-      "2020-1-q22",
-      "2020-1-q23",
-      "2020-1-q24",
-      "2020-1-q25",
-      "2020-1-q26",
-      "2021-1-q63"
-    ]
-  },
-  {
     "word": "newton",
     "count": 24,
     "examCount": 3,
@@ -33666,17 +33367,6 @@
       "2021-2-q48",
       "2021-2-q49",
       "2021-2-q50"
-    ]
-  },
-  {
-    "word": "numara",
-    "count": 24,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -34454,17 +34144,6 @@
       "2019-3-q60",
       "2019-3-q61",
       "2019-3-q62"
-    ]
-  },
-  {
-    "word": "lacakt",
-    "count": 23,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -36981,17 +36660,6 @@
     ]
   },
   {
-    "word": "ayr",
-    "count": 20,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "biological",
     "count": 20,
     "examCount": 7,
@@ -37508,6 +37176,33 @@
     ]
   },
   {
+    "word": "inde",
+    "count": 20,
+    "examCount": 6,
+    "questionIds": [
+      "2013-sonbahar-q51",
+      "2013-sonbahar-q52",
+      "2013-sonbahar-q53",
+      "2013-sonbahar-q54",
+      "2014-ilkbahar-q51",
+      "2014-ilkbahar-q52",
+      "2014-ilkbahar-q53",
+      "2014-ilkbahar-q54",
+      "2015-ilkbahar-q51",
+      "2015-ilkbahar-q52",
+      "2015-ilkbahar-q53",
+      "2015-ilkbahar-q54",
+      "2018-sonbahar-q32",
+      "2018-sonbahar-q69",
+      "2021-1-q17",
+      "2021-1-q18",
+      "2021-1-q19",
+      "2021-1-q20",
+      "2021-1-q21",
+      "2021-2-q74"
+    ]
+  },
+  {
     "word": "mark",
     "count": 20,
     "examCount": 7,
@@ -37846,17 +37541,6 @@
       "2019-1-q19",
       "2019-1-q20",
       "2019-1-q21"
-    ]
-  },
-  {
-    "word": "salon",
-    "count": 20,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -40198,6 +39882,26 @@
     ]
   },
   {
+    "word": "metal",
+    "count": 18,
+    "examCount": 6,
+    "questionIds": [
+      "2015-ilkbahar-q14",
+      "2017-ilkbahar-q80",
+      "2018-ilkbahar-q29",
+      "2019-3-q55",
+      "2019-3-q56",
+      "2019-3-q57",
+      "2019-3-q58",
+      "2020-1-q22",
+      "2020-1-q23",
+      "2020-1-q24",
+      "2020-1-q25",
+      "2020-1-q26",
+      "2021-1-q63"
+    ]
+  },
+  {
     "word": "mexico",
     "count": 18,
     "examCount": 2,
@@ -40669,17 +40373,6 @@
       "2019-1-q19",
       "2019-1-q20",
       "2019-1-q21"
-    ]
-  },
-  {
-    "word": "veya",
-    "count": 18,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -42156,17 +41849,6 @@
     ]
   },
   {
-    "word": "sym",
-    "count": 17,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "telescope",
     "count": 17,
     "examCount": 3,
@@ -42332,17 +42014,6 @@
     ]
   },
   {
-    "word": "aday",
-    "count": 16,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "addiction",
     "count": 16,
     "examCount": 4,
@@ -42446,17 +42117,6 @@
       "2018-ilkbahar-q45",
       "2018-ilkbahar-q46",
       "2019-3-q72"
-    ]
-  },
-  {
-    "word": "ara",
-    "count": 16,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -42569,17 +42229,6 @@
       "2019-1-q57",
       "2020-1-q74",
       "2021-2-q16"
-    ]
-  },
-  {
-    "word": "cevaplar",
-    "count": 16,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -43161,17 +42810,6 @@
     ]
   },
   {
-    "word": "lma",
-    "count": 16,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "manufactur",
     "count": 16,
     "examCount": 5,
@@ -43595,6 +43233,23 @@
     ]
   },
   {
+    "word": "spr",
+    "count": 16,
+    "examCount": 3,
+    "questionIds": [
+      "2016-ilkbahar-q47",
+      "2016-ilkbahar-q48",
+      "2016-ilkbahar-q49",
+      "2016-ilkbahar-q50",
+      "2018-3-q22",
+      "2018-3-q23",
+      "2018-3-q24",
+      "2018-3-q25",
+      "2018-3-q26",
+      "2021-1-q65"
+    ]
+  },
+  {
     "word": "stainless",
     "count": 16,
     "examCount": 1,
@@ -43825,18 +43480,6 @@
       "2017-ilkbahar-q62",
       "2019-3-q26",
       "2020-1-q09"
-    ]
-  },
-  {
-    "word": "bas",
-    "count": 15,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q57",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -45392,18 +45035,6 @@
     ]
   },
   {
-    "word": "alan",
-    "count": 14,
-    "examCount": 5,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80",
-      "2020-1-q66"
-    ]
-  },
-  {
     "word": "analyst",
     "count": 14,
     "examCount": 3,
@@ -45439,23 +45070,6 @@
       "2017-ilkbahar-q62",
       "2019-3-q39",
       "2021-2-q80"
-    ]
-  },
-  {
-    "word": "ate",
-    "count": 14,
-    "examCount": 3,
-    "questionIds": [
-      "2015-ilkbahar-q80",
-      "2016-ilkbahar-q55",
-      "2016-ilkbahar-q56",
-      "2016-ilkbahar-q57",
-      "2016-ilkbahar-q58",
-      "2021-2-q22",
-      "2021-2-q23",
-      "2021-2-q24",
-      "2021-2-q25",
-      "2021-2-q26"
     ]
   },
   {
@@ -45943,17 +45557,6 @@
       "2013-sonbahar-q52",
       "2013-sonbahar-q53",
       "2013-sonbahar-q54"
-    ]
-  },
-  {
-    "word": "ile",
-    "count": 14,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -46681,17 +46284,6 @@
     ]
   },
   {
-    "word": "yap",
-    "count": 14,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "achievement",
     "count": 13,
     "examCount": 8,
@@ -46793,6 +46385,22 @@
       "2019-1-q72",
       "2019-2-q75",
       "2020-1-q28"
+    ]
+  },
+  {
+    "word": "ate",
+    "count": 13,
+    "examCount": 2,
+    "questionIds": [
+      "2016-ilkbahar-q55",
+      "2016-ilkbahar-q56",
+      "2016-ilkbahar-q57",
+      "2016-ilkbahar-q58",
+      "2021-2-q22",
+      "2021-2-q23",
+      "2021-2-q24",
+      "2021-2-q25",
+      "2021-2-q26"
     ]
   },
   {
@@ -47598,17 +47206,6 @@
       "2017-sonbahar-q54",
       "2020-1-q02",
       "2021-2-q79"
-    ]
-  },
-  {
-    "word": "ndan",
-    "count": 13,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -48751,17 +48348,6 @@
     ]
   },
   {
-    "word": "eksik",
-    "count": 12,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "emerge",
     "count": 12,
     "examCount": 5,
@@ -49175,17 +48761,6 @@
     "questionIds": [
       "2019-1-q71",
       "2021-2-q69"
-    ]
-  },
-  {
-    "word": "kalem",
-    "count": 12,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -49662,28 +49237,6 @@
       "2016-sonbahar-q42",
       "2019-1-q70",
       "2019-3-q31"
-    ]
-  },
-  {
-    "word": "sayfa",
-    "count": 12,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "sayfalar",
-    "count": 12,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -50324,17 +49877,6 @@
     ]
   },
   {
-    "word": "cep",
-    "count": 11,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "certainly",
     "count": 11,
     "examCount": 5,
@@ -50850,17 +50392,6 @@
     ]
   },
   {
-    "word": "girmek",
-    "count": 11,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "god",
     "count": 11,
     "examCount": 6,
@@ -51200,17 +50731,6 @@
       "2019-2-q52",
       "2019-2-q53",
       "2019-2-q54"
-    ]
-  },
-  {
-    "word": "larla",
-    "count": 11,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -52108,17 +51628,6 @@
       "2018-3-q29",
       "2018-ilkbahar-q24",
       "2018-sonbahar-q74"
-    ]
-  },
-  {
-    "word": "tutana",
-    "count": 11,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -53456,19 +52965,6 @@
       "2020-1-q48",
       "2020-1-q49",
       "2020-1-q50"
-    ]
-  },
-  {
-    "word": "kontrol",
-    "count": 10,
-    "examCount": 6,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80",
-      "2016-ilkbahar-q80",
-      "2016-sonbahar-q80"
     ]
   },
   {
@@ -54933,17 +54429,6 @@
     ]
   },
   {
-    "word": "alanlar",
-    "count": 9,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "allergen",
     "count": 9,
     "examCount": 4,
@@ -55203,17 +54688,6 @@
       "2019-1-q52",
       "2019-1-q53",
       "2019-1-q54"
-    ]
-  },
-  {
-    "word": "bulunan",
-    "count": 9,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -56288,17 +55762,6 @@
     ]
   },
   {
-    "word": "kurallar",
-    "count": 9,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "leaf",
     "count": 9,
     "examCount": 2,
@@ -57027,17 +56490,6 @@
     ]
   },
   {
-    "word": "resi",
-    "count": 9,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "restor",
     "count": 9,
     "examCount": 3,
@@ -57276,17 +56728,6 @@
       "2016-sonbahar-q52",
       "2016-sonbahar-q53",
       "2016-sonbahar-q54"
-    ]
-  },
-  {
-    "word": "taraf",
-    "count": 9,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -57586,17 +57027,6 @@
     ]
   },
   {
-    "word": "acak",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "acceptance",
     "count": 8,
     "examCount": 4,
@@ -57739,28 +57169,6 @@
     ]
   },
   {
-    "word": "ayk",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ayn",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "bertrand",
     "count": 8,
     "examCount": 2,
@@ -57788,17 +57196,6 @@
       "2016-sonbahar-q36",
       "2017-ilkbahar-q40",
       "2018-3-q26"
-    ]
-  },
-  {
-    "word": "bilgileri",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -58279,17 +57676,6 @@
     ]
   },
   {
-    "word": "doldurunuz",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "domestic",
     "count": 8,
     "examCount": 4,
@@ -58365,28 +57751,6 @@
     ]
   },
   {
-    "word": "edilen",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ekilde",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "electronic",
     "count": 8,
     "examCount": 4,
@@ -58410,17 +57774,6 @@
       "2017-sonbahar-q68",
       "2019-3-q42",
       "2021-1-q15"
-    ]
-  },
-  {
-    "word": "erli",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -58560,17 +57913,6 @@
     ]
   },
   {
-    "word": "foto",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "fresh",
     "count": 8,
     "examCount": 2,
@@ -58612,17 +57954,6 @@
       "2019-3-q48",
       "2019-3-q49",
       "2019-3-q50"
-    ]
-  },
-  {
-    "word": "gereken",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -58983,39 +58314,6 @@
     ]
   },
   {
-    "word": "kapa",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kay",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kimlik",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "kit",
     "count": 8,
     "examCount": 2,
@@ -59025,61 +58323,6 @@
       "2017-sonbahar-q45",
       "2017-sonbahar-q46",
       "2018-3-q71"
-    ]
-  },
-  {
-    "word": "kodlad",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "konu",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kurallara",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "lan",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "lar",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -59168,17 +58411,6 @@
       "2018-3-q52",
       "2018-3-q53",
       "2018-3-q54"
-    ]
-  },
-  {
-    "word": "makinesi",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -59306,17 +58538,6 @@
     ]
   },
   {
-    "word": "nce",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "nervosa",
     "count": 8,
     "examCount": 2,
@@ -59409,61 +58630,6 @@
       "2015-ilkbahar-q46",
       "2019-2-q41",
       "2021-1-q75"
-    ]
-  },
-  {
-    "word": "olarak",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "olmad",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "olsun",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "olup",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "olursa",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -59679,17 +58845,6 @@
     ]
   },
   {
-    "word": "raf",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "rainforest",
     "count": 8,
     "examCount": 3,
@@ -59712,17 +58867,6 @@
       "2018-3-q35",
       "2019-2-q31",
       "2021-2-q41"
-    ]
-  },
-  {
-    "word": "ras",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -59800,17 +58944,6 @@
     ]
   },
   {
-    "word": "revlilerin",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "roughly",
     "count": 8,
     "examCount": 4,
@@ -59852,17 +58985,6 @@
       "2019-2-q52",
       "2019-2-q53",
       "2019-2-q54"
-    ]
-  },
-  {
-    "word": "salonundan",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -59999,17 +59121,6 @@
     ]
   },
   {
-    "word": "silgi",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "slightly",
     "count": 8,
     "examCount": 6,
@@ -60032,28 +59143,6 @@
       "2017-ilkbahar-q48",
       "2017-ilkbahar-q49",
       "2017-ilkbahar-q50"
-    ]
-  },
-  {
-    "word": "sonra",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "sorular",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -60266,28 +59355,6 @@
     ]
   },
   {
-    "word": "teslim",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "testlerin",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "theme",
     "count": 8,
     "examCount": 4,
@@ -60341,17 +59408,6 @@
       "2016-ilkbahar-q46",
       "2017-sonbahar-q75",
       "2018-3-q77"
-    ]
-  },
-  {
-    "word": "toplu",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -60426,28 +59482,6 @@
     ]
   },
   {
-    "word": "uyar",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "uymayanlar",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "vaccination",
     "count": 8,
     "examCount": 3,
@@ -60463,17 +59497,6 @@
     "examCount": 1,
     "questionIds": [
       "2017-sonbahar-q73"
-    ]
-  },
-  {
-    "word": "verilen",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -60514,17 +59537,6 @@
       "2018-sonbahar-q34",
       "2019-1-q71",
       "2021-2-q72"
-    ]
-  },
-  {
-    "word": "zdaki",
-    "count": 8,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -60647,17 +59659,6 @@
       "2014-ilkbahar-q49",
       "2014-ilkbahar-q50",
       "2016-ilkbahar-q53"
-    ]
-  },
-  {
-    "word": "alt",
-    "count": 7,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -61689,17 +60690,6 @@
     ]
   },
   {
-    "word": "giri",
-    "count": 7,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "glassmaker",
     "count": 7,
     "examCount": 1,
@@ -61755,28 +60745,6 @@
       "2017-ilkbahar-q60",
       "2017-ilkbahar-q61",
       "2017-ilkbahar-q62"
-    ]
-  },
-  {
-    "word": "herhangi",
-    "count": 7,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "hesap",
-    "count": 7,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -62565,20 +61533,6 @@
     ]
   },
   {
-    "word": "osym",
-    "count": 7,
-    "examCount": 7,
-    "questionIds": [
-      "2015-ilkbahar-q80",
-      "2016-ilkbahar-q80",
-      "2016-sonbahar-q80",
-      "2017-sonbahar-q80",
-      "2019-1-q80",
-      "2019-2-q80",
-      "2019-3-q80"
-    ]
-  },
-  {
     "word": "outlaw",
     "count": 7,
     "examCount": 2,
@@ -62668,20 +61622,6 @@
       "2020-1-q52",
       "2020-1-q53",
       "2020-1-q54"
-    ]
-  },
-  {
-    "word": "pet",
-    "count": 7,
-    "examCount": 3,
-    "questionIds": [
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80",
-      "2018-3-q17",
-      "2018-3-q18",
-      "2018-3-q19",
-      "2018-3-q20",
-      "2018-3-q21"
     ]
   },
   {
@@ -63252,18 +62192,6 @@
       "2019-2-q56",
       "2019-2-q57",
       "2019-2-q58"
-    ]
-  },
-  {
-    "word": "son",
-    "count": 7,
-    "examCount": 5,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80",
-      "2016-ilkbahar-q74"
     ]
   },
   {
@@ -64329,19 +63257,6 @@
       "2019-2-q25",
       "2019-2-q26",
       "2019-3-q04"
-    ]
-  },
-  {
-    "word": "cevaplarinizi",
-    "count": 6,
-    "examCount": 6,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80",
-      "2016-ilkbahar-q80",
-      "2016-sonbahar-q80"
     ]
   },
   {
@@ -66108,18 +65023,6 @@
     ]
   },
   {
-    "word": "lara",
-    "count": 6,
-    "examCount": 5,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80",
-      "2019-3-q64"
-    ]
-  },
-  {
     "word": "legacy",
     "count": 6,
     "examCount": 1,
@@ -66719,6 +65622,19 @@
       "2018-3-q62",
       "2018-sonbahar-q46",
       "2021-2-q58"
+    ]
+  },
+  {
+    "word": "pet",
+    "count": 6,
+    "examCount": 2,
+    "questionIds": [
+      "2014-sonbahar-q80",
+      "2018-3-q17",
+      "2018-3-q18",
+      "2018-3-q19",
+      "2018-3-q20",
+      "2018-3-q21"
     ]
   },
   {
@@ -67667,17 +66583,6 @@
       "2013-sonbahar-q62",
       "2017-ilkbahar-q61",
       "2021-2-q78"
-    ]
-  },
-  {
-    "word": "svedde",
-    "count": 6,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -68918,17 +67823,6 @@
     "examCount": 1,
     "questionIds": [
       "2013-sonbahar-q79"
-    ]
-  },
-  {
-    "word": "bilgisayar",
-    "count": 5,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -70385,17 +69279,6 @@
     ]
   },
   {
-    "word": "effaf",
-    "count": 5,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "effluent",
     "count": 5,
     "examCount": 1,
@@ -71506,17 +70389,6 @@
     ]
   },
   {
-    "word": "ildir",
-    "count": 5,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "imagery",
     "count": 5,
     "examCount": 1,
@@ -72072,17 +70944,6 @@
       "2015-ilkbahar-q30",
       "2015-ilkbahar-q77",
       "2019-1-q77"
-    ]
-  },
-  {
-    "word": "kamera",
-    "count": 5,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -72987,17 +71848,6 @@
     ]
   },
   {
-    "word": "netim",
-    "count": 5,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "neurological",
     "count": 5,
     "examCount": 3,
@@ -73157,17 +72007,6 @@
       "2018-sonbahar-q24",
       "2018-sonbahar-q25",
       "2018-sonbahar-q26"
-    ]
-  },
-  {
-    "word": "olan",
-    "count": 5,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -74542,17 +73381,6 @@
     ]
   },
   {
-    "word": "revlilerine",
-    "count": 5,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "revolutionary",
     "count": 5,
     "examCount": 2,
@@ -75697,18 +74525,6 @@
     ]
   },
   {
-    "word": "tir",
-    "count": 5,
-    "examCount": 2,
-    "questionIds": [
-      "2015-ilkbahar-q51",
-      "2015-ilkbahar-q53",
-      "2015-ilkbahar-q80",
-      "2019-1-q27",
-      "2019-1-q79"
-    ]
-  },
-  {
     "word": "titan",
     "count": 5,
     "examCount": 1,
@@ -76436,28 +75252,6 @@
     ]
   },
   {
-    "word": "yasa",
-    "count": 5,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yay",
-    "count": 5,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "yearly",
     "count": 5,
     "examCount": 1,
@@ -76611,17 +75405,6 @@
     ]
   },
   {
-    "word": "adaylarla",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "addictive",
     "count": 4,
     "examCount": 4,
@@ -76698,17 +75481,6 @@
     ]
   },
   {
-    "word": "aittir",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "alexander",
     "count": 4,
     "examCount": 1,
@@ -76742,17 +75514,6 @@
     ]
   },
   {
-    "word": "almaz",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "altogether",
     "count": 4,
     "examCount": 1,
@@ -76761,17 +75522,6 @@
       "2019-1-q52",
       "2019-1-q53",
       "2019-1-q54"
-    ]
-  },
-  {
-    "word": "ama",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -76903,50 +75653,6 @@
       "2018-ilkbahar-q04",
       "2019-3-q03",
       "2019-3-q75"
-    ]
-  },
-  {
-    "word": "aretlemelerde",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "aretlenen",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "aretlenmi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "aretleyiniz",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -77268,61 +75974,6 @@
     ]
   },
   {
-    "word": "beyan",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bildirdi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bildirilen",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bile",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bilgilerde",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "bilingual",
     "count": 4,
     "examCount": 2,
@@ -77362,50 +76013,6 @@
       "2015-ilkbahar-q48",
       "2015-ilkbahar-q49",
       "2015-ilkbahar-q50"
-    ]
-  },
-  {
-    "word": "birbir",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bireysel",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bitmeden",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bitti",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -77475,17 +76082,6 @@
     ]
   },
   {
-    "word": "boyunca",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "brainpower",
     "count": 4,
     "examCount": 1,
@@ -77530,17 +76126,6 @@
     ]
   },
   {
-    "word": "bro",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "brownian",
     "count": 4,
     "examCount": 1,
@@ -77549,61 +76134,6 @@
       "2016-sonbahar-q44",
       "2016-sonbahar-q45",
       "2016-sonbahar-q46"
-    ]
-  },
-  {
-    "word": "bulgular",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bulunanlar",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bulunmak",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bulunuldu",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bulunup",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -77805,50 +76335,6 @@
     ]
   },
   {
-    "word": "cetvel",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "cevaplama",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "cevaplamay",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "cezai",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "champion",
     "count": 4,
     "examCount": 1,
@@ -77920,28 +76406,6 @@
       "2014-ilkbahar-q44",
       "2014-ilkbahar-q45",
       "2014-ilkbahar-q46"
-    ]
-  },
-  {
-    "word": "cihaz",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "cihazlarla",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -78496,55 +76960,11 @@
     ]
   },
   {
-    "word": "dakika",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "dakikad",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "dakota",
     "count": 4,
     "examCount": 1,
     "questionIds": [
       "2019-2-q27"
-    ]
-  },
-  {
-    "word": "dav",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "davran",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -78628,17 +77048,6 @@
     "questionIds": [
       "2016-ilkbahar-q63",
       "2017-ilkbahar-q66"
-    ]
-  },
-  {
-    "word": "defter",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -78913,17 +77322,6 @@
     ]
   },
   {
-    "word": "doldurman",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "dominat",
     "count": 4,
     "examCount": 3,
@@ -79034,17 +77432,6 @@
     ]
   },
   {
-    "word": "ecek",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "ecosystem",
     "count": 4,
     "examCount": 4,
@@ -79064,160 +77451,6 @@
       "2016-sonbahar-q52",
       "2016-sonbahar-q53",
       "2016-sonbahar-q54"
-    ]
-  },
-  {
-    "word": "edebilirsiniz",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "eden",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "edenlerin",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ederek",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "edilmesi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ediniz",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "eken",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ekildi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ekilmesi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ekilmesine",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ekmeye",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "eksiklik",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "eksiksiz",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "elde",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -79394,17 +77627,6 @@
     ]
   },
   {
-    "word": "erlendirilmesi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "error",
     "count": 4,
     "examCount": 4,
@@ -79479,17 +77701,6 @@
       "2021-1-q44",
       "2021-1-q45",
       "2021-1-q46"
-    ]
-  },
-  {
-    "word": "etmeyi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -79622,39 +77833,6 @@
       "2020-1-q48",
       "2020-1-q49",
       "2020-1-q50"
-    ]
-  },
-  {
-    "word": "eyden",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "eylemine",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "eyleri",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -80069,50 +78247,6 @@
     ]
   },
   {
-    "word": "gerekir",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "gerekli",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "gerekmektedir",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "gibi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "gingerbread",
     "count": 4,
     "examCount": 1,
@@ -80121,28 +78255,6 @@
       "2018-ilkbahar-q56",
       "2018-ilkbahar-q57",
       "2018-ilkbahar-q58"
-    ]
-  },
-  {
-    "word": "giren",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "girmi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -80240,17 +78352,6 @@
     ]
   },
   {
-    "word": "hakk",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "halt",
     "count": 4,
     "examCount": 4,
@@ -80282,17 +78383,6 @@
     ]
   },
   {
-    "word": "hangi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "harder",
     "count": 4,
     "examCount": 4,
@@ -80312,14 +78402,6 @@
       "2019-1-q44",
       "2019-1-q45",
       "2019-1-q46"
-    ]
-  },
-  {
-    "word": "hari",
-    "count": 4,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -80351,17 +78433,6 @@
     "questionIds": [
       "2018-3-q74",
       "2021-2-q66"
-    ]
-  },
-  {
-    "word": "hatalar",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -80442,17 +78513,6 @@
     ]
   },
   {
-    "word": "hizatla",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "hollywood",
     "count": 4,
     "examCount": 1,
@@ -80529,17 +78589,6 @@
     ]
   },
   {
-    "word": "husustaki",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "hypothesi",
     "count": 4,
     "examCount": 1,
@@ -80559,28 +78608,6 @@
       "2016-ilkbahar-q48",
       "2016-ilkbahar-q49",
       "2016-ilkbahar-q50"
-    ]
-  },
-  {
-    "word": "ilgi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ilk",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -80614,28 +78641,6 @@
       "2020-1-q48",
       "2020-1-q49",
       "2020-1-q50"
-    ]
-  },
-  {
-    "word": "imde",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "iminde",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -80693,17 +78698,6 @@
     ]
   },
   {
-    "word": "imzalay",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "inaction",
     "count": 4,
     "examCount": 1,
@@ -80723,50 +78717,6 @@
       "2017-sonbahar-q80",
       "2019-1-q79",
       "2019-2-q29"
-    ]
-  },
-  {
-    "word": "incelemelerden",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "incelenecek",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "incelenecektir",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "incelenmesinden",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -80836,17 +78786,6 @@
     ]
   },
   {
-    "word": "inen",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "infiltrate",
     "count": 4,
     "examCount": 1,
@@ -80877,17 +78816,6 @@
       "2017-ilkbahar-q56",
       "2017-ilkbahar-q57",
       "2017-ilkbahar-q58"
-    ]
-  },
-  {
-    "word": "iniz",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -81029,39 +78957,6 @@
     ]
   },
   {
-    "word": "istemeleri",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "izin",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "izni",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "jacob",
     "count": 4,
     "examCount": 1,
@@ -81186,17 +79081,6 @@
     ]
   },
   {
-    "word": "kabullenmi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "kaiser",
     "count": 4,
     "examCount": 1,
@@ -81205,83 +79089,6 @@
       "2016-ilkbahar-q52",
       "2016-ilkbahar-q53",
       "2016-ilkbahar-q54"
-    ]
-  },
-  {
-    "word": "kalar",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kalemt",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kalk",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kan",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "karman",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "karsa",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kat",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -81318,28 +79125,6 @@
     ]
   },
   {
-    "word": "kendi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ketim",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "kis",
     "count": 4,
     "examCount": 1,
@@ -81351,176 +79136,11 @@
     ]
   },
   {
-    "word": "klar",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kma",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kodlay",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "koparmay",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kta",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ktad",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ktan",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kulakl",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kullan",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kullanabilirsiniz",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kur",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kurulunca",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kutucu",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "lad",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "landfill",
     "count": 4,
     "examCount": 1,
     "questionIds": [
       "2021-2-q33"
-    ]
-  },
-  {
-    "word": "lardan",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -81568,17 +79188,6 @@
     ]
   },
   {
-    "word": "lem",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "levenson",
     "count": 4,
     "examCount": 1,
@@ -81590,17 +79199,6 @@
     ]
   },
   {
-    "word": "lfeti",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "lighten",
     "count": 4,
     "examCount": 1,
@@ -81609,17 +79207,6 @@
       "2015-ilkbahar-q48",
       "2015-ilkbahar-q49",
       "2015-ilkbahar-q50"
-    ]
-  },
-  {
-    "word": "linde",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -81642,39 +79229,6 @@
       "2013-sonbahar-q52",
       "2013-sonbahar-q53",
       "2013-sonbahar-q54"
-    ]
-  },
-  {
-    "word": "lmad",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "lmadan",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "lmeyecek",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -81742,45 +79296,12 @@
     ]
   },
   {
-    "word": "malar",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "mali",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "malnourish",
     "count": 4,
     "examCount": 2,
     "questionIds": [
       "2017-sonbahar-q69",
       "2021-1-q75"
-    ]
-  },
-  {
-    "word": "mamlarsan",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -81938,17 +79459,6 @@
     ]
   },
   {
-    "word": "merkezimizin",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "meticulou",
     "count": 4,
     "examCount": 1,
@@ -82089,28 +79599,6 @@
       "2019-3-q44",
       "2019-3-q45",
       "2019-3-q46"
-    ]
-  },
-  {
-    "word": "mlanma",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "mlar",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -82273,17 +79761,6 @@
     ]
   },
   {
-    "word": "navdan",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "navigator",
     "count": 4,
     "examCount": 1,
@@ -82295,28 +79772,6 @@
     ]
   },
   {
-    "word": "navl",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "navlara",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "navy",
     "count": 4,
     "examCount": 1,
@@ -82325,17 +79780,6 @@
       "2017-ilkbahar-q44",
       "2017-ilkbahar-q45",
       "2017-ilkbahar-q46"
-    ]
-  },
-  {
-    "word": "ndaki",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -82425,17 +79869,6 @@
     ]
   },
   {
-    "word": "nmayacakt",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "noon",
     "count": 4,
     "examCount": 1,
@@ -82466,17 +79899,6 @@
       "2016-ilkbahar-q37",
       "2016-ilkbahar-q71",
       "2018-ilkbahar-q70"
-    ]
-  },
-  {
-    "word": "ntemleriyle",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -82538,28 +79960,6 @@
       "2018-3-q52",
       "2018-3-q53",
       "2018-3-q54"
-    ]
-  },
-  {
-    "word": "olma",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "olmadan",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -82823,17 +80223,6 @@
       "2017-sonbahar-q52",
       "2017-sonbahar-q53",
       "2017-sonbahar-q54"
-    ]
-  },
-  {
-    "word": "pergel",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -83204,17 +80593,6 @@
     ]
   },
   {
-    "word": "raporlar",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "rating",
     "count": 4,
     "examCount": 1,
@@ -83342,28 +80720,6 @@
       "2018-ilkbahar-q44",
       "2018-ilkbahar-q45",
       "2018-ilkbahar-q46"
-    ]
-  },
-  {
-    "word": "reler",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "relere",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -83499,17 +80855,6 @@
     ]
   },
   {
-    "word": "resince",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "revenue",
     "count": 4,
     "examCount": 1,
@@ -83540,39 +80885,6 @@
       "2021-2-q44",
       "2021-2-q45",
       "2021-2-q46"
-    ]
-  },
-  {
-    "word": "revlilere",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "revlileri",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "revlilerle",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -83642,34 +80954,12 @@
     ]
   },
   {
-    "word": "runda",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "runner",
     "count": 4,
     "examCount": 2,
     "questionIds": [
       "2014-sonbahar-q76",
       "2021-1-q78"
-    ]
-  },
-  {
-    "word": "saat",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -83706,28 +80996,6 @@
     ]
   },
   {
-    "word": "sakl",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "sal",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "salience",
     "count": 4,
     "examCount": 1,
@@ -83736,39 +81004,6 @@
       "2021-1-q60",
       "2021-1-q61",
       "2021-1-q62"
-    ]
-  },
-  {
-    "word": "salonda",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "salondaki",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "salonu",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -83802,17 +81037,6 @@
       "2014-sonbahar-q44",
       "2014-sonbahar-q45",
       "2014-sonbahar-q46"
-    ]
-  },
-  {
-    "word": "sayabilir",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -83868,17 +81092,6 @@
       "2015-ilkbahar-q60",
       "2015-ilkbahar-q61",
       "2015-ilkbahar-q62"
-    ]
-  },
-  {
-    "word": "sebeple",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -83944,17 +81157,6 @@
       "2019-3-q56",
       "2019-3-q57",
       "2019-3-q58"
-    ]
-  },
-  {
-    "word": "sesle",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -84084,28 +81286,6 @@
     ]
   },
   {
-    "word": "silah",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "sinavda",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "sinus",
     "count": 4,
     "examCount": 1,
@@ -84205,17 +81385,6 @@
     ]
   },
   {
-    "word": "sonunda",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "sooner",
     "count": 4,
     "examCount": 3,
@@ -84224,61 +81393,6 @@
       "2016-sonbahar-q73",
       "2018-ilkbahar-q15",
       "2018-ilkbahar-q78"
-    ]
-  },
-  {
-    "word": "sormak",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "sorulara",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "sorumludur",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "sorumlulu",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "sorumluluk",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -84386,17 +81500,6 @@
       "2015-ilkbahar-q52",
       "2015-ilkbahar-q53",
       "2015-ilkbahar-q54"
-    ]
-  },
-  {
-    "word": "sterirse",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -84606,39 +81709,6 @@
     ]
   },
   {
-    "word": "takdirde",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "talon",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "tamam",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "tape",
     "count": 4,
     "examCount": 1,
@@ -84658,39 +81728,6 @@
       "2014-sonbahar-q79",
       "2020-1-q75",
       "2021-1-q10"
-    ]
-  },
-  {
-    "word": "tekrar",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "telefonu",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "telsiz",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -84738,17 +81775,6 @@
     ]
   },
   {
-    "word": "terk",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "terrain",
     "count": 4,
     "examCount": 1,
@@ -84768,17 +81794,6 @@
       "2018-3-q48",
       "2018-3-q49",
       "2018-3-q50"
-    ]
-  },
-  {
-    "word": "tespit",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -84886,25 +81901,14 @@
     ]
   },
   {
-    "word": "tirilmesi",
+    "word": "tir",
     "count": 4,
-    "examCount": 4,
+    "examCount": 2,
     "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "tlar",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
+      "2015-ilkbahar-q51",
+      "2015-ilkbahar-q53",
+      "2019-1-q27",
+      "2019-1-q79"
     ]
   },
   {
@@ -84924,28 +81928,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-1-q79"
-    ]
-  },
-  {
-    "word": "toplam",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "toplanacak",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -84999,39 +81981,6 @@
       "2019-3-q48",
       "2019-3-q49",
       "2019-3-q50"
-    ]
-  },
-  {
-    "word": "tutman",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "uava",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ullan",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -85229,28 +82178,6 @@
     ]
   },
   {
-    "word": "unu",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "unutmay",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "upgrad",
     "count": 4,
     "examCount": 1,
@@ -85281,61 +82208,6 @@
       "2016-ilkbahar-q67",
       "2016-sonbahar-q16",
       "2016-sonbahar-q62"
-    ]
-  },
-  {
-    "word": "uygun",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "uymad",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "uymak",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "uyman",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "uyula",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -85391,50 +82263,6 @@
     ]
   },
   {
-    "word": "verdi",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "verdikleri",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "veren",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "verilmeyecekti",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "vetro",
     "count": 4,
     "examCount": 1,
@@ -85479,17 +82307,6 @@
     ]
   },
   {
-    "word": "vlar",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "vocabulary",
     "count": 4,
     "examCount": 4,
@@ -85520,39 +82337,6 @@
       "2015-ilkbahar-q73",
       "2017-sonbahar-q50",
       "2019-3-q06"
-    ]
-  },
-  {
-    "word": "vran",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "vurunuz",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "vurusu",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -85705,171 +82489,6 @@
       "2019-1-q56",
       "2019-1-q57",
       "2019-1-q58"
-    ]
-  },
-  {
-    "word": "yanl",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yard",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yarinden",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yasaklanabilecektir",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yer",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yerleri",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yiyecek",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yla",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yolla",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "ysa",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "zelli",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "zen",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "zenlenen",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "zerinde",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "zor",
-    "count": 4,
-    "examCount": 4,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -86038,16 +82657,6 @@
     ]
   },
   {
-    "word": "aretle",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "aside",
     "count": 3,
     "examCount": 3,
@@ -86193,26 +82802,6 @@
     ]
   },
   {
-    "word": "belgenizi",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "benzeri",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "bitter",
     "count": 3,
     "examCount": 2,
@@ -86295,16 +82884,6 @@
     "questionIds": [
       "2015-ilkbahar-q07",
       "2019-1-q69"
-    ]
-  },
-  {
-    "word": "cetveli",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -86939,26 +83518,6 @@
     ]
   },
   {
-    "word": "enmesi",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
-    "word": "erisinde",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "evaluat",
     "count": 3,
     "examCount": 3,
@@ -87156,26 +83715,6 @@
     ]
   },
   {
-    "word": "getirebilecektir",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
-    "word": "getirilemez",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "grade",
     "count": 3,
     "examCount": 3,
@@ -87243,16 +83782,6 @@
     "questionIds": [
       "2019-3-q05",
       "2021-2-q65"
-    ]
-  },
-  {
-    "word": "ilgili",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -87448,41 +83977,11 @@
     ]
   },
   {
-    "word": "kam",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "kim",
     "count": 3,
     "examCount": 1,
     "questionIds": [
       "2019-3-q66"
-    ]
-  },
-  {
-    "word": "kol",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
-    "word": "kurallay",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -87505,16 +84004,6 @@
     ]
   },
   {
-    "word": "lerine",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "lesser",
     "count": 3,
     "examCount": 3,
@@ -87522,16 +84011,6 @@
       "2017-sonbahar-q72",
       "2019-1-q75",
       "2021-2-q54"
-    ]
-  },
-  {
-    "word": "levi",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -87581,16 +84060,6 @@
     ]
   },
   {
-    "word": "malzemeleri",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "manageable",
     "count": 3,
     "examCount": 1,
@@ -87604,16 +84073,6 @@
     "examCount": 1,
     "questionIds": [
       "2020-1-q63"
-    ]
-  },
-  {
-    "word": "mas",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -87643,16 +84102,6 @@
     "questionIds": [
       "2018-3-q73",
       "2019-3-q79"
-    ]
-  },
-  {
-    "word": "mera",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -87738,26 +84187,6 @@
     ]
   },
   {
-    "word": "mutlaka",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
-    "word": "nacakt",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "narrative",
     "count": 3,
     "examCount": 3,
@@ -87765,16 +84194,6 @@
       "2018-ilkbahar-q12",
       "2018-sonbahar-q79",
       "2020-1-q73"
-    ]
-  },
-  {
-    "word": "navlar",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -87861,26 +84280,6 @@
       "2015-ilkbahar-q10",
       "2015-ilkbahar-q67",
       "2018-sonbahar-q64"
-    ]
-  },
-  {
-    "word": "olam",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
-    "word": "olmamaktad",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -88343,16 +84742,6 @@
     ]
   },
   {
-    "word": "saati",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "salad",
     "count": 3,
     "examCount": 3,
@@ -88360,16 +84749,6 @@
       "2013-sonbahar-q80",
       "2019-2-q36",
       "2021-1-q33"
-    ]
-  },
-  {
-    "word": "salonlar",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -88397,16 +84776,6 @@
     "questionIds": [
       "2018-ilkbahar-q35",
       "2018-ilkbahar-q63"
-    ]
-  },
-  {
-    "word": "sayar",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -88481,6 +84850,14 @@
     "examCount": 1,
     "questionIds": [
       "2019-3-q75"
+    ]
+  },
+  {
+    "word": "son",
+    "count": 3,
+    "examCount": 1,
+    "questionIds": [
+      "2016-ilkbahar-q74"
     ]
   },
   {
@@ -88944,36 +85321,6 @@
     ]
   },
   {
-    "word": "ylendi",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "zaman",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "zce",
-    "count": 3,
-    "examCount": 3,
-    "questionIds": [
-      "2013-sonbahar-q03",
-      "2014-ilkbahar-q03",
-      "2014-sonbahar-q03"
-    ]
-  },
-  {
     "word": "abdominal",
     "count": 2,
     "examCount": 2,
@@ -89106,12 +85453,11 @@
     ]
   },
   {
-    "word": "ala",
+    "word": "alan",
     "count": 2,
-    "examCount": 2,
+    "examCount": 1,
     "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
+      "2020-1-q66"
     ]
   },
   {
@@ -89222,15 +85568,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-1-q64"
-    ]
-  },
-  {
-    "word": "anlar",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -89375,15 +85712,6 @@
     ]
   },
   {
-    "word": "ayg",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "backpack",
     "count": 2,
     "examCount": 1,
@@ -89499,15 +85827,6 @@
     "examCount": 1,
     "questionIds": [
       "2016-sonbahar-q66"
-    ]
-  },
-  {
-    "word": "bilgi",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80"
     ]
   },
   {
@@ -89655,24 +85974,6 @@
     "questionIds": [
       "2019-2-q39",
       "2021-2-q73"
-    ]
-  },
-  {
-    "word": "bulu",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
-    "word": "bulua",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -91049,24 +87350,6 @@
     ]
   },
   {
-    "word": "elektron",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "elektronik",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "elimination",
     "count": 2,
     "examCount": 2,
@@ -91854,15 +88137,6 @@
     ]
   },
   {
-    "word": "hata",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "hawk",
     "count": 2,
     "examCount": 2,
@@ -92487,14 +88761,6 @@
     ]
   },
   {
-    "word": "kart",
-    "count": 2,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "kate",
     "count": 2,
     "examCount": 1,
@@ -92559,6 +88825,14 @@
     "questionIds": [
       "2015-ilkbahar-q06",
       "2019-2-q67"
+    ]
+  },
+  {
+    "word": "lara",
+    "count": 2,
+    "examCount": 1,
+    "questionIds": [
+      "2019-3-q64"
     ]
   },
   {
@@ -93132,15 +89406,6 @@
     "questionIds": [
       "2021-1-q31",
       "2021-2-q37"
-    ]
-  },
-  {
-    "word": "nan",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -94215,15 +90480,6 @@
     ]
   },
   {
-    "word": "revlin",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "rewrit",
     "count": 2,
     "examCount": 2,
@@ -94265,15 +90521,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-2-q80"
-    ]
-  },
-  {
-    "word": "rla",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2014-sonbahar-q80",
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -94637,14 +90884,6 @@
     "examCount": 1,
     "questionIds": [
       "2016-ilkbahar-q65"
-    ]
-  },
-  {
-    "word": "sinav",
-    "count": 2,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -95024,15 +91263,6 @@
     "questionIds": [
       "2019-2-q74",
       "2021-2-q66"
-    ]
-  },
-  {
-    "word": "svednik",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2013-sonbahar-q80",
-      "2014-ilkbahar-q80"
     ]
   },
   {
@@ -95445,15 +91675,6 @@
     "questionIds": [
       "2016-sonbahar-q78",
       "2018-ilkbahar-q58"
-    ]
-  },
-  {
-    "word": "unmad",
-    "count": 2,
-    "examCount": 2,
-    "questionIds": [
-      "2014-ilkbahar-q80",
-      "2014-sonbahar-q80"
     ]
   },
   {
@@ -96104,22 +92325,6 @@
     ]
   },
   {
-    "word": "akt",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "alanl",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2013-sonbahar-q80"
-    ]
-  },
-  {
     "word": "alchemist",
     "count": 1,
     "examCount": 1,
@@ -96149,14 +92354,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-2-q11"
-    ]
-  },
-  {
-    "word": "alet",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -96232,14 +92429,6 @@
     ]
   },
   {
-    "word": "alon",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2013-sonbahar-q80"
-    ]
-  },
-  {
     "word": "alphabetic",
     "count": 1,
     "examCount": 1,
@@ -96285,14 +92474,6 @@
     "examCount": 1,
     "questionIds": [
       "2018-sonbahar-q48"
-    ]
-  },
-  {
-    "word": "alyan",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -96376,22 +92557,6 @@
     ]
   },
   {
-    "word": "anahtar",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "anahtarl",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "analogue",
     "count": 1,
     "examCount": 1,
@@ -96405,14 +92570,6 @@
     "examCount": 1,
     "questionIds": [
       "2019-1-q14"
-    ]
-  },
-  {
-    "word": "ancak",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -96704,14 +92861,6 @@
     ]
   },
   {
-    "word": "aretlen",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "argo",
     "count": 1,
     "examCount": 1,
@@ -96976,14 +93125,6 @@
     ]
   },
   {
-    "word": "avlar",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "avoidable",
     "count": 1,
     "examCount": 1,
@@ -97136,14 +93277,6 @@
     ]
   },
   {
-    "word": "banka",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "barbado",
     "count": 1,
     "examCount": 1,
@@ -97176,19 +93309,19 @@
     ]
   },
   {
+    "word": "bas",
+    "count": 1,
+    "examCount": 1,
+    "questionIds": [
+      "2014-ilkbahar-q57"
+    ]
+  },
+  {
     "word": "basement",
     "count": 1,
     "examCount": 1,
     "questionIds": [
       "2017-ilkbahar-q65"
-    ]
-  },
-  {
-    "word": "basit",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -97216,35 +93349,11 @@
     ]
   },
   {
-    "word": "belgelerinde",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "believer",
     "count": 1,
     "examCount": 1,
     "questionIds": [
       "2016-ilkbahar-q44"
-    ]
-  },
-  {
-    "word": "belirlenen",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "belirtilen",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -97296,22 +93405,6 @@
     ]
   },
   {
-    "word": "bilezik",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bilgibulunan",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "bilingualism",
     "count": 1,
     "examCount": 1,
@@ -97325,14 +93418,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-2-q78"
-    ]
-  },
-  {
-    "word": "binagiri",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -97445,14 +93530,6 @@
     "examCount": 1,
     "questionIds": [
       "2018-ilkbahar-q78"
-    ]
-  },
-  {
-    "word": "bluetooth",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -97664,22 +93741,6 @@
     ]
   },
   {
-    "word": "bulunma",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "bulunmad",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2013-sonbahar-q80"
-    ]
-  },
-  {
     "word": "bureaucratic",
     "count": 1,
     "examCount": 1,
@@ -97773,14 +93834,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-2-q73"
-    ]
-  },
-  {
-    "word": "camdan",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -98117,22 +94170,6 @@
     "examCount": 1,
     "questionIds": [
       "2018-sonbahar-q29"
-    ]
-  },
-  {
-    "word": "cihazla",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "cihazlar",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -99424,14 +95461,6 @@
     ]
   },
   {
-    "word": "delici",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "demise",
     "count": 1,
     "examCount": 1,
@@ -99493,22 +95522,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-2-q77"
-    ]
-  },
-  {
-    "word": "der",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "dergi",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -100488,14 +96501,6 @@
     ]
   },
   {
-    "word": "endirilecektir",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "endors",
     "count": 1,
     "examCount": 1,
@@ -100517,22 +96522,6 @@
     "examCount": 1,
     "questionIds": [
       "2018-3-q04"
-    ]
-  },
-  {
-    "word": "engell",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "engelli",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -100573,14 +96562,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-2-q43"
-    ]
-  },
-  {
-    "word": "entegre",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -100693,38 +96674,6 @@
     "examCount": 1,
     "questionIds": [
       "2020-1-q22"
-    ]
-  },
-  {
-    "word": "erer",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "erikli",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "erisindeki",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "erle",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -100909,14 +96858,6 @@
     "examCount": 1,
     "questionIds": [
       "2019-2-q29"
-    ]
-  },
-  {
-    "word": "evrak",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -101736,22 +97677,6 @@
     ]
   },
   {
-    "word": "gazete",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "gelmeleri",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "generator",
     "count": 1,
     "examCount": 1,
@@ -101808,14 +97733,6 @@
     ]
   },
   {
-    "word": "gere",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "germ",
     "count": 1,
     "examCount": 1,
@@ -101845,14 +97762,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-2-q77"
-    ]
-  },
-  {
-    "word": "girecek",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -102229,22 +98138,6 @@
     "examCount": 1,
     "questionIds": [
       "2017-sonbahar-q55"
-    ]
-  },
-  {
-    "word": "hat",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2014-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "hatal",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2013-sonbahar-q80"
     ]
   },
   {
@@ -102824,14 +98717,6 @@
     ]
   },
   {
-    "word": "ibaresiyle",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "iberia",
     "count": 1,
     "examCount": 1,
@@ -102893,14 +98778,6 @@
     "examCount": 1,
     "questionIds": [
       "2016-sonbahar-q53"
-    ]
-  },
-  {
-    "word": "ileti",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -103125,14 +99002,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-2-q69"
-    ]
-  },
-  {
-    "word": "ince",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -103736,14 +99605,6 @@
     ]
   },
   {
-    "word": "ise",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "isolation",
     "count": 1,
     "examCount": 1,
@@ -103856,27 +99717,11 @@
     ]
   },
   {
-    "word": "kablosuz",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "kamakura",
     "count": 1,
     "examCount": 1,
     "questionIds": [
       "2016-ilkbahar-q78"
-    ]
-  },
-  {
-    "word": "kanl",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -103888,35 +99733,11 @@
     ]
   },
   {
-    "word": "kapsam",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kartlarla",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "keith",
     "count": 1,
     "examCount": 1,
     "questionIds": [
       "2017-ilkbahar-q78"
-    ]
-  },
-  {
-    "word": "kemer",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -103941,14 +99762,6 @@
     "examCount": 1,
     "questionIds": [
       "2016-ilkbahar-q31"
-    ]
-  },
-  {
-    "word": "kesici",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -104016,35 +99829,11 @@
     ]
   },
   {
-    "word": "kolye",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "kredi",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "kuwait",
     "count": 1,
     "examCount": 1,
     "questionIds": [
       "2018-3-q30"
-    ]
-  },
-  {
-    "word": "lami",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -104101,14 +99890,6 @@
     "examCount": 1,
     "questionIds": [
       "2019-1-q77"
-    ]
-  },
-  {
-    "word": "layan",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -104181,14 +99962,6 @@
     "examCount": 1,
     "questionIds": [
       "2016-sonbahar-q15"
-    ]
-  },
-  {
-    "word": "ler",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -104520,14 +100293,6 @@
     ]
   },
   {
-    "word": "maddeleri",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "madrid",
     "count": 1,
     "examCount": 1,
@@ -104808,14 +100573,6 @@
     ]
   },
   {
-    "word": "mekanik",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "membership",
     "count": 1,
     "examCount": 1,
@@ -104877,14 +100634,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-2-q65"
-    ]
-  },
-  {
-    "word": "merkezi",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -105336,14 +101085,6 @@
     ]
   },
   {
-    "word": "mutlak",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "mutually",
     "count": 1,
     "examCount": 1,
@@ -105488,14 +101229,6 @@
     ]
   },
   {
-    "word": "nesi",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "neurally",
     "count": 1,
     "examCount": 1,
@@ -105589,22 +101322,6 @@
     "examCount": 1,
     "questionIds": [
       "2020-1-q72"
-    ]
-  },
-  {
-    "word": "nlar",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "nmesi",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -105704,14 +101421,6 @@
     ]
   },
   {
-    "word": "notu",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "nourish",
     "count": 1,
     "examCount": 1,
@@ -105757,14 +101466,6 @@
     "examCount": 1,
     "questionIds": [
       "2021-1-q66"
-    ]
-  },
-  {
-    "word": "numaral",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -105957,14 +101658,6 @@
     "examCount": 1,
     "questionIds": [
       "2018-ilkbahar-q79"
-    ]
-  },
-  {
-    "word": "olmabu",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -106381,14 +102074,6 @@
     "examCount": 1,
     "questionIds": [
       "2014-sonbahar-q80"
-    ]
-  },
-  {
-    "word": "para",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -106901,14 +102586,6 @@
     "examCount": 1,
     "questionIds": [
       "2017-ilkbahar-q31"
-    ]
-  },
-  {
-    "word": "plastik",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -108480,22 +104157,6 @@
     ]
   },
   {
-    "word": "revliibaresiyle",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "revlilerinin",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "revolt",
     "count": 1,
     "examCount": 1,
@@ -108688,14 +104349,6 @@
     ]
   },
   {
-    "word": "saate",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "sabotage",
     "count": 1,
     "examCount": 1,
@@ -108749,14 +104402,6 @@
     "examCount": 1,
     "questionIds": [
       "2014-ilkbahar-q06"
-    ]
-  },
-  {
-    "word": "salonunda",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -109557,14 +105202,6 @@
     "examCount": 1,
     "questionIds": [
       "2019-3-q64"
-    ]
-  },
-  {
-    "word": "sona",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -110552,14 +106189,6 @@
     ]
   },
   {
-    "word": "tal",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2014-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "tanzimat",
     "count": 1,
     "examCount": 1,
@@ -110904,14 +106533,6 @@
     ]
   },
   {
-    "word": "tokal",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "tolerable",
     "count": 1,
     "examCount": 1,
@@ -111120,14 +106741,6 @@
     ]
   },
   {
-    "word": "tutakt",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2014-sonbahar-q80"
-    ]
-  },
-  {
     "word": "typu",
     "count": 1,
     "examCount": 1,
@@ -111157,14 +106770,6 @@
     "examCount": 1,
     "questionIds": [
       "2019-3-q74"
-    ]
-  },
-  {
-    "word": "ula",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -112352,35 +107957,11 @@
     ]
   },
   {
-    "word": "yalar",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "yang",
     "count": 1,
     "examCount": 1,
     "questionIds": [
       "2019-3-q03"
-    ]
-  },
-  {
-    "word": "yasaklar",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yedek",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
@@ -112408,35 +107989,11 @@
     ]
   },
   {
-    "word": "yor",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
     "word": "youngster",
     "count": 1,
     "examCount": 1,
     "questionIds": [
       "2014-sonbahar-q77"
-    ]
-  },
-  {
-    "word": "ysym",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
-    ]
-  },
-  {
-    "word": "yukar",
-    "count": 1,
-    "examCount": 1,
-    "questionIds": [
-      "2015-ilkbahar-q80"
     ]
   },
   {
